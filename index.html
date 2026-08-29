@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estudio H3 — Monitor de Generación en Vivo</title>
+  <meta name="description" content="Tablero de control y avance en tiempo real para el pipeline de generación de video con IA - Estudio H3">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #07090e;
+      --bg-card: rgba(16, 22, 36, 0.7);
+      --bg-card-hover: rgba(23, 31, 51, 0.85);
+      --border-card: rgba(255, 255, 255, 0.08);
+      --border-card-glow: rgba(56, 189, 248, 0.3);
+      --accent-cyan: #00f2fe;
+      --accent-blue: #4facfe;
+      --accent-purple: #9d4edd;
+      --accent-emerald: #10b981;
+      --accent-amber: #f59e0b;
+      --accent-rose: #f43f5e;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --font-sans: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      background-image: 
+        radial-gradient(circle at 15% 15%, rgba(157, 78, 221, 0.12) 0%, transparent 40%),
+        radial-gradient(circle at 85% 20%, rgba(0, 242, 254, 0.1) 0%, transparent 40%),
+        radial-gradient(circle at 50% 80%, rgba(79, 172, 254, 0.08) 0%, transparent 50%);
+      background-attachment: fixed;
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      min-height: 100vh;
+      padding: 24px 16px 48px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    /* HEADER */
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 28px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border-card);
+    }
+
+    .logo-area {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .logo-icon {
+      width: 44px;
+      height: 44px;
+      background: linear-gradient(135deg, var(--accent-purple), var(--accent-cyan));
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      box-shadow: 0 4px 20px rgba(0, 242, 254, 0.25);
+    }
+
+    .logo-title h1 {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(90deg, #ffffff, #cbd5e1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .logo-title p {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-weight: 400;
+    }
+
+    .header-status {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--bg-card);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border-card);
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .pulse-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: var(--accent-emerald);
+      box-shadow: 0 0 10px var(--accent-emerald);
+      animation: pulse 2s infinite;
+    }
+
+    .pulse-dot.working {
+      background-color: var(--accent-cyan);
+      box-shadow: 0 0 12px var(--accent-cyan);
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(0.95); opacity: 0.8; }
+      50% { transform: scale(1.2); opacity: 1; }
+      100% { transform: scale(0.95); opacity: 0.8; }
+    }
+
+    /* HERO ACTIVE CARD */
+    .hero-card {
+      background: linear-gradient(145deg, rgba(26, 35, 58, 0.85), rgba(13, 18, 30, 0.95));
+      backdrop-filter: blur(16px);
+      border: 1px solid rgba(0, 242, 254, 0.3);
+      border-radius: 20px;
+      padding: 24px 28px;
+      margin-bottom: 28px;
+      box-shadow: 0 12px 40px -10px rgba(0, 242, 254, 0.15);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-purple), var(--accent-cyan), var(--accent-blue));
+    }
+
+    .hero-top {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .badge-active {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(0, 242, 254, 0.15);
+      border: 1px solid rgba(0, 242, 254, 0.4);
+      color: var(--accent-cyan);
+      font-weight: 700;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 4px 12px;
+      border-radius: 999px;
+    }
+
+    .hero-title-group h2 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .hero-title-group .time-meta {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      margin-top: 2px;
+    }
+
+    .hero-progress-block {
+      margin-top: 16px;
+    }
+
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      margin-bottom: 8px;
+      color: var(--text-muted);
+    }
+
+    .progress-header strong {
+      color: var(--text-main);
+      font-family: var(--font-mono);
+    }
+
+    .progress-bar-bg {
+      background: rgba(255, 255, 255, 0.07);
+      border-radius: 999px;
+      height: 12px;
+      overflow: hidden;
+      position: relative;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #4facfe, #00f2fe);
+      border-radius: 999px;
+      transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+    }
+
+    .progress-bar-fill::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+      animation: shimmer 2s infinite;
+    }
+
+    @keyframes shimmer {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+
+    /* SUB-CLIP DIFFUSION STEPS */
+    .clip-steps-container {
+      background: rgba(11, 16, 28, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 12px;
+      padding: 14px 18px;
+      margin-top: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .step-info {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .step-badge {
+      background: rgba(157, 78, 221, 0.2);
+      border: 1px solid rgba(157, 78, 221, 0.5);
+      color: #d8b4fe;
+      font-family: var(--font-mono);
+      font-weight: 700;
+      font-size: 12px;
+      padding: 3px 10px;
+      border-radius: 6px;
+    }
+
+    .step-text {
+      font-size: 14px;
+      font-weight: 500;
+      color: #e2e8f0;
+    }
+
+    .step-time {
+      font-size: 12px;
+      color: var(--text-dim);
+      font-family: var(--font-mono);
+    }
+
+    .step-dots {
+      display: flex;
+      gap: 6px;
+    }
+
+    .step-pip {
+      width: 24px;
+      height: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 3px;
+      transition: all 0.3s;
+    }
+
+    .step-pip.completed {
+      background: var(--accent-cyan);
+      box-shadow: 0 0 6px rgba(0, 242, 254, 0.5);
+    }
+
+    .step-pip.active {
+      background: var(--accent-purple);
+      box-shadow: 0 0 8px rgba(157, 78, 221, 0.8);
+      animation: pulse-pip 1.5s infinite;
+    }
+
+    @keyframes pulse-pip {
+      0%, 100% { opacity: 0.7; }
+      50% { opacity: 1; }
+    }
+
+    /* STATS GRID */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    .stat-card {
+      background: var(--bg-card);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border-card);
+      border-radius: 16px;
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .stat-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .stat-value {
+      font-size: 24px;
+      font-weight: 700;
+      font-family: var(--font-mono);
+      color: #fff;
+    }
+
+    .stat-sub {
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+
+    /* QUEUE CONTROLS & LIST */
+    .queue-section {
+      background: var(--bg-card);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--border-card);
+      border-radius: 20px;
+      padding: 24px;
+    }
+
+    .queue-header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .queue-title h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .filter-tabs {
+      display: flex;
+      gap: 6px;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 4px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .tab-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 500;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tab-btn.active {
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .search-input {
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid var(--border-card);
+      color: #fff;
+      font-family: var(--font-sans);
+      font-size: 13px;
+      padding: 8px 14px;
+      border-radius: 8px;
+      width: 200px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-cyan);
+    }
+
+    /* QUEUE ITEMS */
+    .queue-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-height: 580px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .queue-list::-webkit-scrollbar {
+      width: 6px;
+    }
+    .queue-list::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 3px;
+    }
+    .queue-list::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 3px;
+    }
+
+    .job-card {
+      background: rgba(18, 24, 40, 0.6);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 36px 110px 1fr 140px 170px;
+      align-items: center;
+      gap: 14px;
+      transition: all 0.2s;
+    }
+
+    .job-card:hover {
+      background: var(--bg-card-hover);
+      border-color: rgba(255, 255, 255, 0.15);
+      transform: translateX(2px);
+    }
+
+    .job-card.is-active {
+      border-color: rgba(0, 242, 254, 0.4);
+      background: rgba(0, 242, 254, 0.05);
+    }
+
+    .job-num {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--text-dim);
+      font-weight: 600;
+    }
+
+    .badge-status {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 4px 8px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      text-align: center;
+      width: fit-content;
+    }
+
+    .badge-hecho {
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .badge-corriendo {
+      background: rgba(0, 242, 254, 0.15);
+      color: var(--accent-cyan);
+      border: 1px solid rgba(0, 242, 254, 0.4);
+    }
+
+    .badge-reintento {
+      background: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+    }
+
+    .badge-espera {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-muted);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .badge-fallo {
+      background: rgba(244, 63, 94, 0.15);
+      color: #fb7185;
+      border: 1px solid rgba(244, 63, 94, 0.3);
+    }
+
+    .job-name {
+      font-weight: 600;
+      font-size: 14px;
+      color: #f1f5f9;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .job-progress-col {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .job-progress-text {
+      font-size: 11px;
+      font-family: var(--font-mono);
+      color: var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .job-progress-bar {
+      height: 6px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .job-progress-fill {
+      height: 100%;
+      border-radius: 999px;
+      background: var(--accent-cyan);
+    }
+
+    .job-eta {
+      font-size: 12px;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+      text-align: right;
+    }
+
+    .job-eta.active-eta {
+      color: var(--accent-cyan);
+      font-weight: 600;
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: 32px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 860px) {
+      .job-card {
+        grid-template-columns: 28px 1fr;
+        gap: 8px;
+        padding: 12px;
+      }
+      .job-progress-col, .job-eta {
+        grid-column: span 2;
+      }
+      .job-eta {
+        text-align: left;
+      }
+      .header-status {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- HEADER -->
+    <header>
+      <div class="logo-area">
+        <div class="logo-icon">🎬</div>
+        <div class="logo-title">
+          <h1>ESTUDIO H3 — TABLERO DE GENERACIÓN</h1>
+          <p>Pipeline de Video Extender en Tiempo Real</p>
+        </div>
+      </div>
+      <div class="header-status">
+        <div class="pulse-dot working" id="status-dot"></div>
+        <span id="sync-status">Conectado • Sincronizando...</span>
+      </div>
+    </header>
+
+    <!-- HERO CARD: ACTIVE JOB -->
+    <section class="hero-card" id="hero-card">
+      <div class="hero-top">
+        <div class="hero-title-group">
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
+            <span class="badge-active">▶ EN PROCESO EN GPU</span>
+            <span class="time-meta" id="hero-started-at">Desde las --:--</span>
+          </div>
+          <h2 id="hero-job-name">Cargando trabajo actual...</h2>
+        </div>
+        <div class="job-eta active-eta" id="hero-eta" style="font-size: 15px;">
+          Resta: ~--h
+        </div>
+      </div>
+
+      <div class="hero-progress-block">
+        <div class="progress-header">
+          <span>Progreso de la Película</span>
+          <strong id="hero-progress-numbers">0 / 0 eslabones (0.0%)</strong>
+        </div>
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="hero-progress-fill" style="width: 0%;"></div>
+        </div>
+      </div>
+
+      <div class="clip-steps-container">
+        <div class="step-info">
+          <div class="step-badge" id="hero-clip-badge">CLIP #--</div>
+          <div>
+            <div class="step-text" id="hero-clip-step-text">Paso de difusión en curso...</div>
+            <div class="step-time" id="hero-clip-step-time">0m 00s transcurridos</div>
+          </div>
+        </div>
+        <div class="step-dots" id="hero-clip-pips">
+          <div class="step-pip"></div>
+          <div class="step-pip"></div>
+          <div class="step-pip"></div>
+          <div class="step-pip"></div>
+          <div class="step-pip"></div>
+          <div class="step-pip"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STATS GRID -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Eslabones Totales</div>
+        <div class="stat-value" id="stat-eslabones">-- / --</div>
+        <div class="stat-sub" id="stat-eslabones-sub">--% de la cola completado</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Horas GPU Hechas</div>
+        <div class="stat-value" id="stat-horas-hechas" style="color: #34d399;">-- h</div>
+        <div class="stat-sub">Generación acumulada</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Horas GPU Restantes</div>
+        <div class="stat-value" id="stat-horas-restantes" style="color: #fbbf24;">-- h</div>
+        <div class="stat-sub">Estimado a ~8m por clip</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Finalización Estimada</div>
+        <div class="stat-value" id="stat-finalizacion" style="font-size: 19px; color: var(--accent-cyan);">-- --/-- --:--</div>
+        <div class="stat-sub" id="stat-finalizacion-sub">Tiempo total de cola</div>
+      </div>
+    </div>
+
+    <!-- QUEUE SECTION -->
+    <section class="queue-section">
+      <div class="queue-header">
+        <div class="queue-title">
+          <h3>Cola de Películas (<span id="queue-count">0</span>)</h3>
+        </div>
+        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+          <input type="text" class="search-input" id="queue-search" placeholder="Buscar película...">
+          <div class="filter-tabs">
+            <button class="tab-btn active" data-filter="all">Todos</button>
+            <button class="tab-btn" data-filter="active">En curso</button>
+            <button class="tab-btn" data-filter="pending">Pendientes</button>
+            <button class="tab-btn" data-filter="done">Completadas</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="queue-list" id="queue-list-container">
+        <!-- Renderizado dinámico -->
+      </div>
+    </section>
+
+    <footer>
+      Estudio H3 • Monitor Web en Vivo • Actualización continua vía GitHub
+    </footer>
+  </div>
+
+  <script>
+    // Variables de estado
+    let rawData = null;
+    let currentFilter = 'all';
+    let currentSearch = '';
+
+    async function fetchData() {
+      try {
+        const res = await fetch('status.json?t=' + new Date().getTime());
+        if (res.ok) {
+          const data = await res.json();
+          rawData = data;
+          renderDashboard(data);
+          document.getElementById('sync-status').textContent = 'Sincronizado: ' + new Date().toLocaleTimeString();
+          document.getElementById('status-dot').className = 'pulse-dot ' + (data.corriendo ? 'working' : '');
+        }
+      } catch (err) {
+        console.warn("No se pudo cargar status.json, intentando fallback:", err);
+      }
+    }
+
+    function renderDashboard(data) {
+      if (!data) return;
+
+      // 1. HERO ACTIVE JOB
+      if (data.corriendo) {
+        document.getElementById('hero-job-name').textContent = data.corriendo.nombre;
+        document.getElementById('hero-started-at').textContent = 'Iniciado: ' + (data.corriendo.hora || '--:--');
+        
+        const actEsl = data.corriendo.eslabon_actual || 0;
+        const totEsl = data.corriendo.eslabon_total || 28;
+        const pct = totEsl > 0 ? (actEsl / totEsl * 100) : 0;
+        
+        document.getElementById('hero-progress-numbers').textContent = `${actEsl} / ${totEsl} eslabones (${pct.toFixed(1)}%)`;
+        document.getElementById('hero-progress-fill').style.width = Math.min(100, pct) + '%';
+        document.getElementById('hero-eta').textContent = 'Resta: ~' + (data.corriendo.horas_rest || 0).toFixed(1) + 'h';
+
+        // Clip 6-step progress
+        const clipInfo = data.corriendo.clip_info;
+        if (clipInfo) {
+          document.getElementById('hero-clip-badge').textContent = `CLIP #${clipInfo.num_esl || actEsl}`;
+          document.getElementById('hero-clip-step-text').textContent = clipInfo.paso_str || 'Generando difusión...';
+          const mins = Math.floor(clipInfo.elapsed / 60);
+          const secs = clipInfo.elapsed % 60;
+          document.getElementById('hero-clip-step-time').textContent = `${mins}m ${secs < 10 ? '0' : ''}${secs}s transcurridos (~7.7m total)`;
+
+          // Render 6 step pips
+          const pipsContainer = document.getElementById('hero-clip-pips');
+          pipsContainer.innerHTML = '';
+          for (let p = 1; p <= 6; p++) {
+            const pip = document.createElement('div');
+            if (p < clipInfo.paso_num) {
+              pip.className = 'step-pip completed';
+            } else if (p === clipInfo.paso_num) {
+              pip.className = 'step-pip active';
+            } else {
+              pip.className = 'step-pip';
+            }
+            pipsContainer.appendChild(pip);
+          }
+        }
+      } else {
+        document.getElementById('hero-job-name').textContent = 'Cola en espera';
+        document.getElementById('hero-started-at').textContent = 'Sin generación activa';
+        document.getElementById('hero-progress-numbers').textContent = '0 / 0';
+        document.getElementById('hero-progress-fill').style.width = '0%';
+        document.getElementById('hero-eta').textContent = '--';
+        document.getElementById('hero-clip-step-text').textContent = 'En reposo';
+      }
+
+      // 2. STATS
+      if (data.global) {
+        document.getElementById('stat-eslabones').textContent = `${data.global.eslabones_hechos} / ${data.global.eslabones_totales}`;
+        const pctGlobal = data.global.eslabones_totales > 0 ? (data.global.eslabones_hechos / data.global.eslabones_totales * 100).toFixed(1) : '0.0';
+        document.getElementById('stat-eslabones-sub').textContent = `${pctGlobal}% de la cola completado`;
+        document.getElementById('stat-horas-hechas').textContent = `${data.global.horas_hechas.toFixed(1)} h`;
+        document.getElementById('stat-horas-restantes').textContent = `${data.global.horas_restantes.toFixed(1)} h`;
+        document.getElementById('stat-finalizacion').textContent = data.global.fecha_fin_estimada || '--';
+        document.getElementById('stat-finalizacion-sub').textContent = `~${data.global.horas_restantes.toFixed(1)} horas de GPU`;
+      }
+
+      // 3. QUEUE LIST
+      renderQueueList(data.items || []);
+    }
+
+    function renderQueueList(items) {
+      const container = document.getElementById('queue-list-container');
+      container.innerHTML = '';
+
+      const filtered = items.filter(it => {
+        const matchesSearch = it.nombre.toLowerCase().includes(currentSearch.toLowerCase());
+        if (!matchesSearch) return false;
+
+        if (currentFilter === 'active') return it.es_activa;
+        if (currentFilter === 'done') return it.es_hecha;
+        if (currentFilter === 'pending') return !it.es_hecha && !it.es_activa;
+        return true;
+      });
+
+      document.getElementById('queue-count').textContent = items.length;
+
+      filtered.forEach((it, idx) => {
+        const card = document.createElement('div');
+        card.className = 'job-card' + (it.es_activa ? ' is-active' : '');
+
+        let badgeClass = 'badge-espera';
+        let badgeText = 'ESPERA';
+
+        if (it.es_hecha) {
+          badgeClass = 'badge-hecho';
+          badgeText = '✔ HECHO';
+        } else if (it.es_activa) {
+          badgeClass = 'badge-corriendo';
+          badgeText = '▶ ACTIVO';
+        } else if (it.es_reintento) {
+          badgeClass = 'badge-reintento';
+          badgeText = 'REINTENTO';
+        } else if (it.es_fallo) {
+          badgeClass = 'badge-fallo';
+          badgeText = 'FALLÓ';
+        }
+
+        const pct = it.n_esl > 0 ? (it.generados / it.n_esl * 100) : 0;
+
+        card.innerHTML = `
+          <div class="job-num">${it.num}</div>
+          <div class="badge-status ${badgeClass}">${badgeText}</div>
+          <div class="job-name" title="${it.nombre}">${it.nombre}</div>
+          <div class="job-progress-col">
+            <div class="job-progress-text">
+              <span>${it.generados}/${it.n_esl} esl</span>
+              <span>${pct.toFixed(0)}%</span>
+            </div>
+            <div class="job-progress-bar">
+              <div class="job-progress-fill" style="width: ${pct}%;"></div>
+            </div>
+          </div>
+          <div class="job-eta ${it.es_activa ? 'active-eta' : ''}">${it.eta_txt || '--'}</div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
+    // Eventos UI
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        if (rawData) renderQueueList(rawData.items || []);
+      });
+    });
+
+    document.getElementById('queue-search').addEventListener('input', (e) => {
+      currentSearch = e.target.value;
+      if (rawData) renderQueueList(rawData.items || []);
+    });
+
+    // Iniciar polling
+    fetchData();
+    setInterval(fetchData, 30000); // Consulta cada 30 segundos
+  </script>
+</body>
+</html>
