@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28 23:55:02",
+  "timestamp": "2026-08-28 23:55:29",
   "corriendo": {
     "nombre": "POLE_v3",
     "hora": "23:33",
@@ -9,18 +9,18 @@
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 29,
-      "elapsed": 335,
+      "elapsed": 362,
       "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 35s)",
+      "paso_str": "Paso 5/6 de difusión (6m 02s)",
       "pct": 0.8333333333333334
     }
   },
   "global": {
-    "eslabones_hechos": 197,
+    "eslabones_hechos": 185,
     "eslabones_totales": 1778,
-    "horas_hechas": 26.266666666666666,
-    "horas_restantes": 210.79999999999967,
-    "fecha_fin_estimada": "Dom 06/09 18:43"
+    "horas_hechas": 24.666666666666664,
+    "horas_restantes": 212.39999999999966,
+    "fecha_fin_estimada": "Dom 06/09 20:19"
   },
   "items": [
     {
@@ -111,12 +111,12 @@
       "num": 8,
       "nombre": "GANGBANG",
       "n_esl": 12,
-      "generados": 12,
+      "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Completado",
+      "eta_txt": "Falló (código 1)",
       "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
+      "es_hecha": false,
+      "es_fallo": true,
       "es_reintento": false
     },
     {
