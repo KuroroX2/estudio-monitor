@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 17:20:39",
+  "timestamp": "2026-08-29 17:20:46",
   "corriendo": {
     "nombre": "MASAJE",
     "hora": "13:07",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 28,
       "tot_esl": 28,
-      "elapsed": 676,
+      "elapsed": 683,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
