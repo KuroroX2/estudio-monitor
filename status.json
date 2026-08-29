@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 18:47:21",
+  "timestamp": "2026-08-29 18:47:56",
   "corriendo": {
     "nombre": "MENU_BJ_MESA",
     "hora": "17:47",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 28,
-      "elapsed": 437,
+      "elapsed": 471,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (7m 17s)",
+      "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
     }
   },
