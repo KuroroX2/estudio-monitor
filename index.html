@@ -456,7 +456,7 @@
       border-radius: 12px;
       padding: 14px 18px;
       display: grid;
-      grid-template-columns: 36px 110px 1fr 140px 170px;
+      grid-template-columns: 32px 105px minmax(200px, 1.4fr) minmax(140px, 1fr) minmax(140px, auto);
       align-items: center;
       gap: 14px;
       transition: all 0.2s;
@@ -492,6 +492,7 @@
       letter-spacing: 0.5px;
       text-align: center;
       width: fit-content;
+      white-space: nowrap;
     }
 
     .badge-hecho {
@@ -528,15 +529,15 @@
       font-weight: 600;
       font-size: 14px;
       color: #f1f5f9;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      word-break: break-word;
+      min-width: 0;
     }
 
     .job-progress-col {
       display: flex;
       flex-direction: column;
       gap: 4px;
+      min-width: 0;
     }
 
     .job-progress-text {
@@ -565,6 +566,7 @@
       font-family: var(--font-mono);
       color: var(--text-muted);
       text-align: right;
+      white-space: nowrap;
     }
 
     .job-eta.active-eta {
@@ -583,12 +585,21 @@
     /* RESPONSIVE */
     @media (max-width: 860px) {
       .job-card {
-        grid-template-columns: 28px 1fr;
-        gap: 8px;
-        padding: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+        padding: 14px;
       }
-      .job-progress-col, .job-eta {
-        grid-column: span 2;
+      .job-card-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .job-name {
+        font-size: 15px;
+        flex: 1;
       }
       .job-eta {
         text-align: left;
