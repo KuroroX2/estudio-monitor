@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28 21:08:02",
+  "timestamp": "2026-08-28 21:08:10",
   "corriendo": {
     "nombre": "FILA_mall_C4",
     "hora": "17:15",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 23,
       "tot_esl": 24,
-      "elapsed": 290,
+      "elapsed": 298,
       "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (4m 50s)",
+      "paso_str": "Paso 4/6 de difusión (4m 58s)",
       "pct": 0.6666666666666666
     }
   },
