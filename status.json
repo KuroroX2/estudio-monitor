@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28 23:53:15",
+  "timestamp": "2026-08-28 23:53:35",
   "corriendo": {
     "nombre": "POLE_v3",
     "hora": "23:33",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 29,
-      "elapsed": 228,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 48s)",
-      "pct": 0.5
+      "elapsed": 248,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (4m 08s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
