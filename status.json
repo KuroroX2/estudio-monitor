@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 17:41:18",
+  "timestamp": "2026-08-29 17:41:19",
   "corriendo": {
     "nombre": "MENU_BJ_DOBLE",
     "hora": "17:33",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 28,
-      "elapsed": 399,
+      "elapsed": 400,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 39s)",
+      "paso_str": "Paso 6/6 de difusión (6m 40s)",
       "pct": 1.0
     }
   },
