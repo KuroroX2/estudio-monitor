@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 15:37:16",
+  "timestamp": "2026-08-29 15:37:35",
   "corriendo": {
     "nombre": "MASAJE",
     "hora": "13:07",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 18,
       "tot_esl": 28,
-      "elapsed": 171,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 51s)",
-      "pct": 0.3333333333333333
+      "elapsed": 191,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 11s)",
+      "pct": 0.5
     }
   },
   "global": {
