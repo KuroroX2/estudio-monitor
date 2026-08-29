@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 18:01:49",
+  "timestamp": "2026-08-29 18:01:59",
   "corriendo": {
     "nombre": "MENU_BJ_MESA",
     "hora": "17:47",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 28,
-      "elapsed": 330,
+      "elapsed": 340,
       "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 30s)",
+      "paso_str": "Paso 5/6 de difusión (5m 40s)",
       "pct": 0.8333333333333334
     }
   },
