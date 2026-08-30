@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 18:28:33",
+  "timestamp": "2026-08-30 18:28:54",
   "corriendo": {
     "nombre": "MENU_PROBADOR",
     "hora": "17:30",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 28,
-      "elapsed": 447,
+      "elapsed": 468,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (7m 27s)",
+      "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
     }
   },
