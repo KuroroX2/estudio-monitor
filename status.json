@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 23:40:17",
+  "timestamp": "2026-08-29 23:40:26",
   "corriendo": {
     "nombre": "MENU_GIMNASIO",
     "hora": "22:20",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 10,
       "tot_esl": 28,
-      "elapsed": 25,
+      "elapsed": 35,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
