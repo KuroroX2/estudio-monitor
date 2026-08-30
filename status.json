@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 11:58:17",
+  "timestamp": "2026-08-30 11:58:53",
   "corriendo": {
     "nombre": "MENU_TRIO_HMH",
     "hora": "07:37",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 28,
       "tot_esl": 28,
-      "elapsed": 510,
+      "elapsed": 547,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
