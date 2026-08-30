@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 00:05:09",
+  "timestamp": "2026-08-30 00:05:55",
   "corriendo": {
     "nombre": "MENU_GIMNASIO",
     "hora": "22:20",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 12,
       "tot_esl": 28,
-      "elapsed": 442,
+      "elapsed": 488,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (7m 22s)",
+      "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
     }
   },
