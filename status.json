@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 18:18:18",
+  "timestamp": "2026-08-30 18:18:34",
   "corriendo": {
     "nombre": "MENU_PROBADOR",
     "hora": "17:30",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 6,
       "tot_esl": 28,
-      "elapsed": 344,
+      "elapsed": 360,
       "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 44s)",
+      "paso_str": "Paso 5/6 de difusión (6m 00s)",
       "pct": 0.8333333333333334
     }
   },
