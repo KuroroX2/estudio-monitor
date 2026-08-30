@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 00:21:17",
+  "timestamp": "2026-08-30 00:21:45",
   "corriendo": {
     "nombre": "MENU_GIMNASIO",
     "hora": "22:20",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 14,
       "tot_esl": 28,
-      "elapsed": 337,
+      "elapsed": 365,
       "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 37s)",
+      "paso_str": "Paso 5/6 de difusión (6m 05s)",
       "pct": 0.8333333333333334
     }
   },
