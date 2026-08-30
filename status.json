@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29 21:11:31",
+  "timestamp": "2026-08-29 21:11:49",
   "corriendo": {
     "nombre": "MENU_BJ_MESA",
     "hora": "17:47",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 24,
       "tot_esl": 28,
-      "elapsed": 7,
+      "elapsed": 25,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
