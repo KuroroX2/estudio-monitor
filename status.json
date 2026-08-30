@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 11:43:31",
+  "timestamp": "2026-08-30 11:43:51",
   "corriendo": {
     "nombre": "MENU_TRIO_HMH",
     "hora": "07:37",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 28,
       "tot_esl": 28,
-      "elapsed": 116,
+      "elapsed": 135,
       "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (1m 56s)",
+      "paso_str": "Paso 2/6 de difusión (2m 15s)",
       "pct": 0.3333333333333333
     }
   },
