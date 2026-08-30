@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 04:06:49",
+  "timestamp": "2026-08-30 04:06:57",
   "corriendo": {
     "nombre": "MENU_SUMISA",
     "hora": "03:06",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 28,
-      "elapsed": 461,
+      "elapsed": 469,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
