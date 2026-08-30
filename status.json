@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 12:39:35",
+  "timestamp": "2026-08-30 12:39:56",
   "corriendo": {
     "nombre": "MENU_POSICIONES",
     "hora": "12:38",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 28,
-      "elapsed": 14,
+      "elapsed": 7,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
