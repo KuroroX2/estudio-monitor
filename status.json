@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 12:14:16",
+  "timestamp": "2026-08-30 12:14:50",
   "corriendo": {
     "nombre": "MENU_TRIO_HMH",
     "hora": "07:37",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 28,
       "tot_esl": 28,
-      "elapsed": 15,
+      "elapsed": 18,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
