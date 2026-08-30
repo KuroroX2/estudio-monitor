@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 15:08:19",
+  "timestamp": "2026-08-30 15:08:46",
   "corriendo": {
     "nombre": "MENU_POSICIONES",
     "hora": "12:38",
@@ -7,12 +7,12 @@
     "eslabon_total": 28,
     "horas_rest": 1.6,
     "clip_info": {
-      "num_esl": 17,
+      "num_esl": 18,
       "tot_esl": 28,
-      "elapsed": 476,
-      "paso_num": 6,
-      "paso_str": "Decodificando VAE y guardando clip",
-      "pct": 1.0
+      "elapsed": 21,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
