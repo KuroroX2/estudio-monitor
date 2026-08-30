@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 06:50:09",
+  "timestamp": "2026-08-30 06:50:52",
   "corriendo": {
     "nombre": "MENU_SUMISA",
     "hora": "03:06",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 26,
       "tot_esl": 28,
-      "elapsed": 262,
+      "elapsed": 305,
       "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (4m 22s)",
+      "paso_str": "Paso 4/6 de difusión (5m 05s)",
       "pct": 0.6666666666666666
     }
   },
