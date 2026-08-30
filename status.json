@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 14:58:01",
+  "timestamp": "2026-08-30 14:58:31",
   "corriendo": {
     "nombre": "MENU_POSICIONES",
     "hora": "12:38",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 16,
       "tot_esl": 28,
-      "elapsed": 380,
+      "elapsed": 410,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 20s)",
+      "paso_str": "Paso 6/6 de difusión (6m 50s)",
       "pct": 1.0
     }
   },
