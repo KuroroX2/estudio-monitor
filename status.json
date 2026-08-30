@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 05:44:02",
+  "timestamp": "2026-08-30 05:44:18",
   "corriendo": {
     "nombre": "MENU_SUMISA",
     "hora": "03:06",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 19,
       "tot_esl": 28,
-      "elapsed": 7,
+      "elapsed": 23,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
