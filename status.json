@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-08-31 10:21:37",
+  "timestamp": "2026-08-31 10:26:41",
   "corriendo": {
     "nombre": "LORAS_BJ_v2",
     "hora": "10:15",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": 28,
-    "horas_rest": 3.7333333333333334,
+    "horas_rest": 3.6,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 309,
-      "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (5m 09s)",
-      "pct": 0.6666666666666666
+      "elapsed": 132,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (2m 12s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
-    "eslabones_hechos": 12,
+    "eslabones_hechos": 13,
     "eslabones_totales": 40,
-    "horas_hechas": 1.6,
-    "horas_restantes": 3.733333333333334,
-    "fecha_fin_estimada": "Lun 31/08 14:05"
+    "horas_hechas": 1.7333333333333334,
+    "horas_restantes": 3.6000000000000005,
+    "fecha_fin_estimada": "Lun 31/08 14:02"
   },
   "items": [
     {
@@ -39,9 +39,9 @@
       "num": 2,
       "nombre": "LORAS_BJ_v2",
       "n_esl": 28,
-      "generados": 0,
+      "generados": 1,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 31/08 14:05",
+      "eta_txt": "Termina: Lun 31/08 14:02",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
