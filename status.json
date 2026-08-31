@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-08-31 18:33:12",
+  "timestamp": "2026-08-31 18:38:20",
   "corriendo": {
     "nombre": "MINITAE_v5",
     "hora": "18:14",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 12,
-    "horas_rest": 1.4666666666666666,
+    "horas_rest": 1.3333333333333333,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 12,
-      "elapsed": 45,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (0m 45s)",
-      "pct": 0.16666666666666666
+      "elapsed": 305,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (5m 05s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 1,
-    "eslabones_totales": 15,
-    "horas_hechas": 0.13333333333333333,
-    "horas_restantes": 1.8666666666666667,
-    "fecha_fin_estimada": "Lun 31/08 20:25"
+    "eslabones_hechos": 2,
+    "eslabones_totales": 18,
+    "horas_hechas": 0.26666666666666666,
+    "horas_restantes": 2.1333333333333333,
+    "fecha_fin_estimada": "Lun 31/08 20:46"
   },
   "items": [
     {
       "num": 1,
       "nombre": "MINITAE_v5",
       "n_esl": 12,
-      "generados": 1,
+      "generados": 2,
       "horas": 1.6,
-      "eta_txt": "Termina: Lun 31/08 20:01",
+      "eta_txt": "Termina: Lun 31/08 19:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -41,7 +41,19 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 20:25",
+      "eta_txt": "Termina: Lun 31/08 20:22",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 3,
+      "nombre": "AONUK_I2V",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Lun 31/08 20:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
