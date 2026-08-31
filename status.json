@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 13:27:07",
+  "timestamp": "2026-08-31 13:32:11",
   "corriendo": {
     "nombre": "TAE_DEPTO",
     "hora": "13:22",
@@ -7,12 +7,12 @@
     "eslabon_total": 4,
     "horas_rest": 0.5333333333333333,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 190,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 10s)",
-      "pct": 0.5
+      "elapsed": 71,
+      "paso_num": 1,
+      "paso_str": "Paso 1/6 de difusión (1m 11s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 32,
     "horas_hechas": 3.7333333333333334,
     "horas_restantes": 0.5333333333333332,
-    "fecha_fin_estimada": "Lun 31/08 13:59"
+    "fecha_fin_estimada": "Lun 31/08 14:04"
   },
   "items": [
     {
@@ -41,7 +41,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Lun 31/08 13:59",
+      "eta_txt": "Termina: Lun 31/08 14:04",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
