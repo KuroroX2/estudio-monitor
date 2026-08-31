@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-08-31 17:57:42",
+  "timestamp": "2026-08-31 18:02:46",
   "corriendo": {
     "nombre": "MINITAE_v4",
     "hora": "17:35",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 12,
-    "horas_rest": 1.3333333333333333,
+    "horas_rest": 1.2,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 12,
-      "elapsed": 236,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 56s)",
-      "pct": 0.5
+      "elapsed": 15,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 2,
+    "eslabones_hechos": 3,
     "eslabones_totales": 12,
-    "horas_hechas": 0.26666666666666666,
-    "horas_restantes": 1.3333333333333335,
-    "fecha_fin_estimada": "Lun 31/08 19:17"
+    "horas_hechas": 0.4,
+    "horas_restantes": 1.2000000000000002,
+    "fecha_fin_estimada": "Lun 31/08 19:14"
   },
   "items": [
     {
       "num": 1,
       "nombre": "MINITAE_v4",
       "n_esl": 12,
-      "generados": 2,
+      "generados": 3,
       "horas": 1.6,
-      "eta_txt": "Termina: Lun 31/08 19:17",
+      "eta_txt": "Termina: Lun 31/08 19:14",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
