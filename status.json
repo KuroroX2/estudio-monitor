@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 11:29:27",
+  "timestamp": "2026-08-31 11:30:00",
   "corriendo": {
     "nombre": "LORAS_BJ_v2",
     "hora": "10:15",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 31,
+      "elapsed": 64,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 04s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 32,
     "horas_hechas": 0.13333333333333333,
     "horas_restantes": 4.133333333333333,
-    "fecha_fin_estimada": "Lun 31/08 15:37"
+    "fecha_fin_estimada": "Lun 31/08 15:38"
   },
   "items": [
     {
@@ -29,7 +29,7 @@
       "n_esl": 28,
       "generados": 1,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 31/08 15:05",
+      "eta_txt": "Termina: Lun 31/08 15:06",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -41,7 +41,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Lun 31/08 15:37",
+      "eta_txt": "Termina: Lun 31/08 15:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
