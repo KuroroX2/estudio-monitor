@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-08-31 15:23:15",
+  "timestamp": "2026-08-31 15:28:19",
   "corriendo": {
     "nombre": "TAE_DEPTO2",
     "hora": "15:15",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": 4,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 419,
-      "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 59s)",
-      "pct": 1.0
+      "elapsed": 140,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (2m 20s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
-    "eslabones_hechos": 4,
+    "eslabones_hechos": 5,
     "eslabones_totales": 36,
-    "horas_hechas": 0.5333333333333333,
-    "horas_restantes": 4.266666666666667,
-    "fecha_fin_estimada": "Lun 31/08 19:39"
+    "horas_hechas": 0.6666666666666666,
+    "horas_restantes": 4.133333333333333,
+    "fecha_fin_estimada": "Lun 31/08 19:36"
   },
   "items": [
     {
@@ -39,9 +39,9 @@
       "num": 2,
       "nombre": "TAE_DEPTO2",
       "n_esl": 4,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Lun 31/08 15:55",
+      "eta_txt": "Termina: Lun 31/08 15:52",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -53,7 +53,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 31/08 19:39",
+      "eta_txt": "Termina: Lun 31/08 19:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
