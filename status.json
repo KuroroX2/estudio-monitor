@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-31 16:24:05",
+  "timestamp": "2026-08-31 16:29:10",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 0,
     "eslabones_totales": 12,
     "horas_hechas": 0.0,
     "horas_restantes": 1.6,
-    "fecha_fin_estimada": "Lun 31/08 18:00"
+    "fecha_fin_estimada": "Lun 31/08 18:05"
   },
   "items": [
     {
@@ -15,7 +15,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Lun 31/08 18:00",
+      "eta_txt": "Termina: Lun 31/08 18:05",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
