@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 11:27:27",
+  "timestamp": "2026-08-31 11:27:53",
   "corriendo": {
     "nombre": "LORAS_BJ_v2",
     "hora": "10:15",
@@ -9,9 +9,9 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 392,
+      "elapsed": 418,
       "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 32s)",
+      "paso_str": "Paso 6/6 de difusión (6m 58s)",
       "pct": 1.0
     }
   },
