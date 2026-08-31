@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 17:47:32",
+  "timestamp": "2026-08-31 17:52:38",
   "corriendo": {
     "nombre": "MINITAE_v4",
     "hora": "17:35",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 12,
-      "elapsed": 137,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 17s)",
-      "pct": 0.3333333333333333
+      "elapsed": 444,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (7m 24s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 12,
     "horas_hechas": 0.13333333333333333,
     "horas_restantes": 1.4666666666666668,
-    "fecha_fin_estimada": "Lun 31/08 19:15"
+    "fecha_fin_estimada": "Lun 31/08 19:20"
   },
   "items": [
     {
@@ -29,7 +29,7 @@
       "n_esl": 12,
       "generados": 1,
       "horas": 1.6,
-      "eta_txt": "Termina: Lun 31/08 19:15",
+      "eta_txt": "Termina: Lun 31/08 19:20",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
