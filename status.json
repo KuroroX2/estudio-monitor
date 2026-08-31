@@ -1,12 +1,32 @@
 {
-  "timestamp": "2026-08-31 08:35:02",
-  "corriendo": null,
-  "global": {
-    "eslabones_hechos": 0,
-    "eslabones_totales": 0,
-    "horas_hechas": 0.0,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Lun 31/08 08:35"
+  "timestamp": "2026-08-31 08:40:06",
+  "corriendo": {
+    "nombre": "TAE_v4",
+    "hora": "08:39",
+    "eslabon_actual": 1,
+    "eslabon_total": 41,
+    "horas_rest": 5.333333333333333,
+    "clip_info": null
   },
-  "items": []
+  "global": {
+    "eslabones_hechos": 1,
+    "eslabones_totales": 41,
+    "horas_hechas": 0.13333333333333333,
+    "horas_restantes": 5.333333333333333,
+    "fecha_fin_estimada": "Lun 31/08 14:00"
+  },
+  "items": [
+    {
+      "num": 1,
+      "nombre": "TAE_v4",
+      "n_esl": 41,
+      "generados": 1,
+      "horas": 5.466666666666667,
+      "eta_txt": "Termina: Lun 31/08 14:00",
+      "es_activa": true,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    }
+  ]
 }
