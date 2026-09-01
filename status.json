@@ -1,26 +1,12 @@
 {
-  "timestamp": "2026-09-01 13:40:22",
-  "corriendo": {
-    "nombre": "HXH_TEXTO",
-    "hora": "13:38",
-    "eslabon_actual": 0,
-    "eslabon_total": 3,
-    "horas_rest": 0.4,
-    "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 3,
-      "elapsed": 9,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
-    }
-  },
+  "timestamp": "2026-09-01 13:45:26",
+  "corriendo": null,
   "global": {
-    "eslabones_hechos": 118,
-    "eslabones_totales": 124,
-    "horas_hechas": 15.733333333333334,
-    "horas_restantes": 0.7999999999999972,
-    "fecha_fin_estimada": "Mar 01/09 14:28"
+    "eslabones_hechos": 130,
+    "eslabones_totales": 160,
+    "horas_hechas": 17.333333333333336,
+    "horas_restantes": 4.0,
+    "fecha_fin_estimada": "Mar 01/09 17:45"
   },
   "items": [
     {
@@ -30,7 +16,7 @@
       "generados": 12,
       "horas": 1.6,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -42,7 +28,7 @@
       "generados": 3,
       "horas": 0.4,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -54,7 +40,7 @@
       "generados": 41,
       "horas": 5.466666666666667,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -66,7 +52,7 @@
       "generados": 28,
       "horas": 3.7333333333333334,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -78,7 +64,7 @@
       "generados": 20,
       "horas": 2.6666666666666665,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -90,7 +76,7 @@
       "generados": 6,
       "horas": 0.8,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -102,7 +88,7 @@
       "generados": 3,
       "horas": 0.4,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -114,7 +100,7 @@
       "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -122,11 +108,11 @@
     {
       "num": 9,
       "nombre": "HXH_REF",
-      "n_esl": 3,
+      "n_esl": 15,
       "generados": 0,
-      "horas": 0.4,
+      "horas": 2.0,
       "eta_txt": "Falló (código 1)",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": false,
       "es_fallo": true,
       "es_reintento": false
@@ -134,24 +120,24 @@
     {
       "num": 10,
       "nombre": "HXH_TEXTO",
-      "n_esl": 3,
+      "n_esl": 15,
       "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 14:04",
-      "es_activa": true,
+      "horas": 2.0,
+      "eta_txt": "Falló (código 1)",
+      "es_activa": null,
       "es_hecha": false,
-      "es_fallo": false,
+      "es_fallo": true,
       "es_reintento": false
     },
     {
       "num": 11,
       "nombre": "HXH_SOLO",
-      "n_esl": 3,
-      "generados": 3,
-      "horas": 0.4,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
+      "n_esl": 15,
+      "generados": 15,
+      "horas": 2.0,
+      "eta_txt": "Termina: Mar 01/09 15:45",
+      "es_activa": null,
+      "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
     }
