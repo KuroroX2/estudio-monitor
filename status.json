@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 15:52:25",
+  "timestamp": "2026-09-01 15:57:29",
   "corriendo": {
     "nombre": "HXH_SOLO",
     "hora": "13:45",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 15,
       "tot_esl": 15,
-      "elapsed": 413,
-      "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 53s)",
-      "pct": 1.0
+      "elapsed": 255,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (4m 15s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 160,
     "horas_hechas": 17.2,
     "horas_restantes": 4.133333333333336,
-    "fecha_fin_estimada": "Mar 01/09 20:00"
+    "fecha_fin_estimada": "Mar 01/09 20:05"
   },
   "items": [
     {
@@ -149,7 +149,7 @@
       "n_esl": 15,
       "generados": 14,
       "horas": 2.0,
-      "eta_txt": "Termina: Mar 01/09 16:00",
+      "eta_txt": "Termina: Mar 01/09 16:05",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
