@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 11:38:34",
+  "timestamp": "2026-09-01 11:43:38",
   "corriendo": {
     "nombre": "AONUK_REF",
     "hora": "11:19",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 94,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 34s)",
-      "pct": 0.16666666666666666
+      "elapsed": 398,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 38s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 124,
     "horas_hechas": 14.933333333333334,
     "horas_restantes": 1.5999999999999979,
-    "fecha_fin_estimada": "Mar 01/09 13:14"
+    "fecha_fin_estimada": "Mar 01/09 13:19"
   },
   "items": [
     {
@@ -101,7 +101,7 @@
       "n_esl": 3,
       "generados": 2,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 11:46",
+      "eta_txt": "Termina: Mar 01/09 11:51",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 12:02",
+      "eta_txt": "Termina: Mar 01/09 12:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -125,7 +125,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:26",
+      "eta_txt": "Termina: Mar 01/09 12:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -137,7 +137,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:50",
+      "eta_txt": "Termina: Mar 01/09 12:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -149,7 +149,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 13:14",
+      "eta_txt": "Termina: Mar 01/09 13:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
