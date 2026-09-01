@@ -1,19 +1,12 @@
 {
-  "timestamp": "2026-08-31 22:26:56",
-  "corriendo": {
-    "nombre": "AONUK_BASE",
-    "hora": "22:26",
-    "eslabon_actual": 0,
-    "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
-    "clip_info": null
-  },
+  "timestamp": "2026-08-31 22:32:00",
+  "corriendo": null,
   "global": {
     "eslabones_hechos": 12,
     "eslabones_totales": 20,
     "horas_hechas": 1.6,
     "horas_restantes": 1.0666666666666664,
-    "fecha_fin_estimada": "Lun 31/08 23:30"
+    "fecha_fin_estimada": "Lun 31/08 23:36"
   },
   "items": [
     {
@@ -23,7 +16,7 @@
       "generados": 12,
       "horas": 1.6,
       "eta_txt": "Completado",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -35,7 +28,7 @@
       "generados": 0,
       "horas": 0.4,
       "eta_txt": "Falló (código 1)",
-      "es_activa": false,
+      "es_activa": null,
       "es_hecha": false,
       "es_fallo": true,
       "es_reintento": false
@@ -46,11 +39,11 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Lun 31/08 22:42",
-      "es_activa": true,
+      "eta_txt": "Falló (código 1)",
+      "es_activa": null,
       "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
+      "es_fallo": true,
+      "es_reintento": false
     },
     {
       "num": 4,
@@ -58,11 +51,11 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 23:06",
-      "es_activa": false,
+      "eta_txt": "Falló (código 1)",
+      "es_activa": null,
       "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
+      "es_fallo": true,
+      "es_reintento": false
     }
   ]
 }
