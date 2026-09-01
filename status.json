@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 18:31:27",
+  "timestamp": "2026-09-01 18:32:29",
   "corriendo": {
     "nombre": "HXH_REF",
     "hora": "17:18",
@@ -7,12 +7,12 @@
     "eslabon_total": 15,
     "horas_rest": 0.9333333333333333,
     "clip_info": {
-      "num_esl": 9,
+      "num_esl": 10,
       "tot_esl": 15,
-      "elapsed": 396,
-      "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (6m 36s)",
-      "pct": 1.0
+      "elapsed": 6,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 160,
     "horas_hechas": 18.400000000000002,
     "horas_restantes": 2.9333333333333336,
-    "fecha_fin_estimada": "Mar 01/09 21:27"
+    "fecha_fin_estimada": "Mar 01/09 21:28"
   },
   "items": [
     {
@@ -125,7 +125,7 @@
       "n_esl": 15,
       "generados": 8,
       "horas": 2.0,
-      "eta_txt": "Termina: Mar 01/09 19:27",
+      "eta_txt": "Termina: Mar 01/09 19:28",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -137,7 +137,7 @@
       "n_esl": 15,
       "generados": 0,
       "horas": 2.0,
-      "eta_txt": "Termina: Mar 01/09 21:27",
+      "eta_txt": "Termina: Mar 01/09 21:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
