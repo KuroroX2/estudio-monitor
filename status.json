@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 11:13:11",
+  "timestamp": "2026-09-01 11:18:15",
   "corriendo": {
     "nombre": "ACENTO",
     "hora": "10:22",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 6,
       "tot_esl": 6,
-      "elapsed": 39,
+      "elapsed": 6,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
@@ -20,7 +20,7 @@
     "eslabones_totales": 124,
     "horas_hechas": 14.933333333333332,
     "horas_restantes": 1.5999999999999996,
-    "fecha_fin_estimada": "Mar 01/09 12:49"
+    "fecha_fin_estimada": "Mar 01/09 12:54"
   },
   "items": [
     {
@@ -89,7 +89,7 @@
       "n_esl": 6,
       "generados": 5,
       "horas": 0.8,
-      "eta_txt": "Termina: Mar 01/09 11:21",
+      "eta_txt": "Termina: Mar 01/09 11:26",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -101,7 +101,7 @@
       "n_esl": 3,
       "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 11:45",
+      "eta_txt": "Termina: Mar 01/09 11:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 12:01",
+      "eta_txt": "Termina: Mar 01/09 12:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -125,7 +125,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:25",
+      "eta_txt": "Termina: Mar 01/09 12:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -137,7 +137,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:49",
+      "eta_txt": "Termina: Mar 01/09 12:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -149,7 +149,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 13:13",
+      "eta_txt": "Termina: Mar 01/09 13:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
