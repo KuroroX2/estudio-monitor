@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-01 08:15:20",
+  "timestamp": "2026-09-01 08:20:29",
   "corriendo": {
     "nombre": "CALLEJON",
     "hora": "07:11",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 20,
-    "horas_rest": 1.7333333333333334,
+    "horas_rest": 1.6,
     "clip_info": {
-      "num_esl": 8,
+      "num_esl": 9,
       "tot_esl": 20,
-      "elapsed": 275,
-      "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (4m 35s)",
-      "pct": 0.6666666666666666
+      "elapsed": 77,
+      "paso_num": 1,
+      "paso_str": "Paso 1/6 de difusión (1m 17s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 94,
+    "eslabones_hechos": 95,
     "eslabones_totales": 115,
-    "horas_hechas": 12.533333333333333,
-    "horas_restantes": 2.8000000000000007,
-    "fecha_fin_estimada": "Mar 01/09 11:03"
+    "horas_hechas": 12.666666666666666,
+    "horas_restantes": 2.666666666666668,
+    "fecha_fin_estimada": "Mar 01/09 11:00"
   },
   "items": [
     {
@@ -75,9 +75,9 @@
       "num": 5,
       "nombre": "CALLEJON",
       "n_esl": 20,
-      "generados": 7,
+      "generados": 8,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:59",
+      "eta_txt": "Termina: Mar 01/09 09:56",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -89,7 +89,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Mar 01/09 10:47",
+      "eta_txt": "Termina: Mar 01/09 10:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -101,7 +101,7 @@
       "n_esl": 3,
       "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 11:11",
+      "eta_txt": "Termina: Mar 01/09 11:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 11:27",
+      "eta_txt": "Termina: Mar 01/09 11:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
