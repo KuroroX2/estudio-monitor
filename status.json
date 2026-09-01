@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 17:32:39",
+  "timestamp": "2026-09-01 17:33:40",
   "corriendo": {
     "nombre": "HXH_REF",
     "hora": "17:18",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 15,
-      "elapsed": 311,
-      "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (5m 11s)",
-      "pct": 0.6666666666666666
+      "elapsed": 373,
+      "paso_num": 5,
+      "paso_str": "Paso 5/6 de difusión (6m 13s)",
+      "pct": 0.8333333333333334
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 201,
     "horas_hechas": 22.933333333333337,
     "horas_restantes": 3.866666666666667,
-    "fecha_fin_estimada": "Mar 01/09 21:24"
+    "fecha_fin_estimada": "Mar 01/09 21:25"
   },
   "items": [
     {
@@ -125,7 +125,7 @@
       "n_esl": 15,
       "generados": 1,
       "horas": 2.0,
-      "eta_txt": "Termina: Mar 01/09 19:24",
+      "eta_txt": "Termina: Mar 01/09 19:25",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -137,7 +137,7 @@
       "n_esl": 15,
       "generados": 0,
       "horas": 2.0,
-      "eta_txt": "Termina: Mar 01/09 21:24",
+      "eta_txt": "Termina: Mar 01/09 21:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -161,7 +161,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 02:52",
+      "eta_txt": "Termina: Mié 02/09 02:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
