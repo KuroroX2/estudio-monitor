@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 08:20:29",
+  "timestamp": "2026-09-01 08:25:34",
   "corriendo": {
     "nombre": "CALLEJON",
     "hora": "07:11",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 9,
       "tot_esl": 20,
-      "elapsed": 77,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 17s)",
-      "pct": 0.16666666666666666
+      "elapsed": 381,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 21s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 115,
     "horas_hechas": 12.666666666666666,
     "horas_restantes": 2.666666666666668,
-    "fecha_fin_estimada": "Mar 01/09 11:00"
+    "fecha_fin_estimada": "Mar 01/09 11:05"
   },
   "items": [
     {
@@ -77,7 +77,7 @@
       "n_esl": 20,
       "generados": 8,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:56",
+      "eta_txt": "Termina: Mar 01/09 10:01",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -89,7 +89,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Mar 01/09 10:44",
+      "eta_txt": "Termina: Mar 01/09 10:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -101,7 +101,7 @@
       "n_esl": 3,
       "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 11:08",
+      "eta_txt": "Termina: Mar 01/09 11:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 11:24",
+      "eta_txt": "Termina: Mar 01/09 11:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
