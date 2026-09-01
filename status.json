@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-01 05:22:51",
+  "timestamp": "2026-09-01 05:27:55",
   "corriendo": {
     "nombre": "TAE_COMPLETO",
     "hora": "00:44",
-    "eslabon_actual": 32,
+    "eslabon_actual": 33,
     "eslabon_total": 41,
-    "horas_rest": 1.2,
+    "horas_rest": 1.0666666666666667,
     "clip_info": {
-      "num_esl": 33,
+      "num_esl": 34,
       "tot_esl": 41,
-      "elapsed": 360,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (6m 00s)",
-      "pct": 0.8333333333333334
+      "elapsed": 153,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (2m 33s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
-    "eslabones_hechos": 78,
+    "eslabones_hechos": 79,
     "eslabones_totales": 109,
-    "horas_hechas": 10.399999999999999,
-    "horas_restantes": 4.133333333333333,
-    "fecha_fin_estimada": "Mar 01/09 09:30"
+    "horas_hechas": 10.533333333333335,
+    "horas_restantes": 3.9999999999999964,
+    "fecha_fin_estimada": "Mar 01/09 09:27"
   },
   "items": [
     {
@@ -75,9 +75,9 @@
       "num": 5,
       "nombre": "TAE_COMPLETO",
       "n_esl": 41,
-      "generados": 32,
+      "generados": 33,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mar 01/09 06:34",
+      "eta_txt": "Termina: Mar 01/09 06:31",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -89,7 +89,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:14",
+      "eta_txt": "Termina: Mar 01/09 09:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
