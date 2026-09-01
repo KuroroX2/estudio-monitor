@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 10:12:10",
+  "timestamp": "2026-09-01 10:17:14",
   "corriendo": {
     "nombre": "CALLEJON",
     "hora": "07:11",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 20,
       "tot_esl": 20,
-      "elapsed": 532,
+      "elapsed": 837,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -20,7 +20,7 @@
     "eslabones_totales": 124,
     "horas_hechas": 14.133333333333333,
     "horas_restantes": 2.3999999999999986,
-    "fecha_fin_estimada": "Mar 01/09 12:36"
+    "fecha_fin_estimada": "Mar 01/09 12:41"
   },
   "items": [
     {
@@ -77,7 +77,7 @@
       "n_esl": 20,
       "generados": 19,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 10:20",
+      "eta_txt": "Termina: Mar 01/09 10:25",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -89,7 +89,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Mar 01/09 11:08",
+      "eta_txt": "Termina: Mar 01/09 11:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -101,7 +101,7 @@
       "n_esl": 3,
       "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 11:32",
+      "eta_txt": "Termina: Mar 01/09 11:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 11:48",
+      "eta_txt": "Termina: Mar 01/09 11:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -125,7 +125,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:12",
+      "eta_txt": "Termina: Mar 01/09 12:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -137,7 +137,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 12:36",
+      "eta_txt": "Termina: Mar 01/09 12:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -149,7 +149,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 13:00",
+      "eta_txt": "Termina: Mar 01/09 13:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
