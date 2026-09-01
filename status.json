@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-08-31 23:27:46",
+  "timestamp": "2026-08-31 23:32:50",
   "corriendo": {
-    "nombre": "AONUK_BASE",
-    "hora": "23:26",
+    "nombre": "AONUK_REF",
+    "hora": "23:28",
     "eslabon_actual": 0,
-    "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "eslabon_total": 3,
+    "horas_rest": 0.4,
     "clip_info": {
-      "num_esl": null,
-      "tot_esl": null,
-      "elapsed": 12,
+      "num_esl": 1,
+      "tot_esl": 3,
+      "elapsed": 73,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 13s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 18,
+    "eslabones_hechos": 15,
     "eslabones_totales": 123,
-    "horas_hechas": 2.4,
-    "horas_restantes": 13.999999999999998,
-    "fecha_fin_estimada": "Mar 01/09 13:27"
+    "horas_hechas": 2.0,
+    "horas_restantes": 14.399999999999999,
+    "fecha_fin_estimada": "Mar 01/09 13:56"
   },
   "items": [
     {
@@ -39,10 +39,10 @@
       "num": 2,
       "nombre": "AONUK_REF",
       "n_esl": 3,
-      "generados": 3,
+      "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 23:51",
-      "es_activa": false,
+      "eta_txt": "Termina: Lun 31/08 23:56",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
@@ -53,11 +53,11 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 01/09 00:07",
-      "es_activa": true,
+      "eta_txt": "Termina: Mar 01/09 00:12",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": true
     },
     {
       "num": 4,
@@ -73,11 +73,11 @@
     },
     {
       "num": 5,
-      "nombre": "TAE_COMPLETO",
-      "n_esl": 41,
+      "nombre": "FONDO",
+      "n_esl": 28,
       "generados": 0,
-      "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mar 01/09 05:35",
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Mar 01/09 03:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -85,11 +85,11 @@
     },
     {
       "num": 6,
-      "nombre": "FONDO",
-      "n_esl": 28,
+      "nombre": "TAE_COMPLETO",
+      "n_esl": 41,
       "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 01/09 09:19",
+      "horas": 5.466666666666667,
+      "eta_txt": "Termina: Mar 01/09 09:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -101,7 +101,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 11:59",
+      "eta_txt": "Termina: Mar 01/09 12:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -113,7 +113,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 01/09 13:51",
+      "eta_txt": "Termina: Mar 01/09 13:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
