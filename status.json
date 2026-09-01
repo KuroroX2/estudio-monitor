@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 20:04:35",
+  "timestamp": "2026-08-31 20:09:39",
   "corriendo": {
     "nombre": "MINITAE_v5",
     "hora": "18:14",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 12,
       "tot_esl": 12,
-      "elapsed": 313,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 13s)",
-      "pct": 0.8333333333333334
+      "elapsed": 617,
+      "paso_num": 6,
+      "paso_str": "Decodificando VAE y guardando clip",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 12,
     "horas_hechas": 1.4666666666666666,
     "horas_restantes": 0.13333333333333353,
-    "fecha_fin_estimada": "Lun 31/08 20:12"
+    "fecha_fin_estimada": "Lun 31/08 20:17"
   },
   "items": [
     {
@@ -29,7 +29,7 @@
       "n_esl": 12,
       "generados": 11,
       "horas": 1.6,
-      "eta_txt": "Termina: Lun 31/08 20:12",
+      "eta_txt": "Termina: Lun 31/08 20:17",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
