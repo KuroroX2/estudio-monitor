@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-01 13:30:13",
+  "timestamp": "2026-09-01 13:35:18",
   "corriendo": {
-    "nombre": "TAE_V5",
-    "hora": "13:06",
-    "eslabon_actual": 2,
-    "eslabon_total": 41,
-    "horas_rest": 5.2,
+    "nombre": "HXH_REF",
+    "hora": "13:33",
+    "eslabon_actual": 0,
+    "eslabon_total": 3,
+    "horas_rest": 0.4,
     "clip_info": {
-      "num_esl": 3,
-      "tot_esl": 41,
-      "elapsed": 350,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 50s)",
-      "pct": 0.8333333333333334
+      "num_esl": 1,
+      "tot_esl": 3,
+      "elapsed": 10,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 120,
-    "eslabones_totales": 165,
-    "horas_hechas": 16.0,
-    "horas_restantes": 6.0,
-    "fecha_fin_estimada": "Mar 01/09 19:30"
+    "eslabones_hechos": 118,
+    "eslabones_totales": 124,
+    "horas_hechas": 15.733333333333334,
+    "horas_restantes": 0.7999999999999972,
+    "fecha_fin_estimada": "Mar 01/09 14:23"
   },
   "items": [
     {
@@ -125,11 +125,11 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 13:54",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 01/09 13:59",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 10,
@@ -137,7 +137,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 14:18",
+      "eta_txt": "Termina: Mar 01/09 14:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -154,18 +154,6 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
-    },
-    {
-      "num": 12,
-      "nombre": "TAE_V5",
-      "n_esl": 41,
-      "generados": 2,
-      "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mar 01/09 19:30",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
     }
   ]
 }
