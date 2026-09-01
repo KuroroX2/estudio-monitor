@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 07:14:25",
+  "timestamp": "2026-09-01 07:19:28",
   "corriendo": {
     "nombre": "CALLEJON",
     "hora": "07:11",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 20,
-      "elapsed": 92,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 32s)",
-      "pct": 0.16666666666666666
+      "elapsed": 396,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 36s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 109,
     "horas_hechas": 11.600000000000001,
     "horas_restantes": 2.93333333333333,
-    "fecha_fin_estimada": "Mar 01/09 10:10"
+    "fecha_fin_estimada": "Mar 01/09 10:15"
   },
   "items": [
     {
@@ -89,7 +89,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:54",
+      "eta_txt": "Termina: Mar 01/09 09:59",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
