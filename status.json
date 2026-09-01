@@ -1,26 +1,19 @@
 {
-  "timestamp": "2026-08-31 22:21:46",
+  "timestamp": "2026-08-31 22:26:56",
   "corriendo": {
-    "nombre": "AONUK_REF",
-    "hora": "22:21",
+    "nombre": "AONUK_BASE",
+    "hora": "22:26",
     "eslabon_actual": 0,
-    "eslabon_total": 3,
-    "horas_rest": 0.4,
-    "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 3,
-      "elapsed": 26,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
-    }
+    "eslabon_total": 2,
+    "horas_rest": 0.26666666666666666,
+    "clip_info": null
   },
   "global": {
     "eslabones_hechos": 12,
     "eslabones_totales": 20,
     "horas_hechas": 1.6,
     "horas_restantes": 1.0666666666666664,
-    "fecha_fin_estimada": "Lun 31/08 23:25"
+    "fecha_fin_estimada": "Lun 31/08 23:30"
   },
   "items": [
     {
@@ -41,10 +34,10 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 22:45",
-      "es_activa": true,
+      "eta_txt": "Falló (código 1)",
+      "es_activa": false,
       "es_hecha": false,
-      "es_fallo": false,
+      "es_fallo": true,
       "es_reintento": false
     },
     {
@@ -53,8 +46,8 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Lun 31/08 23:01",
-      "es_activa": false,
+      "eta_txt": "Termina: Lun 31/08 22:42",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -65,7 +58,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 23:25",
+      "eta_txt": "Termina: Lun 31/08 23:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
