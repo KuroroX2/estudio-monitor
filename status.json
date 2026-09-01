@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31 23:02:26",
+  "timestamp": "2026-08-31 23:07:30",
   "corriendo": {
     "nombre": "AONUK_I2V",
     "hora": "22:48",
@@ -9,18 +9,18 @@
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 49,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (0m 49s)",
-      "pct": 0.16666666666666666
+      "elapsed": 353,
+      "paso_num": 5,
+      "paso_str": "Paso 5/6 de difusión (5m 53s)",
+      "pct": 0.8333333333333334
     }
   },
   "global": {
     "eslabones_hechos": 12,
-    "eslabones_totales": 123,
+    "eslabones_totales": 20,
     "horas_hechas": 1.6,
-    "horas_restantes": 14.799999999999999,
-    "fecha_fin_estimada": "Mar 01/09 13:50"
+    "horas_restantes": 1.0666666666666664,
+    "fecha_fin_estimada": "Mar 01/09 00:11"
   },
   "items": [
     {
@@ -41,7 +41,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Lun 31/08 23:26",
+      "eta_txt": "Termina: Lun 31/08 23:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -53,7 +53,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Lun 31/08 23:42",
+      "eta_txt": "Termina: Lun 31/08 23:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -65,59 +65,11 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 01/09 00:06",
+      "eta_txt": "Termina: Mar 01/09 00:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
-    },
-    {
-      "num": 5,
-      "nombre": "TAE_COMPLETO",
-      "n_esl": 41,
-      "generados": 0,
-      "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mar 01/09 05:34",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 6,
-      "nombre": "FONDO",
-      "n_esl": 28,
-      "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 01/09 09:18",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 7,
-      "nombre": "CALLEJON",
-      "n_esl": 20,
-      "generados": 0,
-      "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 11:58",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 8,
-      "nombre": "ENFERMERIA",
-      "n_esl": 14,
-      "generados": 0,
-      "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 01/09 13:50",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
     }
   ]
 }
