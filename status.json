@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 06:59:11",
+  "timestamp": "2026-09-01 07:04:15",
   "corriendo": {
     "nombre": "TAE_COMPLETO",
     "hora": "00:44",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 41,
       "tot_esl": 41,
-      "elapsed": 1500,
+      "elapsed": 1803,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -20,7 +20,7 @@
     "eslabones_totales": 109,
     "horas_hechas": 11.466666666666665,
     "horas_restantes": 3.0666666666666664,
-    "fecha_fin_estimada": "Mar 01/09 10:03"
+    "fecha_fin_estimada": "Mar 01/09 10:08"
   },
   "items": [
     {
@@ -77,7 +77,7 @@
       "n_esl": 41,
       "generados": 40,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mar 01/09 07:07",
+      "eta_txt": "Termina: Mar 01/09 07:12",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -89,7 +89,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:47",
+      "eta_txt": "Termina: Mar 01/09 09:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
