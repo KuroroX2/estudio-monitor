@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01 07:39:45",
+  "timestamp": "2026-09-01 07:44:52",
   "corriendo": {
     "nombre": "CALLEJON",
     "hora": "07:11",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 4,
       "tot_esl": 20,
-      "elapsed": 148,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 28s)",
-      "pct": 0.3333333333333333
+      "elapsed": 456,
+      "paso_num": 6,
+      "paso_str": "Decodificando VAE y guardando clip",
+      "pct": 1.0
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 109,
     "horas_hechas": 12.0,
     "horas_restantes": 2.5333333333333314,
-    "fecha_fin_estimada": "Mar 01/09 10:11"
+    "fecha_fin_estimada": "Mar 01/09 10:16"
   },
   "items": [
     {
@@ -89,7 +89,7 @@
       "n_esl": 20,
       "generados": 3,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 01/09 09:55",
+      "eta_txt": "Termina: Mar 01/09 10:00",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
