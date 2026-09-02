@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 16:54:12",
+  "timestamp": "2026-09-02 16:55:16",
   "corriendo": {
     "nombre": "oficina",
     "hora": "?",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 8,
       "tot_esl": 4,
-      "elapsed": 7,
+      "elapsed": 70,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 10s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 351,
     "horas_hechas": 31.866666666666667,
     "horas_restantes": 14.93333333333333,
-    "fecha_fin_estimada": "Jue 03/09 07:50"
+    "fecha_fin_estimada": "Jue 03/09 07:51"
   },
   "items": [
     {
@@ -174,7 +174,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Jue 03/09 02:46",
+      "eta_txt": "Termina: Jue 03/09 02:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -186,7 +186,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Jue 03/09 08:14",
+      "eta_txt": "Termina: Jue 03/09 08:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 13:18",
+      "eta_txt": "Termina: Jue 03/09 13:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
