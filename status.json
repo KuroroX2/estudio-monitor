@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 09:19:40",
+  "timestamp": "2026-09-02 09:19:51",
   "corriendo": {
     "nombre": "LORAS_NOCHE",
     "hora": "03:59",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 3553,
+      "elapsed": 3564,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
