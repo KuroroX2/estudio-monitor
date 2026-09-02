@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-01 22:53:14",
+  "timestamp": "2026-09-01 22:54:17",
   "corriendo": {
     "nombre": "AONUK_ESCENA",
     "hora": "21:54",
-    "eslabon_actual": 6,
+    "eslabon_actual": 7,
     "eslabon_total": 38,
-    "horas_rest": 4.266666666666667,
+    "horas_rest": 4.133333333333334,
     "clip_info": {
       "num_esl": 8,
       "tot_esl": 38,
-      "elapsed": 8,
+      "elapsed": 26,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 207,
+    "eslabones_hechos": 208,
     "eslabones_totales": 313,
-    "horas_hechas": 27.6,
-    "horas_restantes": 14.133333333333333,
-    "fecha_fin_estimada": "Mié 02/09 13:01"
+    "horas_hechas": 27.733333333333334,
+    "horas_restantes": 14.0,
+    "fecha_fin_estimada": "Mié 02/09 12:54"
   },
   "items": [
     {
@@ -159,9 +159,9 @@
       "num": 12,
       "nombre": "AONUK_ESCENA",
       "n_esl": 38,
-      "generados": 6,
+      "generados": 7,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Mié 02/09 03:09",
+      "eta_txt": "Termina: Mié 02/09 03:02",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 13:01",
+      "eta_txt": "Termina: Mié 02/09 12:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 18:29",
+      "eta_txt": "Termina: Mié 02/09 18:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
