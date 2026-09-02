@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 04:50:10",
+  "timestamp": "2026-09-02 04:51:12",
   "corriendo": {
     "nombre": "LORAS_NOCHE",
     "hora": "03:59",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 223,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 43s)",
-      "pct": 0.5
+      "elapsed": 284,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (4m 44s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 313,
     "horas_hechas": 31.866666666666667,
     "horas_restantes": 9.866666666666667,
-    "fecha_fin_estimada": "Mié 02/09 14:42"
+    "fecha_fin_estimada": "Mié 02/09 14:43"
   },
   "items": [
     {
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 14:42",
+      "eta_txt": "Termina: Mié 02/09 14:43",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 20:10",
+      "eta_txt": "Termina: Mié 02/09 20:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
