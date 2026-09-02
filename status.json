@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 03:56:22",
+  "timestamp": "2026-09-02 03:57:24",
   "corriendo": {
     "nombre": "AONUK_ESCENA",
     "hora": "21:54",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 38,
       "tot_esl": 38,
-      "elapsed": 2068,
+      "elapsed": 2130,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -20,7 +20,7 @@
     "eslabones_totales": 313,
     "horas_hechas": 31.733333333333334,
     "horas_restantes": 10.0,
-    "fecha_fin_estimada": "Mié 02/09 13:56"
+    "fecha_fin_estimada": "Mié 02/09 13:57"
   },
   "items": [
     {
@@ -161,7 +161,7 @@
       "n_esl": 38,
       "generados": 37,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Mié 02/09 04:04",
+      "eta_txt": "Termina: Mié 02/09 04:05",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 13:56",
+      "eta_txt": "Termina: Mié 02/09 13:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 19:24",
+      "eta_txt": "Termina: Mié 02/09 19:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
