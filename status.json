@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-02 02:46:17",
+  "timestamp": "2026-09-02 02:47:19",
   "corriendo": {
     "nombre": "AONUK_ESCENA",
     "hora": "21:54",
-    "eslabon_actual": 33,
+    "eslabon_actual": 34,
     "eslabon_total": 38,
-    "horas_rest": 0.6666666666666666,
+    "horas_rest": 0.5333333333333333,
     "clip_info": {
-      "num_esl": 34,
+      "num_esl": 35,
       "tot_esl": 38,
-      "elapsed": 464,
-      "paso_num": 6,
-      "paso_str": "Decodificando VAE y guardando clip",
-      "pct": 1.0
+      "elapsed": 9,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 234,
+    "eslabones_hechos": 235,
     "eslabones_totales": 313,
-    "horas_hechas": 31.200000000000003,
-    "horas_restantes": 10.533333333333331,
-    "fecha_fin_estimada": "Mié 02/09 13:18"
+    "horas_hechas": 31.333333333333336,
+    "horas_restantes": 10.399999999999999,
+    "fecha_fin_estimada": "Mié 02/09 13:11"
   },
   "items": [
     {
@@ -159,9 +159,9 @@
       "num": 12,
       "nombre": "AONUK_ESCENA",
       "n_esl": 38,
-      "generados": 33,
+      "generados": 34,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Mié 02/09 03:26",
+      "eta_txt": "Termina: Mié 02/09 03:19",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 13:18",
+      "eta_txt": "Termina: Mié 02/09 13:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 18:46",
+      "eta_txt": "Termina: Mié 02/09 18:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
