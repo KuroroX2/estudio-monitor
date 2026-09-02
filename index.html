@@ -753,12 +753,22 @@
         document.getElementById('hero-started-at').textContent = 'Iniciado: ' + (data.corriendo.hora || '--:--');
         
         const actEsl = data.corriendo.eslabon_actual || 0;
-        const totEsl = data.corriendo.eslabon_total || 28;
-        const pct = totEsl > 0 ? (actEsl / totEsl * 100) : 0;
+        // El `|| 28` de aqui pintaba "4/28 esl" para un trabajo de 13,
+        // aunque el JSON ya mandara el numero bueno o un null honesto.
+        const totEsl = data.corriendo.eslabon_total;
+        const hayTot = Number.isFinite(totEsl) && totEsl > 0;
+        const pct = hayTot ? (actEsl / totEsl * 100) : 0;
         
-        document.getElementById('hero-progress-numbers').textContent = `${actEsl} / ${totEsl} eslabones (${pct.toFixed(1)}%)`;
-        document.getElementById('hero-progress-fill').style.width = Math.min(100, pct) + '%';
-        document.getElementById('hero-eta').textContent = 'Resta: ~' + (data.corriendo.horas_rest || 0).toFixed(1) + 'h';
+        document.getElementById('hero-progress-numbers').textContent =
+          hayTot ? `${actEsl} / ${totEsl} eslabones (${pct.toFixed(1)}%)`
+                 : `${actEsl} eslabones (no se cuantos tiene en total)`;
+        document.getElementById('hero-progress-fill').style.width =
+          hayTot ? Math.min(100, pct) + '%' : '0%';
+        // El `|| 0` decia "Resta: ~0.0h" cuando lo que pasaba es que no
+        // se sabia, que es el mismo fallo con otra cara.
+        const hr = data.corriendo.horas_rest;
+        document.getElementById('hero-eta').textContent =
+          Number.isFinite(hr) ? 'Resta: ~' + hr.toFixed(1) + 'h' : 'Resta: ?';
 
         // Clip 6-step progress
         const clipInfo = data.corriendo.clip_info;
