@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 07:56:57",
+  "timestamp": "2026-09-02 07:57:59",
   "corriendo": {
     "nombre": "LORAS_NOCHE",
     "hora": "03:59",
@@ -9,7 +9,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 1301,
+      "elapsed": 1362,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -20,7 +20,7 @@
     "eslabones_totales": 351,
     "horas_hechas": 32.0,
     "horas_restantes": 14.799999999999997,
-    "fecha_fin_estimada": "Mié 02/09 22:44"
+    "fecha_fin_estimada": "Mié 02/09 22:45"
   },
   "items": [
     {
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 1,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 17:40",
+      "eta_txt": "Termina: Mié 02/09 17:41",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 23:08",
+      "eta_txt": "Termina: Mié 02/09 23:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -197,7 +197,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 04:12",
+      "eta_txt": "Termina: Jue 03/09 04:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
