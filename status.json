@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 02:41:08",
+  "timestamp": "2026-09-02 02:42:10",
   "corriendo": {
     "nombre": "AONUK_ESCENA",
     "hora": "21:54",
@@ -9,10 +9,10 @@
     "clip_info": {
       "num_esl": 34,
       "tot_esl": 38,
-      "elapsed": 155,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 35s)",
-      "pct": 0.3333333333333333
+      "elapsed": 217,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 37s)",
+      "pct": 0.5
     }
   },
   "global": {
@@ -20,7 +20,7 @@
     "eslabones_totales": 313,
     "horas_hechas": 31.200000000000003,
     "horas_restantes": 10.533333333333331,
-    "fecha_fin_estimada": "Mié 02/09 13:13"
+    "fecha_fin_estimada": "Mié 02/09 13:14"
   },
   "items": [
     {
@@ -161,7 +161,7 @@
       "n_esl": 38,
       "generados": 33,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Mié 02/09 03:21",
+      "eta_txt": "Termina: Mié 02/09 03:22",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -173,7 +173,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Mié 02/09 13:13",
+      "eta_txt": "Termina: Mié 02/09 13:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -185,7 +185,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Mié 02/09 18:41",
+      "eta_txt": "Termina: Mié 02/09 18:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
