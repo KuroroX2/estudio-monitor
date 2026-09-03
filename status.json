@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-03 12:11:23",
+  "timestamp": "2026-09-03 12:12:29",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
-    "eslabon_actual": 19,
+    "eslabon_actual": 20,
     "eslabon_total": 38,
-    "horas_rest": 2.6666666666666665,
+    "horas_rest": 2.533333333333333,
     "suelto": false,
     "clip_info": {
-      "num_esl": 19,
+      "num_esl": 20,
       "tot_esl": 38,
-      "elapsed": 449,
-      "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (7m 29s)",
-      "pct": 1.0
+      "elapsed": 14,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 285,
+    "eslabones_hechos": 286,
     "eslabones_totales": 305,
-    "horas_hechas": 38.0,
-    "horas_restantes": 2.6666666666666714,
-    "fecha_fin_estimada": "Jue 03/09 14:51"
+    "horas_hechas": 38.13333333333333,
+    "horas_restantes": 2.5333333333333385,
+    "fecha_fin_estimada": "Jue 03/09 14:44"
   },
   "items": [
     {
@@ -196,9 +196,9 @@
       "num": 15,
       "nombre": "AONUK_V2",
       "n_esl": 38,
-      "generados": 18,
+      "generados": 19,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 14:51",
+      "eta_txt": "Termina: Jue 03/09 14:44",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
