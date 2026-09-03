@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 18:10:32",
+  "timestamp": "2026-09-03 18:11:35",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA",
     "hora": "15:32",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 18,
       "tot_esl": 18,
-      "elapsed": 491,
+      "elapsed": 554,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -21,7 +21,7 @@
     "eslabones_totales": 431,
     "horas_hechas": 43.06666666666667,
     "horas_restantes": 14.400000000000006,
-    "fecha_fin_estimada": "Vie 04/09 08:34"
+    "fecha_fin_estimada": "Vie 04/09 08:35"
   },
   "items": [
     {
@@ -210,7 +210,7 @@
       "n_esl": 18,
       "generados": 18,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 18:10",
+      "eta_txt": "Termina: Jue 03/09 18:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 03/09 18:26",
+      "eta_txt": "Termina: Jue 03/09 18:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 22:10",
+      "eta_txt": "Termina: Jue 03/09 22:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -246,7 +246,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 01:54",
+      "eta_txt": "Termina: Vie 04/09 01:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -258,7 +258,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 02:58",
+      "eta_txt": "Termina: Vie 04/09 02:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 08:34",
+      "eta_txt": "Termina: Vie 04/09 08:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
