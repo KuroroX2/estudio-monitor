@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 09:16:30",
+  "timestamp": "2026-09-03 09:17:36",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 38,
-      "elapsed": 1169,
+      "elapsed": 1235,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -21,7 +21,7 @@
     "eslabones_totales": 305,
     "horas_hechas": 35.733333333333334,
     "horas_restantes": 4.933333333333337,
-    "fecha_fin_estimada": "Jue 03/09 14:12"
+    "fecha_fin_estimada": "Jue 03/09 14:13"
   },
   "items": [
     {
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 1,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 14:12",
+      "eta_txt": "Termina: Jue 03/09 14:13",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
