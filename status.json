@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-03 16:45:54",
+  "timestamp": "2026-09-03 16:47:00",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA",
     "hora": "15:32",
-    "eslabon_actual": 9,
+    "eslabon_actual": 10,
     "eslabon_total": 18,
-    "horas_rest": 1.3333333333333333,
+    "horas_rest": 1.2,
     "suelto": false,
     "clip_info": {
-      "num_esl": 9,
+      "num_esl": 10,
       "tot_esl": 18,
-      "elapsed": 448,
-      "paso_num": 6,
-      "paso_str": "Paso 6/6 de difusión (7m 28s)",
-      "pct": 1.0
+      "elapsed": 22,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 313,
+    "eslabones_hechos": 314,
     "eslabones_totales": 401,
-    "horas_hechas": 41.73333333333334,
-    "horas_restantes": 11.733333333333334,
-    "fecha_fin_estimada": "Vie 04/09 04:29"
+    "horas_hechas": 41.866666666666674,
+    "horas_restantes": 11.600000000000001,
+    "fecha_fin_estimada": "Vie 04/09 04:23"
   },
   "items": [
     {
@@ -208,9 +208,9 @@
       "num": 16,
       "nombre": "LAVANDERIA_TETONA",
       "n_esl": 18,
-      "generados": 8,
+      "generados": 9,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 18:05",
+      "eta_txt": "Termina: Jue 03/09 17:59",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 21:49",
+      "eta_txt": "Termina: Jue 03/09 21:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Jue 03/09 22:53",
+      "eta_txt": "Termina: Jue 03/09 22:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -246,7 +246,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 04:29",
+      "eta_txt": "Termina: Vie 04/09 04:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
