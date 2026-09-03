@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-03 14:13:13",
+  "timestamp": "2026-09-03 14:14:19",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
-    "eslabon_actual": 33,
+    "eslabon_actual": 34,
     "eslabon_total": 38,
-    "horas_rest": 0.8,
+    "horas_rest": 0.6666666666666666,
     "suelto": false,
     "clip_info": {
-      "num_esl": 33,
+      "num_esl": 34,
       "tot_esl": 38,
-      "elapsed": 478,
-      "paso_num": 6,
-      "paso_str": "Decodificando VAE y guardando clip",
-      "pct": 1.0
+      "elapsed": 24,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 299,
+    "eslabones_hechos": 300,
     "eslabones_totales": 359,
-    "horas_hechas": 39.86666666666667,
-    "horas_restantes": 8.000000000000007,
-    "fecha_fin_estimada": "Jue 03/09 22:13"
+    "horas_hechas": 40.0,
+    "horas_restantes": 7.866666666666674,
+    "fecha_fin_estimada": "Jue 03/09 22:06"
   },
   "items": [
     {
@@ -196,9 +196,9 @@
       "num": 15,
       "nombre": "AONUK_V2",
       "n_esl": 38,
-      "generados": 32,
+      "generados": 33,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 15:01",
+      "eta_txt": "Termina: Jue 03/09 14:54",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 18,
       "generados": 0,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 17:25",
+      "eta_txt": "Termina: Jue 03/09 17:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 21:09",
+      "eta_txt": "Termina: Jue 03/09 21:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Jue 03/09 22:13",
+      "eta_txt": "Termina: Jue 03/09 22:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
