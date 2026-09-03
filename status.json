@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 17:26:35",
+  "timestamp": "2026-09-03 17:27:39",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA",
     "hora": "15:32",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 14,
       "tot_esl": 18,
-      "elapsed": 376,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (6m 16s)",
-      "pct": 0.8333333333333334
+      "elapsed": 440,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (7m 20s)",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 318,
-    "eslabones_totales": 401,
+    "eslabones_totales": 431,
     "horas_hechas": 42.400000000000006,
-    "horas_restantes": 11.06666666666667,
-    "fecha_fin_estimada": "Vie 04/09 04:30"
+    "horas_restantes": 15.06666666666667,
+    "fecha_fin_estimada": "Vie 04/09 08:31"
   },
   "items": [
     {
@@ -210,7 +210,7 @@
       "n_esl": 18,
       "generados": 13,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 18:06",
+      "eta_txt": "Termina: Jue 03/09 18:07",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -218,11 +218,11 @@
     },
     {
       "num": 17,
-      "nombre": "LAVANDERIA_STEFY",
-      "n_esl": 28,
+      "nombre": "CONVENCION_LORA",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 21:50",
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Jue 03/09 18:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -230,11 +230,11 @@
     },
     {
       "num": 18,
-      "nombre": "PASILLO_V2",
-      "n_esl": 8,
+      "nombre": "CONVENCION_BASE",
+      "n_esl": 28,
       "generados": 0,
-      "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Jue 03/09 22:54",
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Jue 03/09 22:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -242,11 +242,35 @@
     },
     {
       "num": 19,
+      "nombre": "LAVANDERIA_STEFY",
+      "n_esl": 28,
+      "generados": 0,
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Vie 04/09 01:51",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 20,
+      "nombre": "PASILLO_V2",
+      "n_esl": 8,
+      "generados": 0,
+      "horas": 1.0666666666666667,
+      "eta_txt": "Termina: Vie 04/09 02:55",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 21,
       "nombre": "TAE_V6",
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 04:30",
+      "eta_txt": "Termina: Vie 04/09 08:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
