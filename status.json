@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 07:34:13",
+  "timestamp": "2026-09-03 07:35:17",
   "corriendo": {
     "nombre": "TAE_V5",
     "hora": "07:18",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 37,
       "tot_esl": 41,
-      "elapsed": 355,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 55s)",
-      "pct": 0.8333333333333334
+      "elapsed": 418,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 58s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 379,
     "horas_hechas": 34.93333333333334,
     "horas_restantes": 15.600000000000001,
-    "fecha_fin_estimada": "Jue 03/09 23:10"
+    "fecha_fin_estimada": "Jue 03/09 23:11"
   },
   "items": [
     {
@@ -186,7 +186,7 @@
       "n_esl": 41,
       "generados": 36,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Jue 03/09 08:14",
+      "eta_txt": "Termina: Jue 03/09 08:15",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 13:18",
+      "eta_txt": "Termina: Jue 03/09 13:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Jue 03/09 23:10",
+      "eta_txt": "Termina: Jue 03/09 23:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
