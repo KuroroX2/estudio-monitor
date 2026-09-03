@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 13:34:38",
+  "timestamp": "2026-09-03 13:35:41",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 29,
       "tot_esl": 38,
-      "elapsed": 322,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 22s)",
-      "pct": 0.8333333333333334
+      "elapsed": 385,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 25s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 359,
     "horas_hechas": 39.333333333333336,
     "horas_restantes": 8.533333333333339,
-    "fecha_fin_estimada": "Jue 03/09 22:06"
+    "fecha_fin_estimada": "Jue 03/09 22:07"
   },
   "items": [
     {
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 28,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 14:54",
+      "eta_txt": "Termina: Jue 03/09 14:55",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 18,
       "generados": 0,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 17:18",
+      "eta_txt": "Termina: Jue 03/09 17:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 21:02",
+      "eta_txt": "Termina: Jue 03/09 21:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Jue 03/09 22:06",
+      "eta_txt": "Termina: Jue 03/09 22:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
