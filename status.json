@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 09:02:44",
+  "timestamp": "2026-09-03 09:03:57",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 38,
-      "elapsed": 343,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 43s)",
-      "pct": 0.8333333333333334
+      "elapsed": 415,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 55s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 305,
     "horas_hechas": 35.733333333333334,
     "horas_restantes": 4.933333333333337,
-    "fecha_fin_estimada": "Jue 03/09 13:58"
+    "fecha_fin_estimada": "Jue 03/09 13:59"
   },
   "items": [
     {
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 1,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 13:58",
+      "eta_txt": "Termina: Jue 03/09 13:59",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
