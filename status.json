@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 18:52:33",
+  "timestamp": "2026-09-03 18:53:36",
   "corriendo": {
     "nombre": "CONVENCION_BASE",
     "hora": "18:36",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 3,
+      "elapsed": 66,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 06s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 431,
     "horas_hechas": 43.6,
     "horas_restantes": 13.866666666666674,
-    "fecha_fin_estimada": "Vie 04/09 08:44"
+    "fecha_fin_estimada": "Vie 04/09 08:45"
   },
   "items": [
     {
@@ -234,7 +234,7 @@
       "n_esl": 28,
       "generados": 2,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 22:20",
+      "eta_txt": "Termina: Jue 03/09 22:21",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -246,7 +246,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 02:04",
+      "eta_txt": "Termina: Vie 04/09 02:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -258,7 +258,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 03:08",
+      "eta_txt": "Termina: Vie 04/09 03:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 08:44",
+      "eta_txt": "Termina: Vie 04/09 08:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
