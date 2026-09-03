@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 13:12:10",
+  "timestamp": "2026-09-03 13:13:14",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 27,
       "tot_esl": 38,
-      "elapsed": 40,
+      "elapsed": 104,
       "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (0m 40s)",
+      "paso_str": "Paso 1/6 de difusión (1m 44s)",
       "pct": 0.16666666666666666
     }
   },
   "global": {
     "eslabones_hechos": 293,
-    "eslabones_totales": 305,
+    "eslabones_totales": 351,
     "horas_hechas": 39.06666666666667,
-    "horas_restantes": 1.6000000000000014,
-    "fecha_fin_estimada": "Jue 03/09 14:48"
+    "horas_restantes": 7.733333333333334,
+    "fecha_fin_estimada": "Jue 03/09 20:57"
   },
   "items": [
     {
@@ -198,8 +198,32 @@
       "n_esl": 38,
       "generados": 26,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 14:48",
+      "eta_txt": "Termina: Jue 03/09 14:49",
       "es_activa": true,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 16,
+      "nombre": "LAVANDERIA_TETONA",
+      "n_esl": 18,
+      "generados": 0,
+      "horas": 2.4,
+      "eta_txt": "Termina: Jue 03/09 17:13",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 17,
+      "nombre": "LAVANDERIA_STEFY",
+      "n_esl": 28,
+      "generados": 0,
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Jue 03/09 20:57",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
