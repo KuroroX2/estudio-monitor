@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-03 07:44:55",
+  "timestamp": "2026-09-03 07:46:01",
   "corriendo": {
     "nombre": "TAE_V5",
     "hora": "07:18",
-    "eslabon_actual": 38,
+    "eslabon_actual": 39,
     "eslabon_total": 41,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": false,
     "clip_info": {
-      "num_esl": 38,
+      "num_esl": 39,
       "tot_esl": 41,
-      "elapsed": 474,
-      "paso_num": 6,
-      "paso_str": "Decodificando VAE y guardando clip",
-      "pct": 1.0
+      "elapsed": 18,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 263,
+    "eslabones_hechos": 264,
     "eslabones_totales": 379,
-    "horas_hechas": 35.06666666666667,
-    "horas_restantes": 15.466666666666669,
-    "fecha_fin_estimada": "Jue 03/09 23:12"
+    "horas_hechas": 35.2,
+    "horas_restantes": 15.333333333333336,
+    "fecha_fin_estimada": "Jue 03/09 23:06"
   },
   "items": [
     {
@@ -184,9 +184,9 @@
       "num": 14,
       "nombre": "TAE_V5",
       "n_esl": 41,
-      "generados": 37,
+      "generados": 38,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Jue 03/09 08:16",
+      "eta_txt": "Termina: Jue 03/09 08:10",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 13:20",
+      "eta_txt": "Termina: Jue 03/09 13:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Jue 03/09 23:12",
+      "eta_txt": "Termina: Jue 03/09 23:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
