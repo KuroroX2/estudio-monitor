@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 17:25:31",
+  "timestamp": "2026-09-03 17:26:35",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA",
     "hora": "15:32",
@@ -10,9 +10,9 @@
     "clip_info": {
       "num_esl": 14,
       "tot_esl": 18,
-      "elapsed": 313,
+      "elapsed": 376,
       "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 13s)",
+      "paso_str": "Paso 5/6 de difusión (6m 16s)",
       "pct": 0.8333333333333334
     }
   },
@@ -21,7 +21,7 @@
     "eslabones_totales": 401,
     "horas_hechas": 42.400000000000006,
     "horas_restantes": 11.06666666666667,
-    "fecha_fin_estimada": "Vie 04/09 04:29"
+    "fecha_fin_estimada": "Vie 04/09 04:30"
   },
   "items": [
     {
@@ -210,7 +210,7 @@
       "n_esl": 18,
       "generados": 13,
       "horas": 2.4,
-      "eta_txt": "Termina: Jue 03/09 18:05",
+      "eta_txt": "Termina: Jue 03/09 18:06",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 21:49",
+      "eta_txt": "Termina: Jue 03/09 21:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Jue 03/09 22:53",
+      "eta_txt": "Termina: Jue 03/09 22:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -246,7 +246,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 04:29",
+      "eta_txt": "Termina: Vie 04/09 04:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
