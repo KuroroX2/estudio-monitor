@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02 20:54:40",
+  "timestamp": "2026-09-02 20:55:44",
   "corriendo": {
     "nombre": "pasillo",
     "hora": "?",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 8,
-      "elapsed": 12,
+      "elapsed": 76,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 16s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 379,
     "horas_hechas": 31.866666666666667,
     "horas_restantes": 18.66666666666667,
-    "fecha_fin_estimada": "Jue 03/09 15:34"
+    "fecha_fin_estimada": "Jue 03/09 15:35"
   },
   "items": [
     {
@@ -174,7 +174,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 00:38",
+      "eta_txt": "Termina: Jue 03/09 00:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -186,7 +186,7 @@
       "n_esl": 41,
       "generados": 41,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Jue 03/09 06:06",
+      "eta_txt": "Termina: Jue 03/09 06:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 11:10",
+      "eta_txt": "Termina: Jue 03/09 11:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Jue 03/09 21:02",
+      "eta_txt": "Termina: Jue 03/09 21:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
