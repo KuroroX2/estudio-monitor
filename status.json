@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 19:47:09",
+  "timestamp": "2026-09-03 19:48:12",
   "corriendo": {
     "nombre": "LAVANDERIA_STEFY",
     "hora": "18:54",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 18,
-      "elapsed": 174,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 54s)",
-      "pct": 0.3333333333333333
+      "elapsed": 238,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 58s)",
+      "pct": 0.5
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 461,
     "horas_hechas": 47.86666666666667,
     "horas_restantes": 13.600000000000009,
-    "fecha_fin_estimada": "Vie 04/09 09:23"
+    "fecha_fin_estimada": "Vie 04/09 09:24"
   },
   "items": [
     {
@@ -246,7 +246,7 @@
       "n_esl": 28,
       "generados": 6,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 22:43",
+      "eta_txt": "Termina: Jue 03/09 22:44",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -258,7 +258,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 03/09 22:59",
+      "eta_txt": "Termina: Jue 03/09 23:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 02:43",
+      "eta_txt": "Termina: Vie 04/09 02:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -282,7 +282,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 03:47",
+      "eta_txt": "Termina: Vie 04/09 03:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -294,7 +294,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 09:23",
+      "eta_txt": "Termina: Vie 04/09 09:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
