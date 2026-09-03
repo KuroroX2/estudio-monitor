@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 10:56:32",
+  "timestamp": "2026-09-03 10:57:37",
   "corriendo": {
     "nombre": "AONUK_V2",
     "hora": "08:48",
@@ -21,7 +21,7 @@
     "eslabones_totales": 305,
     "horas_hechas": 36.800000000000004,
     "horas_restantes": 3.866666666666667,
-    "fecha_fin_estimada": "Jue 03/09 14:48"
+    "fecha_fin_estimada": "Jue 03/09 14:49"
   },
   "items": [
     {
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 9,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 14:48",
+      "eta_txt": "Termina: Jue 03/09 14:49",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
