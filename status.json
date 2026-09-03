@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-02 22:30:18",
+  "timestamp": "2026-09-02 22:31:20",
   "corriendo": {
     "nombre": "TAE_V5",
     "hora": "21:30",
     "eslabon_actual": 7,
     "eslabon_total": 41,
-    "horas_rest": 4.8,
+    "horas_rest": 4.666666666666667,
     "suelto": false,
     "clip_info": {
       "num_esl": 7,
       "tot_esl": 41,
-      "elapsed": 30,
+      "elapsed": 47,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (0m 47s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 231,
+    "eslabones_hechos": 232,
     "eslabones_totales": 379,
-    "horas_hechas": 30.800000000000004,
-    "horas_restantes": 19.733333333333334,
-    "fecha_fin_estimada": "Jue 03/09 18:14"
+    "horas_hechas": 30.933333333333337,
+    "horas_restantes": 19.6,
+    "fecha_fin_estimada": "Jue 03/09 18:07"
   },
   "items": [
     {
@@ -184,9 +184,9 @@
       "num": 14,
       "nombre": "TAE_V5",
       "n_esl": 41,
-      "generados": 5,
+      "generados": 6,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Jue 03/09 03:18",
+      "eta_txt": "Termina: Jue 03/09 03:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 38,
       "generados": 0,
       "horas": 5.066666666666666,
-      "eta_txt": "Termina: Jue 03/09 08:22",
+      "eta_txt": "Termina: Jue 03/09 08:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 74,
       "generados": 0,
       "horas": 9.866666666666667,
-      "eta_txt": "Termina: Jue 03/09 18:14",
+      "eta_txt": "Termina: Jue 03/09 18:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
