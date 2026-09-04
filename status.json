@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-04 03:35:22",
+  "timestamp": "2026-09-04 03:36:26",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 441,
     "eslabones_totales": 547,
     "horas_hechas": 58.800000000000004,
     "horas_restantes": 14.133333333333319,
-    "fecha_fin_estimada": "Vie 04/09 17:43"
+    "fecha_fin_estimada": "Vie 04/09 17:44"
   },
   "items": [
     {
@@ -291,7 +291,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 07:19",
+      "eta_txt": "Termina: Vie 04/09 07:20",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -303,7 +303,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 11:03",
+      "eta_txt": "Termina: Vie 04/09 11:04",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -315,7 +315,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 12:07",
+      "eta_txt": "Termina: Vie 04/09 12:08",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -327,7 +327,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 17:43",
+      "eta_txt": "Termina: Vie 04/09 17:44",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
