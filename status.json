@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04 01:09:49",
+  "timestamp": "2026-09-04 01:10:53",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA_V2",
     "hora": "22:34",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 12,
       "tot_esl": 18,
-      "elapsed": 221,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 41s)",
-      "pct": 0.5
+      "elapsed": 286,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (4m 46s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 547,
     "horas_hechas": 56.53333333333334,
     "horas_restantes": 16.399999999999984,
-    "fecha_fin_estimada": "Vie 04/09 17:33"
+    "fecha_fin_estimada": "Vie 04/09 17:34"
   },
   "items": [
     {
@@ -294,7 +294,7 @@
       "n_esl": 28,
       "generados": 11,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 03:25",
+      "eta_txt": "Termina: Vie 04/09 03:26",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -306,7 +306,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 07:09",
+      "eta_txt": "Termina: Vie 04/09 07:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -318,7 +318,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 10:53",
+      "eta_txt": "Termina: Vie 04/09 10:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -330,7 +330,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 11:57",
+      "eta_txt": "Termina: Vie 04/09 11:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -342,7 +342,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 17:33",
+      "eta_txt": "Termina: Vie 04/09 17:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
