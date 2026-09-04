@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 21:48:59",
+  "timestamp": "2026-09-03 21:50:03",
   "corriendo": {
     "nombre": "CONVENCION2_LORA",
     "hora": "21:40",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 12,
+      "elapsed": 76,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Paso 1/6 de difusión (1m 16s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 547,
     "horas_hechas": 50.93333333333334,
     "horas_restantes": 21.999999999999986,
-    "fecha_fin_estimada": "Vie 04/09 19:48"
+    "fecha_fin_estimada": "Vie 04/09 19:50"
   },
   "items": [
     {
@@ -258,7 +258,7 @@
       "n_esl": 2,
       "generados": 1,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 03/09 21:56",
+      "eta_txt": "Termina: Jue 03/09 21:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 01:40",
+      "eta_txt": "Termina: Vie 04/09 01:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -282,7 +282,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 04/09 01:56",
+      "eta_txt": "Termina: Vie 04/09 01:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -294,7 +294,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 05:40",
+      "eta_txt": "Termina: Vie 04/09 05:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -306,7 +306,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 09:24",
+      "eta_txt": "Termina: Vie 04/09 09:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -318,7 +318,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 13:08",
+      "eta_txt": "Termina: Vie 04/09 13:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -330,7 +330,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 14:12",
+      "eta_txt": "Termina: Vie 04/09 14:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -342,7 +342,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 19:48",
+      "eta_txt": "Termina: Vie 04/09 19:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
