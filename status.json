@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03 20:24:12",
+  "timestamp": "2026-09-03 20:25:16",
   "corriendo": {
     "nombre": "LAVANDERIA_STEFY",
     "hora": "18:54",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 11,
       "tot_esl": 18,
-      "elapsed": 378,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (6m 18s)",
-      "pct": 0.8333333333333334
+      "elapsed": 441,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (7m 21s)",
+      "pct": 1.0
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 463,
     "horas_hechas": 48.400000000000006,
     "horas_restantes": 13.333333333333336,
-    "fecha_fin_estimada": "Vie 04/09 09:44"
+    "fecha_fin_estimada": "Vie 04/09 09:45"
   },
   "items": [
     {
@@ -246,7 +246,7 @@
       "n_esl": 28,
       "generados": 10,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Jue 03/09 22:48",
+      "eta_txt": "Termina: Jue 03/09 22:49",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -258,7 +258,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 03/09 23:04",
+      "eta_txt": "Termina: Jue 03/09 23:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 02:48",
+      "eta_txt": "Termina: Vie 04/09 02:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -282,7 +282,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 04/09 03:04",
+      "eta_txt": "Termina: Vie 04/09 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -294,7 +294,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 04:08",
+      "eta_txt": "Termina: Vie 04/09 04:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -306,7 +306,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 09:44",
+      "eta_txt": "Termina: Vie 04/09 09:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
