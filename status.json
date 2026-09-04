@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-04 01:05:32",
+  "timestamp": "2026-09-04 01:06:35",
   "corriendo": {
     "nombre": "LAVANDERIA_TETONA_V2",
     "hora": "22:34",
     "eslabon_actual": 12,
     "eslabon_total": 18,
-    "horas_rest": 1.0666666666666667,
+    "horas_rest": 0.9333333333333333,
     "suelto": false,
     "clip_info": {
       "num_esl": 12,
       "tot_esl": 18,
-      "elapsed": 24,
+      "elapsed": 28,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 423,
+    "eslabones_hechos": 424,
     "eslabones_totales": 547,
-    "horas_hechas": 56.400000000000006,
-    "horas_restantes": 16.533333333333317,
-    "fecha_fin_estimada": "Vie 04/09 17:37"
+    "horas_hechas": 56.53333333333334,
+    "horas_restantes": 16.399999999999984,
+    "fecha_fin_estimada": "Vie 04/09 17:30"
   },
   "items": [
     {
@@ -292,9 +292,9 @@
       "num": 23,
       "nombre": "LAVANDERIA_TETONA_V2",
       "n_esl": 28,
-      "generados": 10,
+      "generados": 11,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 03:29",
+      "eta_txt": "Termina: Vie 04/09 03:22",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -306,7 +306,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 07:13",
+      "eta_txt": "Termina: Vie 04/09 07:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -318,7 +318,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 04/09 10:57",
+      "eta_txt": "Termina: Vie 04/09 10:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -330,7 +330,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Vie 04/09 12:01",
+      "eta_txt": "Termina: Vie 04/09 11:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -342,7 +342,7 @@
       "n_esl": 42,
       "generados": 0,
       "horas": 5.6,
-      "eta_txt": "Termina: Vie 04/09 17:37",
+      "eta_txt": "Termina: Vie 04/09 17:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
