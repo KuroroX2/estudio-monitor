@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06 02:37:30",
+  "timestamp": "2026-09-06 02:38:58",
   "corriendo": {
     "nombre": "BJ_DOBLE_V2",
     "hora": "23:27",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 15,
       "tot_esl": 28,
-      "elapsed": 23,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 112,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (1m 52s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 88.40000000000002,
     "horas_restantes": 40.266666666666694,
-    "fecha_fin_estimada": "Lun 07/09 18:53"
+    "fecha_fin_estimada": "Lun 07/09 18:54"
   },
   "items": [
     {
@@ -426,7 +426,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Dom 06/09 06:21",
+      "eta_txt": "Termina: Dom 06/09 06:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -438,7 +438,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Dom 06/09 10:05",
+      "eta_txt": "Termina: Dom 06/09 10:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -450,7 +450,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Dom 06/09 16:13",
+      "eta_txt": "Termina: Dom 06/09 16:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -462,7 +462,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Dom 06/09 22:21",
+      "eta_txt": "Termina: Dom 06/09 22:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -474,7 +474,7 @@
       "n_esl": 28,
       "generados": 14,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 00:13",
+      "eta_txt": "Termina: Lun 07/09 00:14",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -486,7 +486,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 03:57",
+      "eta_txt": "Termina: Lun 07/09 03:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 07:41",
+      "eta_txt": "Termina: Lun 07/09 07:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 11:25",
+      "eta_txt": "Termina: Lun 07/09 11:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 15:09",
+      "eta_txt": "Termina: Lun 07/09 15:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 18:53",
+      "eta_txt": "Termina: Lun 07/09 18:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
