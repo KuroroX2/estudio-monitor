@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06 17:32:30",
+  "timestamp": "2026-09-06 17:33:36",
   "corriendo": {
     "nombre": "MASTURBACION_EXTENSA",
     "hora": "12:04",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 37,
       "tot_esl": 46,
-      "elapsed": 280,
-      "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (4m 40s)",
-      "pct": 0.6666666666666666
+      "elapsed": 346,
+      "paso_num": 5,
+      "paso_str": "Paso 5/6 de difusión (5m 46s)",
+      "pct": 0.8333333333333334
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 98.80000000000003,
     "horas_restantes": 29.86666666666669,
-    "fecha_fin_estimada": "Lun 07/09 23:24"
+    "fecha_fin_estimada": "Lun 07/09 23:25"
   },
   "items": [
     {
@@ -438,7 +438,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Dom 06/09 21:16",
+      "eta_txt": "Termina: Dom 06/09 21:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -450,7 +450,7 @@
       "n_esl": 46,
       "generados": 36,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Dom 06/09 22:36",
+      "eta_txt": "Termina: Dom 06/09 22:37",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -462,7 +462,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Lun 07/09 04:44",
+      "eta_txt": "Termina: Lun 07/09 04:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 08:28",
+      "eta_txt": "Termina: Lun 07/09 08:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 12:12",
+      "eta_txt": "Termina: Lun 07/09 12:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 15:56",
+      "eta_txt": "Termina: Lun 07/09 15:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 19:40",
+      "eta_txt": "Termina: Lun 07/09 19:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
