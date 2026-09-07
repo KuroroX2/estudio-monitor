@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 11:45:04",
+  "timestamp": "2026-09-07 11:46:29",
   "corriendo": {
     "nombre": "masturbacion_extensa",
     "hora": "?",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 46,
       "tot_esl": 46,
-      "elapsed": 57835,
+      "elapsed": 57920,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -21,7 +21,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mar 08/09 16:17"
+    "fecha_fin_estimada": "Mar 08/09 16:18"
   },
   "items": [
     {
@@ -474,7 +474,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 15:29",
+      "eta_txt": "Termina: Lun 07/09 15:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -486,7 +486,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Lun 07/09 21:37",
+      "eta_txt": "Termina: Lun 07/09 21:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 01:21",
+      "eta_txt": "Termina: Mar 08/09 01:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 05:05",
+      "eta_txt": "Termina: Mar 08/09 05:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 08:49",
+      "eta_txt": "Termina: Mar 08/09 08:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 12:33",
+      "eta_txt": "Termina: Mar 08/09 12:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
