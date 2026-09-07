@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-07 18:33:35",
+  "timestamp": "2026-09-07 18:34:39",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 751,
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mar 08/09 23:05"
+    "fecha_fin_estimada": "Mar 08/09 23:06"
   },
   "items": [
     {
@@ -459,7 +459,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 22:17",
+      "eta_txt": "Termina: Lun 07/09 22:18",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -471,7 +471,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 04:25",
+      "eta_txt": "Termina: Mar 08/09 04:26",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -483,7 +483,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 08:09",
+      "eta_txt": "Termina: Mar 08/09 08:10",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -495,7 +495,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 11:53",
+      "eta_txt": "Termina: Mar 08/09 11:54",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -507,7 +507,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 15:37",
+      "eta_txt": "Termina: Mar 08/09 15:38",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -519,7 +519,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 19:21",
+      "eta_txt": "Termina: Mar 08/09 19:22",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
