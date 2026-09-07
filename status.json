@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-07 19:57:19",
+  "timestamp": "2026-09-07 19:58:29",
   "corriendo": {
-    "nombre": "D_175",
+    "nombre": "E_192",
     "hora": "?",
     "eslabon_actual": 0,
     "eslabon_total": null,
@@ -14,7 +14,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mié 09/09 00:29"
+    "fecha_fin_estimada": "Mié 09/09 00:30"
   },
   "items": [
     {
@@ -467,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Lun 07/09 23:41",
+      "eta_txt": "Termina: Lun 07/09 23:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -479,7 +479,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 05:49",
+      "eta_txt": "Termina: Mar 08/09 05:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -491,7 +491,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 09:33",
+      "eta_txt": "Termina: Mar 08/09 09:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -503,7 +503,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 13:17",
+      "eta_txt": "Termina: Mar 08/09 13:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +515,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 17:01",
+      "eta_txt": "Termina: Mar 08/09 17:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -527,7 +527,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 20:45",
+      "eta_txt": "Termina: Mar 08/09 20:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
