@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 20:39:31",
+  "timestamp": "2026-09-07 20:40:34",
   "corriendo": {
     "nombre": "jota_ska_01_intro_desiertos",
     "hora": "?",
@@ -14,7 +14,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mié 09/09 01:11"
+    "fecha_fin_estimada": "Mié 09/09 01:12"
   },
   "items": [
     {
@@ -467,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 00:23",
+      "eta_txt": "Termina: Mar 08/09 00:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -479,7 +479,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 06:31",
+      "eta_txt": "Termina: Mar 08/09 06:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -491,7 +491,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 10:15",
+      "eta_txt": "Termina: Mar 08/09 10:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -503,7 +503,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 13:59",
+      "eta_txt": "Termina: Mar 08/09 14:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +515,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 17:43",
+      "eta_txt": "Termina: Mar 08/09 17:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -527,7 +527,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 21:27",
+      "eta_txt": "Termina: Mar 08/09 21:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
