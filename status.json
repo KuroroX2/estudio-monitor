@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08 19:59:43",
+  "timestamp": "2026-09-08 19:59:52",
   "corriendo": {
     "nombre": "LORAS_ACTOS",
     "hora": "12:45",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 459,
+      "elapsed": 469,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
