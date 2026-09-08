@@ -1,27 +1,20 @@
 {
-  "timestamp": "2026-09-08 05:12:57",
+  "timestamp": "2026-09-08 05:14:01",
   "corriendo": {
-    "nombre": "LORAS_INTENSIVA",
-    "hora": "05:02",
-    "eslabon_actual": 1,
-    "eslabon_total": 6,
-    "horas_rest": 0.6666666666666666,
+    "nombre": "WEBCAM.PY",
+    "hora": "05:13",
+    "eslabon_actual": 0,
+    "eslabon_total": null,
+    "horas_rest": null,
     "suelto": true,
-    "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 6,
-      "elapsed": 118944,
-      "paso_num": 6,
-      "paso_str": "Decodificando VAE y guardando clip",
-      "pct": 1.0
-    }
+    "clip_info": null
   },
   "global": {
     "eslabones_hechos": 670,
     "eslabones_totales": 940,
     "horas_hechas": 89.33333333333336,
     "horas_restantes": 36.0,
-    "fecha_fin_estimada": "Mié 09/09 17:12"
+    "fecha_fin_estimada": "Mié 09/09 17:14"
   },
   "items": [
     {
@@ -474,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 08:56",
+      "eta_txt": "Termina: Mar 08/09 08:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -486,11 +479,11 @@
       "n_esl": 57,
       "generados": 0,
       "horas": 7.6,
-      "eta_txt": "Termina: Mar 08/09 16:32",
+      "eta_txt": "Falló (código 1)",
       "es_activa": false,
       "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
+      "es_fallo": true,
+      "es_reintento": false
     },
     {
       "num": 40,
@@ -498,7 +491,7 @@
       "n_esl": 32,
       "generados": 0,
       "horas": 4.266666666666667,
-      "eta_txt": "Termina: Mar 08/09 20:48",
+      "eta_txt": "Termina: Mar 08/09 13:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +515,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 08/09 21:20",
+      "eta_txt": "Termina: Mar 08/09 13:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -546,7 +539,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mié 09/09 03:28",
+      "eta_txt": "Termina: Mar 08/09 19:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -558,7 +551,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 07:12",
+      "eta_txt": "Termina: Mar 08/09 23:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +563,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 10:56",
+      "eta_txt": "Termina: Mié 09/09 03:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -582,7 +575,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 14:40",
+      "eta_txt": "Termina: Mié 09/09 07:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
