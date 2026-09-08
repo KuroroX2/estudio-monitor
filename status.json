@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 21:17:26",
+  "timestamp": "2026-09-07 21:18:32",
   "corriendo": {
     "nombre": "jota_ska_02_intro_skank",
     "hora": "?",
@@ -14,7 +14,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mié 09/09 01:49"
+    "fecha_fin_estimada": "Mié 09/09 01:50"
   },
   "items": [
     {
@@ -467,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 01:01",
+      "eta_txt": "Termina: Mar 08/09 01:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -479,7 +479,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 07:09",
+      "eta_txt": "Termina: Mar 08/09 07:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -491,7 +491,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 10:53",
+      "eta_txt": "Termina: Mar 08/09 10:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -503,7 +503,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 14:37",
+      "eta_txt": "Termina: Mar 08/09 14:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +515,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 18:21",
+      "eta_txt": "Termina: Mar 08/09 18:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -527,7 +527,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 22:05",
+      "eta_txt": "Termina: Mar 08/09 22:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
