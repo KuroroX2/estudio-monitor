@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08 10:39:46",
+  "timestamp": "2026-09-08 10:40:50",
   "corriendo": {
     "nombre": "LORAS_INTENSIVA",
     "hora": "10:38",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 6,
-      "elapsed": 138553,
+      "elapsed": 138617,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -21,7 +21,7 @@
     "eslabones_totales": 940,
     "horas_hechas": 89.33333333333336,
     "horas_restantes": 36.0,
-    "fecha_fin_estimada": "Mié 09/09 22:39"
+    "fecha_fin_estimada": "Mié 09/09 22:40"
   },
   "items": [
     {
@@ -498,7 +498,7 @@
       "n_esl": 57,
       "generados": 0,
       "horas": 7.6,
-      "eta_txt": "Termina: Mar 08/09 18:15",
+      "eta_txt": "Termina: Mar 08/09 18:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 32,
       "generados": 0,
       "horas": 4.266666666666667,
-      "eta_txt": "Termina: Mar 08/09 22:31",
+      "eta_txt": "Termina: Mar 08/09 22:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 11,
       "generados": 0,
       "horas": 1.4666666666666666,
-      "eta_txt": "Termina: Mar 08/09 23:59",
+      "eta_txt": "Termina: Mié 09/09 00:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mié 09/09 06:07",
+      "eta_txt": "Termina: Mié 09/09 06:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -546,7 +546,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 09:51",
+      "eta_txt": "Termina: Mié 09/09 09:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -558,7 +558,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 13:35",
+      "eta_txt": "Termina: Mié 09/09 13:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +570,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 17:19",
+      "eta_txt": "Termina: Mié 09/09 17:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -582,7 +582,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 21:03",
+      "eta_txt": "Termina: Mié 09/09 21:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
