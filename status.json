@@ -1,20 +1,27 @@
 {
-  "timestamp": "2026-09-08 05:01:13",
+  "timestamp": "2026-09-08 05:02:17",
   "corriendo": {
-    "nombre": "PROBAR_TROZOS",
+    "nombre": "LORAS_ACTOS",
     "hora": "04:47",
     "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": null,
-    "suelto": true,
-    "clip_info": null
+    "eslabon_total": 57,
+    "horas_rest": 7.6,
+    "suelto": false,
+    "clip_info": {
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 852,
+      "paso_num": 6,
+      "paso_str": "Decodificando VAE y guardando clip",
+      "pct": 1.0
+    }
   },
   "global": {
     "eslabones_hechos": 670,
     "eslabones_totales": 940,
     "horas_hechas": 89.33333333333336,
     "horas_restantes": 36.0,
-    "fecha_fin_estimada": "Mié 09/09 17:01"
+    "fecha_fin_estimada": "Mié 09/09 17:02"
   },
   "items": [
     {
@@ -467,7 +474,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 08:45",
+      "eta_txt": "Termina: Mar 08/09 08:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -479,11 +486,11 @@
       "n_esl": 57,
       "generados": 0,
       "horas": 7.6,
-      "eta_txt": "Termina: Mar 08/09 16:21",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 08/09 16:22",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 40,
@@ -491,7 +498,7 @@
       "n_esl": 32,
       "generados": 0,
       "horas": 4.266666666666667,
-      "eta_txt": "Termina: Mar 08/09 20:37",
+      "eta_txt": "Termina: Mar 08/09 20:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +522,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 08/09 21:09",
+      "eta_txt": "Termina: Mar 08/09 21:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -539,7 +546,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mié 09/09 03:17",
+      "eta_txt": "Termina: Mié 09/09 03:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -551,7 +558,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 07:01",
+      "eta_txt": "Termina: Mié 09/09 07:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -563,7 +570,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 10:45",
+      "eta_txt": "Termina: Mié 09/09 10:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -575,7 +582,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 14:29",
+      "eta_txt": "Termina: Mié 09/09 14:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
