@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 21:44:51",
+  "timestamp": "2026-09-07 21:45:59",
   "corriendo": {
     "nombre": "jota_ska_05_carg_tienda",
     "hora": "?",
@@ -14,7 +14,7 @@
     "eslabones_totales": 965,
     "horas_hechas": 100.13333333333337,
     "horas_restantes": 28.533333333333346,
-    "fecha_fin_estimada": "Mié 09/09 02:16"
+    "fecha_fin_estimada": "Mié 09/09 02:17"
   },
   "items": [
     {
@@ -467,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 01:28",
+      "eta_txt": "Termina: Mar 08/09 01:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -479,7 +479,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 07:36",
+      "eta_txt": "Termina: Mar 08/09 07:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -491,7 +491,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 11:20",
+      "eta_txt": "Termina: Mar 08/09 11:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -503,7 +503,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 15:04",
+      "eta_txt": "Termina: Mar 08/09 15:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +515,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 18:48",
+      "eta_txt": "Termina: Mar 08/09 18:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -527,7 +527,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 22:32",
+      "eta_txt": "Termina: Mar 08/09 22:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
