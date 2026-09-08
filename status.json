@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08 05:16:08",
+  "timestamp": "2026-09-08 05:17:13",
   "corriendo": {
     "nombre": "WEBCAM.PY",
     "hora": "05:13",
@@ -14,7 +14,7 @@
     "eslabones_totales": 940,
     "horas_hechas": 89.33333333333336,
     "horas_restantes": 36.0,
-    "fecha_fin_estimada": "Mié 09/09 17:16"
+    "fecha_fin_estimada": "Mié 09/09 17:17"
   },
   "items": [
     {
@@ -467,7 +467,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 09:00",
+      "eta_txt": "Termina: Mar 08/09 09:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -491,7 +491,7 @@
       "n_esl": 32,
       "generados": 0,
       "horas": 4.266666666666667,
-      "eta_txt": "Termina: Mar 08/09 13:16",
+      "eta_txt": "Termina: Mar 08/09 13:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -515,7 +515,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 08/09 13:48",
+      "eta_txt": "Termina: Mar 08/09 13:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -539,7 +539,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 19:56",
+      "eta_txt": "Termina: Mar 08/09 19:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -551,7 +551,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 23:40",
+      "eta_txt": "Termina: Mar 08/09 23:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -563,7 +563,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 03:24",
+      "eta_txt": "Termina: Mié 09/09 03:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -575,7 +575,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 07:08",
+      "eta_txt": "Termina: Mié 09/09 07:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
