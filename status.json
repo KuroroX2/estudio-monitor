@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 23:30:24",
+  "timestamp": "2026-09-07 23:31:28",
   "corriendo": {
     "nombre": "JOTA_SKA",
     "hora": "22:03",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 173,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 53s)",
-      "pct": 0.3333333333333333
+      "elapsed": 237,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 57s)",
+      "pct": 0.5
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 958,
     "horas_hechas": 86.93333333333335,
     "horas_restantes": 40.8,
-    "fecha_fin_estimada": "Mié 09/09 16:18"
+    "fecha_fin_estimada": "Mié 09/09 16:19"
   },
   "items": [
     {
@@ -462,7 +462,7 @@
       "n_esl": 30,
       "generados": 12,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 08/09 01:54",
+      "eta_txt": "Termina: Mar 08/09 01:55",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -474,7 +474,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 05:38",
+      "eta_txt": "Termina: Mar 08/09 05:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -482,59 +482,59 @@
     },
     {
       "num": 39,
-      "nombre": "BJ_LARGO",
-      "n_esl": 46,
-      "generados": 0,
-      "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mar 08/09 11:46",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 40,
-      "nombre": "DP",
-      "n_esl": 28,
-      "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 15:30",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 41,
-      "nombre": "FF_COMPETENCIA",
-      "n_esl": 28,
-      "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 19:14",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 42,
-      "nombre": "FF_TIJERAS",
-      "n_esl": 28,
-      "generados": 0,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 22:58",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 43,
       "nombre": "LORAS_ACTOS",
       "n_esl": 57,
       "generados": 0,
       "horas": 7.6,
-      "eta_txt": "Termina: Mié 09/09 06:34",
+      "eta_txt": "Termina: Mar 08/09 13:15",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 40,
+      "nombre": "LORAS_CONTINUOS",
+      "n_esl": 38,
+      "generados": 0,
+      "horas": 5.066666666666666,
+      "eta_txt": "Termina: Mar 08/09 18:19",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 41,
+      "nombre": "LORAS_CAMARA",
+      "n_esl": 14,
+      "generados": 0,
+      "horas": 1.8666666666666667,
+      "eta_txt": "Termina: Mar 08/09 20:11",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 42,
+      "nombre": "LORAS_VOZ",
+      "n_esl": 10,
+      "generados": 0,
+      "horas": 1.3333333333333333,
+      "eta_txt": "Termina: Mar 08/09 21:31",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 43,
+      "nombre": "LORAS_ESTILO",
+      "n_esl": 11,
+      "generados": 0,
+      "horas": 1.4666666666666666,
+      "eta_txt": "Termina: Mar 08/09 22:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -542,51 +542,51 @@
     },
     {
       "num": 44,
-      "nombre": "LORAS_CONTINUOS",
-      "n_esl": 38,
+      "nombre": "BJ_LARGO",
+      "n_esl": 46,
       "generados": 0,
-      "horas": 5.066666666666666,
-      "eta_txt": "Termina: Mié 09/09 11:38",
+      "horas": 6.133333333333334,
+      "eta_txt": "Termina: Mié 09/09 05:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": true
     },
     {
       "num": 45,
-      "nombre": "LORAS_CAMARA",
-      "n_esl": 14,
+      "nombre": "DP",
+      "n_esl": 28,
       "generados": 0,
-      "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 09/09 13:30",
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Mié 09/09 08:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 46,
-      "nombre": "LORAS_VOZ",
-      "n_esl": 10,
+      "nombre": "FF_COMPETENCIA",
+      "n_esl": 28,
       "generados": 0,
-      "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mié 09/09 14:50",
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Mié 09/09 12:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 47,
-      "nombre": "LORAS_ESTILO",
-      "n_esl": 11,
+      "nombre": "FF_TIJERAS",
+      "n_esl": 28,
       "generados": 0,
-      "horas": 1.4666666666666666,
-      "eta_txt": "Termina: Mié 09/09 16:18",
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Mié 09/09 16:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     }
   ]
 }
