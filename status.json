@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07 22:24:00",
+  "timestamp": "2026-09-07 22:24:52",
   "corriendo": {
     "nombre": "JOTA_SKA",
     "hora": "22:03",
@@ -10,9 +10,9 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 123,
+      "elapsed": 175,
       "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 03s)",
+      "paso_str": "Paso 2/6 de difusión (2m 55s)",
       "pct": 0.3333333333333333
     }
   },
