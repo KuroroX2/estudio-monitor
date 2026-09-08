@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08 08:29:02",
+  "timestamp": "2026-09-08 08:30:06",
   "corriendo": {
     "nombre": "JOTA_SKA",
     "hora": "07:56",
@@ -10,10 +10,10 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 131,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 11s)",
-      "pct": 0.3333333333333333
+      "elapsed": 195,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 15s)",
+      "pct": 0.5
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 940,
     "horas_hechas": 89.4666666666667,
     "horas_restantes": 35.86666666666666,
-    "fecha_fin_estimada": "Mié 09/09 20:21"
+    "fecha_fin_estimada": "Mié 09/09 20:22"
   },
   "items": [
     {
@@ -474,7 +474,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mar 08/09 12:13",
+      "eta_txt": "Termina: Mar 08/09 12:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -486,7 +486,7 @@
       "n_esl": 57,
       "generados": 0,
       "horas": 7.6,
-      "eta_txt": "Termina: Mar 08/09 19:49",
+      "eta_txt": "Termina: Mar 08/09 19:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 32,
       "generados": 0,
       "horas": 4.266666666666667,
-      "eta_txt": "Termina: Mié 09/09 00:05",
+      "eta_txt": "Termina: Mié 09/09 00:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 11,
       "generados": 0,
       "horas": 1.4666666666666666,
-      "eta_txt": "Termina: Mié 09/09 01:33",
+      "eta_txt": "Termina: Mié 09/09 01:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -546,7 +546,7 @@
       "n_esl": 46,
       "generados": 0,
       "horas": 6.133333333333334,
-      "eta_txt": "Termina: Mié 09/09 07:41",
+      "eta_txt": "Termina: Mié 09/09 07:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -558,7 +558,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 11:25",
+      "eta_txt": "Termina: Mié 09/09 11:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +570,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 15:09",
+      "eta_txt": "Termina: Mié 09/09 15:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -582,7 +582,7 @@
       "n_esl": 28,
       "generados": 0,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Mié 09/09 18:53",
+      "eta_txt": "Termina: Mié 09/09 18:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
