@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-09-09 20:21:45",
+  "timestamp": "2026-09-09 20:32:05",
   "corriendo": {
     "nombre": "BJ_LORAS",
     "hora": "19:25",
-    "eslabon_actual": 32,
+    "eslabon_actual": 33,
     "eslabon_total": 46,
-    "horas_rest": 5.066666666666666,
+    "horas_rest": 4.933333333333334,
     "suelto": true,
     "clip_info": {
-      "num_esl": 32,
+      "num_esl": 33,
       "tot_esl": 46,
-      "elapsed": 52,
+      "elapsed": 102,
       "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (0m 52s)",
+      "paso_str": "Paso 1/6 de difusión (1m 42s)",
       "pct": 0.16666666666666666
     }
   },
@@ -21,7 +21,7 @@
     "eslabones_totales": 785,
     "horas_hechas": 96.93333333333335,
     "horas_restantes": 7.733333333333334,
-    "fecha_fin_estimada": "Jue 10/09 04:05"
+    "fecha_fin_estimada": "Jue 10/09 04:16"
   },
   "items": [
     {
@@ -486,7 +486,7 @@
       "n_esl": 58,
       "generados": 0,
       "horas": 7.733333333333333,
-      "eta_txt": "Termina: Jue 10/09 04:05",
+      "eta_txt": "Termina: Jue 10/09 04:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
