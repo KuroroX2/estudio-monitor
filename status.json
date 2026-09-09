@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-09 20:32:05",
+  "timestamp": "2026-09-09 20:42:30",
   "corriendo": {
     "nombre": "BJ_LORAS",
     "hora": "19:25",
-    "eslabon_actual": 33,
+    "eslabon_actual": 34,
     "eslabon_total": 46,
-    "horas_rest": 4.933333333333334,
+    "horas_rest": 4.8,
     "suelto": true,
     "clip_info": {
-      "num_esl": 33,
+      "num_esl": 34,
       "tot_esl": 46,
-      "elapsed": 102,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 42s)",
-      "pct": 0.16666666666666666
+      "elapsed": 192,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 12s)",
+      "pct": 0.5
     }
   },
   "global": {
     "eslabones_hechos": 727,
-    "eslabones_totales": 785,
+    "eslabones_totales": 815,
     "horas_hechas": 96.93333333333335,
-    "horas_restantes": 7.733333333333334,
-    "fecha_fin_estimada": "Jue 10/09 04:16"
+    "horas_restantes": 11.733333333333334,
+    "fecha_fin_estimada": "Jue 10/09 08:26"
   },
   "items": [
     {
@@ -486,11 +486,23 @@
       "n_esl": 58,
       "generados": 0,
       "horas": 7.733333333333333,
-      "eta_txt": "Termina: Jue 10/09 04:16",
+      "eta_txt": "Termina: Jue 10/09 04:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
+    },
+    {
+      "num": 40,
+      "nombre": "LESBI_LORAS",
+      "n_esl": 30,
+      "generados": 0,
+      "horas": 4.0,
+      "eta_txt": "Termina: Jue 10/09 08:26",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
