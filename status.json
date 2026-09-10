@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-09 21:55:39",
+  "timestamp": "2026-09-09 22:05:56",
   "corriendo": {
     "nombre": "BJ_LORAS",
     "hora": "19:25",
-    "eslabon_actual": 42,
+    "eslabon_actual": 43,
     "eslabon_total": 46,
-    "horas_rest": 3.7333333333333334,
+    "horas_rest": 3.6,
     "suelto": true,
     "clip_info": {
-      "num_esl": 42,
+      "num_esl": 43,
       "tot_esl": 46,
-      "elapsed": 121,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 01s)",
-      "pct": 0.3333333333333333
+      "elapsed": 182,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 02s)",
+      "pct": 0.5
     }
   },
   "global": {
     "eslabones_hechos": 727,
-    "eslabones_totales": 851,
+    "eslabones_totales": 854,
     "horas_hechas": 96.93333333333335,
-    "horas_restantes": 16.533333333333317,
-    "fecha_fin_estimada": "Jue 10/09 14:27"
+    "horas_restantes": 16.933333333333323,
+    "fecha_fin_estimada": "Jue 10/09 15:01"
   },
   "items": [
     {
@@ -482,35 +482,35 @@
     },
     {
       "num": 39,
-      "nombre": "JOTA_EXTRA",
-      "n_esl": 58,
+      "nombre": "TECHO_FOTOGRAMAS",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 7.733333333333333,
-      "eta_txt": "Termina: Jue 10/09 05:39",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 40,
-      "nombre": "DERIVA_FIJA",
-      "n_esl": 12,
-      "generados": 0,
-      "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 07:15",
+      "horas": 0.4,
+      "eta_txt": "Termina: Mié 09/09 22:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
+      "num": 40,
+      "nombre": "JOTA_EXTRA",
+      "n_esl": 58,
+      "generados": 0,
+      "horas": 7.733333333333333,
+      "eta_txt": "Termina: Jue 10/09 06:13",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
       "num": 41,
-      "nombre": "DERIVA_CAMBIA",
+      "nombre": "DERIVA_FIJA",
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 08:51",
+      "eta_txt": "Termina: Jue 10/09 07:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -518,11 +518,11 @@
     },
     {
       "num": 42,
-      "nombre": "DERIVA_ANCLADA",
+      "nombre": "DERIVA_CAMBIA",
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 10:27",
+      "eta_txt": "Termina: Jue 10/09 09:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -530,11 +530,23 @@
     },
     {
       "num": 43,
+      "nombre": "DERIVA_ANCLADA",
+      "n_esl": 12,
+      "generados": 0,
+      "horas": 1.6,
+      "eta_txt": "Termina: Jue 10/09 11:01",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 44,
       "nombre": "LESBI_LORAS",
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Jue 10/09 14:27",
+      "eta_txt": "Termina: Jue 10/09 15:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
