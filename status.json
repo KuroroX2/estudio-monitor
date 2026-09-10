@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-10 18:07:48",
+  "timestamp": "2026-09-10 18:12:57",
   "corriendo": {
-    "nombre": "DERIVA_FIJA",
-    "hora": "16:23",
-    "eslabon_actual": 23,
+    "nombre": "DERIVA_ANCLADA",
+    "hora": "18:12",
+    "eslabon_actual": 1,
     "eslabon_total": 12,
-    "horas_rest": 0.0,
+    "horas_rest": 1.6,
     "suelto": true,
     "clip_info": {
-      "num_esl": 12,
+      "num_esl": 1,
       "tot_esl": 12,
-      "elapsed": 298,
-      "paso_num": 4,
-      "paso_str": "Paso 4/6 de difusión (4m 58s)",
-      "pct": 0.6666666666666666
+      "elapsed": 5,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 865,
+    "eslabones_hechos": 854,
     "eslabones_totales": 920,
-    "horas_hechas": 115.33333333333334,
-    "horas_restantes": 7.333333333333314,
-    "fecha_fin_estimada": "Vie 11/09 01:27"
+    "horas_hechas": 113.86666666666667,
+    "horas_restantes": 8.799999999999983,
+    "fecha_fin_estimada": "Vie 11/09 03:00"
   },
   "items": [
     {
@@ -508,11 +508,11 @@
       "num": 41,
       "nombre": "DERIVA_FIJA",
       "n_esl": 12,
-      "generados": 23,
+      "generados": 12,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 18:07",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
     },
@@ -534,8 +534,8 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 19:43",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 10/09 19:48",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -546,7 +546,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 21:19",
+      "eta_txt": "Termina: Jue 10/09 21:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -558,7 +558,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 22:55",
+      "eta_txt": "Termina: Jue 10/09 23:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +570,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Vie 11/09 02:55",
+      "eta_txt": "Termina: Vie 11/09 03:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
