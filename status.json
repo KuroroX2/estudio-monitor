@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-10 19:02:30",
+  "timestamp": "2026-09-10 19:13:35",
   "corriendo": {
     "nombre": "DERIVA_ANCLADA",
     "hora": "18:12",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 12,
-    "horas_rest": 0.8,
+    "horas_rest": 0.6666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 12,
-      "elapsed": 82,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 22s)",
-      "pct": 0.16666666666666666
+      "elapsed": 229,
+      "paso_num": 3,
+      "paso_str": "Paso 3/6 de difusión (3m 49s)",
+      "pct": 0.5
     }
   },
   "global": {
-    "eslabones_hechos": 860,
+    "eslabones_hechos": 861,
     "eslabones_totales": 920,
-    "horas_hechas": 114.66666666666667,
-    "horas_restantes": 7.999999999999986,
-    "fecha_fin_estimada": "Vie 11/09 03:02"
+    "horas_hechas": 114.80000000000001,
+    "horas_restantes": 7.866666666666646,
+    "fecha_fin_estimada": "Vie 11/09 03:05"
   },
   "items": [
     {
@@ -532,9 +532,9 @@
       "num": 43,
       "nombre": "DERIVA_ANCLADA",
       "n_esl": 12,
-      "generados": 6,
+      "generados": 7,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 19:50",
+      "eta_txt": "Termina: Jue 10/09 19:53",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -546,7 +546,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 21:26",
+      "eta_txt": "Termina: Jue 10/09 21:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -558,7 +558,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 23:02",
+      "eta_txt": "Termina: Jue 10/09 23:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +570,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Vie 11/09 03:02",
+      "eta_txt": "Termina: Vie 11/09 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
