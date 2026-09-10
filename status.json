@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-09 21:29:26",
+  "timestamp": "2026-09-09 21:39:50",
   "corriendo": {
     "nombre": "BJ_LORAS",
     "hora": "19:25",
-    "eslabon_actual": 39,
+    "eslabon_actual": 40,
     "eslabon_total": 46,
-    "horas_rest": 4.133333333333334,
+    "horas_rest": 4.0,
     "suelto": true,
     "clip_info": {
-      "num_esl": 39,
+      "num_esl": 40,
       "tot_esl": 46,
-      "elapsed": 225,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 45s)",
-      "pct": 0.5
+      "elapsed": 303,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (5m 03s)",
+      "pct": 0.6666666666666666
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 851,
     "horas_hechas": 96.93333333333335,
     "horas_restantes": 16.533333333333317,
-    "fecha_fin_estimada": "Jue 10/09 14:01"
+    "fecha_fin_estimada": "Jue 10/09 14:11"
   },
   "items": [
     {
@@ -486,7 +486,7 @@
       "n_esl": 58,
       "generados": 0,
       "horas": 7.733333333333333,
-      "eta_txt": "Termina: Jue 10/09 05:13",
+      "eta_txt": "Termina: Jue 10/09 05:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 06:49",
+      "eta_txt": "Termina: Jue 10/09 06:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 08:25",
+      "eta_txt": "Termina: Jue 10/09 08:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Jue 10/09 10:01",
+      "eta_txt": "Termina: Jue 10/09 10:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -534,7 +534,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Jue 10/09 14:01",
+      "eta_txt": "Termina: Jue 10/09 14:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
