@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10 23:35:44",
+  "timestamp": "2026-09-11 01:36:46",
   "corriendo": {
     "nombre": "FICHA_VISUAL",
     "hora": "23:35",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 4,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 152,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (2m 32s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
-    "eslabones_hechos": 897,
-    "eslabones_totales": 1121,
-    "horas_hechas": 119.60000000000001,
-    "horas_restantes": 29.86666666666666,
-    "fecha_fin_estimada": "Sáb 12/09 05:27"
+    "eslabones_hechos": 895,
+    "eslabones_totales": 1119,
+    "horas_hechas": 119.33333333333334,
+    "horas_restantes": 29.866666666666674,
+    "fecha_fin_estimada": "Sáb 12/09 07:28"
   },
   "items": [
     {
@@ -555,10 +555,10 @@
     {
       "num": 45,
       "nombre": "LESBI_LORAS",
-      "n_esl": 30,
-      "generados": 30,
-      "horas": 4.0,
-      "eta_txt": "Termina: Vie 11/09 03:35",
+      "n_esl": 28,
+      "generados": 28,
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Vie 11/09 05:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -570,7 +570,7 @@
       "n_esl": 210,
       "generados": 1,
       "horas": 28.0,
-      "eta_txt": "Termina: Sáb 12/09 07:27",
+      "eta_txt": "Termina: Sáb 12/09 09:12",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -582,7 +582,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Sáb 12/09 07:51",
+      "eta_txt": "Termina: Sáb 12/09 09:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
