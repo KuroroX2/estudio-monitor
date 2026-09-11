@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-09-11 18:51:03",
+  "timestamp": "2026-09-11 18:56:24",
   "corriendo": {
-    "nombre": "WEB_0911_DOS_BESO_TETONA11_STEFY5",
-    "hora": "18:33",
-    "eslabon_actual": 2,
+    "nombre": "WEB_0911_BAILE_BJ_TETONA11",
+    "hora": "18:52",
+    "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
     "suelto": true,
     "clip_info": null
   },
   "global": {
-    "eslabones_hechos": 1154,
-    "eslabones_totales": 1362,
-    "horas_hechas": 153.86666666666676,
-    "horas_restantes": 27.73333333333335,
-    "fecha_fin_estimada": "Sáb 12/09 22:35"
+    "eslabones_hechos": 1156,
+    "eslabones_totales": 1802,
+    "horas_hechas": 154.13333333333344,
+    "horas_restantes": 86.13333333333333,
+    "fecha_fin_estimada": "Mar 15/09 09:04"
   },
   "items": [
     {
@@ -719,7 +719,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 19:15",
+      "eta_txt": "Termina: Vie 11/09 19:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -729,13 +729,13 @@
       "num": 60,
       "nombre": "WEB_0911_dos_beso",
       "n_esl": 2,
-      "generados": 0,
+      "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 19:31",
+      "eta_txt": "Completado",
       "es_activa": false,
-      "es_hecha": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 61,
@@ -743,7 +743,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Vie 11/09 20:03",
+      "eta_txt": "Termina: Vie 11/09 19:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -751,30 +751,42 @@
     },
     {
       "num": 62,
-      "nombre": "LESBI_LORAS",
-      "n_esl": 28,
-      "generados": 28,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 11/09 23:47",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 63,
-      "nombre": "JOTA_EXTRA_FALTAN",
-      "n_esl": 3,
+      "nombre": "WEB_0911_convencion_pov",
+      "n_esl": 27,
       "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Sáb 12/09 00:11",
+      "horas": 3.6,
+      "eta_txt": "Termina: Vie 11/09 23:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
+      "num": 63,
+      "nombre": "LESBI_LORAS",
+      "n_esl": 28,
+      "generados": 28,
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Sáb 12/09 03:12",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": false
+    },
+    {
       "num": 64,
+      "nombre": "JOTA_EXTRA_FALTAN",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Sáb 12/09 03:36",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 65,
       "nombre": "FICHA_VISUAL_V2",
       "n_esl": 184,
       "generados": 0,
@@ -784,6 +796,30 @@
       "es_hecha": false,
       "es_fallo": true,
       "es_reintento": false
+    },
+    {
+      "num": 66,
+      "nombre": "FICHA_VISUAL_V3",
+      "n_esl": 182,
+      "generados": 0,
+      "horas": 24.266666666666666,
+      "eta_txt": "Termina: Dom 13/09 03:52",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 67,
+      "nombre": "JOTA_EXTRA_2",
+      "n_esl": 231,
+      "generados": 0,
+      "horas": 30.8,
+      "eta_txt": "Termina: Lun 14/09 10:40",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
