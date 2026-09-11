@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-11 15:29:55",
+  "timestamp": "2026-09-11 15:35:17",
   "corriendo": {
-    "nombre": "WEB_0911_mamada_concierto_v3_deepthroat",
+    "nombre": "WEB_0911_MAMADA_CONCIERTO_V3_DEEPTHROAT",
     "hora": "15:26",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 225,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 45s)",
-      "pct": 0.5
+      "elapsed": 152,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (2m 32s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 1341,
     "horas_hechas": 150.40000000000006,
     "horas_restantes": 28.400000000000063,
-    "fecha_fin_estimada": "Sáb 12/09 19:53"
+    "fecha_fin_estimada": "Sáb 12/09 19:59"
   },
   "items": [
     {
@@ -650,12 +650,12 @@
     },
     {
       "num": 53,
-      "nombre": "WEB_0911_mamada_concierto_v3_deepthroat",
+      "nombre": "WEB_0911_mamada_concierto_v3_hmnsfw",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 15:45",
-      "es_activa": true,
+      "eta_txt": "Termina: Vie 11/09 15:51",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -666,7 +666,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 16:01",
+      "eta_txt": "Termina: Vie 11/09 16:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -678,7 +678,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 16:17",
+      "eta_txt": "Termina: Vie 11/09 16:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -690,7 +690,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 16:33",
+      "eta_txt": "Termina: Vie 11/09 16:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -702,7 +702,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 16:49",
+      "eta_txt": "Termina: Vie 11/09 16:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -714,7 +714,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Vie 11/09 17:21",
+      "eta_txt": "Termina: Vie 11/09 17:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -726,7 +726,7 @@
       "n_esl": 28,
       "generados": 28,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 11/09 21:05",
+      "eta_txt": "Termina: Vie 11/09 21:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -738,7 +738,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 21:29",
+      "eta_txt": "Termina: Vie 11/09 21:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
