@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-11 18:34:05",
+  "timestamp": "2026-09-11 18:45:36",
   "corriendo": {
     "nombre": "WEB_0911_DOS_BESO_TETONA11_STEFY5",
     "hora": "18:33",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": null,
     "horas_rest": null,
     "suelto": true,
@@ -14,7 +14,7 @@
     "eslabones_totales": 1362,
     "horas_hechas": 153.86666666666676,
     "horas_restantes": 27.73333333333335,
-    "fecha_fin_estimada": "Sáb 12/09 22:18"
+    "fecha_fin_estimada": "Sáb 12/09 22:29"
   },
   "items": [
     {
@@ -719,7 +719,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 18:58",
+      "eta_txt": "Termina: Vie 11/09 19:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -731,7 +731,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Vie 11/09 19:14",
+      "eta_txt": "Termina: Vie 11/09 19:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -743,7 +743,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Vie 11/09 19:46",
+      "eta_txt": "Termina: Vie 11/09 19:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -755,7 +755,7 @@
       "n_esl": 28,
       "generados": 28,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 11/09 23:30",
+      "eta_txt": "Termina: Vie 11/09 23:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -767,7 +767,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 23:54",
+      "eta_txt": "Termina: Sáb 12/09 00:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
