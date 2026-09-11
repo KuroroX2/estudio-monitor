@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-11 13:27:57",
+  "timestamp": "2026-09-11 13:33:11",
   "corriendo": {
     "nombre": "DERIVA_CAMBIA_V2",
     "hora": "13:18",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 12,
-    "horas_rest": 1.4666666666666666,
+    "horas_rest": 1.3333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 12,
-      "elapsed": 179,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (2m 59s)",
-      "pct": 0.5
+      "elapsed": 56,
+      "paso_num": 1,
+      "paso_str": "Paso 1/6 de difusión (0m 56s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 1113,
+    "eslabones_hechos": 1114,
     "eslabones_totales": 1323,
-    "horas_hechas": 148.40000000000003,
-    "horas_restantes": 28.0,
-    "fecha_fin_estimada": "Sáb 12/09 17:27"
+    "horas_hechas": 148.5333333333334,
+    "horas_restantes": 27.866666666666646,
+    "fecha_fin_estimada": "Sáb 12/09 17:25"
   },
   "items": [
     {
@@ -616,9 +616,9 @@
       "num": 50,
       "nombre": "DERIVA_CAMBIA_V2",
       "n_esl": 12,
-      "generados": 1,
+      "generados": 2,
       "horas": 1.6,
-      "eta_txt": "Termina: Vie 11/09 14:55",
+      "eta_txt": "Termina: Vie 11/09 14:53",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -630,7 +630,7 @@
       "n_esl": 28,
       "generados": 28,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 11/09 18:39",
+      "eta_txt": "Termina: Vie 11/09 18:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -642,7 +642,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 19:03",
+      "eta_txt": "Termina: Vie 11/09 19:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
