@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11 19:54:38",
+  "timestamp": "2026-09-11 20:22:13",
   "corriendo": {
     "nombre": "JOTA_EXTRA",
     "hora": "19:50",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 110351,
+      "elapsed": 112005,
       "paso_num": 6,
       "paso_str": "Decodificando VAE y guardando clip",
       "pct": 1.0
@@ -18,10 +18,10 @@
   },
   "global": {
     "eslabones_hechos": 1169,
-    "eslabones_totales": 1814,
+    "eslabones_totales": 1802,
     "horas_hechas": 155.8666666666668,
-    "horas_restantes": 86.0,
-    "fecha_fin_estimada": "Mar 15/09 09:54"
+    "horas_restantes": 84.39999999999998,
+    "fecha_fin_estimada": "Mar 15/09 08:46"
   },
   "items": [
     {
@@ -726,7 +726,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 20:18",
+      "eta_txt": "Termina: Vie 11/09 20:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -762,7 +762,7 @@
       "n_esl": 27,
       "generados": 0,
       "horas": 3.6,
-      "eta_txt": "Termina: Vie 11/09 23:54",
+      "eta_txt": "Termina: Sáb 12/09 00:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -770,42 +770,30 @@
     },
     {
       "num": 63,
-      "nombre": "DERIVA_DIRECTOR",
-      "n_esl": 12,
-      "generados": 0,
-      "horas": 1.6,
-      "eta_txt": "Termina: Sáb 12/09 01:30",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 64,
       "nombre": "LESBI_LORAS",
       "n_esl": 28,
       "generados": 28,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Sáb 12/09 05:14",
+      "eta_txt": "Termina: Sáb 12/09 04:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
     },
     {
-      "num": 65,
+      "num": 64,
       "nombre": "JOTA_EXTRA_FALTAN",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Sáb 12/09 05:38",
+      "eta_txt": "Termina: Sáb 12/09 04:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 66,
+      "num": 65,
       "nombre": "FICHA_VISUAL_V2",
       "n_esl": 184,
       "generados": 0,
@@ -817,24 +805,24 @@
       "es_reintento": false
     },
     {
-      "num": 67,
+      "num": 66,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Dom 13/09 05:54",
+      "eta_txt": "Termina: Dom 13/09 04:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 68,
+      "num": 67,
       "nombre": "JOTA_EXTRA_2",
       "n_esl": 231,
       "generados": 0,
       "horas": 30.8,
-      "eta_txt": "Termina: Lun 14/09 12:42",
+      "eta_txt": "Termina: Lun 14/09 11:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
