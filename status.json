@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11 13:49:05",
+  "timestamp": "2026-09-11 13:54:19",
   "corriendo": {
     "nombre": "DERIVA_CAMBIA_V2",
     "hora": "13:18",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 5,
       "tot_esl": 12,
-      "elapsed": 72,
-      "paso_num": 1,
-      "paso_str": "Paso 1/6 de difusión (1m 12s)",
-      "pct": 0.16666666666666666
+      "elapsed": 386,
+      "paso_num": 6,
+      "paso_str": "Paso 6/6 de difusión (6m 26s)",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 1116,
-    "eslabones_totales": 1323,
+    "eslabones_totales": 1331,
     "horas_hechas": 148.80000000000004,
-    "horas_restantes": 27.599999999999994,
-    "fecha_fin_estimada": "Sáb 12/09 17:25"
+    "horas_restantes": 28.666666666666714,
+    "fecha_fin_estimada": "Sáb 12/09 18:34"
   },
   "items": [
     {
@@ -618,7 +618,7 @@
       "n_esl": 12,
       "generados": 4,
       "horas": 1.6,
-      "eta_txt": "Termina: Vie 11/09 14:53",
+      "eta_txt": "Termina: Vie 11/09 14:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -626,23 +626,23 @@
     },
     {
       "num": 51,
-      "nombre": "LESBI_LORAS",
-      "n_esl": 28,
-      "generados": 28,
-      "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Vie 11/09 18:37",
+      "nombre": "WEB_0911_mamada_concierto_v2",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Vie 11/09 15:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": null
     },
     {
       "num": 52,
-      "nombre": "JOTA_EXTRA_FALTAN",
-      "n_esl": 3,
+      "nombre": "WEB_0911_aonuk_mamada_enfermera",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 19:01",
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Vie 11/09 15:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -650,6 +650,54 @@
     },
     {
       "num": 53,
+      "nombre": "WEB_0911_aonuk_mamada_secretaria",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Vie 11/09 15:46",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 54,
+      "nombre": "WEB_0911_aonuk_mamada_colegiala",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Vie 11/09 16:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 55,
+      "nombre": "LESBI_LORAS",
+      "n_esl": 28,
+      "generados": 28,
+      "horas": 3.7333333333333334,
+      "eta_txt": "Termina: Vie 11/09 19:46",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": false
+    },
+    {
+      "num": 56,
+      "nombre": "JOTA_EXTRA_FALTAN",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Vie 11/09 20:10",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 57,
       "nombre": "FICHA_VISUAL_V2",
       "n_esl": 184,
       "generados": 0,
