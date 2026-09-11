@@ -1,20 +1,27 @@
 {
-  "timestamp": "2026-09-11 18:56:24",
+  "timestamp": "2026-09-11 19:01:36",
   "corriendo": {
-    "nombre": "WEB_0911_BAILE_BJ_TETONA11",
-    "hora": "18:52",
-    "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": null,
+    "nombre": "WEB_0911_dos_calle_pov",
+    "hora": "18:57",
+    "eslabon_actual": 1,
+    "eslabon_total": 4,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
-    "clip_info": null
+    "clip_info": {
+      "num_esl": 1,
+      "tot_esl": 4,
+      "elapsed": 252,
+      "paso_num": 4,
+      "paso_str": "Paso 4/6 de difusión (4m 12s)",
+      "pct": 0.6666666666666666
+    }
   },
   "global": {
     "eslabones_hechos": 1156,
     "eslabones_totales": 1802,
     "horas_hechas": 154.13333333333344,
     "horas_restantes": 86.13333333333333,
-    "fecha_fin_estimada": "Mar 15/09 09:04"
+    "fecha_fin_estimada": "Mar 15/09 09:09"
   },
   "items": [
     {
@@ -719,7 +726,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Vie 11/09 19:20",
+      "eta_txt": "Termina: Vie 11/09 19:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -743,8 +750,8 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Vie 11/09 19:52",
-      "es_activa": false,
+      "eta_txt": "Termina: Vie 11/09 19:57",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -755,7 +762,7 @@
       "n_esl": 27,
       "generados": 0,
       "horas": 3.6,
-      "eta_txt": "Termina: Vie 11/09 23:28",
+      "eta_txt": "Termina: Vie 11/09 23:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -767,7 +774,7 @@
       "n_esl": 28,
       "generados": 28,
       "horas": 3.7333333333333334,
-      "eta_txt": "Termina: Sáb 12/09 03:12",
+      "eta_txt": "Termina: Sáb 12/09 03:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -779,7 +786,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Sáb 12/09 03:36",
+      "eta_txt": "Termina: Sáb 12/09 03:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -803,7 +810,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Dom 13/09 03:52",
+      "eta_txt": "Termina: Dom 13/09 03:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -815,7 +822,7 @@
       "n_esl": 231,
       "generados": 0,
       "horas": 30.8,
-      "eta_txt": "Termina: Lun 14/09 10:40",
+      "eta_txt": "Termina: Lun 14/09 10:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
