@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13 13:30:00",
+  "timestamp": "2026-09-13 13:35:04",
   "corriendo": {
     "nombre": "WEB_0912_175938_i2v_i2vmasturbar",
     "hora": "13:16",
@@ -10,34 +10,46 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 353,
-      "paso_num": 5,
-      "paso_str": "Paso 5/6 de difusión (5m 53s)",
-      "pct": 0.8333333333333334
+      "elapsed": 117,
+      "paso_num": 2,
+      "paso_str": "Paso 2/6 de difusión (1m 57s)",
+      "pct": 0.3333333333333333
     }
   },
   "global": {
-    "eslabones_hechos": 1243,
-    "eslabones_totales": 1914,
-    "horas_hechas": 165.73333333333346,
-    "horas_restantes": 89.4666666666667,
-    "fecha_fin_estimada": "Jue 17/09 06:58"
+    "eslabones_hechos": 1143,
+    "eslabones_totales": 1710,
+    "horas_hechas": 152.40000000000015,
+    "horas_restantes": 75.60000000000002,
+    "fecha_fin_estimada": "Mié 16/09 17:11"
   },
   "items": [
     {
       "num": 1,
+      "nombre": "JOTA_EXTRA_RESTANTES",
+      "n_esl": 130,
+      "generados": 0,
+      "horas": 17.333333333333332,
+      "eta_txt": "Termina: Lun 14/09 06:55",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2,
       "nombre": "WEB_0913_000149_i2v_i2vprobarsuf",
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 13:46",
+      "eta_txt": "Termina: Lun 14/09 07:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
     },
     {
-      "num": 2,
+      "num": 3,
       "nombre": "WEB_0913_000133_i2v_i2vapretarpe",
       "n_esl": 2,
       "generados": 2,
@@ -49,7 +61,7 @@
       "es_reintento": false
     },
     {
-      "num": 3,
+      "num": 4,
       "nombre": "WEB_0913_000111_i2v_i2vdesnudarl",
       "n_esl": 2,
       "generados": 0,
@@ -61,7 +73,7 @@
       "es_reintento": false
     },
     {
-      "num": 4,
+      "num": 5,
       "nombre": "WEB_0912_175938_i2v_i2vdesnudarl",
       "n_esl": 2,
       "generados": 2,
@@ -73,36 +85,24 @@
       "es_reintento": false
     },
     {
-      "num": 5,
+      "num": 6,
       "nombre": "WEB_0912_175938_i2v_i2vmasturbar",
       "n_esl": 2,
       "generados": 1,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 13:54",
+      "eta_txt": "Termina: Lun 14/09 07:19",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
     },
     {
-      "num": 6,
+      "num": 7,
       "nombre": "WEB_0912_175938_i2v_i2vlevantarf",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 14:10",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 7,
-      "nombre": "WEB_0912_175938_i2v_i2vapretarpe",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 14:26",
+      "eta_txt": "Termina: Lun 14/09 07:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -110,11 +110,11 @@
     },
     {
       "num": 8,
-      "nombre": "WEB_0912_175938_i2v_i2vchuparded",
+      "nombre": "WEB_0912_175938_i2v_i2vapretarpe",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 14:42",
+      "eta_txt": "Termina: Lun 14/09 07:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -122,11 +122,11 @@
     },
     {
       "num": 9,
-      "nombre": "WEB_0912_175938_i2v_i2vponerseag",
+      "nombre": "WEB_0912_175938_i2v_i2vchuparded",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 14:58",
+      "eta_txt": "Termina: Lun 14/09 08:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -134,11 +134,11 @@
     },
     {
       "num": 10,
-      "nombre": "WEB_0912_175938_i2v_i2vabrirsede",
+      "nombre": "WEB_0912_175938_i2v_i2vponerseag",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 15:14",
+      "eta_txt": "Termina: Lun 14/09 08:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -146,11 +146,11 @@
     },
     {
       "num": 11,
-      "nombre": "WEB_0912_175938_i2v_i2vazotarsel",
+      "nombre": "WEB_0912_175938_i2v_i2vabrirsede",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 15:30",
+      "eta_txt": "Termina: Lun 14/09 08:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -158,11 +158,11 @@
     },
     {
       "num": 12,
-      "nombre": "WEB_0912_175938_i2v_i2vfrotarsec",
+      "nombre": "WEB_0912_175938_i2v_i2vazotarsel",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 15:46",
+      "eta_txt": "Termina: Lun 14/09 08:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -170,11 +170,11 @@
     },
     {
       "num": 13,
-      "nombre": "WEB_0912_175938_i2v_i2vahegaoext",
+      "nombre": "WEB_0912_175938_i2v_i2vfrotarsec",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 16:02",
+      "eta_txt": "Termina: Lun 14/09 09:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -182,11 +182,11 @@
     },
     {
       "num": 14,
-      "nombre": "WEB_0912_175938_i2v_i2varrodilla",
+      "nombre": "WEB_0912_175938_i2v_i2vahegaoext",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 16:18",
+      "eta_txt": "Termina: Lun 14/09 09:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -194,11 +194,11 @@
     },
     {
       "num": 15,
-      "nombre": "WEB_0912_175938_i2v_i2vdildocons",
+      "nombre": "WEB_0912_175938_i2v_i2varrodilla",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 16:34",
+      "eta_txt": "Termina: Lun 14/09 09:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -206,11 +206,11 @@
     },
     {
       "num": 16,
-      "nombre": "WEB_0912_175938_i2v_i2vaceitecor",
+      "nombre": "WEB_0912_175938_i2v_i2vdildocons",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 16:50",
+      "eta_txt": "Termina: Lun 14/09 09:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -218,11 +218,11 @@
     },
     {
       "num": 17,
-      "nombre": "WEB_0912_175939_i2v_i2vtirarpezo",
+      "nombre": "WEB_0912_175938_i2v_i2vaceitecor",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 17:06",
+      "eta_txt": "Termina: Lun 14/09 10:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -230,11 +230,11 @@
     },
     {
       "num": 18,
-      "nombre": "WEB_0912_175939_i2v_i2vmanodentr",
+      "nombre": "WEB_0912_175939_i2v_i2vtirarpezo",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 17:22",
+      "eta_txt": "Termina: Lun 14/09 10:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -242,11 +242,11 @@
     },
     {
       "num": 19,
-      "nombre": "WEB_0912_175939_i2v_i2vlamerlabi",
+      "nombre": "WEB_0912_175939_i2v_i2vmanodentr",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 17:38",
+      "eta_txt": "Termina: Lun 14/09 10:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -254,11 +254,11 @@
     },
     {
       "num": 20,
-      "nombre": "WEB_0912_175939_i2v_i2vclimaxorg",
+      "nombre": "WEB_0912_175939_i2v_i2vlamerlabi",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 17:54",
+      "eta_txt": "Termina: Lun 14/09 11:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -266,11 +266,11 @@
     },
     {
       "num": 21,
-      "nombre": "WEB_0912_175939_i2v_i2vprobarsuf",
+      "nombre": "WEB_0912_175939_i2v_i2vclimaxorg",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 18:10",
+      "eta_txt": "Termina: Lun 14/09 11:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -278,11 +278,11 @@
     },
     {
       "num": 22,
-      "nombre": "WEB_0912_175939_i2v_i2vbailestri",
+      "nombre": "WEB_0912_175939_i2v_i2vprobarsuf",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 18:26",
+      "eta_txt": "Termina: Lun 14/09 11:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -290,11 +290,11 @@
     },
     {
       "num": 23,
-      "nombre": "WEB_0912_175939_i2v_i2vabrirsena",
+      "nombre": "WEB_0912_175939_i2v_i2vbailestri",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 18:42",
+      "eta_txt": "Termina: Lun 14/09 11:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -302,6 +302,18 @@
     },
     {
       "num": 24,
+      "nombre": "WEB_0912_175939_i2v_i2vabrirsena",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Lun 14/09 12:07",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 25,
       "nombre": "MINITAE_v6",
       "n_esl": 12,
       "generados": 12,
@@ -313,7 +325,7 @@
       "es_reintento": false
     },
     {
-      "num": 25,
+      "num": 26,
       "nombre": "AONUK_I2V",
       "n_esl": 3,
       "generados": 3,
@@ -325,7 +337,7 @@
       "es_reintento": false
     },
     {
-      "num": 26,
+      "num": 27,
       "nombre": "TAE_COMPLETO",
       "n_esl": 41,
       "generados": 41,
@@ -337,7 +349,7 @@
       "es_reintento": false
     },
     {
-      "num": 27,
+      "num": 28,
       "nombre": "FONDO",
       "n_esl": 6,
       "generados": 6,
@@ -349,7 +361,7 @@
       "es_reintento": false
     },
     {
-      "num": 28,
+      "num": 29,
       "nombre": "CALLEJON",
       "n_esl": 20,
       "generados": 20,
@@ -361,7 +373,7 @@
       "es_reintento": false
     },
     {
-      "num": 29,
+      "num": 30,
       "nombre": "ACENTO",
       "n_esl": 6,
       "generados": 6,
@@ -373,7 +385,7 @@
       "es_reintento": false
     },
     {
-      "num": 30,
+      "num": 31,
       "nombre": "AONUK_REF",
       "n_esl": 3,
       "generados": 3,
@@ -385,7 +397,7 @@
       "es_reintento": false
     },
     {
-      "num": 31,
+      "num": 32,
       "nombre": "AONUK_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -397,7 +409,7 @@
       "es_reintento": false
     },
     {
-      "num": 32,
+      "num": 33,
       "nombre": "HXH_REF",
       "n_esl": 15,
       "generados": 15,
@@ -409,7 +421,7 @@
       "es_reintento": false
     },
     {
-      "num": 33,
+      "num": 34,
       "nombre": "HXH_SOLO",
       "n_esl": 15,
       "generados": 15,
@@ -421,7 +433,7 @@
       "es_reintento": false
     },
     {
-      "num": 34,
+      "num": 35,
       "nombre": "HXH_TEXTO",
       "n_esl": 15,
       "generados": 15,
@@ -433,7 +445,7 @@
       "es_reintento": false
     },
     {
-      "num": 35,
+      "num": 36,
       "nombre": "AONUK_ESCENA",
       "n_esl": 38,
       "generados": 38,
@@ -445,7 +457,7 @@
       "es_reintento": false
     },
     {
-      "num": 36,
+      "num": 37,
       "nombre": "OOM_DOS_REFS",
       "n_esl": 1,
       "generados": 1,
@@ -457,7 +469,7 @@
       "es_reintento": false
     },
     {
-      "num": 37,
+      "num": 38,
       "nombre": "TAE_V5",
       "n_esl": 41,
       "generados": 41,
@@ -469,7 +481,7 @@
       "es_reintento": false
     },
     {
-      "num": 38,
+      "num": 39,
       "nombre": "AONUK_V2",
       "n_esl": 38,
       "generados": 38,
@@ -481,7 +493,7 @@
       "es_reintento": false
     },
     {
-      "num": 39,
+      "num": 40,
       "nombre": "LAVANDERIA_TETONA",
       "n_esl": 18,
       "generados": 18,
@@ -493,7 +505,7 @@
       "es_reintento": false
     },
     {
-      "num": 40,
+      "num": 41,
       "nombre": "CONVENCION_LORA",
       "n_esl": 2,
       "generados": 2,
@@ -505,7 +517,7 @@
       "es_reintento": false
     },
     {
-      "num": 41,
+      "num": 42,
       "nombre": "CONVENCION_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -517,7 +529,7 @@
       "es_reintento": false
     },
     {
-      "num": 42,
+      "num": 43,
       "nombre": "LAVANDERIA_STEFY",
       "n_esl": 18,
       "generados": 18,
@@ -529,7 +541,7 @@
       "es_reintento": false
     },
     {
-      "num": 43,
+      "num": 44,
       "nombre": "CONVENCION2_LORA",
       "n_esl": 2,
       "generados": 2,
@@ -541,7 +553,7 @@
       "es_reintento": false
     },
     {
-      "num": 44,
+      "num": 45,
       "nombre": "CONVENCION2_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -553,7 +565,7 @@
       "es_reintento": false
     },
     {
-      "num": 45,
+      "num": 46,
       "nombre": "CONVENCION2_ANIME",
       "n_esl": 2,
       "generados": 2,
@@ -565,7 +577,7 @@
       "es_reintento": false
     },
     {
-      "num": 46,
+      "num": 47,
       "nombre": "LAVANDERIA_TETONA_V2",
       "n_esl": 18,
       "generados": 18,
@@ -577,7 +589,7 @@
       "es_reintento": false
     },
     {
-      "num": 47,
+      "num": 48,
       "nombre": "AONUK_V3",
       "n_esl": 38,
       "generados": 38,
@@ -589,7 +601,7 @@
       "es_reintento": false
     },
     {
-      "num": 48,
+      "num": 49,
       "nombre": "PASILLO_V2",
       "n_esl": 8,
       "generados": 8,
@@ -601,7 +613,7 @@
       "es_reintento": false
     },
     {
-      "num": 49,
+      "num": 50,
       "nombre": "TAE_V6",
       "n_esl": 42,
       "generados": 42,
@@ -613,7 +625,7 @@
       "es_reintento": false
     },
     {
-      "num": 50,
+      "num": 51,
       "nombre": "LAVANDERIA_TETONA_V3",
       "n_esl": 20,
       "generados": 20,
@@ -625,7 +637,7 @@
       "es_reintento": false
     },
     {
-      "num": 51,
+      "num": 52,
       "nombre": "LAVANDERIA_STEFY_V3",
       "n_esl": 20,
       "generados": 20,
@@ -637,7 +649,7 @@
       "es_reintento": false
     },
     {
-      "num": 52,
+      "num": 53,
       "nombre": "HENTAI_MIKAMI",
       "n_esl": 15,
       "generados": 15,
@@ -649,7 +661,7 @@
       "es_reintento": false
     },
     {
-      "num": 53,
+      "num": 54,
       "nombre": "HENTAI_MIKAMI_NAMI",
       "n_esl": 20,
       "generados": 20,
@@ -661,7 +673,7 @@
       "es_reintento": false
     },
     {
-      "num": 54,
+      "num": 55,
       "nombre": "SONDA_REFS",
       "n_esl": 3,
       "generados": 3,
@@ -673,7 +685,7 @@
       "es_reintento": false
     },
     {
-      "num": 55,
+      "num": 56,
       "nombre": "FILA_MALL_V2",
       "n_esl": 24,
       "generados": 24,
@@ -685,7 +697,7 @@
       "es_reintento": false
     },
     {
-      "num": 56,
+      "num": 57,
       "nombre": "TRIO_MHM_V2",
       "n_esl": 28,
       "generados": 28,
@@ -697,7 +709,7 @@
       "es_reintento": false
     },
     {
-      "num": 57,
+      "num": 58,
       "nombre": "MASTURBACION_EXTENSA",
       "n_esl": 46,
       "generados": 46,
@@ -709,7 +721,7 @@
       "es_reintento": false
     },
     {
-      "num": 58,
+      "num": 59,
       "nombre": "BJ_DOBLE_V2",
       "n_esl": 28,
       "generados": 28,
@@ -721,7 +733,7 @@
       "es_reintento": false
     },
     {
-      "num": 59,
+      "num": 60,
       "nombre": "TRIO_HMH_V2",
       "n_esl": 28,
       "generados": 28,
@@ -733,7 +745,7 @@
       "es_reintento": false
     },
     {
-      "num": 60,
+      "num": 61,
       "nombre": "JOTA_SKA",
       "n_esl": 30,
       "generados": 30,
@@ -745,7 +757,7 @@
       "es_reintento": false
     },
     {
-      "num": 61,
+      "num": 62,
       "nombre": "LORAS_ACTOS",
       "n_esl": 57,
       "generados": 57,
@@ -757,23 +769,11 @@
       "es_reintento": false
     },
     {
-      "num": 62,
+      "num": 63,
       "nombre": "TECHO_FOTOGRAMAS",
       "n_esl": 3,
       "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 63,
-      "nombre": "JOTA_EXTRA",
-      "n_esl": 100,
-      "generados": 100,
-      "horas": 13.333333333333334,
       "eta_txt": "Completado",
       "es_activa": false,
       "es_hecha": true,
@@ -1038,7 +1038,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Dom 13/09 19:06",
+      "eta_txt": "Termina: Lun 14/09 12:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1110,7 +1110,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Dom 13/09 19:22",
+      "eta_txt": "Termina: Lun 14/09 12:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1134,7 +1134,7 @@
       "n_esl": 15,
       "generados": 0,
       "horas": 2.0,
-      "eta_txt": "Termina: Dom 13/09 21:22",
+      "eta_txt": "Termina: Lun 14/09 14:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1166,18 +1166,6 @@
     },
     {
       "num": 96,
-      "nombre": "JOTA_EXTRA_FALTAN",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Dom 13/09 21:46",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 97,
       "nombre": "FICHA_VISUAL_V2",
       "n_esl": 184,
       "generados": 0,
@@ -1189,24 +1177,12 @@
       "es_reintento": false
     },
     {
-      "num": 98,
+      "num": 97,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Lun 14/09 22:02",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 99,
-      "nombre": "JOTA_EXTRA_2",
-      "n_esl": 231,
-      "generados": 0,
-      "horas": 30.8,
-      "eta_txt": "Termina: Mié 16/09 04:50",
+      "eta_txt": "Termina: Mar 15/09 15:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
