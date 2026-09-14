@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-14 10:56:57",
+  "timestamp": "2026-09-14 11:02:08",
   "corriendo": {
     "nombre": "JOTA_EXTRA_RESTANTES",
     "hora": "08:14",
-    "eslabon_actual": 20,
+    "eslabon_actual": 21,
     "eslabon_total": 126,
-    "horas_rest": 14.133333333333333,
+    "horas_rest": 14.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 175,
-      "paso_num": 2,
-      "paso_str": "Paso 2/6 de difusión (2m 55s)",
-      "pct": 0.3333333333333333
+      "elapsed": 38,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1223,
+    "eslabones_hechos": 1224,
     "eslabones_totales": 1709,
-    "horas_hechas": 163.06666666666666,
-    "horas_restantes": 64.79999999999995,
-    "fecha_fin_estimada": "Jue 17/09 03:44"
+    "horas_hechas": 163.2,
+    "horas_restantes": 64.66666666666663,
+    "fecha_fin_estimada": "Jue 17/09 03:42"
   },
   "items": [
     {
@@ -616,9 +616,9 @@
       "num": 50,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
-      "generados": 20,
+      "generados": 21,
       "horas": 16.8,
-      "eta_txt": "Termina: Mar 15/09 01:04",
+      "eta_txt": "Termina: Mar 15/09 01:02",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1206,7 +1206,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 01:20",
+      "eta_txt": "Termina: Mié 16/09 01:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
