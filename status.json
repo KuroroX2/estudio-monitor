@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-14 09:54:10",
+  "timestamp": "2026-09-14 09:59:28",
   "corriendo": {
     "nombre": "JOTA_EXTRA_RESTANTES",
     "hora": "08:14",
-    "eslabon_actual": 12,
+    "eslabon_actual": 13,
     "eslabon_total": 126,
-    "horas_rest": 15.2,
+    "horas_rest": 15.066666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 235,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 55s)",
-      "pct": 0.5
+      "elapsed": 87,
+      "paso_num": 1,
+      "paso_str": "Paso 1/6 de difusión (1m 27s)",
+      "pct": 0.16666666666666666
     }
   },
   "global": {
-    "eslabones_hechos": 1215,
+    "eslabones_hechos": 1216,
     "eslabones_totales": 1709,
-    "horas_hechas": 162.0,
-    "horas_restantes": 65.86666666666662,
-    "fecha_fin_estimada": "Jue 17/09 03:46"
+    "horas_hechas": 162.13333333333333,
+    "horas_restantes": 65.73333333333329,
+    "fecha_fin_estimada": "Jue 17/09 03:43"
   },
   "items": [
     {
@@ -616,9 +616,9 @@
       "num": 50,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
-      "generados": 12,
+      "generados": 13,
       "horas": 16.8,
-      "eta_txt": "Termina: Mar 15/09 01:06",
+      "eta_txt": "Termina: Mar 15/09 01:03",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1206,7 +1206,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 01:22",
+      "eta_txt": "Termina: Mié 16/09 01:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
