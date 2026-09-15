@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-15 16:30:10",
+  "timestamp": "2026-09-15 16:40:40",
   "corriendo": {
     "nombre": "WEB_0915_pijamada_v3",
     "hora": "16:14",
-    "eslabon_actual": 5,
+    "eslabon_actual": 8,
     "eslabon_total": 10,
-    "horas_rest": 0.8,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 8,
       "tot_esl": 10,
-      "elapsed": 58,
+      "elapsed": 1,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 1389,
+    "eslabones_hechos": 1392,
     "eslabones_totales": 1942,
-    "horas_hechas": 185.1999999999999,
-    "horas_restantes": 73.73333333333338,
-    "fecha_fin_estimada": "Vie 18/09 18:14"
+    "horas_hechas": 185.5999999999999,
+    "horas_restantes": 73.33333333333337,
+    "fecha_fin_estimada": "Vie 18/09 18:00"
   },
   "items": [
     {
@@ -1132,9 +1132,9 @@
       "num": 93,
       "nombre": "WEB_0915_pijamada_v3",
       "n_esl": 10,
-      "generados": 4,
+      "generados": 7,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 15/09 17:18",
+      "eta_txt": "Termina: Mar 15/09 17:04",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1146,7 +1146,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.9333333333333333,
-      "eta_txt": "Termina: Mar 15/09 18:14",
+      "eta_txt": "Termina: Mar 15/09 18:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1158,7 +1158,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 15/09 20:54",
+      "eta_txt": "Termina: Mar 15/09 20:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1746,7 +1746,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 21:10",
+      "eta_txt": "Termina: Mié 16/09 20:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1770,7 +1770,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 16/09 23:02",
+      "eta_txt": "Termina: Mié 16/09 22:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
