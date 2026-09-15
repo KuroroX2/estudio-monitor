@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-15 17:55:50",
+  "timestamp": "2026-09-15 17:59:43",
   "corriendo": {
     "nombre": "WEB_0915_pijamada_v4",
     "hora": "17:22",
     "eslabon_actual": 10,
     "eslabon_total": 10,
-    "horas_rest": 0.13333333333333333,
+    "horas_rest": 0.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 10,
       "tot_esl": 10,
-      "elapsed": 4,
+      "elapsed": 12,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1411,
+    "eslabones_hechos": 1412,
     "eslabones_totales": 1959,
-    "horas_hechas": 188.13333333333324,
-    "horas_restantes": 73.06666666666663,
-    "fecha_fin_estimada": "Vie 18/09 18:59"
+    "horas_hechas": 188.26666666666657,
+    "horas_restantes": 72.93333333333331,
+    "fecha_fin_estimada": "Vie 18/09 18:55"
   },
   "items": [
     {
@@ -42,7 +42,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.9333333333333333,
-      "eta_txt": "Termina: Mar 15/09 18:51",
+      "eta_txt": "Termina: Mar 15/09 18:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -52,9 +52,9 @@
       "num": 3,
       "nombre": "WEB_0915_pijamada_v4",
       "n_esl": 10,
-      "generados": 9,
+      "generados": 10,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 15/09 18:59",
+      "eta_txt": "Termina: Mar 15/09 18:55",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1182,7 +1182,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 15/09 21:39",
+      "eta_txt": "Termina: Mar 15/09 21:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1770,7 +1770,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 21:55",
+      "eta_txt": "Termina: Mié 16/09 21:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1794,7 +1794,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 16/09 23:47",
+      "eta_txt": "Termina: Mié 16/09 23:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
