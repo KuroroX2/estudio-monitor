@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15 12:05:46",
+  "timestamp": "2026-09-15 12:10:58",
   "corriendo": {
     "nombre": "WEB_0914_poderes_v2",
     "hora": "08:41",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 24,
       "tot_esl": 45,
-      "elapsed": 183,
-      "paso_num": 3,
-      "paso_str": "Paso 3/6 de difusión (3m 03s)",
-      "pct": 0.5
+      "elapsed": 495,
+      "paso_num": 6,
+      "paso_str": "Decodificando VAE y guardando clip",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 1363,
-    "eslabones_totales": 1905,
+    "eslabones_totales": 1912,
     "horas_hechas": 181.73333333333326,
-    "horas_restantes": 72.26666666666668,
-    "fecha_fin_estimada": "Vie 18/09 12:21"
+    "horas_restantes": 73.19999999999996,
+    "fecha_fin_estimada": "Vie 18/09 13:22"
   },
   "items": [
     {
@@ -1122,7 +1122,7 @@
       "n_esl": 45,
       "generados": 23,
       "horas": 6.0,
-      "eta_txt": "Termina: Mar 15/09 15:01",
+      "eta_txt": "Termina: Mar 15/09 15:06",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1130,6 +1130,18 @@
     },
     {
       "num": 93,
+      "nombre": "WEB_0915_bj_v7_Tae9",
+      "n_esl": 7,
+      "generados": 0,
+      "horas": 0.9333333333333333,
+      "eta_txt": "Termina: Mar 15/09 16:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 94,
       "nombre": "MINITAE_v6",
       "n_esl": 12,
       "generados": 12,
@@ -1141,7 +1153,7 @@
       "es_reintento": false
     },
     {
-      "num": 94,
+      "num": 95,
       "nombre": "AONUK_I2V",
       "n_esl": 3,
       "generados": 3,
@@ -1153,7 +1165,7 @@
       "es_reintento": false
     },
     {
-      "num": 95,
+      "num": 96,
       "nombre": "TAE_COMPLETO",
       "n_esl": 41,
       "generados": 41,
@@ -1165,7 +1177,7 @@
       "es_reintento": false
     },
     {
-      "num": 96,
+      "num": 97,
       "nombre": "FONDO",
       "n_esl": 6,
       "generados": 6,
@@ -1177,7 +1189,7 @@
       "es_reintento": false
     },
     {
-      "num": 97,
+      "num": 98,
       "nombre": "CALLEJON",
       "n_esl": 20,
       "generados": 20,
@@ -1189,7 +1201,7 @@
       "es_reintento": false
     },
     {
-      "num": 98,
+      "num": 99,
       "nombre": "ACENTO",
       "n_esl": 6,
       "generados": 6,
@@ -1201,7 +1213,7 @@
       "es_reintento": false
     },
     {
-      "num": 99,
+      "num": 100,
       "nombre": "AONUK_REF",
       "n_esl": 3,
       "generados": 3,
@@ -1213,7 +1225,7 @@
       "es_reintento": false
     },
     {
-      "num": 100,
+      "num": 101,
       "nombre": "AONUK_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -1225,7 +1237,7 @@
       "es_reintento": false
     },
     {
-      "num": 101,
+      "num": 102,
       "nombre": "HXH_REF",
       "n_esl": 15,
       "generados": 15,
@@ -1237,7 +1249,7 @@
       "es_reintento": false
     },
     {
-      "num": 102,
+      "num": 103,
       "nombre": "HXH_SOLO",
       "n_esl": 15,
       "generados": 15,
@@ -1249,7 +1261,7 @@
       "es_reintento": false
     },
     {
-      "num": 103,
+      "num": 104,
       "nombre": "HXH_TEXTO",
       "n_esl": 15,
       "generados": 15,
@@ -1261,7 +1273,7 @@
       "es_reintento": false
     },
     {
-      "num": 104,
+      "num": 105,
       "nombre": "AONUK_ESCENA",
       "n_esl": 38,
       "generados": 38,
@@ -1273,7 +1285,7 @@
       "es_reintento": false
     },
     {
-      "num": 105,
+      "num": 106,
       "nombre": "OOM_DOS_REFS",
       "n_esl": 1,
       "generados": 1,
@@ -1285,7 +1297,7 @@
       "es_reintento": false
     },
     {
-      "num": 106,
+      "num": 107,
       "nombre": "TAE_V5",
       "n_esl": 41,
       "generados": 41,
@@ -1297,7 +1309,7 @@
       "es_reintento": false
     },
     {
-      "num": 107,
+      "num": 108,
       "nombre": "AONUK_V2",
       "n_esl": 38,
       "generados": 38,
@@ -1309,7 +1321,7 @@
       "es_reintento": false
     },
     {
-      "num": 108,
+      "num": 109,
       "nombre": "LAVANDERIA_TETONA",
       "n_esl": 18,
       "generados": 18,
@@ -1321,7 +1333,7 @@
       "es_reintento": false
     },
     {
-      "num": 109,
+      "num": 110,
       "nombre": "CONVENCION_LORA",
       "n_esl": 2,
       "generados": 2,
@@ -1333,7 +1345,7 @@
       "es_reintento": false
     },
     {
-      "num": 110,
+      "num": 111,
       "nombre": "CONVENCION_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -1345,7 +1357,7 @@
       "es_reintento": false
     },
     {
-      "num": 111,
+      "num": 112,
       "nombre": "LAVANDERIA_STEFY",
       "n_esl": 18,
       "generados": 18,
@@ -1357,7 +1369,7 @@
       "es_reintento": false
     },
     {
-      "num": 112,
+      "num": 113,
       "nombre": "CONVENCION2_LORA",
       "n_esl": 2,
       "generados": 2,
@@ -1369,7 +1381,7 @@
       "es_reintento": false
     },
     {
-      "num": 113,
+      "num": 114,
       "nombre": "CONVENCION2_BASE",
       "n_esl": 2,
       "generados": 2,
@@ -1381,7 +1393,7 @@
       "es_reintento": false
     },
     {
-      "num": 114,
+      "num": 115,
       "nombre": "CONVENCION2_ANIME",
       "n_esl": 2,
       "generados": 2,
@@ -1393,7 +1405,7 @@
       "es_reintento": false
     },
     {
-      "num": 115,
+      "num": 116,
       "nombre": "LAVANDERIA_TETONA_V2",
       "n_esl": 18,
       "generados": 18,
@@ -1405,7 +1417,7 @@
       "es_reintento": false
     },
     {
-      "num": 116,
+      "num": 117,
       "nombre": "AONUK_V3",
       "n_esl": 38,
       "generados": 38,
@@ -1417,7 +1429,7 @@
       "es_reintento": false
     },
     {
-      "num": 117,
+      "num": 118,
       "nombre": "PASILLO_V2",
       "n_esl": 8,
       "generados": 8,
@@ -1429,7 +1441,7 @@
       "es_reintento": false
     },
     {
-      "num": 118,
+      "num": 119,
       "nombre": "TAE_V6",
       "n_esl": 42,
       "generados": 42,
@@ -1441,7 +1453,7 @@
       "es_reintento": false
     },
     {
-      "num": 119,
+      "num": 120,
       "nombre": "LAVANDERIA_TETONA_V3",
       "n_esl": 20,
       "generados": 20,
@@ -1453,7 +1465,7 @@
       "es_reintento": false
     },
     {
-      "num": 120,
+      "num": 121,
       "nombre": "LAVANDERIA_STEFY_V3",
       "n_esl": 20,
       "generados": 20,
@@ -1465,7 +1477,7 @@
       "es_reintento": false
     },
     {
-      "num": 121,
+      "num": 122,
       "nombre": "HENTAI_MIKAMI",
       "n_esl": 15,
       "generados": 15,
@@ -1477,7 +1489,7 @@
       "es_reintento": false
     },
     {
-      "num": 122,
+      "num": 123,
       "nombre": "HENTAI_MIKAMI_NAMI",
       "n_esl": 20,
       "generados": 20,
@@ -1489,7 +1501,7 @@
       "es_reintento": false
     },
     {
-      "num": 123,
+      "num": 124,
       "nombre": "SONDA_REFS",
       "n_esl": 3,
       "generados": 3,
@@ -1501,7 +1513,7 @@
       "es_reintento": false
     },
     {
-      "num": 124,
+      "num": 125,
       "nombre": "FILA_MALL_V2",
       "n_esl": 24,
       "generados": 24,
@@ -1513,7 +1525,7 @@
       "es_reintento": false
     },
     {
-      "num": 125,
+      "num": 126,
       "nombre": "TRIO_MHM_V2",
       "n_esl": 28,
       "generados": 28,
@@ -1525,7 +1537,7 @@
       "es_reintento": false
     },
     {
-      "num": 126,
+      "num": 127,
       "nombre": "MASTURBACION_EXTENSA",
       "n_esl": 46,
       "generados": 46,
@@ -1537,7 +1549,7 @@
       "es_reintento": false
     },
     {
-      "num": 127,
+      "num": 128,
       "nombre": "BJ_DOBLE_V2",
       "n_esl": 28,
       "generados": 28,
@@ -1549,7 +1561,7 @@
       "es_reintento": false
     },
     {
-      "num": 128,
+      "num": 129,
       "nombre": "TRIO_HMH_V2",
       "n_esl": 28,
       "generados": 28,
@@ -1561,7 +1573,7 @@
       "es_reintento": false
     },
     {
-      "num": 129,
+      "num": 130,
       "nombre": "LORAS_ACTOS",
       "n_esl": 57,
       "generados": 57,
@@ -1573,7 +1585,7 @@
       "es_reintento": false
     },
     {
-      "num": 130,
+      "num": 131,
       "nombre": "TECHO_FOTOGRAMAS",
       "n_esl": 3,
       "generados": 3,
@@ -1585,7 +1597,7 @@
       "es_reintento": false
     },
     {
-      "num": 131,
+      "num": 132,
       "nombre": "DERIVA_FIJA",
       "n_esl": 12,
       "generados": 12,
@@ -1597,7 +1609,7 @@
       "es_reintento": false
     },
     {
-      "num": 132,
+      "num": 133,
       "nombre": "DERIVA_CAMBIA",
       "n_esl": 12,
       "generados": 12,
@@ -1609,7 +1621,7 @@
       "es_reintento": false
     },
     {
-      "num": 133,
+      "num": 134,
       "nombre": "DERIVA_ANCLADA",
       "n_esl": 12,
       "generados": 12,
@@ -1621,7 +1633,7 @@
       "es_reintento": false
     },
     {
-      "num": 134,
+      "num": 135,
       "nombre": "DERIVA_REFERENCIA",
       "n_esl": 12,
       "generados": 0,
@@ -1633,7 +1645,7 @@
       "es_reintento": false
     },
     {
-      "num": 135,
+      "num": 136,
       "nombre": "FICHA_VISUAL",
       "n_esl": 210,
       "generados": 210,
@@ -1645,7 +1657,7 @@
       "es_reintento": false
     },
     {
-      "num": 136,
+      "num": 137,
       "nombre": "DERIVA_CAMBIA_V2",
       "n_esl": 12,
       "generados": 12,
@@ -1657,7 +1669,7 @@
       "es_reintento": false
     },
     {
-      "num": 137,
+      "num": 138,
       "nombre": "PENE_POV",
       "n_esl": 13,
       "generados": 13,
@@ -1669,7 +1681,7 @@
       "es_reintento": false
     },
     {
-      "num": 138,
+      "num": 139,
       "nombre": "PENE_POV_2",
       "n_esl": 5,
       "generados": 5,
@@ -1681,7 +1693,7 @@
       "es_reintento": false
     },
     {
-      "num": 139,
+      "num": 140,
       "nombre": "LESBI_LORAS",
       "n_esl": 28,
       "generados": 28,
@@ -1693,7 +1705,7 @@
       "es_reintento": false
     },
     {
-      "num": 140,
+      "num": 141,
       "nombre": "FICHA_VISUAL_V2",
       "n_esl": 184,
       "generados": 0,
@@ -1705,19 +1717,19 @@
       "es_reintento": false
     },
     {
-      "num": 141,
+      "num": 142,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 15:17",
+      "eta_txt": "Termina: Mié 16/09 16:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 142,
+      "num": 143,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 0,
@@ -1729,12 +1741,12 @@
       "es_reintento": false
     },
     {
-      "num": 143,
+      "num": 144,
       "nombre": "FICHA_1000457122",
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 16/09 17:09",
+      "eta_txt": "Termina: Mié 16/09 18:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
