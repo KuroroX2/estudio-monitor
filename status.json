@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-15 18:18:04",
+  "timestamp": "2026-09-15 18:21:16",
   "corriendo": {
     "nombre": "WEB_0915_bj_v8_Tae9",
     "hora": "18:03",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 7,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 6,
       "tot_esl": 7,
-      "elapsed": 27,
+      "elapsed": 4,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1416,
+    "eslabones_hechos": 1417,
     "eslabones_totales": 1959,
-    "horas_hechas": 188.7999999999999,
-    "horas_restantes": 72.39999999999998,
-    "fecha_fin_estimada": "Vie 18/09 18:42"
+    "horas_hechas": 188.93333333333325,
+    "horas_restantes": 72.26666666666662,
+    "fecha_fin_estimada": "Vie 18/09 18:37"
   },
   "items": [
     {
@@ -40,9 +40,9 @@
       "num": 2,
       "nombre": "WEB_0915_bj_v8_Tae9",
       "n_esl": 7,
-      "generados": 4,
+      "generados": 5,
       "horas": 0.9333333333333333,
-      "eta_txt": "Termina: Mar 15/09 18:42",
+      "eta_txt": "Termina: Mar 15/09 18:37",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1182,7 +1182,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mar 15/09 21:22",
+      "eta_txt": "Termina: Mar 15/09 21:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1770,7 +1770,7 @@
       "n_esl": 182,
       "generados": 0,
       "horas": 24.266666666666666,
-      "eta_txt": "Termina: Mié 16/09 21:38",
+      "eta_txt": "Termina: Mié 16/09 21:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1794,7 +1794,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 16/09 23:30",
+      "eta_txt": "Termina: Mié 16/09 23:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
