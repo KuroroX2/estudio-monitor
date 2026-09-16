@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-16 14:01:25",
+  "timestamp": "2026-09-16 14:11:41",
   "corriendo": {
     "nombre": "WEB_0916_tienda_Moon_p2",
     "hora": "14:00",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 56,
+      "elapsed": 217,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1861,
+    "eslabones_hechos": 1862,
     "eslabones_totales": 2066,
-    "horas_hechas": 248.13333333333324,
-    "horas_restantes": 27.333333333333115,
-    "fecha_fin_estimada": "Jue 17/09 17:21"
+    "horas_hechas": 248.26666666666657,
+    "horas_restantes": 27.19999999999979,
+    "fecha_fin_estimada": "Jue 17/09 17:23"
   },
   "items": [
     {
@@ -30,7 +30,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 16/09 14:09",
+      "eta_txt": "Termina: Mié 16/09 14:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 16/09 14:41",
+      "eta_txt": "Termina: Mié 16/09 14:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2140,9 +2140,9 @@
       "num": 177,
       "nombre": "WEB_0916_tienda_Moon_p2",
       "n_esl": 2,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 14:57",
+      "eta_txt": "Termina: Mié 16/09 14:59",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
