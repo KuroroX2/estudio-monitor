@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16 19:08:39",
+  "timestamp": "2026-09-16 19:16:50",
   "corriendo": {
     "nombre": "WEB_0916_casa_07_piscina_v2",
     "hora": "18:52",
@@ -10,17 +10,17 @@
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 4,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 495,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1885,
+    "eslabones_hechos": 1886,
     "eslabones_totales": 2146,
-    "horas_hechas": 251.3333333333333,
-    "horas_restantes": 34.79999999999947,
+    "horas_hechas": 251.46666666666664,
+    "horas_restantes": 34.66666666666612,
     "fecha_fin_estimada": "Vie 18/09 05:56"
   },
   "items": [
@@ -28,7 +28,7 @@
       "num": 1,
       "nombre": "WEB_0916_casa_07_piscina_v2",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.4,
       "eta_txt": "Termina: Mié 16/09 19:16",
       "es_activa": true,
