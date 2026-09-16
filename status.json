@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-16 11:41:45",
+  "timestamp": "2026-09-16 11:42:55",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1852,
-    "eslabones_totales": 2055,
+    "eslabones_totales": 2058,
     "horas_hechas": 246.9333333333332,
-    "horas_restantes": 27.066666666666578,
-    "fecha_fin_estimada": "Jue 17/09 14:45"
+    "horas_restantes": 27.466666666666555,
+    "fecha_fin_estimada": "Jue 17/09 15:10"
   },
   "items": [
     {
@@ -15,7 +15,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mié 16/09 12:21",
+      "eta_txt": "Termina: Mié 16/09 12:22",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -2048,6 +2048,18 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 171,
+      "nombre": "MOON_ATUENDOS",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mié 16/09 12:46",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
