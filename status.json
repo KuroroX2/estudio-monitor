@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-09-16 12:45:51",
+  "timestamp": "2026-09-16 12:46:56",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1855,
-    "eslabones_totales": 2056,
+    "eslabones_totales": 2057,
     "horas_hechas": 247.33333333333323,
-    "horas_restantes": 26.799999999999812,
-    "fecha_fin_estimada": "Jue 17/09 15:33"
+    "horas_restantes": 26.933333333333195,
+    "fecha_fin_estimada": "Jue 17/09 15:42"
   },
   "items": [
     {
       "num": 1,
-      "nombre": "SET_ESTUDIO_V5B",
-      "n_esl": 1,
+      "nombre": "SET_ESTUDIO_2CAM",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 16/09 12:53",
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 16/09 13:02",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": null
     },
     {
       "num": 2,
@@ -2079,7 +2079,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 13:09",
+      "eta_txt": "Termina: Mié 16/09 13:18",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
