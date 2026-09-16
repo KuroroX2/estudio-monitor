@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-15 23:51:05",
+  "timestamp": "2026-09-16 00:02:17",
   "corriendo": {
     "nombre": "REEMPLAZO2",
     "hora": "23:41",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 3,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 3,
+      "elapsed": 79,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1548,
+    "eslabones_hechos": 1549,
     "eslabones_totales": 1882,
-    "horas_hechas": 206.3999999999998,
-    "horas_restantes": 44.53333333333336,
-    "fecha_fin_estimada": "Jue 17/09 20:23"
+    "horas_hechas": 206.53333333333316,
+    "horas_restantes": 44.400000000000006,
+    "fecha_fin_estimada": "Jue 17/09 20:26"
   },
   "items": [
     {
@@ -1854,7 +1854,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Mié 16/09 00:55",
+      "eta_txt": "Termina: Mié 16/09 01:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1864,9 +1864,9 @@
       "num": 154,
       "nombre": "REEMPLAZO2",
       "n_esl": 3,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 16/09 01:11",
+      "eta_txt": "Termina: Mié 16/09 01:14",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
