@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16 07:40:36",
+  "timestamp": "2026-09-16 07:48:13",
   "corriendo": {
     "nombre": "WEB_0916_reel_paz_Moon",
     "hora": "04:05",
@@ -10,17 +10,17 @@
     "clip_info": {
       "num_esl": 21,
       "tot_esl": 21,
-      "elapsed": 63,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 519,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1627,
+    "eslabones_hechos": 1628,
     "eslabones_totales": 2541,
-    "horas_hechas": 216.9333333333332,
-    "horas_restantes": 121.8666666666667,
+    "horas_hechas": 217.06666666666655,
+    "horas_restantes": 121.73333333333335,
     "fecha_fin_estimada": "Lun 21/09 09:32"
   },
   "items": [
@@ -1938,7 +1938,7 @@
       "n_esl": 50,
       "generados": 0,
       "horas": 6.666666666666667,
-      "eta_txt": "Termina: Mié 16/09 14:20",
+      "eta_txt": "Termina: Mié 16/09 14:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1950,7 +1950,7 @@
       "n_esl": 50,
       "generados": 0,
       "horas": 6.666666666666667,
-      "eta_txt": "Termina: Mié 16/09 21:00",
+      "eta_txt": "Termina: Mié 16/09 21:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1984,7 +1984,7 @@
       "num": 164,
       "nombre": "WEB_0916_reel_paz_Moon",
       "n_esl": 21,
-      "generados": 20,
+      "generados": 21,
       "horas": 2.8,
       "eta_txt": "Termina: Mié 16/09 21:08",
       "es_activa": true,
