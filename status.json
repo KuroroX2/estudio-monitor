@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-16 15:40:56",
+  "timestamp": "2026-09-16 15:46:22",
   "corriendo": {
-    "nombre": "WEB_0916_casa_01_bienvenida",
-    "hora": "15:24",
-    "eslabon_actual": 2,
+    "nombre": "WEB_0916_casa_03_sillones",
+    "hora": "15:46",
+    "eslabon_actual": 1,
     "eslabon_total": 2,
-    "horas_rest": 0.0,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 1,
       "tot_esl": 2,
-      "elapsed": 13,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 14,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 2114,
     "horas_hechas": 249.99999999999994,
     "horas_restantes": 31.866666666666333,
-    "fecha_fin_estimada": "Jue 17/09 23:32"
+    "fecha_fin_estimada": "Jue 17/09 23:38"
   },
   "items": [
     {
@@ -2166,11 +2166,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 15:40",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 180,
@@ -2178,11 +2178,11 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 16/09 15:48",
+      "eta_txt": "Termina: Mié 16/09 15:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": true
     },
     {
       "num": 181,
@@ -2190,8 +2190,8 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 16:04",
-      "es_activa": false,
+      "eta_txt": "Termina: Mié 16/09 16:10",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -2202,7 +2202,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 16:20",
+      "eta_txt": "Termina: Mié 16/09 16:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2214,7 +2214,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 16:36",
+      "eta_txt": "Termina: Mié 16/09 16:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2226,7 +2226,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 16/09 16:44",
+      "eta_txt": "Termina: Mié 16/09 16:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2238,7 +2238,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 16/09 17:08",
+      "eta_txt": "Termina: Mié 16/09 17:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2250,7 +2250,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 16/09 21:08",
+      "eta_txt": "Termina: Mié 16/09 21:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
