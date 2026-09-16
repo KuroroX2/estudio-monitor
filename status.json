@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-16 20:14:11",
+  "timestamp": "2026-09-16 20:22:19",
   "corriendo": {
     "nombre": "WEB_0916_reel_exp_asco_p1",
     "hora": "20:13",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.13333333333333333,
+    "horas_rest": 0.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 20,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 12,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1890,
+    "eslabones_hechos": 1891,
     "eslabones_totales": 2146,
-    "horas_hechas": 252.0,
-    "horas_restantes": 34.13333333333276,
+    "horas_hechas": 252.13333333333333,
+    "horas_restantes": 33.99999999999943,
     "fecha_fin_estimada": "Vie 18/09 06:22"
   },
   "items": [
@@ -2250,7 +2250,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Mié 16/09 21:02",
+      "eta_txt": "Termina: Mié 16/09 21:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2286,7 +2286,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Jue 17/09 01:02",
+      "eta_txt": "Termina: Jue 17/09 01:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2296,7 +2296,7 @@
       "num": 190,
       "nombre": "WEB_0916_reel_exp_asco_p1",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.13333333333333333,
       "eta_txt": "Termina: Jue 17/09 01:10",
       "es_activa": true,
