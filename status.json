@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-16 13:33:13",
+  "timestamp": "2026-09-16 13:36:01",
   "corriendo": {
-    "nombre": "WEB_0916_tienda_Moon_p1",
-    "hora": "13:16",
-    "eslabon_actual": 2,
-    "eslabon_total": 2,
-    "horas_rest": 0.0,
+    "nombre": "PIEZAS_ESTUDIO_V2",
+    "hora": "13:35",
+    "eslabon_actual": 0,
+    "eslabon_total": 1,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
-      "tot_esl": 2,
-      "elapsed": 10,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 19,
+      "paso_num": 1,
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 2066,
     "horas_hechas": 247.8666666666666,
     "horas_restantes": 27.599999999999767,
-    "fecha_fin_estimada": "Jue 17/09 17:09"
+    "fecha_fin_estimada": "Jue 17/09 17:12"
   },
   "items": [
     {
@@ -30,8 +30,8 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 16/09 13:41",
-      "es_activa": false,
+      "eta_txt": "Termina: Mié 16/09 13:44",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -42,7 +42,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 13:57",
+      "eta_txt": "Termina: Mié 16/09 14:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 16/09 14:29",
+      "eta_txt": "Termina: Mié 16/09 14:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2130,11 +2130,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 14:29",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 177,
@@ -2142,7 +2142,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 16/09 14:45",
+      "eta_txt": "Termina: Mié 16/09 14:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
