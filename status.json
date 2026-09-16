@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-15 23:42:40",
+  "timestamp": "2026-09-15 23:51:05",
   "corriendo": {
     "nombre": "REEMPLAZO2",
     "hora": "23:41",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": 3,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 64,
+      "elapsed": 3,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 1538,
-    "eslabones_totales": 1874,
-    "horas_hechas": 205.0666666666665,
-    "horas_restantes": 44.80000000000001,
-    "fecha_fin_estimada": "Jue 17/09 20:30"
+    "eslabones_hechos": 1548,
+    "eslabones_totales": 1882,
+    "horas_hechas": 206.3999999999998,
+    "horas_restantes": 44.53333333333336,
+    "fecha_fin_estimada": "Jue 17/09 20:23"
   },
   "items": [
     {
@@ -1840,21 +1840,33 @@
       "num": 152,
       "nombre": "INFLUENCER8",
       "n_esl": 9,
-      "generados": 0,
+      "generados": 9,
       "horas": 1.2,
-      "eta_txt": "Termina: Mié 16/09 00:54",
+      "eta_txt": "Completado",
       "es_activa": false,
-      "es_hecha": false,
+      "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
     },
     {
       "num": 153,
+      "nombre": "INFLUENCER9",
+      "n_esl": 8,
+      "generados": 0,
+      "horas": 1.0666666666666667,
+      "eta_txt": "Termina: Mié 16/09 00:55",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 154,
       "nombre": "REEMPLAZO2",
       "n_esl": 3,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 16/09 01:18",
+      "eta_txt": "Termina: Mié 16/09 01:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
