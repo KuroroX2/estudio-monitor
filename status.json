@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-16 13:12:30",
+  "timestamp": "2026-09-16 13:13:40",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1857,
-    "eslabones_totales": 2059,
+    "eslabones_totales": 2063,
     "horas_hechas": 247.5999999999999,
-    "horas_restantes": 26.933333333333167,
-    "fecha_fin_estimada": "Jue 17/09 16:08"
+    "horas_restantes": 27.46666666666647,
+    "fecha_fin_estimada": "Jue 17/09 16:41"
   },
   "items": [
     {
@@ -15,11 +15,11 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 16/09 13:44",
+      "eta_txt": "Termina: Mié 16/09 13:45",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 2,
@@ -2084,6 +2084,30 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 174,
+      "nombre": "WEB_0916_tienda_Moon_p1",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 16/09 14:01",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 175,
+      "nombre": "WEB_0916_tienda_Moon_p2",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 16/09 14:17",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
