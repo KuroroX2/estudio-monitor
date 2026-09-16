@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-09-16 11:45:08",
+  "timestamp": "2026-09-16 11:54:27",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1852,
     "eslabones_totales": 2058,
     "horas_hechas": 246.9333333333332,
     "horas_restantes": 27.466666666666555,
-    "fecha_fin_estimada": "Jue 17/09 15:13"
+    "fecha_fin_estimada": "Jue 17/09 15:22"
   },
   "items": [
     {
       "num": 1,
-      "nombre": "SET_ESTUDIO_V3",
+      "nombre": "SET_ESTUDIO_V4",
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mié 16/09 12:25",
+      "eta_txt": "Termina: Mié 16/09 12:34",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": null
     },
     {
       "num": 2,
@@ -2055,7 +2055,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 16/09 12:49",
+      "eta_txt": "Termina: Mié 16/09 12:58",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
