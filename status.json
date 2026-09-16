@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-15 20:52:47",
+  "timestamp": "2026-09-15 21:00:48",
   "corriendo": {
     "nombre": "WEB_0915_bj_v8_Aonuk",
     "hora": "20:08",
-    "eslabon_actual": 6,
+    "eslabon_actual": 7,
     "eslabon_total": 7,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 6,
+      "num_esl": 7,
       "tot_esl": 7,
-      "elapsed": 60,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 1,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1454,
+    "eslabones_hechos": 1455,
     "eslabones_totales": 1985,
-    "horas_hechas": 193.86666666666656,
-    "horas_restantes": 70.79999999999995,
+    "horas_hechas": 193.9999999999999,
+    "horas_restantes": 70.66666666666663,
     "fecha_fin_estimada": "Vie 18/09 19:40"
   },
   "items": [
@@ -42,7 +42,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 16/09 00:52",
+      "eta_txt": "Termina: Mié 16/09 01:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -52,7 +52,7 @@
       "num": 3,
       "nombre": "WEB_0915_bj_v8_Aonuk",
       "n_esl": 7,
-      "generados": 5,
+      "generados": 6,
       "horas": 0.9333333333333333,
       "eta_txt": "Termina: Mié 16/09 01:08",
       "es_activa": true,
