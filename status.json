@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-16 10:54:15",
+  "timestamp": "2026-09-16 11:04:28",
   "corriendo": {
-    "nombre": "FICHA_1000457122",
-    "hora": "10:53",
+    "nombre": "FICHA_VISUAL_V3",
+    "hora": "11:04",
     "eslabon_actual": 0,
-    "eslabon_total": 14,
-    "horas_rest": 1.8666666666666667,
+    "eslabon_total": 175,
+    "horas_rest": 23.333333333333332,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 59,
+      "elapsed": 19,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1841,
+    "eslabones_hechos": 1855,
     "eslabones_totales": 2354,
-    "horas_hechas": 245.4666666666665,
-    "horas_restantes": 68.39999999999995,
-    "fecha_fin_estimada": "Sáb 19/09 07:18"
+    "horas_hechas": 247.33333333333317,
+    "horas_restantes": 66.53333333333327,
+    "fecha_fin_estimada": "Sáb 19/09 05:36"
   },
   "items": [
     {
@@ -2056,11 +2056,11 @@
       "num": 170,
       "nombre": "FICHA_1000457122",
       "n_esl": 14,
-      "generados": 0,
+      "generados": 14,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 16/09 12:46",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
     },
@@ -2070,11 +2070,11 @@
       "n_esl": 175,
       "generados": 0,
       "horas": 23.333333333333332,
-      "eta_txt": "Termina: Jue 17/09 12:06",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 17/09 10:24",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 172,
@@ -2082,7 +2082,7 @@
       "n_esl": 126,
       "generados": 0,
       "horas": 16.8,
-      "eta_txt": "Termina: Vie 18/09 04:54",
+      "eta_txt": "Termina: Vie 18/09 03:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
