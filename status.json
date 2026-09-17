@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-17 09:31:15",
+  "timestamp": "2026-09-17 09:39:58",
   "corriendo": {
     "nombre": "WEB_0917_reel_metro_p1_v3",
     "hora": "09:14",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 0,
+      "elapsed": 8,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2057,
+    "eslabones_hechos": 2058,
     "eslabones_totales": 2814,
-    "horas_hechas": 274.26666666666665,
-    "horas_restantes": 100.93333333333283,
+    "horas_hechas": 274.4,
+    "horas_restantes": 100.7999999999995,
     "fecha_fin_estimada": "Lun 21/09 14:27"
   },
   "items": [
@@ -2392,7 +2392,7 @@
       "num": 198,
       "nombre": "WEB_0917_reel_metro_p1_v3",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.4,
       "eta_txt": "Termina: Jue 17/09 09:39",
       "es_activa": true,
