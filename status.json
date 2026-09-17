@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-17 05:45:13",
+  "timestamp": "2026-09-17 05:53:37",
   "corriendo": {
     "nombre": "WEB_0917_podcast_paz_p5",
     "hora": "05:28",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 4,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 4,
-      "elapsed": 4,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 3,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1934,
+    "eslabones_hechos": 1935,
     "eslabones_totales": 2805,
-    "horas_hechas": 257.8666666666667,
-    "horas_restantes": 116.13333333333281,
+    "horas_hechas": 258.0,
+    "horas_restantes": 115.99999999999949,
     "fecha_fin_estimada": "Mar 22/09 01:53"
   },
   "items": [
@@ -2284,7 +2284,7 @@
       "num": 189,
       "nombre": "WEB_0917_podcast_paz_p5",
       "n_esl": 4,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.5333333333333333,
       "eta_txt": "Termina: Jue 17/09 06:01",
       "es_activa": true,
