@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-16 21:19:34",
+  "timestamp": "2026-09-16 21:30:07",
   "corriendo": {
     "nombre": "WEB_0916_estudio_multicam_Moon",
     "hora": "21:19",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": null,
     "horas_rest": null,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 129,
+      "elapsed": 761,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1926,
+    "eslabones_hechos": 1927,
     "eslabones_totales": 2124,
-    "horas_hechas": 256.8,
-    "horas_restantes": 26.39999999999958,
-    "fecha_fin_estimada": "Jue 17/09 23:43"
+    "horas_hechas": 256.93333333333334,
+    "horas_restantes": 26.266666666666254,
+    "fecha_fin_estimada": "Jue 17/09 23:46"
   },
   "items": [
     {
@@ -2296,9 +2296,9 @@
       "num": 190,
       "nombre": "WEB_0916_estudio_multicam_Moon",
       "n_esl": 0,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 16/09 21:19",
+      "eta_txt": "Termina: Mié 16/09 21:30",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
