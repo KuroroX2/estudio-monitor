@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-17 09:03:51",
+  "timestamp": "2026-09-17 09:11:25",
   "corriendo": {
     "nombre": "WEB_0917_reel_sushi_p2",
     "hora": "08:46",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 62,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 21,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2054,
+    "eslabones_hechos": 2055,
     "eslabones_totales": 2814,
-    "horas_hechas": 273.8666666666667,
-    "horas_restantes": 101.3333333333328,
+    "horas_hechas": 274.0,
+    "horas_restantes": 101.19999999999948,
     "fecha_fin_estimada": "Lun 21/09 14:23"
   },
   "items": [
@@ -2394,7 +2394,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 17/09 09:27",
+      "eta_txt": "Termina: Jue 17/09 09:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2406,7 +2406,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 17/09 09:51",
+      "eta_txt": "Termina: Jue 17/09 09:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2416,7 +2416,7 @@
       "num": 200,
       "nombre": "WEB_0917_reel_sushi_p2",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.4,
       "eta_txt": "Termina: Jue 17/09 09:59",
       "es_activa": true,
