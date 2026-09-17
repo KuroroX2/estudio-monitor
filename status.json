@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-17 02:01:52",
+  "timestamp": "2026-09-17 02:09:27",
   "corriendo": {
     "nombre": "WEB_0916_casa_07_piscina_v3",
     "hora": "02:00",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 3,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 3,
-      "elapsed": 65,
+      "elapsed": 64,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1923,
+    "eslabones_hechos": 1924,
     "eslabones_totales": 2815,
-    "horas_hechas": 256.4,
-    "horas_restantes": 118.93333333333277,
+    "horas_hechas": 256.5333333333333,
+    "horas_restantes": 118.79999999999944,
     "fecha_fin_estimada": "Mar 22/09 00:57"
   },
   "items": [
@@ -2296,7 +2296,7 @@
       "num": 190,
       "nombre": "WEB_0916_casa_07_piscina_v3",
       "n_esl": 3,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.4,
       "eta_txt": "Termina: Jue 17/09 02:25",
       "es_activa": true,
