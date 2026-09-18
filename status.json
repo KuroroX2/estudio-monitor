@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 08:21:09",
+  "timestamp": "2026-09-18 08:31:12",
   "corriendo": {
     "nombre": "WEB_0918_bj_v8_Luna",
     "hora": "07:43",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 7,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 6,
       "tot_esl": 7,
-      "elapsed": 188,
+      "elapsed": 276,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2170,
+    "eslabones_hechos": 2171,
     "eslabones_totales": 2897,
-    "horas_hechas": 289.3333333333329,
-    "horas_restantes": 96.93333333333305,
-    "fecha_fin_estimada": "Mar 22/09 09:17"
+    "horas_hechas": 289.46666666666624,
+    "horas_restantes": 96.79999999999973,
+    "fecha_fin_estimada": "Mar 22/09 09:19"
   },
   "items": [
     {
@@ -2680,9 +2680,9 @@
       "num": 222,
       "nombre": "WEB_0918_bj_v8_Luna",
       "n_esl": 7,
-      "generados": 4,
+      "generados": 5,
       "horas": 0.9333333333333333,
-      "eta_txt": "Termina: Vie 18/09 08:45",
+      "eta_txt": "Termina: Vie 18/09 08:47",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2694,7 +2694,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Vie 18/09 08:53",
+      "eta_txt": "Termina: Vie 18/09 08:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2706,7 +2706,7 @@
       "n_esl": 329,
       "generados": 0,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 04:45",
+      "eta_txt": "Termina: Dom 20/09 04:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2718,7 +2718,7 @@
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 06:53",
+      "eta_txt": "Termina: Lun 21/09 06:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
