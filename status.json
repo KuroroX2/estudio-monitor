@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-18 20:21:12",
+  "timestamp": "2026-09-18 20:26:16",
   "corriendo": {
-    "nombre": "WEB_0918_prueba_salto_lora",
-    "hora": "19:36",
-    "eslabon_actual": 5,
-    "eslabon_total": 5,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "nombre": "JOTA_EXTRA_RESTANTES",
+    "hora": "20:23",
+    "eslabon_actual": 1,
+    "eslabon_total": 329,
+    "horas_rest": 43.86666666666667,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 5,
-      "tot_esl": 5,
-      "elapsed": 161,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "num_esl": 1,
+      "tot_esl": 1,
+      "elapsed": 166,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 2906,
     "horas_hechas": 291.06666666666626,
     "horas_restantes": 96.39999999999975,
-    "fecha_fin_estimada": "Mar 22/09 20:45"
+    "fecha_fin_estimada": "Mar 22/09 20:50"
   },
   "items": [
     {
@@ -2718,11 +2718,11 @@
       "n_esl": 5,
       "generados": 5,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Vie 18/09 20:21",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 226,
@@ -2730,11 +2730,11 @@
       "n_esl": 329,
       "generados": 0,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 16:13",
-      "es_activa": false,
+      "eta_txt": "Termina: Dom 20/09 16:18",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 227,
@@ -2742,7 +2742,7 @@
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 18:21",
+      "eta_txt": "Termina: Lun 21/09 18:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
