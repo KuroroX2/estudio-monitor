@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 18:59:24",
+  "timestamp": "2026-09-18 19:10:39",
   "corriendo": {
     "nombre": "WEB_0918_muneca_realista",
     "hora": "18:59",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 4,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 18,
+      "elapsed": 227,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2174,
-    "eslabones_totales": 2901,
-    "horas_hechas": 289.8666666666662,
-    "horas_restantes": 96.93333333333311,
-    "fecha_fin_estimada": "Mar 22/09 19:55"
+    "eslabones_hechos": 2175,
+    "eslabones_totales": 2906,
+    "horas_hechas": 289.99999999999955,
+    "horas_restantes": 97.46666666666647,
+    "fecha_fin_estimada": "Mar 22/09 20:38"
   },
   "items": [
     {
@@ -2704,9 +2704,9 @@
       "num": 224,
       "nombre": "WEB_0918_muneca_realista",
       "n_esl": 4,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Vie 18/09 19:31",
+      "eta_txt": "Termina: Vie 18/09 19:34",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2714,23 +2714,35 @@
     },
     {
       "num": 225,
+      "nombre": "WEB_0918_prueba_salto_lora",
+      "n_esl": 5,
+      "generados": 0,
+      "horas": 0.6666666666666666,
+      "eta_txt": "Termina: Vie 18/09 20:14",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 226,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 329,
       "generados": 0,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 15:23",
+      "eta_txt": "Termina: Dom 20/09 16:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 226,
+      "num": 227,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 17:31",
+      "eta_txt": "Termina: Lun 21/09 18:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
