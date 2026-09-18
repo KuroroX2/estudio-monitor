@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 18:25:22",
+  "timestamp": "2026-09-18 18:35:26",
   "corriendo": {
     "nombre": "JOTA_EXTRA_RESTANTES",
     "hora": "08:59",
-    "eslabon_actual": 73,
+    "eslabon_actual": 74,
     "eslabon_total": 329,
-    "horas_rest": 34.13333333333333,
+    "horas_rest": 34.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 1,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 120,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2247,
+    "eslabones_hechos": 2248,
     "eslabones_totales": 2897,
-    "horas_hechas": 299.59999999999957,
-    "horas_restantes": 86.6666666666664,
-    "fecha_fin_estimada": "Mar 22/09 09:05"
+    "horas_hechas": 299.7333333333329,
+    "horas_restantes": 86.53333333333308,
+    "fecha_fin_estimada": "Mar 22/09 09:07"
   },
   "items": [
     {
@@ -2704,9 +2704,9 @@
       "num": 224,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 329,
-      "generados": 73,
+      "generados": 74,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 04:33",
+      "eta_txt": "Termina: Dom 20/09 04:35",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2718,7 +2718,7 @@
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 06:41",
+      "eta_txt": "Termina: Lun 21/09 06:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
