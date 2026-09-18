@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18 18:50:32",
+  "timestamp": "2026-09-18 18:55:35",
   "corriendo": {
     "nombre": "JOTA_EXTRA_RESTANTES",
     "hora": "08:59",
@@ -10,7 +10,7 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 82,
+      "elapsed": 385,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
@@ -18,10 +18,10 @@
   },
   "global": {
     "eslabones_hechos": 2250,
-    "eslabones_totales": 2897,
+    "eslabones_totales": 2901,
     "horas_hechas": 299.99999999999955,
-    "horas_restantes": 86.26666666666642,
-    "fecha_fin_estimada": "Mar 22/09 09:06"
+    "horas_restantes": 86.79999999999978,
+    "fecha_fin_estimada": "Mar 22/09 09:43"
   },
   "items": [
     {
@@ -2706,7 +2706,7 @@
       "n_esl": 329,
       "generados": 76,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 04:34",
+      "eta_txt": "Termina: Dom 20/09 04:39",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2714,11 +2714,23 @@
     },
     {
       "num": 225,
+      "nombre": "WEB_0918_muneca_realista",
+      "n_esl": 4,
+      "generados": 0,
+      "horas": 0.5333333333333333,
+      "eta_txt": "Termina: Dom 20/09 05:11",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 226,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 06:42",
+      "eta_txt": "Termina: Lun 21/09 07:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
