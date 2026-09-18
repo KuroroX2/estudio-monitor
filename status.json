@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 18:55:35",
+  "timestamp": "2026-09-18 18:59:24",
   "corriendo": {
-    "nombre": "JOTA_EXTRA_RESTANTES",
-    "hora": "08:59",
-    "eslabon_actual": 76,
-    "eslabon_total": 329,
-    "horas_rest": 33.733333333333334,
+    "nombre": "WEB_0918_muneca_realista",
+    "hora": "18:59",
+    "eslabon_actual": 1,
+    "eslabon_total": 4,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
-      "tot_esl": 1,
-      "elapsed": 385,
+      "tot_esl": 4,
+      "elapsed": 18,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 2250,
+    "eslabones_hechos": 2174,
     "eslabones_totales": 2901,
-    "horas_hechas": 299.99999999999955,
-    "horas_restantes": 86.79999999999978,
-    "fecha_fin_estimada": "Mar 22/09 09:43"
+    "horas_hechas": 289.8666666666662,
+    "horas_restantes": 96.93333333333311,
+    "fecha_fin_estimada": "Mar 22/09 19:55"
   },
   "items": [
     {
@@ -2702,27 +2702,27 @@
     },
     {
       "num": 224,
-      "nombre": "JOTA_EXTRA_RESTANTES",
-      "n_esl": 329,
-      "generados": 76,
-      "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 04:39",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 225,
       "nombre": "WEB_0918_muneca_realista",
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Dom 20/09 05:11",
-      "es_activa": false,
+      "eta_txt": "Termina: Vie 18/09 19:31",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
+    },
+    {
+      "num": 225,
+      "nombre": "JOTA_EXTRA_RESTANTES",
+      "n_esl": 329,
+      "generados": 0,
+      "horas": 43.86666666666667,
+      "eta_txt": "Termina: Dom 20/09 15:23",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
     },
     {
       "num": 226,
@@ -2730,7 +2730,7 @@
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 07:19",
+      "eta_txt": "Termina: Lun 21/09 17:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
