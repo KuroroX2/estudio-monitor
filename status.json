@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-19 01:28:10",
+  "timestamp": "2026-09-19 01:33:13",
   "corriendo": {
-    "nombre": "DESCENSURAR_MANGA RAYITAS BLANCAS",
-    "hora": "01:25",
+    "nombre": "DESCENSURAR_1",
+    "hora": "01:31",
     "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
@@ -14,7 +14,7 @@
     "eslabones_totales": 2921,
     "horas_hechas": 293.0666666666663,
     "horas_restantes": 96.3999999999997,
-    "fecha_fin_estimada": "Mié 23/09 01:52"
+    "fecha_fin_estimada": "Mié 23/09 01:57"
   },
   "items": [
     {
