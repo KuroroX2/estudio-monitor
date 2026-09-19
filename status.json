@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 22:37:19",
+  "timestamp": "2026-09-18 22:47:23",
   "corriendo": {
     "nombre": "JOTA_EXTRA_RESTANTES",
     "hora": "22:28",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 329,
-    "horas_rest": 43.733333333333334,
+    "horas_rest": 43.6,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 77,
+      "elapsed": 192,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2199,
+    "eslabones_hechos": 2200,
     "eslabones_totales": 2921,
-    "horas_hechas": 293.19999999999965,
-    "horas_restantes": 96.26666666666637,
-    "fecha_fin_estimada": "Mar 22/09 22:53"
+    "horas_hechas": 293.333333333333,
+    "horas_restantes": 96.13333333333304,
+    "fecha_fin_estimada": "Mar 22/09 22:55"
   },
   "items": [
     {
@@ -2764,9 +2764,9 @@
       "num": 229,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 329,
-      "generados": 1,
+      "generados": 2,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 18:21",
+      "eta_txt": "Termina: Dom 20/09 18:23",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
