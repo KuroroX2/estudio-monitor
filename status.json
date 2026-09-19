@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-19 01:33:13",
+  "timestamp": "2026-09-19 01:38:15",
   "corriendo": {
-    "nombre": "DESCENSURAR_1",
-    "hora": "01:31",
+    "nombre": "DESCENSURAR_2",
+    "hora": "01:36",
     "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
@@ -14,7 +14,7 @@
     "eslabones_totales": 2921,
     "horas_hechas": 293.0666666666663,
     "horas_restantes": 96.3999999999997,
-    "fecha_fin_estimada": "Mié 23/09 01:57"
+    "fecha_fin_estimada": "Mié 23/09 02:02"
   },
   "items": [
     {
