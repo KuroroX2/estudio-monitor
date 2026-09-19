@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18 21:41:48",
+  "timestamp": "2026-09-18 21:46:51",
   "corriendo": {
-    "nombre": "WEB_0918_prueba_salto_rapido_1s",
-    "hora": "21:24",
-    "eslabon_actual": 5,
-    "eslabon_total": 5,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "nombre": "FICHA_VISUAL_V3",
+    "hora": "21:43",
+    "eslabon_actual": 0,
+    "eslabon_total": 196,
+    "horas_rest": 26.133333333333333,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 5,
-      "tot_esl": 5,
-      "elapsed": 9,
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 210,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
@@ -21,7 +21,7 @@
     "eslabones_totales": 2911,
     "horas_hechas": 291.73333333333295,
     "horas_restantes": 96.39999999999975,
-    "fecha_fin_estimada": "Mar 22/09 22:05"
+    "fecha_fin_estimada": "Mar 22/09 22:10"
   },
   "items": [
     {
@@ -2730,11 +2730,11 @@
       "n_esl": 5,
       "generados": 5,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Vie 18/09 21:41",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 227,
@@ -2754,11 +2754,11 @@
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Sáb 19/09 23:49",
-      "es_activa": false,
+      "eta_txt": "Termina: Sáb 19/09 23:54",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     }
   ]
 }
