@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-19 02:48:55",
+  "timestamp": "2026-09-19 02:53:58",
   "corriendo": {
-    "nombre": "POSE_PERSONA POSE INSTAGRAM 3",
-    "hora": "02:44",
+    "nombre": "GENERAR_SUN_V2",
+    "hora": "02:51",
     "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
@@ -14,7 +14,7 @@
     "eslabones_totales": 2921,
     "horas_hechas": 293.0666666666663,
     "horas_restantes": 96.3999999999997,
-    "fecha_fin_estimada": "Mié 23/09 03:12"
+    "fecha_fin_estimada": "Mié 23/09 03:17"
   },
   "items": [
     {
