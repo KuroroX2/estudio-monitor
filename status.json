@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-18 21:21:37",
+  "timestamp": "2026-09-18 21:26:40",
   "corriendo": {
-    "nombre": "JOTA_EXTRA_RESTANTES",
-    "hora": "20:23",
-    "eslabon_actual": 7,
-    "eslabon_total": 329,
-    "horas_rest": 42.93333333333333,
+    "nombre": "WEB_0918_prueba_salto_rapido_1s",
+    "hora": "21:24",
+    "eslabon_actual": 1,
+    "eslabon_total": 5,
+    "horas_rest": 0.6666666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
-      "tot_esl": 1,
-      "elapsed": 134,
+      "tot_esl": 5,
+      "elapsed": 105,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2190,
-    "eslabones_totales": 2906,
-    "horas_hechas": 291.9999999999996,
-    "horas_restantes": 95.46666666666641,
-    "fecha_fin_estimada": "Mar 22/09 20:49"
+    "eslabones_hechos": 2183,
+    "eslabones_totales": 2911,
+    "horas_hechas": 291.06666666666626,
+    "horas_restantes": 97.06666666666644,
+    "fecha_fin_estimada": "Mar 22/09 22:30"
   },
   "items": [
     {
@@ -2726,23 +2726,35 @@
     },
     {
       "num": 226,
-      "nombre": "JOTA_EXTRA_RESTANTES",
-      "n_esl": 329,
-      "generados": 7,
-      "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 16:17",
+      "nombre": "WEB_0918_prueba_salto_rapido_1s",
+      "n_esl": 5,
+      "generados": 0,
+      "horas": 0.6666666666666666,
+      "eta_txt": "Termina: Vie 18/09 22:06",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": null
     },
     {
       "num": 227,
+      "nombre": "JOTA_EXTRA_RESTANTES",
+      "n_esl": 329,
+      "generados": 0,
+      "horas": 43.86666666666667,
+      "eta_txt": "Falló (código 15)",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": true,
+      "es_reintento": false
+    },
+    {
+      "num": 228,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 196,
       "generados": 0,
       "horas": 26.133333333333333,
-      "eta_txt": "Termina: Lun 21/09 18:25",
+      "eta_txt": "Termina: Dom 20/09 00:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
