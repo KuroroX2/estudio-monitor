@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-19 02:33:47",
+  "timestamp": "2026-09-19 02:38:50",
   "corriendo": {
-    "nombre": "POSE_PERSONA POSE 2",
-    "hora": "02:32",
+    "nombre": "POSE_PERSONA POSE INSTAGRAM 2",
+    "hora": "02:38",
     "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
@@ -14,7 +14,7 @@
     "eslabones_totales": 2921,
     "horas_hechas": 293.0666666666663,
     "horas_restantes": 96.3999999999997,
-    "fecha_fin_estimada": "Mié 23/09 02:57"
+    "fecha_fin_estimada": "Mié 23/09 03:02"
   },
   "items": [
     {
