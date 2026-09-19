@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-09-18 22:22:11",
+  "timestamp": "2026-09-18 22:27:13",
   "corriendo": {
     "nombre": "WEB_0918_prueba_salto_rapido_22f_shift1",
-    "hora": "22:13",
-    "eslabon_actual": 4,
+    "hora": "22:12",
+    "eslabon_actual": 5,
     "eslabon_total": 5,
-    "horas_rest": 0.26666666666666666,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 5,
-      "elapsed": 43,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 6,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2196,
+    "eslabones_hechos": 2198,
     "eslabones_totales": 2921,
-    "horas_hechas": 292.79999999999967,
-    "horas_restantes": 96.66666666666634,
-    "fecha_fin_estimada": "Mar 22/09 23:02"
+    "horas_hechas": 293.0666666666663,
+    "horas_restantes": 96.3999999999997,
+    "fecha_fin_estimada": "Mar 22/09 22:51"
   },
   "items": [
     {
       "num": 1,
       "nombre": "WEB_0918_prueba_salto_rapido_22f_shift1",
       "n_esl": 5,
-      "generados": 3,
+      "generados": 5,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Vie 18/09 22:38",
+      "eta_txt": "Termina: Vie 18/09 22:27",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2766,7 +2766,7 @@
       "n_esl": 329,
       "generados": 0,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 18:30",
+      "eta_txt": "Termina: Dom 20/09 18:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
