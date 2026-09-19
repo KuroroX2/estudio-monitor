@@ -1,27 +1,20 @@
 {
-  "timestamp": "2026-09-19 04:14:32",
+  "timestamp": "2026-09-19 04:24:36",
   "corriendo": {
-    "nombre": "JOTA_EXTRA_RESTANTES",
-    "hora": "03:42",
-    "eslabon_actual": 4,
-    "eslabon_total": 130,
-    "horas_rest": 16.8,
+    "nombre": "jota_extra_R_obj_sombrero_copa_b",
+    "hora": "?",
+    "eslabon_actual": 0,
+    "eslabon_total": null,
+    "horas_rest": null,
     "suelto": true,
-    "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 1,
-      "elapsed": 29,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
-    }
+    "clip_info": null
   },
   "global": {
-    "eslabones_hechos": 2202,
+    "eslabones_hechos": 2198,
     "eslabones_totales": 2624,
-    "horas_hechas": 293.5999999999996,
-    "horas_restantes": 56.26666666666648,
-    "fecha_fin_estimada": "Lun 21/09 12:30"
+    "horas_hechas": 293.0666666666663,
+    "horas_restantes": 56.799999999999784,
+    "fecha_fin_estimada": "Lun 21/09 13:12"
   },
   "items": [
     {
@@ -30,7 +23,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Sáb 19/09 04:46",
+      "eta_txt": "Termina: Sáb 19/09 04:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -42,7 +35,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Sáb 19/09 06:06",
+      "eta_txt": "Termina: Sáb 19/09 06:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +47,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Sáb 19/09 07:26",
+      "eta_txt": "Termina: Sáb 19/09 07:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -66,7 +59,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Sáb 19/09 11:26",
+      "eta_txt": "Termina: Sáb 19/09 11:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -78,7 +71,7 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Sáb 19/09 15:26",
+      "eta_txt": "Termina: Sáb 19/09 15:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -88,13 +81,13 @@
       "num": 6,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 130,
-      "generados": 4,
+      "generados": 0,
       "horas": 17.333333333333332,
-      "eta_txt": "Termina: Dom 20/09 08:14",
-      "es_activa": true,
+      "eta_txt": "Termina: Dom 20/09 08:56",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": true
     },
     {
       "num": 7,
@@ -102,7 +95,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Dom 20/09 10:06",
+      "eta_txt": "Termina: Dom 20/09 10:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
