@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-18 22:27:13",
+  "timestamp": "2026-09-18 22:32:17",
   "corriendo": {
-    "nombre": "WEB_0918_prueba_salto_rapido_22f_shift1",
-    "hora": "22:12",
-    "eslabon_actual": 5,
-    "eslabon_total": 5,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "nombre": "JOTA_EXTRA_RESTANTES",
+    "hora": "22:28",
+    "eslabon_actual": 1,
+    "eslabon_total": 329,
+    "horas_rest": 43.86666666666667,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 5,
-      "tot_esl": 5,
-      "elapsed": 6,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "num_esl": 1,
+      "tot_esl": 1,
+      "elapsed": 245,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 2921,
     "horas_hechas": 293.0666666666663,
     "horas_restantes": 96.3999999999997,
-    "fecha_fin_estimada": "Mar 22/09 22:51"
+    "fecha_fin_estimada": "Mar 22/09 22:56"
   },
   "items": [
     {
@@ -30,11 +30,11 @@
       "n_esl": 5,
       "generados": 5,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Vie 18/09 22:27",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 2,
@@ -2766,11 +2766,11 @@
       "n_esl": 329,
       "generados": 0,
       "horas": 43.86666666666667,
-      "eta_txt": "Termina: Dom 20/09 18:19",
-      "es_activa": false,
+      "eta_txt": "Termina: Dom 20/09 18:24",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 230,
