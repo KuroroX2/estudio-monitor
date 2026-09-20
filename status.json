@@ -1,12 +1,100 @@
 {
-  "timestamp": "2026-09-19 23:08:17",
-  "corriendo": null,
+  "timestamp": "2026-09-19 23:58:19",
+  "corriendo": {
+    "nombre": "WEB_0919_1m_crecimiento_magico_busto",
+    "hora": "23:54",
+    "eslabon_actual": 1,
+    "eslabon_total": 10,
+    "horas_rest": 1.3333333333333333,
+    "suelto": true,
+    "clip_info": {
+      "num_esl": 1,
+      "tot_esl": 10,
+      "elapsed": 201,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
+    }
+  },
   "global": {
     "eslabones_hechos": 0,
-    "eslabones_totales": 0,
+    "eslabones_totales": 274,
     "horas_hechas": 0.0,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Sáb 19/09 23:08"
+    "horas_restantes": 36.53333333333333,
+    "fecha_fin_estimada": "Lun 21/09 12:30"
   },
-  "items": []
+  "items": [
+    {
+      "num": 1,
+      "nombre": "WEB_0919_1m_crecimiento_magico_busto",
+      "n_esl": 10,
+      "generados": 0,
+      "horas": 1.3333333333333333,
+      "eta_txt": "Termina: Dom 20/09 01:18",
+      "es_activa": true,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2,
+      "nombre": "WEB_0919_teleserie_eclipse_de_seda",
+      "n_esl": 30,
+      "generados": 0,
+      "horas": 4.0,
+      "eta_txt": "Termina: Dom 20/09 05:18",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 3,
+      "nombre": "WEB_0919_teleserie_clausula_rescision",
+      "n_esl": 30,
+      "generados": 0,
+      "horas": 4.0,
+      "eta_txt": "Termina: Dom 20/09 09:18",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 4,
+      "nombre": "WEB_0918_prueba_salto_extrema_60c",
+      "n_esl": 60,
+      "generados": 0,
+      "horas": 8.0,
+      "eta_txt": "Termina: Dom 20/09 17:18",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 5,
+      "nombre": "FICHA_VISUAL_V3",
+      "n_esl": 14,
+      "generados": 0,
+      "horas": 1.8666666666666667,
+      "eta_txt": "Termina: Dom 20/09 19:10",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 6,
+      "nombre": "JOTA_EXTRA_RESTANTES",
+      "n_esl": 130,
+      "generados": 0,
+      "horas": 17.333333333333332,
+      "eta_txt": "Termina: Lun 21/09 12:30",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    }
+  ]
 }
