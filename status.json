@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-20 18:22:02",
+  "timestamp": "2026-09-20 18:30:05",
   "corriendo": {
     "nombre": "WEB_0919_teleserie_clausula_rescision",
     "hora": "17:18",
-    "eslabon_actual": 19,
+    "eslabon_actual": 20,
     "eslabon_total": 30,
-    "horas_rest": 3.066666666666667,
+    "horas_rest": 2.933333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 19,
+      "num_esl": 20,
       "tot_esl": 30,
-      "elapsed": 60,
+      "elapsed": 15,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 68,
+    "eslabones_hechos": 69,
     "eslabones_totales": 795,
-    "horas_hechas": 9.066666666666666,
-    "horas_restantes": 96.93333333333334,
+    "horas_hechas": 9.2,
+    "horas_restantes": 96.8,
     "fecha_fin_estimada": "Jue 24/09 19:18"
   },
   "items": [
@@ -112,7 +112,7 @@
       "num": 8,
       "nombre": "WEB_0919_teleserie_clausula_rescision",
       "n_esl": 30,
-      "generados": 7,
+      "generados": 8,
       "horas": 4.0,
       "eta_txt": "Termina: Dom 20/09 21:26",
       "es_activa": true,
