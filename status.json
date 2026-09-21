@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-21 02:15:31",
+  "timestamp": "2026-09-21 02:23:10",
   "corriendo": {
     "nombre": "WEB_0919_1m_ropa_invisible",
     "hora": "01:33",
-    "eslabon_actual": 6,
+    "eslabon_actual": 7,
     "eslabon_total": 10,
-    "horas_rest": 0.6666666666666666,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 6,
+      "num_esl": 7,
       "tot_esl": 10,
-      "elapsed": 49,
+      "elapsed": 0,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 106,
+    "eslabones_hechos": 107,
     "eslabones_totales": 775,
-    "horas_hechas": 14.133333333333335,
-    "horas_restantes": 89.19999999999997,
+    "horas_hechas": 14.26666666666667,
+    "horas_restantes": 89.06666666666665,
     "fecha_fin_estimada": "Jue 24/09 19:27"
   },
   "items": [
@@ -172,7 +172,7 @@
       "num": 13,
       "nombre": "WEB_0919_1m_ropa_invisible",
       "n_esl": 10,
-      "generados": 5,
+      "generados": 6,
       "horas": 1.3333333333333333,
       "eta_txt": "Termina: Lun 21/09 02:55",
       "es_activa": true,
