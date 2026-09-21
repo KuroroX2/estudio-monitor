@@ -1,12 +1,27 @@
 {
-  "timestamp": "2026-09-21 01:32:51",
-  "corriendo": null,
+  "timestamp": "2026-09-21 01:34:02",
+  "corriendo": {
+    "nombre": "WEB_0919_1m_ropa_invisible",
+    "hora": "01:33",
+    "eslabon_actual": 1,
+    "eslabon_total": 10,
+    "horas_rest": 1.3333333333333333,
+    "suelto": true,
+    "clip_info": {
+      "num_esl": 1,
+      "tot_esl": 10,
+      "elapsed": 60,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
+    }
+  },
   "global": {
     "eslabones_hechos": 101,
     "eslabones_totales": 775,
     "horas_hechas": 13.466666666666669,
     "horas_restantes": 89.86666666666665,
-    "fecha_fin_estimada": "Jue 24/09 19:24"
+    "fecha_fin_estimada": "Jue 24/09 19:26"
   },
   "items": [
     {
@@ -16,7 +31,7 @@
       "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -28,7 +43,7 @@
       "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -40,7 +55,7 @@
       "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -52,7 +67,7 @@
       "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -64,7 +79,7 @@
       "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -76,7 +91,7 @@
       "generados": 3,
       "horas": 0.4,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -88,7 +103,7 @@
       "generados": 20,
       "horas": 2.6666666666666665,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -100,7 +115,7 @@
       "generados": 20,
       "horas": 2.6666666666666665,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -112,7 +127,7 @@
       "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -124,7 +139,7 @@
       "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -136,7 +151,7 @@
       "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -148,7 +163,7 @@
       "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Completado",
-      "es_activa": null,
+      "es_activa": false,
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
@@ -159,8 +174,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 02:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 02:54",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -171,8 +186,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 04:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 04:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -183,8 +198,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 05:32",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 05:34",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -195,8 +210,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 06:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 06:54",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -207,8 +222,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 08:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 08:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -219,8 +234,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 09:32",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 09:34",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -231,8 +246,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 10:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 10:54",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -243,8 +258,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 12:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 12:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -255,8 +270,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 13:32",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 13:34",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -267,8 +282,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 14:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 14:54",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -279,8 +294,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 16:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 16:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -291,8 +306,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 17:32",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 17:34",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -303,8 +318,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 18:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 18:54",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -315,8 +330,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 20:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 20:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -327,8 +342,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 21:32",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 21:34",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -339,8 +354,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 21/09 22:52",
-      "es_activa": null,
+      "eta_txt": "Termina: Lun 21/09 22:54",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -351,8 +366,8 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 22/09 00:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 00:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -363,8 +378,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 22/09 04:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 04:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -375,8 +390,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 22/09 08:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 08:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -387,8 +402,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 22/09 12:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 12:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -399,8 +414,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 22/09 16:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 16:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -411,8 +426,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mar 22/09 20:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mar 22/09 20:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -423,8 +438,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 23/09 00:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mié 23/09 00:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -435,8 +450,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 23/09 04:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mié 23/09 04:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -447,8 +462,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 23/09 08:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mié 23/09 08:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -459,8 +474,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 23/09 12:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mié 23/09 12:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -471,8 +486,8 @@
       "n_esl": 30,
       "generados": 0,
       "horas": 4.0,
-      "eta_txt": "Termina: Mié 23/09 16:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Mié 23/09 16:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -483,8 +498,8 @@
       "n_esl": 60,
       "generados": 0,
       "horas": 8.0,
-      "eta_txt": "Termina: Jue 24/09 00:12",
-      "es_activa": null,
+      "eta_txt": "Termina: Jue 24/09 00:14",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -495,8 +510,8 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Jue 24/09 02:04",
-      "es_activa": null,
+      "eta_txt": "Termina: Jue 24/09 02:06",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
@@ -507,8 +522,8 @@
       "n_esl": 130,
       "generados": 0,
       "horas": 17.333333333333332,
-      "eta_txt": "Termina: Jue 24/09 19:24",
-      "es_activa": null,
+      "eta_txt": "Termina: Jue 24/09 19:26",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
