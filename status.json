@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-20 21:21:29",
+  "timestamp": "2026-09-20 21:29:46",
   "corriendo": {
     "nombre": "WEB_0920_1m_moon_striptease_calle",
     "hora": "20:40",
-    "eslabon_actual": 6,
+    "eslabon_actual": 7,
     "eslabon_total": 10,
-    "horas_rest": 0.6666666666666666,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 6,
+      "num_esl": 7,
       "tot_esl": 10,
-      "elapsed": 1,
+      "elapsed": 3,
       "paso_num": 1,
       "paso_str": "Esperando hueco de GPU",
       "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 96,
+    "eslabones_hechos": 97,
     "eslabones_totales": 795,
-    "horas_hechas": 12.8,
-    "horas_restantes": 93.2,
+    "horas_hechas": 12.933333333333335,
+    "horas_restantes": 93.06666666666666,
     "fecha_fin_estimada": "Jue 24/09 18:33"
   },
   "items": [
@@ -124,7 +124,7 @@
       "num": 9,
       "nombre": "WEB_0920_1m_moon_striptease_calle",
       "n_esl": 10,
-      "generados": 5,
+      "generados": 6,
       "horas": 1.3333333333333333,
       "eta_txt": "Termina: Dom 20/09 22:01",
       "es_activa": true,
