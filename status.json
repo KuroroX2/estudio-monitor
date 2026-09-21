@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-20 23:34:44",
+  "timestamp": "2026-09-20 23:42:17",
   "corriendo": {
     "nombre": "WEB_0919_1m_reduccion_piscina",
-    "hora": "22:15",
+    "hora": "22:14",
     "eslabon_actual": 10,
     "eslabon_total": 10,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 10,
       "tot_esl": 10,
-      "elapsed": 110,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 12,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 110,
+    "eslabones_hechos": 111,
     "eslabones_totales": 795,
-    "horas_hechas": 14.666666666666668,
-    "horas_restantes": 91.33333333333333,
+    "horas_hechas": 14.800000000000002,
+    "horas_restantes": 91.2,
     "fecha_fin_estimada": "Jue 24/09 18:54"
   },
   "items": [
@@ -148,7 +148,7 @@
       "num": 11,
       "nombre": "WEB_0919_1m_reduccion_piscina",
       "n_esl": 10,
-      "generados": 9,
+      "generados": 10,
       "horas": 1.3333333333333333,
       "eta_txt": "Termina: Dom 20/09 23:42",
       "es_activa": true,
