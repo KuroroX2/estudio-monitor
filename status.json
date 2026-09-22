@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 08:11:27",
+  "timestamp": "2026-09-22 08:19:13",
   "corriendo": {
     "nombre": "WEB_0921_jefe_secretaria_p2",
     "hora": "08:10",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 51,
+      "elapsed": 62,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 266,
+    "eslabones_hechos": 267,
     "eslabones_totales": 847,
-    "horas_hechas": 35.466666666666654,
-    "horas_restantes": 77.46666666666673,
+    "horas_hechas": 35.59999999999999,
+    "horas_restantes": 77.3333333333334,
     "fecha_fin_estimada": "Vie 25/09 13:39"
   },
   "items": [
@@ -388,7 +388,7 @@
       "num": 31,
       "nombre": "WEB_0921_jefe_secretaria_p2",
       "n_esl": 2,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.26666666666666666,
       "eta_txt": "Termina: Mar 22/09 08:27",
       "es_activa": true,
