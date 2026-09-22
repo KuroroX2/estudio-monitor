@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 16:31:21",
+  "timestamp": "2026-09-22 16:39:22",
   "corriendo": {
     "nombre": "PAR_R2C",
     "hora": "16:30",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 3,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 3,
-      "elapsed": 47,
+      "elapsed": 62,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 298,
+    "eslabones_hechos": 299,
     "eslabones_totales": 305,
-    "horas_hechas": 39.73333333333331,
-    "horas_restantes": 0.93333333333333,
+    "horas_hechas": 39.866666666666646,
+    "horas_restantes": 0.7999999999999972,
     "fecha_fin_estimada": "Mar 22/09 17:27"
   },
   "items": [
@@ -508,7 +508,7 @@
       "num": 41,
       "nombre": "PAR_R2C",
       "n_esl": 3,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.4,
       "eta_txt": "Termina: Mar 22/09 16:55",
       "es_activa": true,
