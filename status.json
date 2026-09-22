@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-22 17:47:20",
+  "timestamp": "2026-09-22 18:03:43",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 305,
-    "eslabones_totales": 305,
+    "eslabones_totales": 308,
     "horas_hechas": 40.66666666666664,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mar 22/09 17:47"
+    "horas_restantes": 0.3999999999999986,
+    "fecha_fin_estimada": "Mar 22/09 18:27"
   },
   "items": [
     {
@@ -512,6 +512,18 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 43,
+      "nombre": "TAOMATE_AB",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 18:27",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
