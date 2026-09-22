@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-09-22 12:01:33",
+  "timestamp": "2026-09-22 12:09:53",
   "corriendo": {
     "nombre": "WEB_0921_isla_amazonas_p1",
     "hora": "11:12",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 10,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 10,
       "elapsed": 3,
       "paso_num": 1,
@@ -17,10 +17,10 @@
     }
   },
   "global": {
-    "eslabones_hechos": 279,
+    "eslabones_hechos": 280,
     "eslabones_totales": 847,
-    "horas_hechas": 37.19999999999998,
-    "horas_restantes": 75.7333333333334,
+    "horas_hechas": 37.333333333333314,
+    "horas_restantes": 75.60000000000007,
     "fecha_fin_estimada": "Vie 25/09 15:45"
   },
   "items": [
@@ -436,7 +436,7 @@
       "num": 35,
       "nombre": "WEB_0921_isla_amazonas_p1",
       "n_esl": 10,
-      "generados": 6,
+      "generados": 7,
       "horas": 1.3333333333333333,
       "eta_txt": "Termina: Mar 22/09 12:33",
       "es_activa": true,
