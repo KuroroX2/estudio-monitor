@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-22 16:02:01",
+  "timestamp": "2026-09-22 16:12:13",
   "corriendo": {
     "nombre": "PAR_R2B",
     "hora": "16:01",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 3,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 3,
-      "elapsed": 9,
+      "elapsed": 154,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 295,
+    "eslabones_hechos": 296,
     "eslabones_totales": 305,
-    "horas_hechas": 39.333333333333314,
-    "horas_restantes": 1.3333333333333286,
-    "fecha_fin_estimada": "Mar 22/09 17:22"
+    "horas_hechas": 39.46666666666665,
+    "horas_restantes": 1.1999999999999957,
+    "fecha_fin_estimada": "Mar 22/09 17:24"
   },
   "items": [
     {
@@ -496,9 +496,9 @@
       "num": 40,
       "nombre": "PAR_R2B",
       "n_esl": 3,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 16:26",
+      "eta_txt": "Termina: Mar 22/09 16:28",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 16:50",
+      "eta_txt": "Termina: Mar 22/09 16:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 22/09 17:22",
+      "eta_txt": "Termina: Mar 22/09 17:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
