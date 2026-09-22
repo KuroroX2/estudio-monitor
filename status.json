@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 08:55:27",
+  "timestamp": "2026-09-22 09:03:17",
   "corriendo": {
     "nombre": "WEB_0921_jefe_secretaria_p3",
     "hora": "08:29",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 7,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 7,
-      "elapsed": 65,
+      "elapsed": 7,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 264,
+    "eslabones_hechos": 265,
     "eslabones_totales": 847,
-    "horas_hechas": 35.19999999999999,
-    "horas_restantes": 77.73333333333339,
+    "horas_hechas": 35.33333333333332,
+    "horas_restantes": 77.60000000000005,
     "fecha_fin_estimada": "Vie 25/09 14:39"
   },
   "items": [
@@ -400,7 +400,7 @@
       "num": 32,
       "nombre": "WEB_0921_jefe_secretaria_p3",
       "n_esl": 7,
-      "generados": 3,
+      "generados": 4,
       "horas": 0.9333333333333333,
       "eta_txt": "Termina: Mar 22/09 09:27",
       "es_activa": true,
