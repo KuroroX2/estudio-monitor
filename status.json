@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 14:30:02",
+  "timestamp": "2026-09-22 14:38:48",
   "corriendo": {
     "nombre": "PAR_R1B",
     "hora": "14:13",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 4,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 14,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 301,
+    "eslabones_hechos": 302,
     "eslabones_totales": 856,
-    "horas_hechas": 40.13333333333332,
-    "horas_restantes": 74.00000000000006,
+    "horas_hechas": 40.26666666666665,
+    "horas_restantes": 73.86666666666672,
     "fecha_fin_estimada": "Vie 25/09 16:30"
   },
   "items": [
@@ -472,7 +472,7 @@
       "num": 38,
       "nombre": "PAR_R1B",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.4,
       "eta_txt": "Termina: Mar 22/09 14:38",
       "es_activa": true,
