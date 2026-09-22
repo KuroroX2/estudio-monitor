@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-22 18:20:25",
+  "timestamp": "2026-09-22 19:11:13",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 308,
-    "eslabones_totales": 308,
+    "eslabones_totales": 318,
     "horas_hechas": 41.06666666666664,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mar 22/09 18:20"
+    "horas_restantes": 1.3333333333333357,
+    "fecha_fin_estimada": "Mar 22/09 20:31"
   },
   "items": [
     {
@@ -524,6 +524,18 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 44,
+      "nombre": "WEB_0922_salto_10c_taomate",
+      "n_esl": 10,
+      "generados": 0,
+      "horas": 1.3333333333333333,
+      "eta_txt": "Termina: Mar 22/09 20:31",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
