@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 05:29:00",
+  "timestamp": "2026-09-22 05:37:27",
   "corriendo": {
     "nombre": "WEB_0921_233124_i2v_i2vstripteas",
     "hora": "04:19",
     "eslabon_actual": 10,
     "eslabon_total": 10,
-    "horas_rest": 0.26666666666666666,
-    "suelto": true,
+    "horas_rest": 0.13333333333333333,
+    "suelto": false,
     "clip_info": {
       "num_esl": 10,
       "tot_esl": 10,
-      "elapsed": 1,
+      "elapsed": 14,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 256,
+    "eslabones_hechos": 257,
     "eslabones_totales": 1037,
-    "horas_hechas": 34.13333333333332,
-    "horas_restantes": 104.1333333333335,
+    "horas_hechas": 34.26666666666665,
+    "horas_restantes": 104.00000000000017,
     "fecha_fin_estimada": "Sáb 26/09 13:37"
   },
   "items": [
@@ -340,7 +340,7 @@
       "num": 27,
       "nombre": "WEB_0921_233124_i2v_i2vstripteas",
       "n_esl": 10,
-      "generados": 8,
+      "generados": 9,
       "horas": 1.3333333333333333,
       "eta_txt": "Termina: Mar 22/09 05:45",
       "es_activa": true,
