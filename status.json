@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-22 19:13:28",
+  "timestamp": "2026-09-22 19:16:07",
   "corriendo": {
     "nombre": "WEB_0922_salto_10c_taomate",
     "hora": "19:12",
-    "eslabon_actual": 1,
+    "eslabon_actual": 3,
     "eslabon_total": 10,
-    "horas_rest": 1.3333333333333333,
+    "horas_rest": 1.0666666666666667,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 3,
       "tot_esl": 10,
-      "elapsed": 54,
+      "elapsed": 3,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 308,
+    "eslabones_hechos": 310,
     "eslabones_totales": 318,
-    "horas_hechas": 41.06666666666664,
-    "horas_restantes": 1.3333333333333357,
-    "fecha_fin_estimada": "Mar 22/09 20:33"
+    "horas_hechas": 41.33333333333331,
+    "horas_restantes": 1.06666666666667,
+    "fecha_fin_estimada": "Mar 22/09 20:20"
   },
   "items": [
     {
@@ -544,9 +544,9 @@
       "num": 44,
       "nombre": "WEB_0922_salto_10c_taomate",
       "n_esl": 10,
-      "generados": 0,
+      "generados": 2,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 22/09 20:33",
+      "eta_txt": "Termina: Mar 22/09 20:20",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
