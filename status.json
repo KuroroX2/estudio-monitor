@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-22 14:22:26",
+  "timestamp": "2026-09-22 14:30:02",
   "corriendo": {
     "nombre": "PAR_R1B",
     "hora": "14:13",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 64,
+      "elapsed": 4,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 300,
+    "eslabones_hechos": 301,
     "eslabones_totales": 856,
-    "horas_hechas": 39.999999999999986,
-    "horas_restantes": 74.13333333333338,
+    "horas_hechas": 40.13333333333332,
+    "horas_restantes": 74.00000000000006,
     "fecha_fin_estimada": "Vie 25/09 16:30"
   },
   "items": [
@@ -472,7 +472,7 @@
       "num": 38,
       "nombre": "PAR_R1B",
       "n_esl": 3,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.4,
       "eta_txt": "Termina: Mar 22/09 14:38",
       "es_activa": true,
