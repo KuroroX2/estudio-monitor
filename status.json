@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-22 17:07:25",
+  "timestamp": "2026-09-22 17:18:46",
   "corriendo": {
     "nombre": "PAR_R2D",
     "hora": "16:59",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 4,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 4,
-      "elapsed": 1,
+      "elapsed": 153,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 302,
+    "eslabones_hechos": 303,
     "eslabones_totales": 305,
-    "horas_hechas": 40.266666666666644,
-    "horas_restantes": 0.3999999999999986,
-    "fecha_fin_estimada": "Mar 22/09 17:31"
+    "horas_hechas": 40.39999999999998,
+    "horas_restantes": 0.2666666666666657,
+    "fecha_fin_estimada": "Mar 22/09 17:34"
   },
   "items": [
     {
@@ -520,9 +520,9 @@
       "num": 42,
       "nombre": "PAR_R2D",
       "n_esl": 4,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 22/09 17:31",
+      "eta_txt": "Termina: Mar 22/09 17:34",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
