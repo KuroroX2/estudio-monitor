@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22 20:26:00",
+  "timestamp": "2026-09-22 20:30:12",
   "corriendo": {
     "nombre": "PAR_R3A",
     "hora": "20:14",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 72,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 324,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 320,
-    "eslabones_totales": 330,
+    "eslabones_totales": 334,
     "horas_hechas": 42.66666666666664,
-    "horas_restantes": 1.3333333333333286,
-    "fecha_fin_estimada": "Mar 22/09 21:46"
+    "horas_restantes": 1.86666666666666,
+    "fecha_fin_estimada": "Mar 22/09 22:22"
   },
   "items": [
     {
@@ -558,7 +558,7 @@
       "n_esl": 3,
       "generados": 2,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 20:34",
+      "eta_txt": "Termina: Mar 22/09 20:38",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -566,11 +566,11 @@
     },
     {
       "num": 46,
-      "nombre": "PAR_R3B",
-      "n_esl": 3,
+      "nombre": "PAR_R5A",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 20:58",
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mar 22/09 20:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -578,11 +578,11 @@
     },
     {
       "num": 47,
-      "nombre": "PAR_R4A",
-      "n_esl": 3,
+      "nombre": "PAR_R5B",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 21:22",
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mar 22/09 21:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -590,11 +590,35 @@
     },
     {
       "num": 48,
+      "nombre": "PAR_R3B",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 21:34",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 49,
+      "nombre": "PAR_R4A",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 21:58",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 50,
       "nombre": "PAR_R4B",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 21:46",
+      "eta_txt": "Termina: Mar 22/09 22:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
