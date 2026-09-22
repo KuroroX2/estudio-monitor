@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-22 15:55:34",
+  "timestamp": "2026-09-22 15:58:15",
   "corriendo": {
     "nombre": "PAR_R2A",
     "hora": "15:33",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 356,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 9,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 294,
+    "eslabones_hechos": 295,
     "eslabones_totales": 305,
-    "horas_hechas": 39.19999999999998,
-    "horas_restantes": 1.4666666666666615,
-    "fecha_fin_estimada": "Mar 22/09 17:23"
+    "horas_hechas": 39.333333333333314,
+    "horas_restantes": 1.3333333333333286,
+    "fecha_fin_estimada": "Mar 22/09 17:18"
   },
   "items": [
     {
@@ -484,9 +484,9 @@
       "num": 39,
       "nombre": "PAR_R2A",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 16:03",
+      "eta_txt": "Termina: Mar 22/09 15:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -498,7 +498,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 16:27",
+      "eta_txt": "Termina: Mar 22/09 16:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -510,7 +510,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 16:51",
+      "eta_txt": "Termina: Mar 22/09 16:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -522,7 +522,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mar 22/09 17:23",
+      "eta_txt": "Termina: Mar 22/09 17:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
