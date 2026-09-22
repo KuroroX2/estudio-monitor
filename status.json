@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-21 22:50:04",
+  "timestamp": "2026-09-21 22:58:31",
   "corriendo": {
     "nombre": "WEB_0921_184432_i2v_i2vstripteas",
     "hora": "22:07",
-    "eslabon_actual": 6,
+    "eslabon_actual": 7,
     "eslabon_total": 8,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 6,
+      "num_esl": 7,
       "tot_esl": 8,
-      "elapsed": 19,
+      "elapsed": 4,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 223,
+    "eslabones_hechos": 224,
     "eslabones_totales": 1010,
-    "horas_hechas": 29.733333333333324,
-    "horas_restantes": 104.93333333333351,
+    "horas_hechas": 29.866666666666656,
+    "horas_restantes": 104.80000000000017,
     "fecha_fin_estimada": "Sáb 26/09 07:46"
   },
   "items": [
@@ -40,7 +40,7 @@
       "num": 2,
       "nombre": "WEB_0921_184432_i2v_i2vstripteas",
       "n_esl": 8,
-      "generados": 5,
+      "generados": 6,
       "horas": 1.0666666666666667,
       "eta_txt": "Termina: Lun 21/09 23:14",
       "es_activa": true,
