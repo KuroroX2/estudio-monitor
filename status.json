@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-22 19:32:06",
+  "timestamp": "2026-09-22 20:12:46",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 318,
-    "eslabones_totales": 318,
+    "eslabones_totales": 330,
     "horas_hechas": 42.39999999999998,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mar 22/09 19:32"
+    "horas_restantes": 1.5999999999999943,
+    "fecha_fin_estimada": "Mar 22/09 21:48"
   },
   "items": [
     {
@@ -536,6 +536,54 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 45,
+      "nombre": "PAR_R3A",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 20:36",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 46,
+      "nombre": "PAR_R3B",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 21:00",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 47,
+      "nombre": "PAR_R4A",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 21:24",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 48,
+      "nombre": "PAR_R4B",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mar 22/09 21:48",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
