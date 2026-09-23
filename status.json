@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-23 10:07:54",
+  "timestamp": "2026-09-23 10:15:01",
   "corriendo": {
     "nombre": "PAR_B5F",
-    "hora": "09:57",
+    "hora": "09:56",
     "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 137,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 0,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 425,
+    "eslabones_hechos": 426,
     "eslabones_totales": 522,
-    "horas_hechas": 56.66666666666661,
-    "horas_restantes": 12.933333333333344,
+    "horas_hechas": 56.79999999999994,
+    "horas_restantes": 12.800000000000011,
     "fecha_fin_estimada": "Mié 23/09 23:03"
   },
   "items": [
@@ -1060,7 +1060,7 @@
       "num": 87,
       "nombre": "PAR_B5F",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Termina: Mié 23/09 10:15",
       "es_activa": true,
