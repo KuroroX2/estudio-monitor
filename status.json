@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-23 14:15:41",
+  "timestamp": "2026-09-23 14:16:47",
   "corriendo": {
     "nombre": "WEB_0923_STRIPTEASE_RECETA_ASD",
     "hora": "14:15",
-    "eslabon_actual": 2,
+    "eslabon_actual": 0,
     "eslabon_total": null,
     "horas_rest": null,
     "suelto": true,
@@ -14,7 +14,7 @@
     "eslabones_totales": 455,
     "horas_hechas": 60.66666666666659,
     "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mié 23/09 14:15"
+    "fecha_fin_estimada": "Mié 23/09 14:16"
   },
   "items": [
     {
