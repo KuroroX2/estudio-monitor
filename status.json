@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-22 21:39:44",
+  "timestamp": "2026-09-22 21:43:28",
   "corriendo": {
     "nombre": "PAR_R6B",
     "hora": "21:38",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 52,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 0,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 335,
+    "eslabones_hechos": 336,
     "eslabones_totales": 343,
-    "horas_hechas": 44.666666666666636,
-    "horas_restantes": 1.0666666666666629,
-    "fecha_fin_estimada": "Mar 22/09 22:43"
+    "horas_hechas": 44.79999999999997,
+    "horas_restantes": 0.93333333333333,
+    "fecha_fin_estimada": "Mar 22/09 22:39"
   },
   "items": [
     {
@@ -628,9 +628,9 @@
       "num": 51,
       "nombre": "PAR_R6B",
       "n_esl": 2,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mar 22/09 21:55",
+      "eta_txt": "Termina: Mar 22/09 21:51",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -654,7 +654,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 22:19",
+      "eta_txt": "Termina: Mar 22/09 22:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -666,7 +666,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 22/09 22:43",
+      "eta_txt": "Termina: Mar 22/09 22:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
