@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23 19:53:19",
+  "timestamp": "2026-09-23 19:54:25",
   "corriendo": {
     "nombre": "PAR_S2B",
     "hora": "19:40",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 1,
+      "elapsed": 63,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 470,
-    "eslabones_totales": 498,
+    "eslabones_totales": 470,
     "horas_hechas": 62.666666666666586,
-    "horas_restantes": 3.7333333333333343,
-    "fecha_fin_estimada": "Mié 23/09 23:37"
+    "horas_restantes": 0.0,
+    "fecha_fin_estimada": "Mié 23/09 19:54"
   },
   "items": [
     {
@@ -1338,68 +1338,8 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 19:53",
+      "eta_txt": "Termina: Mié 23/09 19:54",
       "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 111,
-      "nombre": "PAR_S3A",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 20:09",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 112,
-      "nombre": "PAR_S3B",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 20:25",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 113,
-      "nombre": "WEB_0923_salto_20c",
-      "n_esl": 20,
-      "generados": 0,
-      "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Mié 23/09 23:05",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 114,
-      "nombre": "PAR_T2C",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 23:21",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 115,
-      "nombre": "PAR_T1D",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 23:37",
-      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
