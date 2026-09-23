@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-23 12:47:02",
+  "timestamp": "2026-09-23 12:55:11",
   "corriendo": {
     "nombre": "PAR_B5G",
     "hora": "12:40",
     "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 0,
+      "elapsed": 59,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 447,
+    "eslabones_hechos": 448,
     "eslabones_totales": 540,
-    "horas_hechas": 59.59999999999993,
-    "horas_restantes": 12.400000000000013,
+    "horas_hechas": 59.73333333333326,
+    "horas_restantes": 12.26666666666668,
     "fecha_fin_estimada": "Jue 24/09 01:11"
   },
   "items": [
@@ -1168,7 +1168,7 @@
       "num": 96,
       "nombre": "PAR_B5G",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Termina: Mié 23/09 12:55",
       "es_activa": true,
