@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-23 20:21:36",
+  "timestamp": "2026-09-23 20:27:00",
   "corriendo": {
     "nombre": "ESC_E0D",
-    "hora": "20:21",
+    "hora": "20:20",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 30,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 13,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 473,
-    "eslabones_totales": 477,
-    "horas_hechas": 63.066666666666585,
-    "horas_restantes": 0.5333333333333314,
-    "fecha_fin_estimada": "Mié 23/09 20:53"
+    "eslabones_hechos": 474,
+    "eslabones_totales": 481,
+    "horas_hechas": 63.19999999999992,
+    "horas_restantes": 0.9333333333333371,
+    "fecha_fin_estimada": "Mié 23/09 21:23"
   },
   "items": [
     {
@@ -1384,9 +1384,9 @@
       "num": 114,
       "nombre": "ESC_E0D",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 23/09 20:29",
+      "eta_txt": "Termina: Mié 23/09 20:27",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1398,7 +1398,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 23/09 20:37",
+      "eta_txt": "Termina: Mié 23/09 20:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1410,7 +1410,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 23/09 20:45",
+      "eta_txt": "Termina: Mié 23/09 20:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1422,7 +1422,19 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 23/09 20:53",
+      "eta_txt": "Termina: Mié 23/09 20:51",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 118,
+      "nombre": "ESC_OBJ",
+      "n_esl": 4,
+      "generados": 0,
+      "horas": 0.5333333333333333,
+      "eta_txt": "Termina: Mié 23/09 21:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
