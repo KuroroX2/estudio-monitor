@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-23 21:03:07",
+  "timestamp": "2026-09-23 21:14:24",
   "corriendo": {
     "nombre": "ESC_OBJ",
     "hora": "20:51",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 4,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 4,
-      "elapsed": 9,
+      "elapsed": 307,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 479,
+    "eslabones_hechos": 480,
     "eslabones_totales": 485,
-    "horas_hechas": 63.86666666666658,
-    "horas_restantes": 0.8000000000000043,
-    "fecha_fin_estimada": "Mié 23/09 21:51"
+    "horas_hechas": 63.999999999999915,
+    "horas_restantes": 0.6666666666666714,
+    "fecha_fin_estimada": "Mié 23/09 21:54"
   },
   "items": [
     {
@@ -1432,9 +1432,9 @@
       "num": 118,
       "nombre": "ESC_OBJ",
       "n_esl": 4,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 23/09 21:19",
+      "eta_txt": "Termina: Mié 23/09 21:22",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1446,7 +1446,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 21:35",
+      "eta_txt": "Termina: Mié 23/09 21:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1458,7 +1458,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 21:51",
+      "eta_txt": "Termina: Mié 23/09 21:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
