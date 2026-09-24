@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-23 22:15:10",
+  "timestamp": "2026-09-23 22:25:56",
   "corriendo": {
     "nombre": "ESC_OBJ4",
     "hora": "22:14",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 4,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 45,
+      "elapsed": 356,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 487,
+    "eslabones_hechos": 488,
     "eslabones_totales": 497,
-    "horas_hechas": 64.93333333333325,
-    "horas_restantes": 1.3333333333333286,
-    "fecha_fin_estimada": "Mié 23/09 23:35"
+    "horas_hechas": 65.06666666666659,
+    "horas_restantes": 1.1999999999999886,
+    "fecha_fin_estimada": "Mié 23/09 23:37"
   },
   "items": [
     {
@@ -1470,7 +1470,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 23/09 22:47",
+      "eta_txt": "Termina: Mié 23/09 22:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -1480,9 +1480,9 @@
       "num": 122,
       "nombre": "ESC_OBJ4",
       "n_esl": 4,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Mié 23/09 23:19",
+      "eta_txt": "Termina: Mié 23/09 23:21",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -1494,7 +1494,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 23:35",
+      "eta_txt": "Termina: Mié 23/09 23:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
