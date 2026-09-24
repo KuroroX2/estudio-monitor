@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-24 14:03:02",
+  "timestamp": "2026-09-24 14:05:48",
   "corriendo": {
-    "nombre": "ESC_A_LAMIDA7_07",
-    "hora": "13:56",
+    "nombre": "ESC_A_MYSTIC_SUN",
+    "hora": "14:05",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.13333333333333333,
+    "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 1,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 37,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 627,
     "horas_hechas": 81.73333333333359,
     "horas_restantes": 1.8666666666666885,
-    "fecha_fin_estimada": "Jue 24/09 15:55"
+    "fecha_fin_estimada": "Jue 24/09 15:57"
   },
   "items": [
     {
@@ -2298,11 +2298,11 @@
       "n_esl": 1,
       "generados": 1,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:03",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 191,
@@ -2310,8 +2310,8 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:11",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 24/09 14:13",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -2322,7 +2322,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:19",
+      "eta_txt": "Termina: Jue 24/09 14:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2346,7 +2346,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Jue 24/09 15:07",
+      "eta_txt": "Termina: Jue 24/09 15:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2358,7 +2358,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:31",
+      "eta_txt": "Termina: Jue 24/09 15:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2370,7 +2370,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:55",
+      "eta_txt": "Termina: Jue 24/09 15:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
