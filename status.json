@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-24 13:46:31",
+  "timestamp": "2026-09-24 13:49:51",
   "corriendo": {
-    "nombre": "ESC_A_ANAL_PASO_SIN",
-    "hora": "13:33",
-    "eslabon_actual": 2,
-    "eslabon_total": 2,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "nombre": "ESC_A_LAMIDA7_05",
+    "hora": "13:49",
+    "eslabon_actual": 1,
+    "eslabon_total": 1,
+    "horas_rest": 0.13333333333333333,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 2,
-      "tot_esl": 2,
-      "elapsed": 2,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "num_esl": 1,
+      "tot_esl": 1,
+      "elapsed": 26,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 627,
     "horas_hechas": 81.46666666666691,
     "horas_restantes": 2.1333333333333684,
-    "fecha_fin_estimada": "Jue 24/09 15:54"
+    "fecha_fin_estimada": "Jue 24/09 15:57"
   },
   "items": [
     {
@@ -2274,11 +2274,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 24/09 13:46",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 189,
@@ -2286,8 +2286,8 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 13:54",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 24/09 13:57",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -2298,7 +2298,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:02",
+      "eta_txt": "Termina: Jue 24/09 14:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2310,7 +2310,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:10",
+      "eta_txt": "Termina: Jue 24/09 14:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2322,7 +2322,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 14:18",
+      "eta_txt": "Termina: Jue 24/09 14:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2346,7 +2346,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.8,
-      "eta_txt": "Termina: Jue 24/09 15:06",
+      "eta_txt": "Termina: Jue 24/09 15:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2358,7 +2358,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:30",
+      "eta_txt": "Termina: Jue 24/09 15:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2370,7 +2370,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:54",
+      "eta_txt": "Termina: Jue 24/09 15:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
