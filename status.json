@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-23 21:21:09",
+  "timestamp": "2026-09-23 21:31:16",
   "corriendo": {
     "nombre": "ESC_E1",
     "hora": "21:20",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 39,
+      "elapsed": 311,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 481,
-    "eslabones_totales": 485,
-    "horas_hechas": 64.13333333333325,
-    "horas_restantes": 0.5333333333333314,
-    "fecha_fin_estimada": "Mié 23/09 21:53"
+    "eslabones_hechos": 482,
+    "eslabones_totales": 489,
+    "horas_hechas": 64.2666666666666,
+    "horas_restantes": 0.9333333333333229,
+    "fecha_fin_estimada": "Mié 23/09 22:27"
   },
   "items": [
     {
@@ -1442,23 +1442,35 @@
     },
     {
       "num": 119,
-      "nombre": "ESC_E1",
-      "n_esl": 2,
+      "nombre": "ESC_OBJ2",
+      "n_esl": 4,
       "generados": 0,
-      "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 21:37",
-      "es_activa": true,
+      "horas": 0.5333333333333333,
+      "eta_txt": "Termina: Mié 23/09 22:03",
+      "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
       "num": 120,
+      "nombre": "ESC_E1",
+      "n_esl": 2,
+      "generados": 1,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 23/09 22:11",
+      "es_activa": true,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 121,
       "nombre": "ESC_E2",
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 23/09 21:53",
+      "eta_txt": "Termina: Mié 23/09 22:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
