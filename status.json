@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-24 06:42:45",
+  "timestamp": "2026-09-24 06:44:25",
   "corriendo": {
-    "nombre": "ESC_E4B",
-    "hora": "06:27",
-    "eslabon_actual": 2,
+    "nombre": "ESC_E5",
+    "hora": "06:43",
+    "eslabon_actual": 1,
     "eslabon_total": 2,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.26666666666666666,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 1,
       "tot_esl": 2,
-      "elapsed": 11,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 48,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 590,
     "horas_hechas": 74.00000000000014,
     "horas_restantes": 4.666666666666686,
-    "fecha_fin_estimada": "Jue 24/09 11:22"
+    "fecha_fin_estimada": "Jue 24/09 11:24"
   },
   "items": [
     {
@@ -2010,11 +2010,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 24/09 06:42",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 167,
@@ -2022,8 +2022,8 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 24/09 06:58",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 24/09 07:00",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -2034,7 +2034,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Jue 24/09 07:14",
+      "eta_txt": "Termina: Jue 24/09 07:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2046,7 +2046,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Jue 24/09 07:46",
+      "eta_txt": "Termina: Jue 24/09 07:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2058,7 +2058,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5333333333333333,
-      "eta_txt": "Termina: Jue 24/09 08:18",
+      "eta_txt": "Termina: Jue 24/09 08:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2070,7 +2070,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 08:26",
+      "eta_txt": "Termina: Jue 24/09 08:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2082,7 +2082,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 08:34",
+      "eta_txt": "Termina: Jue 24/09 08:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2094,7 +2094,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Jue 24/09 08:42",
+      "eta_txt": "Termina: Jue 24/09 08:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2106,7 +2106,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Jue 24/09 11:22",
+      "eta_txt": "Termina: Jue 24/09 11:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
