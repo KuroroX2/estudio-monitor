@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-24 14:40:44",
+  "timestamp": "2026-09-24 14:51:09",
   "corriendo": {
     "nombre": "ESC_BJ_DOBLE",
     "hora": "14:20",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 6,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 6,
-      "elapsed": 70,
+      "elapsed": 317,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 618,
+    "eslabones_hechos": 619,
     "eslabones_totales": 647,
-    "horas_hechas": 82.40000000000028,
-    "horas_restantes": 3.8666666666666742,
-    "fecha_fin_estimada": "Jue 24/09 18:32"
+    "horas_hechas": 82.5333333333336,
+    "horas_restantes": 3.7333333333333485,
+    "fecha_fin_estimada": "Jue 24/09 18:35"
   },
   "items": [
     {
@@ -2344,9 +2344,9 @@
       "num": 194,
       "nombre": "ESC_BJ_DOBLE",
       "n_esl": 6,
-      "generados": 3,
+      "generados": 4,
       "horas": 0.8,
-      "eta_txt": "Termina: Jue 24/09 15:04",
+      "eta_txt": "Termina: Jue 24/09 15:07",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2358,7 +2358,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:28",
+      "eta_txt": "Termina: Jue 24/09 15:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2370,7 +2370,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:52",
+      "eta_txt": "Termina: Jue 24/09 15:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2382,7 +2382,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Jue 24/09 18:32",
+      "eta_txt": "Termina: Jue 24/09 18:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
