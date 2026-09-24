@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-24 17:36:25",
+  "timestamp": "2026-09-24 17:44:00",
   "corriendo": {
     "nombre": "WEB_0924_poderes_moon_p1",
     "hora": "16:45",
-    "eslabon_actual": 9,
+    "eslabon_actual": 10,
     "eslabon_total": 16,
-    "horas_rest": 1.0666666666666667,
+    "horas_rest": 0.9333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 9,
+      "num_esl": 10,
       "tot_esl": 16,
-      "elapsed": 26,
+      "elapsed": 4,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 642,
+    "eslabones_hechos": 643,
     "eslabones_totales": 1105,
-    "horas_hechas": 85.60000000000029,
-    "horas_restantes": 61.733333333333334,
+    "horas_hechas": 85.73333333333363,
+    "horas_restantes": 61.599999999999994,
     "fecha_fin_estimada": "Dom 27/09 07:20"
   },
   "items": [
@@ -2416,7 +2416,7 @@
       "num": 200,
       "nombre": "WEB_0924_poderes_moon_p1",
       "n_esl": 16,
-      "generados": 8,
+      "generados": 9,
       "horas": 2.1333333333333333,
       "eta_txt": "Termina: Jue 24/09 18:40",
       "es_activa": true,
