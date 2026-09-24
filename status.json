@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24 14:39:36",
+  "timestamp": "2026-09-24 14:40:44",
   "corriendo": {
     "nombre": "ESC_BJ_DOBLE",
     "hora": "14:20",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 4,
       "tot_esl": 6,
-      "elapsed": 2,
+      "elapsed": 70,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
     "eslabones_hechos": 618,
-    "eslabones_totales": 627,
+    "eslabones_totales": 647,
     "horas_hechas": 82.40000000000028,
-    "horas_restantes": 1.2000000000000028,
-    "fecha_fin_estimada": "Jue 24/09 15:51"
+    "horas_restantes": 3.8666666666666742,
+    "fecha_fin_estimada": "Jue 24/09 18:32"
   },
   "items": [
     {
@@ -2346,7 +2346,7 @@
       "n_esl": 6,
       "generados": 3,
       "horas": 0.8,
-      "eta_txt": "Termina: Jue 24/09 15:03",
+      "eta_txt": "Termina: Jue 24/09 15:04",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2358,7 +2358,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:27",
+      "eta_txt": "Termina: Jue 24/09 15:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2370,7 +2370,19 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Jue 24/09 15:51",
+      "eta_txt": "Termina: Jue 24/09 15:52",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 197,
+      "nombre": "ESC_E8B_SUN",
+      "n_esl": 20,
+      "generados": 0,
+      "horas": 2.6666666666666665,
+      "eta_txt": "Termina: Jue 24/09 18:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
