@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-25 10:43:21",
+  "timestamp": "2026-09-25 10:51:10",
   "corriendo": {
     "nombre": "WEB_0924_clausula_rescision",
     "hora": "08:54",
-    "eslabon_actual": 13,
+    "eslabon_actual": 14,
     "eslabon_total": 20,
-    "horas_rest": 1.0666666666666667,
+    "horas_rest": 0.9333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 13,
+      "num_esl": 14,
       "tot_esl": 20,
-      "elapsed": 4,
+      "elapsed": 66,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 755,
+    "eslabones_hechos": 756,
     "eslabones_totales": 1267,
-    "horas_hechas": 100.66666666666696,
-    "horas_restantes": 68.26666666666667,
+    "horas_hechas": 100.8000000000003,
+    "horas_restantes": 68.13333333333333,
     "fecha_fin_estimada": "Lun 28/09 06:59"
   },
   "items": [
@@ -2512,7 +2512,7 @@
       "num": 208,
       "nombre": "WEB_0924_clausula_rescision",
       "n_esl": 20,
-      "generados": 12,
+      "generados": 13,
       "horas": 2.6666666666666665,
       "eta_txt": "Termina: Vie 25/09 11:47",
       "es_activa": true,
