@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-25 00:30:19",
+  "timestamp": "2026-09-25 00:38:09",
   "corriendo": {
     "nombre": "WEB_0924_darky_poderes",
     "hora": "23:46",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 20,
-    "horas_rest": 1.8666666666666667,
+    "horas_rest": 1.7333333333333334,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 20,
-      "elapsed": 3,
+      "elapsed": 66,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 685,
+    "eslabones_hechos": 686,
     "eslabones_totales": 1267,
-    "horas_hechas": 91.33333333333363,
-    "horas_restantes": 77.6,
+    "horas_hechas": 91.46666666666697,
+    "horas_restantes": 77.46666666666665,
     "fecha_fin_estimada": "Lun 28/09 06:06"
   },
   "items": [
@@ -2464,7 +2464,7 @@
       "num": 204,
       "nombre": "WEB_0924_darky_poderes",
       "n_esl": 20,
-      "generados": 6,
+      "generados": 7,
       "horas": 2.6666666666666665,
       "eta_txt": "Termina: Vie 25/09 02:22",
       "es_activa": true,
