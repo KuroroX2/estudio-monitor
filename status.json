@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-26 15:14:12",
+  "timestamp": "2026-09-26 15:24:16",
   "corriendo": {
     "nombre": "ESC_E8B_SUN",
     "hora": "15:13",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 20,
-    "horas_rest": 2.6666666666666665,
+    "horas_rest": 2.533333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 20,
-      "elapsed": 47,
+      "elapsed": 335,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 946,
+    "eslabones_hechos": 947,
     "eslabones_totales": 1267,
-    "horas_hechas": 126.13333333333361,
-    "horas_restantes": 42.80000000000001,
-    "fecha_fin_estimada": "Lun 28/09 10:02"
+    "horas_hechas": 126.26666666666695,
+    "horas_restantes": 42.66666666666667,
+    "fecha_fin_estimada": "Lun 28/09 10:04"
   },
   "items": [
     {
@@ -2728,9 +2728,9 @@
       "num": 226,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
-      "generados": 0,
+      "generados": 1,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Sáb 26/09 17:54",
+      "eta_txt": "Termina: Sáb 26/09 17:56",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2742,7 +2742,7 @@
       "n_esl": 126,
       "generados": 0,
       "horas": 16.8,
-      "eta_txt": "Termina: Dom 27/09 10:42",
+      "eta_txt": "Termina: Dom 27/09 10:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2754,7 +2754,7 @@
       "n_esl": 175,
       "generados": 0,
       "horas": 23.333333333333332,
-      "eta_txt": "Termina: Lun 28/09 10:02",
+      "eta_txt": "Termina: Lun 28/09 10:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
