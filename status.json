@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-26 17:12:28",
+  "timestamp": "2026-09-26 17:17:14",
   "corriendo": {
     "nombre": "ESC_E8B_SUN",
-    "hora": "15:13",
+    "hora": "15:12",
     "eslabon_actual": 20,
     "eslabon_total": 20,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 20,
       "tot_esl": 20,
-      "elapsed": 145,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 21,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 965,
+    "eslabones_hechos": 966,
     "eslabones_totales": 1267,
-    "horas_hechas": 128.66666666666694,
-    "horas_restantes": 40.26666666666668,
-    "fecha_fin_estimada": "Lun 28/09 09:28"
+    "horas_hechas": 128.80000000000027,
+    "horas_restantes": 40.133333333333354,
+    "fecha_fin_estimada": "Lun 28/09 09:25"
   },
   "items": [
     {
@@ -2728,9 +2728,9 @@
       "num": 226,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
-      "generados": 19,
+      "generados": 20,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Sáb 26/09 17:20",
+      "eta_txt": "Termina: Sáb 26/09 17:17",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2742,7 +2742,7 @@
       "n_esl": 126,
       "generados": 0,
       "horas": 16.8,
-      "eta_txt": "Termina: Dom 27/09 10:08",
+      "eta_txt": "Termina: Dom 27/09 10:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2754,7 +2754,7 @@
       "n_esl": 175,
       "generados": 0,
       "horas": 23.333333333333332,
-      "eta_txt": "Termina: Lun 28/09 09:28",
+      "eta_txt": "Termina: Lun 28/09 09:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
