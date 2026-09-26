@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-26 14:18:40",
+  "timestamp": "2026-09-26 14:29:59",
   "corriendo": {
     "nombre": "WEB_0924_vr_laser_p2",
     "hora": "12:36",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 15,
-    "horas_rest": 0.8,
+    "horas_rest": 0.6666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 10,
+      "num_esl": 11,
       "tot_esl": 15,
-      "elapsed": 2,
+      "elapsed": 315,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 940,
+    "eslabones_hechos": 941,
     "eslabones_totales": 1267,
-    "horas_hechas": 125.33333333333361,
-    "horas_restantes": 43.60000000000001,
-    "fecha_fin_estimada": "Lun 28/09 09:54"
+    "horas_hechas": 125.46666666666694,
+    "horas_restantes": 43.46666666666668,
+    "fecha_fin_estimada": "Lun 28/09 09:57"
   },
   "items": [
     {
@@ -2716,9 +2716,9 @@
       "num": 225,
       "nombre": "WEB_0924_vr_laser_p2",
       "n_esl": 15,
-      "generados": 9,
+      "generados": 10,
       "horas": 2.0,
-      "eta_txt": "Termina: Sáb 26/09 15:06",
+      "eta_txt": "Termina: Sáb 26/09 15:09",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2730,7 +2730,7 @@
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Sáb 26/09 17:46",
+      "eta_txt": "Termina: Sáb 26/09 17:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2742,7 +2742,7 @@
       "n_esl": 126,
       "generados": 0,
       "horas": 16.8,
-      "eta_txt": "Termina: Dom 27/09 10:34",
+      "eta_txt": "Termina: Dom 27/09 10:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2754,7 +2754,7 @@
       "n_esl": 175,
       "generados": 0,
       "horas": 23.333333333333332,
-      "eta_txt": "Termina: Lun 28/09 09:54",
+      "eta_txt": "Termina: Lun 28/09 09:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
