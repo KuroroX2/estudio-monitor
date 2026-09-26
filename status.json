@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-25 22:49:30",
+  "timestamp": "2026-09-25 22:57:59",
   "corriendo": {
     "nombre": "WEB_0924_rockstar_p2",
     "hora": "22:18",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 13,
-    "horas_rest": 1.2,
+    "horas_rest": 1.0666666666666667,
     "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 6,
       "tot_esl": 13,
-      "elapsed": 305,
+      "elapsed": 403,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 845,
+    "eslabones_hechos": 846,
     "eslabones_totales": 1267,
-    "horas_hechas": 112.66666666666696,
-    "horas_restantes": 56.266666666666666,
+    "horas_hechas": 112.8000000000003,
+    "horas_restantes": 56.133333333333326,
     "fecha_fin_estimada": "Lun 28/09 07:05"
   },
   "items": [
@@ -2608,7 +2608,7 @@
       "num": 216,
       "nombre": "WEB_0924_rockstar_p2",
       "n_esl": 13,
-      "generados": 4,
+      "generados": 5,
       "horas": 1.7333333333333334,
       "eta_txt": "Termina: Sáb 26/09 00:01",
       "es_activa": true,
