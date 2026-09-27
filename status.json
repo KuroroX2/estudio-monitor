@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-27 14:10:33",
+  "timestamp": "2026-09-27 14:16:50",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1268,
-    "eslabones_totales": 1268,
-    "horas_hechas": 154.77500000000026,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Dom 27/09 14:10"
+    "eslabones_totales": 1270,
+    "horas_hechas": 169.06666666666695,
+    "horas_restantes": 0.26666666666667993,
+    "fecha_fin_estimada": "Dom 27/09 14:32"
   },
   "items": [
     {
@@ -2738,7 +2738,7 @@
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
-      "horas": 9.041666666666666,
+      "horas": 23.333333333333332,
       "eta_txt": "Completado",
       "es_activa": null,
       "es_hecha": true,
@@ -2756,6 +2756,18 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 230,
+      "nombre": "ESC_E1_DARKY",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Dom 27/09 14:32",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
