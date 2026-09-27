@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-27 17:42:36",
+  "timestamp": "2026-09-27 17:43:42",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1260,
     "eslabones_totales": 1367,
     "horas_hechas": 168.00000000000028,
     "horas_restantes": 14.266666666666765,
-    "fecha_fin_estimada": "Lun 28/09 07:58"
+    "fecha_fin_estimada": "Lun 28/09 07:59"
   },
   "items": [
     {
@@ -15,11 +15,11 @@
       "n_esl": 56,
       "generados": 0,
       "horas": 7.466666666666667,
-      "eta_txt": "Falló (código 4294967295)",
+      "eta_txt": "Termina: Lun 28/09 01:11",
       "es_activa": null,
       "es_hecha": false,
-      "es_fallo": true,
-      "es_reintento": false
+      "es_fallo": false,
+      "es_reintento": true
     },
     {
       "num": 2,
@@ -27,11 +27,11 @@
       "n_esl": 41,
       "generados": 0,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Dom 27/09 23:10",
+      "eta_txt": "Termina: Lun 28/09 06:39",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": true
     },
     {
       "num": 3,
