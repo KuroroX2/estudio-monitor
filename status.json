@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-09-27 18:05:34",
+  "timestamp": "2026-09-27 18:10:53",
   "corriendo": {
     "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
     "hora": "17:44",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 56,
-    "horas_rest": 7.066666666666666,
+    "horas_rest": 6.933333333333334,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 20,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 3,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1263,
+    "eslabones_hechos": 1264,
     "eslabones_totales": 1388,
-    "horas_hechas": 168.4000000000003,
-    "horas_restantes": 16.66666666666677,
-    "fecha_fin_estimada": "Lun 28/09 10:45"
+    "horas_hechas": 168.53333333333362,
+    "horas_restantes": 16.533333333333445,
+    "fecha_fin_estimada": "Lun 28/09 10:42"
   },
   "items": [
     {
       "num": 1,
       "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
       "n_esl": 56,
-      "generados": 3,
+      "generados": 4,
       "horas": 7.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 01:09",
+      "eta_txt": "Termina: Lun 28/09 01:06",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -42,7 +42,7 @@
       "n_esl": 21,
       "generados": 0,
       "horas": 2.8,
-      "eta_txt": "Termina: Lun 28/09 03:57",
+      "eta_txt": "Termina: Lun 28/09 03:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 41,
       "generados": 0,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 09:25",
+      "eta_txt": "Termina: Lun 28/09 09:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
