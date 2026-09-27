@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27 17:04:48",
+  "timestamp": "2026-09-27 17:41:24",
   "corriendo": {
     "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
     "hora": "14:49",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 12,
+      "elapsed": 1813,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1289,
+    "eslabones_hechos": 1279,
     "eslabones_totales": 1367,
-    "horas_hechas": 157.57500000000033,
-    "horas_restantes": 10.400000000000034,
-    "fecha_fin_estimada": "Lun 28/09 03:28"
+    "horas_hechas": 170.53333333333367,
+    "horas_restantes": 11.733333333333377,
+    "fecha_fin_estimada": "Lun 28/09 05:25"
   },
   "items": [
     {
@@ -30,7 +30,7 @@
       "n_esl": 56,
       "generados": 19,
       "horas": 7.466666666666667,
-      "eta_txt": "Termina: Dom 27/09 22:00",
+      "eta_txt": "Termina: Dom 27/09 22:37",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -42,7 +42,7 @@
       "n_esl": 41,
       "generados": 0,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 03:28",
+      "eta_txt": "Termina: Lun 28/09 04:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -580,12 +580,12 @@
       "num": 47,
       "nombre": "WEB_0921_isla_amazonas_p2",
       "n_esl": 10,
-      "generados": 10,
+      "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Completado",
+      "eta_txt": "Falló (código 4294967295)",
       "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
+      "es_hecha": false,
+      "es_fallo": true,
       "es_reintento": false
     },
     {
@@ -2777,7 +2777,7 @@
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
-      "horas": 9.041666666666666,
+      "horas": 23.333333333333332,
       "eta_txt": "Completado",
       "es_activa": false,
       "es_hecha": true,
