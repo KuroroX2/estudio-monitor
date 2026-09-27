@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-27 12:01:16",
+  "timestamp": "2026-09-27 12:03:20",
   "corriendo": {
     "nombre": "FICHA_VISUAL_V3",
     "hora": "07:47",
-    "eslabon_actual": 167,
+    "eslabon_actual": 0,
     "eslabon_total": 175,
-    "horas_rest": 0.41333333333333333,
+    "horas_rest": 23.333333333333332,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 60,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 184,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1259,
+    "eslabones_hechos": 1092,
     "eslabones_totales": 1267,
-    "horas_hechas": 154.2283333333336,
-    "horas_restantes": 0.4133333333333269,
-    "fecha_fin_estimada": "Dom 27/09 12:26"
+    "horas_hechas": 145.60000000000028,
+    "horas_restantes": 23.333333333333343,
+    "fecha_fin_estimada": "Lun 28/09 11:23"
   },
   "items": [
     {
@@ -2752,9 +2752,9 @@
       "num": 228,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
-      "generados": 167,
-      "horas": 9.041666666666666,
-      "eta_txt": "Termina: Dom 27/09 12:26",
+      "generados": 0,
+      "horas": 23.333333333333332,
+      "eta_txt": "Termina: Lun 28/09 11:23",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
