@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-09-27 19:44:38",
+  "timestamp": "2026-09-27 19:51:02",
   "corriendo": {
     "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
     "hora": "17:44",
-    "eslabon_actual": 18,
+    "eslabon_actual": 19,
     "eslabon_total": 56,
-    "horas_rest": 5.066666666666666,
+    "horas_rest": 4.933333333333334,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 24,
+      "elapsed": 11,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1278,
+    "eslabones_hechos": 1279,
     "eslabones_totales": 1388,
-    "horas_hechas": 170.40000000000032,
-    "horas_restantes": 14.666666666666742,
-    "fecha_fin_estimada": "Lun 28/09 10:24"
+    "horas_hechas": 170.53333333333367,
+    "horas_restantes": 14.533333333333388,
+    "fecha_fin_estimada": "Lun 28/09 10:23"
   },
   "items": [
     {
       "num": 1,
       "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
       "n_esl": 56,
-      "generados": 18,
+      "generados": 19,
       "horas": 7.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 00:48",
+      "eta_txt": "Termina: Lun 28/09 00:47",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -42,7 +42,7 @@
       "n_esl": 21,
       "generados": 0,
       "horas": 2.8,
-      "eta_txt": "Termina: Lun 28/09 03:36",
+      "eta_txt": "Termina: Lun 28/09 03:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 41,
       "generados": 0,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 09:04",
+      "eta_txt": "Termina: Lun 28/09 09:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
