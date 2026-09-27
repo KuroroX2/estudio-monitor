@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-27 13:33:51",
+  "timestamp": "2026-09-27 13:34:54",
   "corriendo": null,
   "global": {
-    "eslabones_hechos": 1092,
+    "eslabones_hechos": 1267,
     "eslabones_totales": 1267,
-    "horas_hechas": 145.60000000000028,
-    "horas_restantes": 9.041666666666657,
-    "fecha_fin_estimada": "Dom 27/09 22:36"
+    "horas_hechas": 154.64166666666694,
+    "horas_restantes": 0.0,
+    "fecha_fin_estimada": "Dom 27/09 13:34"
   },
   "items": [
     {
@@ -2737,13 +2737,13 @@
       "num": 228,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
-      "generados": 0,
+      "generados": 175,
       "horas": 9.041666666666666,
-      "eta_txt": "Termina: Dom 27/09 22:36",
+      "eta_txt": "Completado",
       "es_activa": null,
-      "es_hecha": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     }
   ]
 }
