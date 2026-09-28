@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-28 12:54:50",
+  "timestamp": "2026-09-28 13:02:37",
   "corriendo": {
     "nombre": "YAMETE2_ANIME",
     "hora": "11:33",
-    "eslabon_actual": 12,
+    "eslabon_actual": 13,
     "eslabon_total": 41,
-    "horas_rest": 3.8666666666666667,
+    "horas_rest": 3.7333333333333334,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 30,
+      "elapsed": 16,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1414,
-    "eslabones_totales": 1484,
-    "horas_hechas": 188.53333333333373,
-    "horas_restantes": 9.333333333333371,
-    "fecha_fin_estimada": "Lun 28/09 22:14"
+    "eslabones_hechos": 1415,
+    "eslabones_totales": 1494,
+    "horas_hechas": 188.66666666666706,
+    "horas_restantes": 10.533333333333388,
+    "fecha_fin_estimada": "Lun 28/09 23:34"
   },
   "items": [
     {
@@ -52,7 +52,7 @@
       "num": 3,
       "nombre": "YAMETE2_ANIME",
       "n_esl": 41,
-      "generados": 12,
+      "generados": 13,
       "horas": 5.466666666666667,
       "eta_txt": "Termina: Lun 28/09 16:46",
       "es_activa": true,
@@ -63,10 +63,10 @@
     {
       "num": 4,
       "nombre": "JOTA_CRIS_0928_C",
-      "n_esl": 21,
+      "n_esl": 31,
       "generados": 0,
-      "horas": 2.8,
-      "eta_txt": "Termina: Lun 28/09 19:34",
+      "horas": 4.133333333333334,
+      "eta_txt": "Termina: Lun 28/09 20:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2814,7 +2814,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 28/09 20:54",
+      "eta_txt": "Termina: Lun 28/09 22:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
