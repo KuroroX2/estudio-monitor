@@ -1,16 +1,28 @@
 {
-  "timestamp": "2026-09-28 05:04:04",
+  "timestamp": "2026-09-28 09:09:54",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1378,
-    "eslabones_totales": 1388,
+    "eslabones_totales": 1402,
     "horas_hechas": 183.73333333333372,
-    "horas_restantes": 1.3333333333333428,
-    "fecha_fin_estimada": "Lun 28/09 06:24"
+    "horas_restantes": 3.1999999999999886,
+    "fecha_fin_estimada": "Lun 28/09 12:21"
   },
   "items": [
     {
       "num": 1,
+      "nombre": "JOTA_CRIS_0928",
+      "n_esl": 14,
+      "generados": 0,
+      "horas": 1.8666666666666667,
+      "eta_txt": "Termina: Lun 28/09 11:01",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2,
       "nombre": "JOTA_NUEVOS_Y_ARREGLOS",
       "n_esl": 56,
       "generados": 56,
@@ -22,7 +34,7 @@
       "es_reintento": false
     },
     {
-      "num": 2,
+      "num": 3,
       "nombre": "JOTA_AJUSTES_Y_PEDIDOS",
       "n_esl": 21,
       "generados": 21,
@@ -34,7 +46,7 @@
       "es_reintento": false
     },
     {
-      "num": 3,
+      "num": 4,
       "nombre": "YAMETE_KUDASAI_ANIME",
       "n_esl": 41,
       "generados": 41,
@@ -46,7 +58,7 @@
       "es_reintento": false
     },
     {
-      "num": 4,
+      "num": 5,
       "nombre": "WEB_0921_184606_i2v_i2vstripteas",
       "n_esl": 10,
       "generados": 10,
@@ -58,7 +70,7 @@
       "es_reintento": false
     },
     {
-      "num": 5,
+      "num": 6,
       "nombre": "WEB_0921_184432_i2v_i2vstripteas",
       "n_esl": 8,
       "generados": 8,
@@ -70,7 +82,7 @@
       "es_reintento": false
     },
     {
-      "num": 6,
+      "num": 7,
       "nombre": "DESCENSURAR_0921_181007_FotoReal1promptn",
       "n_esl": 1,
       "generados": 1,
@@ -82,7 +94,7 @@
       "es_reintento": false
     },
     {
-      "num": 7,
+      "num": 8,
       "nombre": "WEB_0920_005905_i2v_i2vapretarpe",
       "n_esl": 2,
       "generados": 2,
@@ -94,7 +106,7 @@
       "es_reintento": false
     },
     {
-      "num": 8,
+      "num": 9,
       "nombre": "WEB_0920_005856_i2v_i2vdesnudarl",
       "n_esl": 2,
       "generados": 2,
@@ -106,7 +118,7 @@
       "es_reintento": false
     },
     {
-      "num": 9,
+      "num": 10,
       "nombre": "WEB_0920_005847_i2v_i2varrodilla",
       "n_esl": 2,
       "generados": 2,
@@ -118,7 +130,7 @@
       "es_reintento": false
     },
     {
-      "num": 10,
+      "num": 11,
       "nombre": "WEB_0920_005833_i2v_i2vbailestri",
       "n_esl": 2,
       "generados": 2,
@@ -130,7 +142,7 @@
       "es_reintento": false
     },
     {
-      "num": 11,
+      "num": 12,
       "nombre": "WEB_0919_1m_crecimiento_magico_busto",
       "n_esl": 10,
       "generados": 10,
@@ -142,7 +154,7 @@
       "es_reintento": false
     },
     {
-      "num": 12,
+      "num": 13,
       "nombre": "WEB_0920_naruto_kage_bunshin_bj_3c",
       "n_esl": 3,
       "generados": 3,
@@ -154,7 +166,7 @@
       "es_reintento": false
     },
     {
-      "num": 13,
+      "num": 14,
       "nombre": "WEB_0919_teleserie_eclipse_de_seda",
       "n_esl": 20,
       "generados": 20,
@@ -166,7 +178,7 @@
       "es_reintento": false
     },
     {
-      "num": 14,
+      "num": 15,
       "nombre": "WEB_0919_teleserie_clausula_rescision",
       "n_esl": 20,
       "generados": 20,
@@ -178,7 +190,7 @@
       "es_reintento": false
     },
     {
-      "num": 15,
+      "num": 16,
       "nombre": "WEB_0920_1m_moon_striptease_calle",
       "n_esl": 10,
       "generados": 10,
@@ -190,7 +202,7 @@
       "es_reintento": false
     },
     {
-      "num": 16,
+      "num": 17,
       "nombre": "WEB_0919_1m_timestop_gimnasio",
       "n_esl": 10,
       "generados": 10,
@@ -202,7 +214,7 @@
       "es_reintento": false
     },
     {
-      "num": 17,
+      "num": 18,
       "nombre": "WEB_0919_1m_reduccion_piscina",
       "n_esl": 10,
       "generados": 10,
@@ -214,7 +226,7 @@
       "es_reintento": false
     },
     {
-      "num": 18,
+      "num": 19,
       "nombre": "WEB_0919_1m_tentaculos_sombra",
       "n_esl": 10,
       "generados": 10,
@@ -226,7 +238,7 @@
       "es_reintento": false
     },
     {
-      "num": 19,
+      "num": 20,
       "nombre": "WEB_0919_1m_ropa_invisible",
       "n_esl": 10,
       "generados": 10,
@@ -238,7 +250,7 @@
       "es_reintento": false
     },
     {
-      "num": 20,
+      "num": 21,
       "nombre": "WEB_0919_1m_posesion_espejo",
       "n_esl": 10,
       "generados": 10,
@@ -250,7 +262,7 @@
       "es_reintento": false
     },
     {
-      "num": 21,
+      "num": 22,
       "nombre": "WEB_0919_1m_clonacion_accidental",
       "n_esl": 10,
       "generados": 10,
@@ -262,7 +274,7 @@
       "es_reintento": false
     },
     {
-      "num": 22,
+      "num": 23,
       "nombre": "WEB_0919_1m_maniqui_cobra_vida",
       "n_esl": 10,
       "generados": 10,
@@ -274,7 +286,7 @@
       "es_reintento": false
     },
     {
-      "num": 23,
+      "num": 24,
       "nombre": "WEB_0919_1m_control_auriculares",
       "n_esl": 10,
       "generados": 10,
@@ -286,7 +298,7 @@
       "es_reintento": false
     },
     {
-      "num": 24,
+      "num": 25,
       "nombre": "WEB_0921_salto_10c_shift4",
       "n_esl": 10,
       "generados": 10,
@@ -298,7 +310,7 @@
       "es_reintento": false
     },
     {
-      "num": 25,
+      "num": 26,
       "nombre": "WEB_0921_salto_10c_shift1",
       "n_esl": 10,
       "generados": 10,
@@ -310,7 +322,7 @@
       "es_reintento": false
     },
     {
-      "num": 26,
+      "num": 27,
       "nombre": "WEB_0921_pijamada_grimorio_p1",
       "n_esl": 10,
       "generados": 10,
@@ -322,7 +334,7 @@
       "es_reintento": false
     },
     {
-      "num": 27,
+      "num": 28,
       "nombre": "CUM_AB_POV",
       "n_esl": 5,
       "generados": 5,
@@ -334,7 +346,7 @@
       "es_reintento": false
     },
     {
-      "num": 28,
+      "num": 29,
       "nombre": "WEB_0921_233123_i2v_i2vstripteas",
       "n_esl": 8,
       "generados": 8,
@@ -346,7 +358,7 @@
       "es_reintento": false
     },
     {
-      "num": 29,
+      "num": 30,
       "nombre": "CUM_AB2_RECETAS",
       "n_esl": 9,
       "generados": 9,
@@ -358,7 +370,7 @@
       "es_reintento": false
     },
     {
-      "num": 30,
+      "num": 31,
       "nombre": "WEB_0921_pijamada_grimorio_p2",
       "n_esl": 10,
       "generados": 10,
@@ -370,7 +382,7 @@
       "es_reintento": false
     },
     {
-      "num": 31,
+      "num": 32,
       "nombre": "WEB_0921_pijamada_grimorio_p3",
       "n_esl": 10,
       "generados": 10,
@@ -382,7 +394,7 @@
       "es_reintento": false
     },
     {
-      "num": 32,
+      "num": 33,
       "nombre": "WEB_0921_233124_i2v_i2vstripteas",
       "n_esl": 10,
       "generados": 10,
@@ -394,7 +406,7 @@
       "es_reintento": false
     },
     {
-      "num": 33,
+      "num": 34,
       "nombre": "WEB_0921_pausa_biblioteca_p1",
       "n_esl": 5,
       "generados": 5,
@@ -406,7 +418,7 @@
       "es_reintento": false
     },
     {
-      "num": 34,
+      "num": 35,
       "nombre": "WEB_0921_pausa_biblioteca_p2",
       "n_esl": 5,
       "generados": 5,
@@ -418,7 +430,7 @@
       "es_reintento": false
     },
     {
-      "num": 35,
+      "num": 36,
       "nombre": "WEB_0921_isla_amazonas_p1",
       "n_esl": 10,
       "generados": 10,
@@ -430,7 +442,7 @@
       "es_reintento": false
     },
     {
-      "num": 36,
+      "num": 37,
       "nombre": "PAR_R1C",
       "n_esl": 3,
       "generados": 3,
@@ -442,7 +454,7 @@
       "es_reintento": false
     },
     {
-      "num": 37,
+      "num": 38,
       "nombre": "PAR_R1A",
       "n_esl": 3,
       "generados": 3,
@@ -454,7 +466,7 @@
       "es_reintento": false
     },
     {
-      "num": 38,
+      "num": 39,
       "nombre": "PAR_R1B",
       "n_esl": 3,
       "generados": 3,
@@ -466,7 +478,7 @@
       "es_reintento": false
     },
     {
-      "num": 39,
+      "num": 40,
       "nombre": "PAR_R2A",
       "n_esl": 3,
       "generados": 3,
@@ -478,7 +490,7 @@
       "es_reintento": false
     },
     {
-      "num": 40,
+      "num": 41,
       "nombre": "PAR_R2B",
       "n_esl": 3,
       "generados": 3,
@@ -490,7 +502,7 @@
       "es_reintento": false
     },
     {
-      "num": 41,
+      "num": 42,
       "nombre": "PAR_R2C",
       "n_esl": 3,
       "generados": 3,
@@ -502,7 +514,7 @@
       "es_reintento": false
     },
     {
-      "num": 42,
+      "num": 43,
       "nombre": "PAR_R2D",
       "n_esl": 4,
       "generados": 4,
@@ -514,7 +526,7 @@
       "es_reintento": false
     },
     {
-      "num": 43,
+      "num": 44,
       "nombre": "TAOMATE_AB",
       "n_esl": 3,
       "generados": 3,
@@ -526,23 +538,11 @@
       "es_reintento": false
     },
     {
-      "num": 44,
+      "num": 45,
       "nombre": "WEB_0922_salto_10c_taomate",
       "n_esl": 10,
       "generados": 10,
       "horas": 1.3333333333333333,
-      "eta_txt": "Completado",
-      "es_activa": null,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 45,
-      "nombre": "PAR_R5A",
-      "n_esl": 2,
-      "generados": 2,
-      "horas": 0.26666666666666666,
       "eta_txt": "Completado",
       "es_activa": null,
       "es_hecha": true,
@@ -563,7 +563,7 @@
     },
     {
       "num": 47,
-      "nombre": "PAR_R5B",
+      "nombre": "PAR_R5A",
       "n_esl": 2,
       "generados": 2,
       "horas": 0.26666666666666666,
@@ -575,6 +575,18 @@
     },
     {
       "num": 48,
+      "nombre": "PAR_R5B",
+      "n_esl": 2,
+      "generados": 2,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Completado",
+      "es_activa": null,
+      "es_hecha": true,
+      "es_fallo": false,
+      "es_reintento": false
+    },
+    {
+      "num": 49,
       "nombre": "WEB_0921_isla_amazonas_p2",
       "n_esl": 10,
       "generados": 0,
@@ -586,7 +598,7 @@
       "es_reintento": false
     },
     {
-      "num": 49,
+      "num": 50,
       "nombre": "PAR_P1B",
       "n_esl": 2,
       "generados": 2,
@@ -598,7 +610,7 @@
       "es_reintento": false
     },
     {
-      "num": 50,
+      "num": 51,
       "nombre": "PAR_R3C",
       "n_esl": 3,
       "generados": 3,
@@ -610,7 +622,7 @@
       "es_reintento": false
     },
     {
-      "num": 51,
+      "num": 52,
       "nombre": "PAR_R3A",
       "n_esl": 3,
       "generados": 3,
@@ -622,7 +634,7 @@
       "es_reintento": false
     },
     {
-      "num": 52,
+      "num": 53,
       "nombre": "PAR_R3B",
       "n_esl": 3,
       "generados": 3,
@@ -634,7 +646,7 @@
       "es_reintento": false
     },
     {
-      "num": 53,
+      "num": 54,
       "nombre": "PAR_R3D",
       "n_esl": 3,
       "generados": 3,
@@ -646,7 +658,7 @@
       "es_reintento": false
     },
     {
-      "num": 54,
+      "num": 55,
       "nombre": "PAR_R4A",
       "n_esl": 3,
       "generados": 3,
@@ -658,7 +670,7 @@
       "es_reintento": false
     },
     {
-      "num": 55,
+      "num": 56,
       "nombre": "PAR_R4B",
       "n_esl": 3,
       "generados": 3,
@@ -670,7 +682,7 @@
       "es_reintento": false
     },
     {
-      "num": 56,
+      "num": 57,
       "nombre": "PAR_R6A",
       "n_esl": 2,
       "generados": 2,
@@ -682,7 +694,7 @@
       "es_reintento": false
     },
     {
-      "num": 57,
+      "num": 58,
       "nombre": "PAR_R6B",
       "n_esl": 2,
       "generados": 2,
@@ -694,7 +706,7 @@
       "es_reintento": false
     },
     {
-      "num": 58,
+      "num": 59,
       "nombre": "PAR_P4B",
       "n_esl": 2,
       "generados": 2,
@@ -706,7 +718,7 @@
       "es_reintento": false
     },
     {
-      "num": 59,
+      "num": 60,
       "nombre": "PAR_P1C",
       "n_esl": 2,
       "generados": 2,
@@ -718,7 +730,7 @@
       "es_reintento": false
     },
     {
-      "num": 60,
+      "num": 61,
       "nombre": "PAR_P8A",
       "n_esl": 2,
       "generados": 2,
@@ -730,7 +742,7 @@
       "es_reintento": false
     },
     {
-      "num": 61,
+      "num": 62,
       "nombre": "PAR_P8B",
       "n_esl": 2,
       "generados": 2,
@@ -742,7 +754,7 @@
       "es_reintento": false
     },
     {
-      "num": 62,
+      "num": 63,
       "nombre": "PAR_P1A",
       "n_esl": 2,
       "generados": 2,
@@ -754,7 +766,7 @@
       "es_reintento": false
     },
     {
-      "num": 63,
+      "num": 64,
       "nombre": "PAR_P2A",
       "n_esl": 2,
       "generados": 2,
@@ -766,7 +778,7 @@
       "es_reintento": false
     },
     {
-      "num": 64,
+      "num": 65,
       "nombre": "PAR_P3A",
       "n_esl": 2,
       "generados": 2,
@@ -778,7 +790,7 @@
       "es_reintento": false
     },
     {
-      "num": 65,
+      "num": 66,
       "nombre": "PAR_P3B",
       "n_esl": 2,
       "generados": 2,
@@ -790,7 +802,7 @@
       "es_reintento": false
     },
     {
-      "num": 66,
+      "num": 67,
       "nombre": "PAR_P4A",
       "n_esl": 2,
       "generados": 2,
@@ -802,7 +814,7 @@
       "es_reintento": false
     },
     {
-      "num": 67,
+      "num": 68,
       "nombre": "PAR_P5A",
       "n_esl": 2,
       "generados": 2,
@@ -814,7 +826,7 @@
       "es_reintento": false
     },
     {
-      "num": 68,
+      "num": 69,
       "nombre": "PAR_P5B",
       "n_esl": 2,
       "generados": 2,
@@ -826,7 +838,7 @@
       "es_reintento": false
     },
     {
-      "num": 69,
+      "num": 70,
       "nombre": "PAR_P6A",
       "n_esl": 2,
       "generados": 2,
@@ -838,7 +850,7 @@
       "es_reintento": false
     },
     {
-      "num": 70,
+      "num": 71,
       "nombre": "PAR_P6B",
       "n_esl": 2,
       "generados": 2,
@@ -850,7 +862,7 @@
       "es_reintento": false
     },
     {
-      "num": 71,
+      "num": 72,
       "nombre": "PAR_P7A",
       "n_esl": 2,
       "generados": 2,
@@ -862,7 +874,7 @@
       "es_reintento": false
     },
     {
-      "num": 72,
+      "num": 73,
       "nombre": "PAR_P7B",
       "n_esl": 2,
       "generados": 2,
@@ -874,7 +886,7 @@
       "es_reintento": false
     },
     {
-      "num": 73,
+      "num": 74,
       "nombre": "PAR_P7C",
       "n_esl": 2,
       "generados": 2,
@@ -886,7 +898,7 @@
       "es_reintento": false
     },
     {
-      "num": 74,
+      "num": 75,
       "nombre": "PAR_B1A",
       "n_esl": 2,
       "generados": 2,
@@ -898,7 +910,7 @@
       "es_reintento": false
     },
     {
-      "num": 75,
+      "num": 76,
       "nombre": "PAR_B1B",
       "n_esl": 2,
       "generados": 2,
@@ -910,7 +922,7 @@
       "es_reintento": false
     },
     {
-      "num": 76,
+      "num": 77,
       "nombre": "PAR_B2A",
       "n_esl": 2,
       "generados": 2,
@@ -922,7 +934,7 @@
       "es_reintento": false
     },
     {
-      "num": 77,
+      "num": 78,
       "nombre": "PAR_B4A",
       "n_esl": 2,
       "generados": 2,
@@ -934,7 +946,7 @@
       "es_reintento": false
     },
     {
-      "num": 78,
+      "num": 79,
       "nombre": "PAR_B5A",
       "n_esl": 2,
       "generados": 2,
@@ -946,7 +958,7 @@
       "es_reintento": false
     },
     {
-      "num": 79,
+      "num": 80,
       "nombre": "PAR_B6A",
       "n_esl": 2,
       "generados": 2,
@@ -958,7 +970,7 @@
       "es_reintento": false
     },
     {
-      "num": 80,
+      "num": 81,
       "nombre": "PAR_B7A",
       "n_esl": 2,
       "generados": 2,
@@ -970,7 +982,7 @@
       "es_reintento": false
     },
     {
-      "num": 81,
+      "num": 82,
       "nombre": "PAR_B5C",
       "n_esl": 2,
       "generados": 2,
@@ -982,7 +994,7 @@
       "es_reintento": false
     },
     {
-      "num": 82,
+      "num": 83,
       "nombre": "PAR_B3A",
       "n_esl": 2,
       "generados": 2,
@@ -994,7 +1006,7 @@
       "es_reintento": false
     },
     {
-      "num": 83,
+      "num": 84,
       "nombre": "PAR_B1C",
       "n_esl": 2,
       "generados": 2,
@@ -1006,7 +1018,7 @@
       "es_reintento": false
     },
     {
-      "num": 84,
+      "num": 85,
       "nombre": "PAR_B5D",
       "n_esl": 2,
       "generados": 2,
@@ -1018,7 +1030,7 @@
       "es_reintento": false
     },
     {
-      "num": 85,
+      "num": 86,
       "nombre": "PAR_B5E",
       "n_esl": 2,
       "generados": 2,
@@ -1030,7 +1042,7 @@
       "es_reintento": false
     },
     {
-      "num": 86,
+      "num": 87,
       "nombre": "WEB_0923_striptease_pov_taomate",
       "n_esl": 10,
       "generados": 10,
@@ -1042,7 +1054,7 @@
       "es_reintento": false
     },
     {
-      "num": 87,
+      "num": 88,
       "nombre": "PAR_B5F",
       "n_esl": 2,
       "generados": 2,
@@ -1054,7 +1066,7 @@
       "es_reintento": false
     },
     {
-      "num": 88,
+      "num": 89,
       "nombre": "PAR_G1",
       "n_esl": 2,
       "generados": 2,
@@ -1066,7 +1078,7 @@
       "es_reintento": false
     },
     {
-      "num": 89,
+      "num": 90,
       "nombre": "PAR_G2",
       "n_esl": 2,
       "generados": 2,
@@ -1078,7 +1090,7 @@
       "es_reintento": false
     },
     {
-      "num": 90,
+      "num": 91,
       "nombre": "PAR_G3",
       "n_esl": 2,
       "generados": 2,
@@ -1090,7 +1102,7 @@
       "es_reintento": false
     },
     {
-      "num": 91,
+      "num": 92,
       "nombre": "PAR_G4",
       "n_esl": 2,
       "generados": 2,
@@ -1102,7 +1114,7 @@
       "es_reintento": false
     },
     {
-      "num": 92,
+      "num": 93,
       "nombre": "WEB_0923_rodillas_r3",
       "n_esl": 3,
       "generados": 3,
@@ -1114,7 +1126,7 @@
       "es_reintento": false
     },
     {
-      "num": 93,
+      "num": 94,
       "nombre": "WEB_0923_rodillas_r4",
       "n_esl": 3,
       "generados": 3,
@@ -1126,7 +1138,7 @@
       "es_reintento": false
     },
     {
-      "num": 94,
+      "num": 95,
       "nombre": "WEB_0923_rodillas_r6",
       "n_esl": 3,
       "generados": 3,
@@ -1138,7 +1150,7 @@
       "es_reintento": false
     },
     {
-      "num": 95,
+      "num": 96,
       "nombre": "WEB_0923_rodillas_r3s",
       "n_esl": 3,
       "generados": 3,
@@ -1150,7 +1162,7 @@
       "es_reintento": false
     },
     {
-      "num": 96,
+      "num": 97,
       "nombre": "PAR_B5G",
       "n_esl": 2,
       "generados": 2,
@@ -1162,7 +1174,7 @@
       "es_reintento": false
     },
     {
-      "num": 97,
+      "num": 98,
       "nombre": "PAR_G7",
       "n_esl": 2,
       "generados": 2,
@@ -1174,7 +1186,7 @@
       "es_reintento": false
     },
     {
-      "num": 98,
+      "num": 99,
       "nombre": "PAR_G8",
       "n_esl": 2,
       "generados": 2,
@@ -1186,7 +1198,7 @@
       "es_reintento": false
     },
     {
-      "num": 99,
+      "num": 100,
       "nombre": "TAOMATE_T3",
       "n_esl": 1,
       "generados": 1,
@@ -1198,7 +1210,7 @@
       "es_reintento": false
     },
     {
-      "num": 100,
+      "num": 101,
       "nombre": "PAR_G5",
       "n_esl": 2,
       "generados": 2,
@@ -1210,7 +1222,7 @@
       "es_reintento": false
     },
     {
-      "num": 101,
+      "num": 102,
       "nombre": "PAR_G6",
       "n_esl": 2,
       "generados": 2,
@@ -1222,7 +1234,7 @@
       "es_reintento": false
     },
     {
-      "num": 102,
+      "num": 103,
       "nombre": "PAR_T1A",
       "n_esl": 2,
       "generados": 2,
@@ -1234,7 +1246,7 @@
       "es_reintento": false
     },
     {
-      "num": 103,
+      "num": 104,
       "nombre": "PAR_B5I",
       "n_esl": 2,
       "generados": 2,
@@ -1246,7 +1258,7 @@
       "es_reintento": false
     },
     {
-      "num": 104,
+      "num": 105,
       "nombre": "PAR_T1B",
       "n_esl": 2,
       "generados": 2,
@@ -1258,7 +1270,7 @@
       "es_reintento": false
     },
     {
-      "num": 105,
+      "num": 106,
       "nombre": "PAR_T2A",
       "n_esl": 2,
       "generados": 2,
@@ -1270,7 +1282,7 @@
       "es_reintento": false
     },
     {
-      "num": 106,
+      "num": 107,
       "nombre": "PAR_T2B",
       "n_esl": 2,
       "generados": 2,
@@ -1282,7 +1294,7 @@
       "es_reintento": false
     },
     {
-      "num": 107,
+      "num": 108,
       "nombre": "PAR_B5H",
       "n_esl": 2,
       "generados": 2,
@@ -1294,7 +1306,7 @@
       "es_reintento": false
     },
     {
-      "num": 108,
+      "num": 109,
       "nombre": "PAR_B5J",
       "n_esl": 2,
       "generados": 2,
@@ -1306,7 +1318,7 @@
       "es_reintento": false
     },
     {
-      "num": 109,
+      "num": 110,
       "nombre": "PAR_T1C",
       "n_esl": 2,
       "generados": 2,
@@ -1318,7 +1330,7 @@
       "es_reintento": false
     },
     {
-      "num": 110,
+      "num": 111,
       "nombre": "PAR_S1A",
       "n_esl": 2,
       "generados": 2,
@@ -1330,7 +1342,7 @@
       "es_reintento": false
     },
     {
-      "num": 111,
+      "num": 112,
       "nombre": "PAR_S1B",
       "n_esl": 2,
       "generados": 2,
@@ -1342,7 +1354,7 @@
       "es_reintento": false
     },
     {
-      "num": 112,
+      "num": 113,
       "nombre": "PAR_S2A",
       "n_esl": 2,
       "generados": 2,
@@ -1354,7 +1366,7 @@
       "es_reintento": false
     },
     {
-      "num": 113,
+      "num": 114,
       "nombre": "PAR_S2B",
       "n_esl": 2,
       "generados": 2,
@@ -1366,7 +1378,7 @@
       "es_reintento": false
     },
     {
-      "num": 114,
+      "num": 115,
       "nombre": "ESC_E0A",
       "n_esl": 1,
       "generados": 1,
@@ -1378,7 +1390,7 @@
       "es_reintento": false
     },
     {
-      "num": 115,
+      "num": 116,
       "nombre": "ESC_E0B",
       "n_esl": 1,
       "generados": 1,
@@ -1390,7 +1402,7 @@
       "es_reintento": false
     },
     {
-      "num": 116,
+      "num": 117,
       "nombre": "ESC_E0C",
       "n_esl": 1,
       "generados": 1,
@@ -1402,7 +1414,7 @@
       "es_reintento": false
     },
     {
-      "num": 117,
+      "num": 118,
       "nombre": "ESC_E0D",
       "n_esl": 1,
       "generados": 1,
@@ -1414,7 +1426,7 @@
       "es_reintento": false
     },
     {
-      "num": 118,
+      "num": 119,
       "nombre": "ESC_E0E",
       "n_esl": 1,
       "generados": 1,
@@ -1426,7 +1438,7 @@
       "es_reintento": false
     },
     {
-      "num": 119,
+      "num": 120,
       "nombre": "ESC_E0F",
       "n_esl": 1,
       "generados": 1,
@@ -1438,7 +1450,7 @@
       "es_reintento": false
     },
     {
-      "num": 120,
+      "num": 121,
       "nombre": "ESC_E0G",
       "n_esl": 1,
       "generados": 1,
@@ -1450,7 +1462,7 @@
       "es_reintento": false
     },
     {
-      "num": 121,
+      "num": 122,
       "nombre": "ESC_OBJ",
       "n_esl": 4,
       "generados": 4,
@@ -1462,7 +1474,7 @@
       "es_reintento": false
     },
     {
-      "num": 122,
+      "num": 123,
       "nombre": "ESC_E1",
       "n_esl": 2,
       "generados": 2,
@@ -1474,7 +1486,7 @@
       "es_reintento": false
     },
     {
-      "num": 123,
+      "num": 124,
       "nombre": "ESC_OBJ2",
       "n_esl": 4,
       "generados": 4,
@@ -1486,7 +1498,7 @@
       "es_reintento": false
     },
     {
-      "num": 124,
+      "num": 125,
       "nombre": "ESC_OBJ4",
       "n_esl": 4,
       "generados": 4,
@@ -1498,7 +1510,7 @@
       "es_reintento": false
     },
     {
-      "num": 125,
+      "num": 126,
       "nombre": "ESC_DOG_D1",
       "n_esl": 1,
       "generados": 1,
@@ -1510,7 +1522,7 @@
       "es_reintento": false
     },
     {
-      "num": 126,
+      "num": 127,
       "nombre": "ESC_A_ARREG_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1522,7 +1534,7 @@
       "es_reintento": false
     },
     {
-      "num": 127,
+      "num": 128,
       "nombre": "ESC_A_LAMIDA2_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1534,7 +1546,7 @@
       "es_reintento": false
     },
     {
-      "num": 128,
+      "num": 129,
       "nombre": "ESC_A_LAMIDA2_HM",
       "n_esl": 1,
       "generados": 1,
@@ -1546,7 +1558,7 @@
       "es_reintento": false
     },
     {
-      "num": 129,
+      "num": 130,
       "nombre": "ESC_DOG_D2B",
       "n_esl": 1,
       "generados": 1,
@@ -1558,7 +1570,7 @@
       "es_reintento": false
     },
     {
-      "num": 130,
+      "num": 131,
       "nombre": "ESC_DOG_D2",
       "n_esl": 1,
       "generados": 1,
@@ -1570,7 +1582,7 @@
       "es_reintento": false
     },
     {
-      "num": 131,
+      "num": 132,
       "nombre": "ESC_DOG_D3",
       "n_esl": 1,
       "generados": 1,
@@ -1582,7 +1594,7 @@
       "es_reintento": false
     },
     {
-      "num": 132,
+      "num": 133,
       "nombre": "ESC_A_LAMIDA_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1594,7 +1606,7 @@
       "es_reintento": false
     },
     {
-      "num": 133,
+      "num": 134,
       "nombre": "ESC_A_LAMIDA_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1606,7 +1618,7 @@
       "es_reintento": false
     },
     {
-      "num": 134,
+      "num": 135,
       "nombre": "ESC_A_ANAL_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1618,7 +1630,7 @@
       "es_reintento": false
     },
     {
-      "num": 135,
+      "num": 136,
       "nombre": "ESC_A_ANAL_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1630,7 +1642,7 @@
       "es_reintento": false
     },
     {
-      "num": 136,
+      "num": 137,
       "nombre": "ESC_A_MYSTIC_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1642,7 +1654,7 @@
       "es_reintento": false
     },
     {
-      "num": 137,
+      "num": 138,
       "nombre": "ESC_DOG_D4",
       "n_esl": 1,
       "generados": 1,
@@ -1654,7 +1666,7 @@
       "es_reintento": false
     },
     {
-      "num": 138,
+      "num": 139,
       "nombre": "ESC_DOG_D5",
       "n_esl": 1,
       "generados": 1,
@@ -1666,7 +1678,7 @@
       "es_reintento": false
     },
     {
-      "num": 139,
+      "num": 140,
       "nombre": "ESC_A_ANAL_DL",
       "n_esl": 1,
       "generados": 1,
@@ -1678,7 +1690,7 @@
       "es_reintento": false
     },
     {
-      "num": 140,
+      "num": 141,
       "nombre": "ESC_A_MYSTIC_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1690,7 +1702,7 @@
       "es_reintento": false
     },
     {
-      "num": 141,
+      "num": 142,
       "nombre": "ESC_A_ORG_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1702,7 +1714,7 @@
       "es_reintento": false
     },
     {
-      "num": 142,
+      "num": 143,
       "nombre": "ESC_A_ORG_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1714,7 +1726,7 @@
       "es_reintento": false
     },
     {
-      "num": 143,
+      "num": 144,
       "nombre": "ESC_OBJ3",
       "n_esl": 4,
       "generados": 4,
@@ -1726,7 +1738,7 @@
       "es_reintento": false
     },
     {
-      "num": 144,
+      "num": 145,
       "nombre": "ESC_A_ANAL_MA",
       "n_esl": 1,
       "generados": 1,
@@ -1738,7 +1750,7 @@
       "es_reintento": false
     },
     {
-      "num": 145,
+      "num": 146,
       "nombre": "ESC_E2",
       "n_esl": 2,
       "generados": 2,
@@ -1750,7 +1762,7 @@
       "es_reintento": false
     },
     {
-      "num": 146,
+      "num": 147,
       "nombre": "ESC_E0H_MOON",
       "n_esl": 1,
       "generados": 1,
@@ -1762,7 +1774,7 @@
       "es_reintento": false
     },
     {
-      "num": 147,
+      "num": 148,
       "nombre": "ESC_E0H_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -1774,7 +1786,7 @@
       "es_reintento": false
     },
     {
-      "num": 148,
+      "num": 149,
       "nombre": "ESC_E0H_CRIS",
       "n_esl": 1,
       "generados": 1,
@@ -1786,7 +1798,7 @@
       "es_reintento": false
     },
     {
-      "num": 149,
+      "num": 150,
       "nombre": "ESC_E0I_MOON",
       "n_esl": 1,
       "generados": 1,
@@ -1798,7 +1810,7 @@
       "es_reintento": false
     },
     {
-      "num": 150,
+      "num": 151,
       "nombre": "ESC_E0I_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -1810,7 +1822,7 @@
       "es_reintento": false
     },
     {
-      "num": 151,
+      "num": 152,
       "nombre": "ESC_E0I_CRIS",
       "n_esl": 1,
       "generados": 1,
@@ -1822,7 +1834,7 @@
       "es_reintento": false
     },
     {
-      "num": 152,
+      "num": 153,
       "nombre": "ESC_E2_SUN",
       "n_esl": 2,
       "generados": 2,
@@ -1834,7 +1846,7 @@
       "es_reintento": false
     },
     {
-      "num": 153,
+      "num": 154,
       "nombre": "ESC_E2_CRIS",
       "n_esl": 2,
       "generados": 2,
@@ -1846,7 +1858,7 @@
       "es_reintento": false
     },
     {
-      "num": 154,
+      "num": 155,
       "nombre": "ESC_E1_SUN",
       "n_esl": 2,
       "generados": 2,
@@ -1858,7 +1870,7 @@
       "es_reintento": false
     },
     {
-      "num": 155,
+      "num": 156,
       "nombre": "ESC_E1_CRIS",
       "n_esl": 2,
       "generados": 2,
@@ -1870,7 +1882,7 @@
       "es_reintento": false
     },
     {
-      "num": 156,
+      "num": 157,
       "nombre": "ESC_A_MAST_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1882,7 +1894,7 @@
       "es_reintento": false
     },
     {
-      "num": 157,
+      "num": 158,
       "nombre": "ESC_A_MAST_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1894,7 +1906,7 @@
       "es_reintento": false
     },
     {
-      "num": 158,
+      "num": 159,
       "nombre": "ESC_A_ARREG_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1906,7 +1918,7 @@
       "es_reintento": false
     },
     {
-      "num": 159,
+      "num": 160,
       "nombre": "ESC_A_BJPUNTA_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1918,7 +1930,7 @@
       "es_reintento": false
     },
     {
-      "num": 160,
+      "num": 161,
       "nombre": "ESC_A_BJPUNTA_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1930,7 +1942,7 @@
       "es_reintento": false
     },
     {
-      "num": 161,
+      "num": 162,
       "nombre": "ESC_A_BJFULL_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1942,7 +1954,7 @@
       "es_reintento": false
     },
     {
-      "num": 162,
+      "num": 163,
       "nombre": "ESC_A_BJFULL_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1954,7 +1966,7 @@
       "es_reintento": false
     },
     {
-      "num": 163,
+      "num": 164,
       "nombre": "ESC_A_TRONCO_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1966,7 +1978,7 @@
       "es_reintento": false
     },
     {
-      "num": 164,
+      "num": 165,
       "nombre": "ESC_A_TRONCO_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -1978,7 +1990,7 @@
       "es_reintento": false
     },
     {
-      "num": 165,
+      "num": 166,
       "nombre": "ESC_A_CUM_CON",
       "n_esl": 1,
       "generados": 1,
@@ -1990,7 +2002,7 @@
       "es_reintento": false
     },
     {
-      "num": 166,
+      "num": 167,
       "nombre": "ESC_A_CUM_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -2002,7 +2014,7 @@
       "es_reintento": false
     },
     {
-      "num": 167,
+      "num": 168,
       "nombre": "ESC_E8",
       "n_esl": 10,
       "generados": 10,
@@ -2014,7 +2026,7 @@
       "es_reintento": false
     },
     {
-      "num": 168,
+      "num": 169,
       "nombre": "ESC_E4",
       "n_esl": 2,
       "generados": 2,
@@ -2026,7 +2038,7 @@
       "es_reintento": false
     },
     {
-      "num": 169,
+      "num": 170,
       "nombre": "ESC_E4B",
       "n_esl": 2,
       "generados": 2,
@@ -2038,7 +2050,7 @@
       "es_reintento": false
     },
     {
-      "num": 170,
+      "num": 171,
       "nombre": "ESC_E5",
       "n_esl": 2,
       "generados": 2,
@@ -2050,7 +2062,7 @@
       "es_reintento": false
     },
     {
-      "num": 171,
+      "num": 172,
       "nombre": "ESC_A_CUM2",
       "n_esl": 1,
       "generados": 1,
@@ -2062,7 +2074,7 @@
       "es_reintento": false
     },
     {
-      "num": 172,
+      "num": 173,
       "nombre": "ESC_A_CUM3",
       "n_esl": 1,
       "generados": 1,
@@ -2074,7 +2086,7 @@
       "es_reintento": false
     },
     {
-      "num": 173,
+      "num": 174,
       "nombre": "ESC_A_LAMIDA3_V",
       "n_esl": 1,
       "generados": 1,
@@ -2086,7 +2098,7 @@
       "es_reintento": false
     },
     {
-      "num": 174,
+      "num": 175,
       "nombre": "ESC_A_LAMIDA5",
       "n_esl": 1,
       "generados": 1,
@@ -2098,7 +2110,7 @@
       "es_reintento": false
     },
     {
-      "num": 175,
+      "num": 176,
       "nombre": "ESC_A_LAMIDA4",
       "n_esl": 1,
       "generados": 1,
@@ -2110,7 +2122,7 @@
       "es_reintento": false
     },
     {
-      "num": 176,
+      "num": 177,
       "nombre": "ESC_A_CUM4",
       "n_esl": 1,
       "generados": 1,
@@ -2122,7 +2134,7 @@
       "es_reintento": false
     },
     {
-      "num": 177,
+      "num": 178,
       "nombre": "ESC_A_CUM5",
       "n_esl": 1,
       "generados": 1,
@@ -2134,7 +2146,7 @@
       "es_reintento": false
     },
     {
-      "num": 178,
+      "num": 179,
       "nombre": "ESC_A_LAMIDA3_HM",
       "n_esl": 1,
       "generados": 1,
@@ -2146,7 +2158,7 @@
       "es_reintento": false
     },
     {
-      "num": 179,
+      "num": 180,
       "nombre": "ESC_DOG_D5_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2158,7 +2170,7 @@
       "es_reintento": false
     },
     {
-      "num": 180,
+      "num": 181,
       "nombre": "ESC_DOG_D5_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -2170,7 +2182,7 @@
       "es_reintento": false
     },
     {
-      "num": 181,
+      "num": 182,
       "nombre": "ESC_E5B",
       "n_esl": 2,
       "generados": 2,
@@ -2182,7 +2194,7 @@
       "es_reintento": false
     },
     {
-      "num": 182,
+      "num": 183,
       "nombre": "ESC_A_LAMIDA6",
       "n_esl": 1,
       "generados": 1,
@@ -2194,7 +2206,7 @@
       "es_reintento": false
     },
     {
-      "num": 183,
+      "num": 184,
       "nombre": "ESC_A_LAMIDA6V",
       "n_esl": 1,
       "generados": 1,
@@ -2206,7 +2218,7 @@
       "es_reintento": false
     },
     {
-      "num": 184,
+      "num": 185,
       "nombre": "ESC_OBJ_SUN",
       "n_esl": 4,
       "generados": 4,
@@ -2218,7 +2230,7 @@
       "es_reintento": false
     },
     {
-      "num": 185,
+      "num": 186,
       "nombre": "ESC_OBJ_DARKY",
       "n_esl": 4,
       "generados": 4,
@@ -2230,7 +2242,7 @@
       "es_reintento": false
     },
     {
-      "num": 186,
+      "num": 187,
       "nombre": "ESC_A_MAST_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2242,7 +2254,7 @@
       "es_reintento": false
     },
     {
-      "num": 187,
+      "num": 188,
       "nombre": "ESC_A_ORG_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2254,7 +2266,7 @@
       "es_reintento": false
     },
     {
-      "num": 188,
+      "num": 189,
       "nombre": "ESC_A_ARREG_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2266,7 +2278,7 @@
       "es_reintento": false
     },
     {
-      "num": 189,
+      "num": 190,
       "nombre": "ESC_DOS_ALTERNA",
       "n_esl": 5,
       "generados": 5,
@@ -2278,7 +2290,7 @@
       "es_reintento": false
     },
     {
-      "num": 190,
+      "num": 191,
       "nombre": "ESC_A_ANAL_PASO",
       "n_esl": 2,
       "generados": 2,
@@ -2290,7 +2302,7 @@
       "es_reintento": false
     },
     {
-      "num": 191,
+      "num": 192,
       "nombre": "ESC_A_ANAL_PASO_SIN",
       "n_esl": 2,
       "generados": 2,
@@ -2302,7 +2314,7 @@
       "es_reintento": false
     },
     {
-      "num": 192,
+      "num": 193,
       "nombre": "ESC_A_LAMIDA7_05",
       "n_esl": 1,
       "generados": 1,
@@ -2314,7 +2326,7 @@
       "es_reintento": false
     },
     {
-      "num": 193,
+      "num": 194,
       "nombre": "ESC_A_LAMIDA7_07",
       "n_esl": 1,
       "generados": 1,
@@ -2326,7 +2338,7 @@
       "es_reintento": false
     },
     {
-      "num": 194,
+      "num": 195,
       "nombre": "ESC_A_MYSTIC_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2338,7 +2350,7 @@
       "es_reintento": false
     },
     {
-      "num": 195,
+      "num": 196,
       "nombre": "ESC_A_CUM4_SUN",
       "n_esl": 1,
       "generados": 1,
@@ -2350,7 +2362,7 @@
       "es_reintento": false
     },
     {
-      "num": 196,
+      "num": 197,
       "nombre": "ESC_E8B",
       "n_esl": 20,
       "generados": 20,
@@ -2362,7 +2374,7 @@
       "es_reintento": false
     },
     {
-      "num": 197,
+      "num": 198,
       "nombre": "ESC_HOLD_AUTOR",
       "n_esl": 1,
       "generados": 1,
@@ -2374,7 +2386,7 @@
       "es_reintento": false
     },
     {
-      "num": 198,
+      "num": 199,
       "nombre": "ESC_HOLD_MYSTIC",
       "n_esl": 1,
       "generados": 1,
@@ -2386,7 +2398,7 @@
       "es_reintento": false
     },
     {
-      "num": 199,
+      "num": 200,
       "nombre": "ESC_DOS_ALTERNA2",
       "n_esl": 5,
       "generados": 5,
@@ -2398,7 +2410,7 @@
       "es_reintento": false
     },
     {
-      "num": 200,
+      "num": 201,
       "nombre": "ESC_BJ_DOBLE",
       "n_esl": 6,
       "generados": 6,
@@ -2410,7 +2422,7 @@
       "es_reintento": false
     },
     {
-      "num": 201,
+      "num": 202,
       "nombre": "ESC_CORTE_PUENTE",
       "n_esl": 3,
       "generados": 3,
@@ -2422,7 +2434,7 @@
       "es_reintento": false
     },
     {
-      "num": 202,
+      "num": 203,
       "nombre": "ESC_CORTE_SOLO",
       "n_esl": 3,
       "generados": 3,
@@ -2434,7 +2446,7 @@
       "es_reintento": false
     },
     {
-      "num": 203,
+      "num": 204,
       "nombre": "WEB_0924_poderes_moon_p1",
       "n_esl": 16,
       "generados": 16,
@@ -2446,7 +2458,7 @@
       "es_reintento": false
     },
     {
-      "num": 204,
+      "num": 205,
       "nombre": "WEB_0924_poderes_moon_p2",
       "n_esl": 12,
       "generados": 12,
@@ -2458,7 +2470,7 @@
       "es_reintento": false
     },
     {
-      "num": 205,
+      "num": 206,
       "nombre": "WEB_0924_poderes_moon_p3",
       "n_esl": 14,
       "generados": 14,
@@ -2470,7 +2482,7 @@
       "es_reintento": false
     },
     {
-      "num": 206,
+      "num": 207,
       "nombre": "WEB_0924_poderes_moon_p4",
       "n_esl": 3,
       "generados": 3,
@@ -2482,7 +2494,7 @@
       "es_reintento": false
     },
     {
-      "num": 207,
+      "num": 208,
       "nombre": "WEB_0924_darky_poderes",
       "n_esl": 20,
       "generados": 20,
@@ -2494,7 +2506,7 @@
       "es_reintento": false
     },
     {
-      "num": 208,
+      "num": 209,
       "nombre": "WEB_0924_jefe_secretaria",
       "n_esl": 14,
       "generados": 14,
@@ -2506,7 +2518,7 @@
       "es_reintento": false
     },
     {
-      "num": 209,
+      "num": 210,
       "nombre": "WEB_0924_pijamada_timestop_p1",
       "n_esl": 20,
       "generados": 20,
@@ -2518,7 +2530,7 @@
       "es_reintento": false
     },
     {
-      "num": 210,
+      "num": 211,
       "nombre": "WEB_0924_pijamada_timestop_p2",
       "n_esl": 10,
       "generados": 10,
@@ -2530,7 +2542,7 @@
       "es_reintento": false
     },
     {
-      "num": 211,
+      "num": 212,
       "nombre": "WEB_0924_clausula_rescision",
       "n_esl": 20,
       "generados": 20,
@@ -2542,7 +2554,7 @@
       "es_reintento": false
     },
     {
-      "num": 212,
+      "num": 213,
       "nombre": "WEB_0924_oficina",
       "n_esl": 11,
       "generados": 11,
@@ -2554,7 +2566,7 @@
       "es_reintento": false
     },
     {
-      "num": 213,
+      "num": 214,
       "nombre": "WEB_0924_darky_dildo_p1",
       "n_esl": 14,
       "generados": 14,
@@ -2566,7 +2578,7 @@
       "es_reintento": false
     },
     {
-      "num": 214,
+      "num": 215,
       "nombre": "WEB_0924_darky_dildo_p2",
       "n_esl": 12,
       "generados": 12,
@@ -2578,7 +2590,7 @@
       "es_reintento": false
     },
     {
-      "num": 215,
+      "num": 216,
       "nombre": "WEB_0924_darky_dildo_p3",
       "n_esl": 8,
       "generados": 8,
@@ -2590,7 +2602,7 @@
       "es_reintento": false
     },
     {
-      "num": 216,
+      "num": 217,
       "nombre": "WEB_0924_barrio_rojo_p1",
       "n_esl": 5,
       "generados": 5,
@@ -2602,7 +2614,7 @@
       "es_reintento": false
     },
     {
-      "num": 217,
+      "num": 218,
       "nombre": "WEB_0924_barrio_rojo_p2",
       "n_esl": 20,
       "generados": 20,
@@ -2614,7 +2626,7 @@
       "es_reintento": false
     },
     {
-      "num": 218,
+      "num": 219,
       "nombre": "WEB_0924_rockstar_p1",
       "n_esl": 8,
       "generados": 8,
@@ -2626,7 +2638,7 @@
       "es_reintento": false
     },
     {
-      "num": 219,
+      "num": 220,
       "nombre": "WEB_0924_rockstar_p2",
       "n_esl": 13,
       "generados": 13,
@@ -2638,7 +2650,7 @@
       "es_reintento": false
     },
     {
-      "num": 220,
+      "num": 221,
       "nombre": "WEB_0924_pais_mujeres_p1",
       "n_esl": 8,
       "generados": 8,
@@ -2650,7 +2662,7 @@
       "es_reintento": false
     },
     {
-      "num": 221,
+      "num": 222,
       "nombre": "WEB_0924_pais_mujeres_p2",
       "n_esl": 12,
       "generados": 12,
@@ -2662,7 +2674,7 @@
       "es_reintento": false
     },
     {
-      "num": 222,
+      "num": 223,
       "nombre": "WEB_0924_masajista",
       "n_esl": 13,
       "generados": 13,
@@ -2674,7 +2686,7 @@
       "es_reintento": false
     },
     {
-      "num": 223,
+      "num": 224,
       "nombre": "WEB_0924_casting",
       "n_esl": 11,
       "generados": 11,
@@ -2686,7 +2698,7 @@
       "es_reintento": false
     },
     {
-      "num": 224,
+      "num": 225,
       "nombre": "WEB_0924_strip_poker",
       "n_esl": 12,
       "generados": 12,
@@ -2698,7 +2710,7 @@
       "es_reintento": false
     },
     {
-      "num": 225,
+      "num": 226,
       "nombre": "WEB_0924_lenceria",
       "n_esl": 10,
       "generados": 10,
@@ -2710,7 +2722,7 @@
       "es_reintento": false
     },
     {
-      "num": 226,
+      "num": 227,
       "nombre": "WEB_0924_gimnasio",
       "n_esl": 9,
       "generados": 9,
@@ -2722,7 +2734,7 @@
       "es_reintento": false
     },
     {
-      "num": 227,
+      "num": 228,
       "nombre": "WEB_0924_vr_laser_p1",
       "n_esl": 2,
       "generados": 2,
@@ -2734,7 +2746,7 @@
       "es_reintento": false
     },
     {
-      "num": 228,
+      "num": 229,
       "nombre": "WEB_0924_vr_laser_p2",
       "n_esl": 15,
       "generados": 15,
@@ -2746,7 +2758,7 @@
       "es_reintento": false
     },
     {
-      "num": 229,
+      "num": 230,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -2758,7 +2770,7 @@
       "es_reintento": false
     },
     {
-      "num": 230,
+      "num": 231,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -2770,7 +2782,7 @@
       "es_reintento": false
     },
     {
-      "num": 231,
+      "num": 232,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -2782,7 +2794,7 @@
       "es_reintento": false
     },
     {
-      "num": 232,
+      "num": 233,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -2794,7 +2806,7 @@
       "es_reintento": false
     },
     {
-      "num": 233,
+      "num": 234,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
