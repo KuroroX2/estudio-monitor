@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-09-28 10:17:13",
+  "timestamp": "2026-09-28 10:24:05",
   "corriendo": {
     "nombre": "JOTA_CRIS_0928",
     "hora": "09:10",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 14,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 11,
+      "elapsed": 22,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1388,
+    "eslabones_hechos": 1389,
     "eslabones_totales": 1455,
-    "horas_hechas": 185.06666666666706,
-    "horas_restantes": 8.933333333333337,
-    "fecha_fin_estimada": "Lun 28/09 19:13"
+    "horas_hechas": 185.2000000000004,
+    "horas_restantes": 8.800000000000011,
+    "fecha_fin_estimada": "Lun 28/09 19:12"
   },
   "items": [
     {
       "num": 1,
       "nombre": "JOTA_CRIS_0928",
       "n_esl": 14,
-      "generados": 10,
+      "generados": 11,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Lun 28/09 10:49",
+      "eta_txt": "Termina: Lun 28/09 10:48",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -42,7 +42,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Lun 28/09 11:05",
+      "eta_txt": "Termina: Lun 28/09 11:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 41,
       "generados": 0,
       "horas": 5.466666666666667,
-      "eta_txt": "Termina: Lun 28/09 16:33",
+      "eta_txt": "Termina: Lun 28/09 16:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2802,7 +2802,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 28/09 17:53",
+      "eta_txt": "Termina: Lun 28/09 17:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
