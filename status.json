@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-27 23:06:55",
+  "timestamp": "2026-09-27 23:14:20",
   "corriendo": {
     "nombre": "JOTA_AJUSTES_Y_PEDIDOS",
     "hora": "21:53",
-    "eslabon_actual": 11,
+    "eslabon_actual": 12,
     "eslabon_total": 21,
-    "horas_rest": 1.3333333333333333,
+    "horas_rest": 1.2,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 3,
+      "elapsed": 58,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1327,
+    "eslabones_hechos": 1328,
     "eslabones_totales": 1388,
-    "horas_hechas": 176.93333333333374,
-    "horas_restantes": 8.133333333333326,
+    "horas_hechas": 177.0666666666671,
+    "horas_restantes": 7.999999999999972,
     "fecha_fin_estimada": "Lun 28/09 07:14"
   },
   "items": [
@@ -40,7 +40,7 @@
       "num": 2,
       "nombre": "JOTA_AJUSTES_Y_PEDIDOS",
       "n_esl": 21,
-      "generados": 11,
+      "generados": 12,
       "horas": 2.8,
       "eta_txt": "Termina: Lun 28/09 00:26",
       "es_activa": true,
