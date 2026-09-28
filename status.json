@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-28 04:28:21",
+  "timestamp": "2026-09-28 04:36:23",
   "corriendo": {
     "nombre": "YAMETE_KUDASAI_ANIME",
     "hora": "00:17",
-    "eslabon_actual": 37,
+    "eslabon_actual": 38,
     "eslabon_total": 41,
-    "horas_rest": 0.5333333333333333,
+    "horas_rest": 0.4,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 2,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 31,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1374,
+    "eslabones_hechos": 1375,
     "eslabones_totales": 1388,
-    "horas_hechas": 183.2000000000004,
-    "horas_restantes": 1.8666666666666742,
+    "horas_hechas": 183.33333333333374,
+    "horas_restantes": 1.73333333333332,
     "fecha_fin_estimada": "Lun 28/09 06:20"
   },
   "items": [
@@ -52,7 +52,7 @@
       "num": 3,
       "nombre": "YAMETE_KUDASAI_ANIME",
       "n_esl": 41,
-      "generados": 37,
+      "generados": 38,
       "horas": 5.466666666666667,
       "eta_txt": "Termina: Lun 28/09 05:00",
       "es_activa": true,
