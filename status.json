@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-28 17:09:57",
+  "timestamp": "2026-09-28 17:17:07",
   "corriendo": {
     "nombre": "JOTA_CRIS_0928_D",
     "hora": "16:42",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 5,
-    "horas_rest": 0.13333333333333333,
+    "horas_rest": 0.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 12,
+      "elapsed": 0,
       "paso_num": 6,
       "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1437,
+    "eslabones_hechos": 1438,
     "eslabones_totales": 1563,
-    "horas_hechas": 191.6000000000004,
-    "horas_restantes": 16.799999999999955,
+    "horas_hechas": 191.73333333333372,
+    "horas_restantes": 16.66666666666663,
     "fecha_fin_estimada": "Mar 29/09 09:57"
   },
   "items": [
@@ -2800,7 +2800,7 @@
       "num": 232,
       "nombre": "JOTA_CRIS_0928_D",
       "n_esl": 5,
-      "generados": 4,
+      "generados": 5,
       "horas": 0.6666666666666666,
       "eta_txt": "Termina: Lun 28/09 17:17",
       "es_activa": true,
