@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29 00:17:51",
+  "timestamp": "2026-09-29 00:22:51",
   "corriendo": {
     "nombre": "ESC_COW6",
     "hora": "00:17",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 45,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 344,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1509,
+    "eslabones_hechos": 1510,
     "eslabones_totales": 1564,
-    "horas_hechas": 201.20000000000033,
-    "horas_restantes": 7.333333333333343,
-    "fecha_fin_estimada": "Mar 29/09 07:37"
+    "horas_hechas": 201.33333333333366,
+    "horas_restantes": 7.200000000000017,
+    "fecha_fin_estimada": "Mar 29/09 07:34"
   },
   "items": [
     {
@@ -2968,9 +2968,9 @@
       "num": 246,
       "nombre": "ESC_COW6",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mar 29/09 00:25",
+      "eta_txt": "Termina: Mar 29/09 00:22",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2982,7 +2982,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mar 29/09 00:33",
+      "eta_txt": "Termina: Mar 29/09 00:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2994,7 +2994,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mar 29/09 01:13",
+      "eta_txt": "Termina: Mar 29/09 01:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3006,7 +3006,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 29/09 02:33",
+      "eta_txt": "Termina: Mar 29/09 02:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3018,7 +3018,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 29/09 04:25",
+      "eta_txt": "Termina: Mar 29/09 04:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3030,7 +3030,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 29/09 06:17",
+      "eta_txt": "Termina: Mar 29/09 06:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
