@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 20:08:51",
+  "timestamp": "2026-09-29 20:14:47",
   "corriendo": {
     "nombre": "ESC_DESP_V3",
     "hora": "20:07",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 3,
-    "horas_rest": 0.4,
+    "horas_rest": 0.26666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 3,
-      "elapsed": 52,
+      "elapsed": 62,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1643,
+    "eslabones_hechos": 1644,
     "eslabones_totales": 1784,
-    "horas_hechas": 219.06666666666695,
-    "horas_restantes": 18.80000000000001,
-    "fecha_fin_estimada": "Mié 30/09 14:56"
+    "horas_hechas": 219.20000000000027,
+    "horas_restantes": 18.666666666666686,
+    "fecha_fin_estimada": "Mié 30/09 14:54"
   },
   "items": [
     {
@@ -3436,9 +3436,9 @@
       "num": 285,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.4,
-      "eta_txt": "Termina: Mar 29/09 20:32",
+      "eta_txt": "Termina: Mar 29/09 20:30",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -3450,7 +3450,7 @@
       "n_esl": 128,
       "generados": 0,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 13:36",
+      "eta_txt": "Termina: Mié 30/09 13:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
