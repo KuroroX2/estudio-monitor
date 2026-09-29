@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-29 10:05:59",
+  "timestamp": "2026-09-29 10:13:09",
   "corriendo": {
     "nombre": "WEB_0929_secretaria3_p4",
-    "hora": "10:00",
+    "hora": "09:59",
     "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 2,
+      "elapsed": 18,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1577,
+    "eslabones_hechos": 1578,
     "eslabones_totales": 1608,
-    "horas_hechas": 210.266666666667,
-    "horas_restantes": 4.133333333333383,
+    "horas_hechas": 210.40000000000035,
+    "horas_restantes": 4.000000000000028,
     "fecha_fin_estimada": "Mar 29/09 14:13"
   },
   "items": [
@@ -3088,7 +3088,7 @@
       "num": 256,
       "nombre": "WEB_0929_secretaria3_p4",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.26666666666666666,
       "eta_txt": "Termina: Mar 29/09 10:13",
       "es_activa": true,
