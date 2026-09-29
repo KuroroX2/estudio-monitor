@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-28 21:39:47",
+  "timestamp": "2026-09-28 21:47:34",
   "corriendo": {
     "nombre": "YAMETE2_ANIME",
     "hora": "20:34",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 41,
-    "horas_rest": 4.133333333333334,
+    "horas_rest": 4.0,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 10,
+      "elapsed": 0,
       "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "paso_str": "Terminando: montaje y entrega",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1473,
+    "eslabones_hechos": 1474,
     "eslabones_totales": 1564,
-    "horas_hechas": 196.40000000000038,
-    "horas_restantes": 12.133333333333297,
+    "horas_hechas": 196.5333333333337,
+    "horas_restantes": 11.999999999999972,
     "fecha_fin_estimada": "Mar 29/09 09:47"
   },
   "items": [
@@ -2896,7 +2896,7 @@
       "num": 240,
       "nombre": "YAMETE2_ANIME",
       "n_esl": 41,
-      "generados": 10,
+      "generados": 11,
       "horas": 5.466666666666667,
       "eta_txt": "Termina: Mar 29/09 01:47",
       "es_activa": true,
