@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-29 03:56:43",
+  "timestamp": "2026-09-29 07:08:15",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1554,
-    "eslabones_totales": 1564,
+    "eslabones_totales": 1579,
     "horas_hechas": 207.20000000000033,
-    "horas_restantes": 1.3333333333333428,
-    "fecha_fin_estimada": "Mar 29/09 05:16"
+    "horas_restantes": 3.3333333333333144,
+    "fecha_fin_estimada": "Mar 29/09 10:28"
   },
   "items": [
     {
@@ -3023,6 +3023,18 @@
     },
     {
       "num": 252,
+      "nombre": "WEB_0929_pijamada_pov3",
+      "n_esl": 11,
+      "generados": 0,
+      "horas": 1.4666666666666666,
+      "eta_txt": "Termina: Mar 29/09 08:36",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 253,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -3034,7 +3046,7 @@
       "es_reintento": false
     },
     {
-      "num": 253,
+      "num": 254,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -3046,7 +3058,7 @@
       "es_reintento": false
     },
     {
-      "num": 254,
+      "num": 255,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -3058,7 +3070,7 @@
       "es_reintento": false
     },
     {
-      "num": 255,
+      "num": 256,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -3070,7 +3082,7 @@
       "es_reintento": false
     },
     {
-      "num": 256,
+      "num": 257,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -3080,6 +3092,54 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 258,
+      "nombre": "ESC_COW8",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 29/09 08:44",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 259,
+      "nombre": "ESC_COW9",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 29/09 08:52",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 260,
+      "nombre": "ESC_COW10",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 29/09 09:00",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 261,
+      "nombre": "ESC_COW11",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 29/09 09:08",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
