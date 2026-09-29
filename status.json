@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 00:32:57",
+  "timestamp": "2026-09-29 00:37:25",
   "corriendo": {
     "nombre": "ESC_DOS_ALTERNA3",
     "hora": "00:32",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 5,
-    "horas_rest": 0.6666666666666666,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 5,
-      "elapsed": 58,
+      "elapsed": 0,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 1511,
+    "eslabones_hechos": 1512,
     "eslabones_totales": 1564,
-    "horas_hechas": 201.46666666666698,
-    "horas_restantes": 7.066666666666691,
-    "fecha_fin_estimada": "Mar 29/09 07:36"
+    "horas_hechas": 201.6000000000003,
+    "horas_restantes": 6.9333333333333655,
+    "fecha_fin_estimada": "Mar 29/09 07:33"
   },
   "items": [
     {
@@ -2992,9 +2992,9 @@
       "num": 248,
       "nombre": "ESC_DOS_ALTERNA3",
       "n_esl": 5,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mar 29/09 01:12",
+      "eta_txt": "Termina: Mar 29/09 01:09",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -3006,7 +3006,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Mar 29/09 02:32",
+      "eta_txt": "Termina: Mar 29/09 02:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3018,7 +3018,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 29/09 04:24",
+      "eta_txt": "Termina: Mar 29/09 04:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3030,7 +3030,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mar 29/09 06:16",
+      "eta_txt": "Termina: Mar 29/09 06:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
