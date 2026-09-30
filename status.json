@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 22:59:02",
+  "timestamp": "2026-09-29 23:10:41",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
-    "eslabon_actual": 7,
+    "eslabon_actual": 9,
     "eslabon_total": 128,
-    "horas_rest": 16.133333333333333,
+    "horas_rest": 15.866666666666667,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 2,
+      "elapsed": 10,
       "paso_num": 6,
       "paso_str": "Terminando: montaje y entrega",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1676,
+    "eslabones_hechos": 1678,
     "eslabones_totales": 1807,
-    "horas_hechas": 223.46666666666698,
-    "horas_restantes": 17.46666666666667,
-    "fecha_fin_estimada": "Mié 30/09 16:27"
+    "horas_hechas": 223.73333333333363,
+    "horas_restantes": 17.200000000000017,
+    "fecha_fin_estimada": "Mié 30/09 16:22"
   },
   "items": [
     {
@@ -3472,9 +3472,9 @@
       "num": 288,
       "nombre": "POSES_T1",
       "n_esl": 128,
-      "generados": 7,
+      "generados": 9,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 15:07",
+      "eta_txt": "Termina: Mié 30/09 15:02",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
