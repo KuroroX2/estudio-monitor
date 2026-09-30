@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30 00:33:47",
+  "timestamp": "2026-09-30 00:38:54",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 65,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 372,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 1691,
-    "eslabones_totales": 1807,
+    "eslabones_totales": 1825,
     "horas_hechas": 225.46666666666698,
-    "horas_restantes": 15.466666666666669,
-    "fecha_fin_estimada": "Mié 30/09 16:01"
+    "horas_restantes": 17.866666666666646,
+    "fecha_fin_estimada": "Mié 30/09 18:30"
   },
   "items": [
     {
@@ -3470,11 +3470,107 @@
     },
     {
       "num": 288,
+      "nombre": "ESC_PM_QUIETA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 00:46",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 289,
+      "nombre": "ESC_PM_ORBITA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 00:54",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 290,
+      "nombre": "ESC_PM_PERRITA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 01:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 291,
+      "nombre": "ESC_PM_GALLINA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 01:10",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 292,
+      "nombre": "ESC_PM_PREMIO",
+      "n_esl": 5,
+      "generados": 0,
+      "horas": 0.6666666666666666,
+      "eta_txt": "Termina: Mié 30/09 01:50",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 293,
+      "nombre": "ESC_PM_ANAL",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mié 30/09 02:14",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 294,
+      "nombre": "ESC_PM_ANAL_SIN",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mié 30/09 02:38",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 295,
+      "nombre": "ESC_PM_FINAL",
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.4,
+      "eta_txt": "Termina: Mié 30/09 03:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 296,
       "nombre": "POSES_T1",
       "n_esl": 128,
       "generados": 22,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 14:41",
+      "eta_txt": "Termina: Mié 30/09 17:10",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
