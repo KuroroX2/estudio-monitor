@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-30 00:56:21",
+  "timestamp": "2026-09-30 01:06:42",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
-    "eslabon_actual": 25,
+    "eslabon_actual": 27,
     "eslabon_total": 128,
-    "horas_rest": 13.733333333333333,
+    "horas_rest": 13.466666666666667,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 302,
+      "elapsed": 152,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1694,
-    "eslabones_totales": 1825,
-    "horas_hechas": 225.866666666667,
-    "horas_restantes": 17.46666666666664,
-    "fecha_fin_estimada": "Mié 30/09 18:24"
+    "eslabones_hechos": 1696,
+    "eslabones_totales": 1901,
+    "horas_hechas": 226.13333333333364,
+    "horas_restantes": 27.333333333333343,
+    "fecha_fin_estimada": "Jue 01/10 04:26"
   },
   "items": [
     {
@@ -3086,6 +3086,114 @@
     },
     {
       "num": 256,
+      "nombre": "WEB_0930_clausula2_estab",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 01:14",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 257,
+      "nombre": "WEB_0930_clausula2_p1",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 30/09 01:30",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 258,
+      "nombre": "WEB_0930_clausula2_p2",
+      "n_esl": 17,
+      "generados": 0,
+      "horas": 2.2666666666666666,
+      "eta_txt": "Termina: Mié 30/09 03:46",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 259,
+      "nombre": "WEB_0930_clausula2_p3",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 30/09 04:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 260,
+      "nombre": "MONTAR_0930_clausula2",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Mié 30/09 04:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 261,
+      "nombre": "WEB_0930_darky_dildo2_p1",
+      "n_esl": 14,
+      "generados": 0,
+      "horas": 1.8666666666666667,
+      "eta_txt": "Termina: Mié 30/09 05:54",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 262,
+      "nombre": "WEB_0930_darky_dildo2_p2",
+      "n_esl": 12,
+      "generados": 0,
+      "horas": 1.6,
+      "eta_txt": "Termina: Mié 30/09 07:30",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 263,
+      "nombre": "WEB_0930_darky_dildo2_p3",
+      "n_esl": 8,
+      "generados": 0,
+      "horas": 1.0666666666666667,
+      "eta_txt": "Termina: Mié 30/09 08:34",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 264,
+      "nombre": "MONTAR_0930_darky_dildo2",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Mié 30/09 08:34",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 265,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -3097,7 +3205,7 @@
       "es_reintento": false
     },
     {
-      "num": 257,
+      "num": 266,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -3109,7 +3217,7 @@
       "es_reintento": false
     },
     {
-      "num": 258,
+      "num": 267,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -3121,7 +3229,7 @@
       "es_reintento": false
     },
     {
-      "num": 259,
+      "num": 268,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -3133,7 +3241,7 @@
       "es_reintento": false
     },
     {
-      "num": 260,
+      "num": 269,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -3145,7 +3253,7 @@
       "es_reintento": false
     },
     {
-      "num": 261,
+      "num": 270,
       "nombre": "ESC_COW8",
       "n_esl": 1,
       "generados": 1,
@@ -3157,7 +3265,7 @@
       "es_reintento": false
     },
     {
-      "num": 262,
+      "num": 271,
       "nombre": "ESC_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -3169,7 +3277,7 @@
       "es_reintento": false
     },
     {
-      "num": 263,
+      "num": 272,
       "nombre": "ESC_COW13",
       "n_esl": 1,
       "generados": 1,
@@ -3181,7 +3289,7 @@
       "es_reintento": false
     },
     {
-      "num": 264,
+      "num": 273,
       "nombre": "ESC_COW9",
       "n_esl": 1,
       "generados": 1,
@@ -3193,7 +3301,7 @@
       "es_reintento": false
     },
     {
-      "num": 265,
+      "num": 274,
       "nombre": "WEB_0929_pijamada_pov3_p2",
       "n_esl": 4,
       "generados": 4,
@@ -3205,7 +3313,7 @@
       "es_reintento": false
     },
     {
-      "num": 266,
+      "num": 275,
       "nombre": "ESC_COW10",
       "n_esl": 1,
       "generados": 1,
@@ -3217,7 +3325,7 @@
       "es_reintento": false
     },
     {
-      "num": 267,
+      "num": 276,
       "nombre": "ESC_COW11",
       "n_esl": 1,
       "generados": 1,
@@ -3229,7 +3337,7 @@
       "es_reintento": false
     },
     {
-      "num": 268,
+      "num": 277,
       "nombre": "ESC_MULTI_REV",
       "n_esl": 7,
       "generados": 7,
@@ -3241,7 +3349,7 @@
       "es_reintento": false
     },
     {
-      "num": 269,
+      "num": 278,
       "nombre": "ESC_MULTI_DOG",
       "n_esl": 6,
       "generados": 6,
@@ -3253,7 +3361,7 @@
       "es_reintento": false
     },
     {
-      "num": 270,
+      "num": 279,
       "nombre": "SAILOR_REFVIDEO",
       "n_esl": 2,
       "generados": 2,
@@ -3265,7 +3373,7 @@
       "es_reintento": false
     },
     {
-      "num": 271,
+      "num": 280,
       "nombre": "SAILOR_PS",
       "n_esl": 7,
       "generados": 7,
@@ -3277,7 +3385,7 @@
       "es_reintento": false
     },
     {
-      "num": 272,
+      "num": 281,
       "nombre": "SAILOR_REFVIDEO_MIN",
       "n_esl": 1,
       "generados": 1,
@@ -3289,7 +3397,7 @@
       "es_reintento": false
     },
     {
-      "num": 273,
+      "num": 282,
       "nombre": "ESC_MULTI_DOG2",
       "n_esl": 7,
       "generados": 7,
@@ -3301,7 +3409,7 @@
       "es_reintento": false
     },
     {
-      "num": 274,
+      "num": 283,
       "nombre": "ESC_DESP_ESTAB",
       "n_esl": 1,
       "generados": 1,
@@ -3313,7 +3421,7 @@
       "es_reintento": false
     },
     {
-      "num": 275,
+      "num": 284,
       "nombre": "ESC_DESP_D1",
       "n_esl": 1,
       "generados": 1,
@@ -3325,7 +3433,7 @@
       "es_reintento": false
     },
     {
-      "num": 276,
+      "num": 285,
       "nombre": "ESC_DESP_D2",
       "n_esl": 1,
       "generados": 1,
@@ -3337,7 +3445,7 @@
       "es_reintento": false
     },
     {
-      "num": 277,
+      "num": 286,
       "nombre": "SAILOR_V3",
       "n_esl": 9,
       "generados": 9,
@@ -3349,7 +3457,7 @@
       "es_reintento": false
     },
     {
-      "num": 278,
+      "num": 287,
       "nombre": "ESC_MULTI_DOG3",
       "n_esl": 6,
       "generados": 6,
@@ -3361,7 +3469,7 @@
       "es_reintento": false
     },
     {
-      "num": 279,
+      "num": 288,
       "nombre": "ESC_DESP_D3",
       "n_esl": 3,
       "generados": 3,
@@ -3373,7 +3481,7 @@
       "es_reintento": false
     },
     {
-      "num": 280,
+      "num": 289,
       "nombre": "ESC_DESP_M1",
       "n_esl": 1,
       "generados": 1,
@@ -3385,7 +3493,7 @@
       "es_reintento": false
     },
     {
-      "num": 281,
+      "num": 290,
       "nombre": "ESC_DESP_M2",
       "n_esl": 1,
       "generados": 1,
@@ -3397,7 +3505,7 @@
       "es_reintento": false
     },
     {
-      "num": 282,
+      "num": 291,
       "nombre": "ESC_DESP_M3",
       "n_esl": 3,
       "generados": 3,
@@ -3409,7 +3517,7 @@
       "es_reintento": false
     },
     {
-      "num": 283,
+      "num": 292,
       "nombre": "ESC_DESP_V1",
       "n_esl": 1,
       "generados": 1,
@@ -3421,7 +3529,7 @@
       "es_reintento": false
     },
     {
-      "num": 284,
+      "num": 293,
       "nombre": "ESC_DESP_V2",
       "n_esl": 1,
       "generados": 1,
@@ -3433,7 +3541,7 @@
       "es_reintento": false
     },
     {
-      "num": 285,
+      "num": 294,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
       "generados": 3,
@@ -3445,7 +3553,7 @@
       "es_reintento": false
     },
     {
-      "num": 286,
+      "num": 295,
       "nombre": "SAILOR_CLAVES",
       "n_esl": 6,
       "generados": 6,
@@ -3457,7 +3565,7 @@
       "es_reintento": false
     },
     {
-      "num": 287,
+      "num": 296,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
       "generados": 17,
@@ -3469,112 +3577,124 @@
       "es_reintento": false
     },
     {
-      "num": 288,
+      "num": 297,
       "nombre": "ESC_PM_QUIETA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 01:04",
+      "eta_txt": "Termina: Mié 30/09 08:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 289,
+      "num": 298,
       "nombre": "ESC_PM_ORBITA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 01:12",
+      "eta_txt": "Termina: Mié 30/09 08:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 290,
+      "num": 299,
       "nombre": "ESC_PM_PERRITA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 01:20",
+      "eta_txt": "Termina: Mié 30/09 08:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 291,
+      "num": 300,
       "nombre": "ESC_PM_GALLINA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 01:28",
+      "eta_txt": "Termina: Mié 30/09 09:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 292,
+      "num": 301,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mié 30/09 02:08",
+      "eta_txt": "Termina: Mié 30/09 09:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 293,
+      "num": 302,
       "nombre": "ESC_PM_ANAL",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 02:32",
+      "eta_txt": "Termina: Mié 30/09 10:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 294,
+      "num": 303,
       "nombre": "ESC_PM_ANAL_SIN",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 02:56",
+      "eta_txt": "Termina: Mié 30/09 10:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 295,
+      "num": 304,
       "nombre": "ESC_PM_FINAL",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 03:20",
+      "eta_txt": "Termina: Mié 30/09 10:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 296,
+      "num": 305,
       "nombre": "POSES_T1",
       "n_esl": 128,
-      "generados": 25,
+      "generados": 27,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 17:04",
+      "eta_txt": "Termina: Jue 01/10 00:26",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 306,
+      "nombre": "WEB_0930_darky_poderes_v3",
+      "n_esl": 20,
+      "generados": 0,
+      "horas": 2.6666666666666665,
+      "eta_txt": "Termina: Jue 01/10 03:06",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ]
 }
