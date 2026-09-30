@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 21:42:22",
+  "timestamp": "2026-09-29 21:53:55",
   "corriendo": {
     "nombre": "SAILOR_V4",
     "hora": "21:33",
-    "eslabon_actual": 4,
+    "eslabon_actual": 8,
     "eslabon_total": 17,
-    "horas_rest": 1.7333333333333334,
+    "horas_rest": 1.2,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 1,
+      "elapsed": 106,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1656,
+    "eslabones_hechos": 1660,
     "eslabones_totales": 1807,
-    "horas_hechas": 220.8000000000003,
-    "horas_restantes": 20.133333333333354,
-    "fecha_fin_estimada": "Mié 30/09 17:50"
+    "horas_hechas": 221.33333333333363,
+    "horas_restantes": 19.600000000000023,
+    "fecha_fin_estimada": "Mié 30/09 17:29"
   },
   "items": [
     {
@@ -3460,9 +3460,9 @@
       "num": 287,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
-      "generados": 4,
+      "generados": 8,
       "horas": 2.2666666666666666,
-      "eta_txt": "Termina: Mar 29/09 23:26",
+      "eta_txt": "Termina: Mar 29/09 23:05",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -3474,7 +3474,7 @@
       "n_esl": 128,
       "generados": 0,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 16:30",
+      "eta_txt": "Termina: Mié 30/09 16:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
