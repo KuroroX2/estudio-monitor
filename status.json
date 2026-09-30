@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-29 21:14:38",
+  "timestamp": "2026-09-29 21:32:37",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 1652,
-    "eslabones_totales": 1790,
+    "eslabones_totales": 1807,
     "horas_hechas": 220.26666666666696,
-    "horas_restantes": 18.400000000000006,
-    "fecha_fin_estimada": "Mié 30/09 15:38"
+    "horas_restantes": 20.666666666666686,
+    "fecha_fin_estimada": "Mié 30/09 18:12"
   },
   "items": [
     {
@@ -3443,15 +3443,27 @@
     },
     {
       "num": 287,
+      "nombre": "SAILOR_V4",
+      "n_esl": 17,
+      "generados": 0,
+      "horas": 2.2666666666666666,
+      "eta_txt": "Termina: Mar 29/09 23:48",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 288,
       "nombre": "POSES_T1",
       "n_esl": 128,
       "generados": 0,
       "horas": 17.066666666666666,
-      "eta_txt": "Falló (código 1)",
+      "eta_txt": "Termina: Mié 30/09 16:52",
       "es_activa": null,
       "es_hecha": false,
-      "es_fallo": true,
-      "es_reintento": false
+      "es_fallo": false,
+      "es_reintento": true
     }
   ]
 }
