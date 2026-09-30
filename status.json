@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 23:59:02",
+  "timestamp": "2026-09-30 00:09:13",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
-    "eslabon_actual": 16,
+    "eslabon_actual": 18,
     "eslabon_total": 128,
-    "horas_rest": 14.933333333333334,
+    "horas_rest": 14.666666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 275,
+      "elapsed": 86,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1685,
+    "eslabones_hechos": 1687,
     "eslabones_totales": 1807,
-    "horas_hechas": 224.66666666666697,
-    "horas_restantes": 16.26666666666668,
-    "fecha_fin_estimada": "Mié 30/09 16:15"
+    "horas_hechas": 224.93333333333365,
+    "horas_restantes": 16.0,
+    "fecha_fin_estimada": "Mié 30/09 16:09"
   },
   "items": [
     {
@@ -3472,9 +3472,9 @@
       "num": 288,
       "nombre": "POSES_T1",
       "n_esl": 128,
-      "generados": 16,
+      "generados": 18,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 14:55",
+      "eta_txt": "Termina: Mié 30/09 14:49",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
