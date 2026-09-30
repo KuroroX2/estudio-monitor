@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-30 00:09:13",
+  "timestamp": "2026-09-30 00:14:00",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
-    "eslabon_actual": 18,
+    "eslabon_actual": 19,
     "eslabon_total": 128,
-    "horas_rest": 14.666666666666666,
+    "horas_rest": 14.533333333333333,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 86,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 17,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1687,
+    "eslabones_hechos": 1688,
     "eslabones_totales": 1807,
-    "horas_hechas": 224.93333333333365,
-    "horas_restantes": 16.0,
-    "fecha_fin_estimada": "Mié 30/09 16:09"
+    "horas_hechas": 225.06666666666698,
+    "horas_restantes": 15.866666666666674,
+    "fecha_fin_estimada": "Mié 30/09 16:06"
   },
   "items": [
     {
@@ -3472,9 +3472,9 @@
       "num": 288,
       "nombre": "POSES_T1",
       "n_esl": 128,
-      "generados": 18,
+      "generados": 19,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 14:49",
+      "eta_txt": "Termina: Mié 30/09 14:46",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
