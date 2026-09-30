@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-29 22:18:36",
+  "timestamp": "2026-09-29 22:30:15",
   "corriendo": {
     "nombre": "POSES_T1",
     "hora": "22:18",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 128,
-    "horas_rest": 17.066666666666666,
+    "horas_rest": 16.8,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 3,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 12,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1669,
+    "eslabones_hechos": 1671,
     "eslabones_totales": 1807,
-    "horas_hechas": 222.53333333333364,
-    "horas_restantes": 18.400000000000006,
-    "fecha_fin_estimada": "Mié 30/09 16:42"
+    "horas_hechas": 222.80000000000032,
+    "horas_restantes": 18.133333333333326,
+    "fecha_fin_estimada": "Mié 30/09 16:38"
   },
   "items": [
     {
@@ -3472,9 +3472,9 @@
       "num": 288,
       "nombre": "POSES_T1",
       "n_esl": 128,
-      "generados": 0,
+      "generados": 2,
       "horas": 17.066666666666666,
-      "eta_txt": "Termina: Mié 30/09 15:22",
+      "eta_txt": "Termina: Mié 30/09 15:18",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
