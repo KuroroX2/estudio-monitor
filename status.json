@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-09-30 10:35:47",
+  "timestamp": "2026-09-30 10:43:33",
   "corriendo": {
     "nombre": "ESC_PM_PREMIO",
-    "hora": "10:09",
+    "hora": "10:08",
     "eslabon_actual": 5,
     "eslabon_total": 5,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 5,
       "tot_esl": 5,
-      "elapsed": 4,
+      "elapsed": 51,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1741,
+    "eslabones_hechos": 1742,
     "eslabones_totales": 2069,
-    "horas_hechas": 232.1333333333337,
-    "horas_restantes": 43.73333333333332,
+    "horas_hechas": 232.26666666666702,
+    "horas_restantes": 43.599999999999994,
     "fecha_fin_estimada": "Vie 02/10 06:19"
   },
   "items": [
@@ -3796,7 +3796,7 @@
       "num": 315,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
-      "generados": 4,
+      "generados": 5,
       "horas": 0.6666666666666666,
       "eta_txt": "Termina: Mié 30/09 10:43",
       "es_activa": true,
