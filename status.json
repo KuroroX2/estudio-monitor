@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-30 06:46:28",
+  "timestamp": "2026-09-30 06:53:11",
   "corriendo": {
     "nombre": "WEB_0930_clausula2_p2",
     "hora": "05:10",
-    "eslabon_actual": 16,
+    "eslabon_actual": 17,
     "eslabon_total": 17,
-    "horas_rest": 0.26666666666666666,
+    "horas_rest": 0.13333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 16,
+      "num_esl": 17,
       "tot_esl": 17,
-      "elapsed": 3,
+      "elapsed": 25,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1711,
-    "eslabones_totales": 1979,
-    "horas_hechas": 228.1333333333337,
-    "horas_restantes": 35.73333333333338,
-    "fecha_fin_estimada": "Jue 01/10 18:30"
+    "eslabones_hechos": 1712,
+    "eslabones_totales": 1989,
+    "horas_hechas": 228.26666666666702,
+    "horas_restantes": 36.93333333333331,
+    "fecha_fin_estimada": "Jue 01/10 19:49"
   },
   "items": [
     {
@@ -3220,9 +3220,9 @@
       "num": 267,
       "nombre": "WEB_0930_clausula2_p2",
       "n_esl": 17,
-      "generados": 15,
+      "generados": 16,
       "horas": 2.2666666666666666,
-      "eta_txt": "Termina: Mié 30/09 07:02",
+      "eta_txt": "Termina: Mié 30/09 07:01",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -3234,7 +3234,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 30/09 07:18",
+      "eta_txt": "Termina: Mié 30/09 07:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3246,7 +3246,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 30/09 07:18",
+      "eta_txt": "Termina: Mié 30/09 07:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3258,7 +3258,7 @@
       "n_esl": 14,
       "generados": 0,
       "horas": 1.8666666666666667,
-      "eta_txt": "Termina: Mié 30/09 09:10",
+      "eta_txt": "Termina: Mié 30/09 09:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3270,7 +3270,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Mié 30/09 10:46",
+      "eta_txt": "Termina: Mié 30/09 10:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3282,7 +3282,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Mié 30/09 11:50",
+      "eta_txt": "Termina: Mié 30/09 11:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3294,7 +3294,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 30/09 11:50",
+      "eta_txt": "Termina: Mié 30/09 11:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3306,7 +3306,7 @@
       "n_esl": 13,
       "generados": 0,
       "horas": 1.7333333333333334,
-      "eta_txt": "Termina: Mié 30/09 13:34",
+      "eta_txt": "Termina: Mié 30/09 13:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3318,7 +3318,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 30/09 13:34",
+      "eta_txt": "Termina: Mié 30/09 13:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3330,7 +3330,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Mié 30/09 15:10",
+      "eta_txt": "Termina: Mié 30/09 15:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3342,7 +3342,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 30/09 15:10",
+      "eta_txt": "Termina: Mié 30/09 15:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3354,7 +3354,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.6,
-      "eta_txt": "Termina: Mié 30/09 16:46",
+      "eta_txt": "Termina: Mié 30/09 16:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3366,7 +3366,7 @@
       "n_esl": 11,
       "generados": 0,
       "horas": 1.4666666666666666,
-      "eta_txt": "Termina: Mié 30/09 18:14",
+      "eta_txt": "Termina: Mié 30/09 18:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3378,7 +3378,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 30/09 18:30",
+      "eta_txt": "Termina: Mié 30/09 18:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3390,7 +3390,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 18:38",
+      "eta_txt": "Termina: Mié 30/09 18:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3402,7 +3402,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 18:46",
+      "eta_txt": "Termina: Mié 30/09 18:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3414,7 +3414,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.26666666666666666,
-      "eta_txt": "Termina: Mié 30/09 19:02",
+      "eta_txt": "Termina: Mié 30/09 19:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3422,6 +3422,114 @@
     },
     {
       "num": 284,
+      "nombre": "ESC_CI_POV_ELLA",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.26666666666666666,
+      "eta_txt": "Termina: Mié 30/09 19:17",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 285,
+      "nombre": "ESC_CI_SUELO",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 19:25",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 286,
+      "nombre": "ESC_CI_CAMARA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 19:33",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 287,
+      "nombre": "ESC_CI_LOCURA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 19:41",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 288,
+      "nombre": "FICHA_MOON_CARA_COLEGIALA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 19:49",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 289,
+      "nombre": "FICHA_MOON_CARA_SECRETARIA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 19:57",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 290,
+      "nombre": "FICHA_MOON_CARA_ENFERMERA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 20:05",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 291,
+      "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 20:13",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 292,
+      "nombre": "FICHA_MOON_CARA_INTERIOR",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mié 30/09 20:21",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 293,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -3433,7 +3541,7 @@
       "es_reintento": false
     },
     {
-      "num": 285,
+      "num": 294,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -3445,7 +3553,7 @@
       "es_reintento": false
     },
     {
-      "num": 286,
+      "num": 295,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -3457,7 +3565,7 @@
       "es_reintento": false
     },
     {
-      "num": 287,
+      "num": 296,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -3469,7 +3577,7 @@
       "es_reintento": false
     },
     {
-      "num": 288,
+      "num": 297,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -3481,7 +3589,7 @@
       "es_reintento": false
     },
     {
-      "num": 289,
+      "num": 298,
       "nombre": "ESC_COW8",
       "n_esl": 1,
       "generados": 1,
@@ -3493,7 +3601,7 @@
       "es_reintento": false
     },
     {
-      "num": 290,
+      "num": 299,
       "nombre": "ESC_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -3505,7 +3613,7 @@
       "es_reintento": false
     },
     {
-      "num": 291,
+      "num": 300,
       "nombre": "ESC_COW13",
       "n_esl": 1,
       "generados": 1,
@@ -3517,7 +3625,7 @@
       "es_reintento": false
     },
     {
-      "num": 292,
+      "num": 301,
       "nombre": "ESC_COW9",
       "n_esl": 1,
       "generados": 1,
@@ -3529,7 +3637,7 @@
       "es_reintento": false
     },
     {
-      "num": 293,
+      "num": 302,
       "nombre": "WEB_0929_pijamada_pov3_p2",
       "n_esl": 4,
       "generados": 4,
@@ -3541,7 +3649,7 @@
       "es_reintento": false
     },
     {
-      "num": 294,
+      "num": 303,
       "nombre": "ESC_COW10",
       "n_esl": 1,
       "generados": 1,
@@ -3553,7 +3661,7 @@
       "es_reintento": false
     },
     {
-      "num": 295,
+      "num": 304,
       "nombre": "ESC_COW11",
       "n_esl": 1,
       "generados": 1,
@@ -3565,7 +3673,7 @@
       "es_reintento": false
     },
     {
-      "num": 296,
+      "num": 305,
       "nombre": "ESC_MULTI_REV",
       "n_esl": 7,
       "generados": 7,
@@ -3577,7 +3685,7 @@
       "es_reintento": false
     },
     {
-      "num": 297,
+      "num": 306,
       "nombre": "ESC_MULTI_DOG",
       "n_esl": 6,
       "generados": 6,
@@ -3589,7 +3697,7 @@
       "es_reintento": false
     },
     {
-      "num": 298,
+      "num": 307,
       "nombre": "SAILOR_REFVIDEO",
       "n_esl": 2,
       "generados": 2,
@@ -3601,7 +3709,7 @@
       "es_reintento": false
     },
     {
-      "num": 299,
+      "num": 308,
       "nombre": "SAILOR_PS",
       "n_esl": 7,
       "generados": 7,
@@ -3613,7 +3721,7 @@
       "es_reintento": false
     },
     {
-      "num": 300,
+      "num": 309,
       "nombre": "SAILOR_REFVIDEO_MIN",
       "n_esl": 1,
       "generados": 1,
@@ -3625,7 +3733,7 @@
       "es_reintento": false
     },
     {
-      "num": 301,
+      "num": 310,
       "nombre": "ESC_MULTI_DOG2",
       "n_esl": 7,
       "generados": 7,
@@ -3637,7 +3745,7 @@
       "es_reintento": false
     },
     {
-      "num": 302,
+      "num": 311,
       "nombre": "ESC_DESP_ESTAB",
       "n_esl": 1,
       "generados": 1,
@@ -3649,7 +3757,7 @@
       "es_reintento": false
     },
     {
-      "num": 303,
+      "num": 312,
       "nombre": "ESC_DESP_D1",
       "n_esl": 1,
       "generados": 1,
@@ -3661,7 +3769,7 @@
       "es_reintento": false
     },
     {
-      "num": 304,
+      "num": 313,
       "nombre": "ESC_DESP_D2",
       "n_esl": 1,
       "generados": 1,
@@ -3673,7 +3781,7 @@
       "es_reintento": false
     },
     {
-      "num": 305,
+      "num": 314,
       "nombre": "SAILOR_V3",
       "n_esl": 9,
       "generados": 9,
@@ -3685,7 +3793,7 @@
       "es_reintento": false
     },
     {
-      "num": 306,
+      "num": 315,
       "nombre": "ESC_MULTI_DOG3",
       "n_esl": 6,
       "generados": 6,
@@ -3697,7 +3805,7 @@
       "es_reintento": false
     },
     {
-      "num": 307,
+      "num": 316,
       "nombre": "ESC_DESP_D3",
       "n_esl": 3,
       "generados": 3,
@@ -3709,7 +3817,7 @@
       "es_reintento": false
     },
     {
-      "num": 308,
+      "num": 317,
       "nombre": "ESC_DESP_M1",
       "n_esl": 1,
       "generados": 1,
@@ -3721,7 +3829,7 @@
       "es_reintento": false
     },
     {
-      "num": 309,
+      "num": 318,
       "nombre": "ESC_DESP_M2",
       "n_esl": 1,
       "generados": 1,
@@ -3733,7 +3841,7 @@
       "es_reintento": false
     },
     {
-      "num": 310,
+      "num": 319,
       "nombre": "ESC_DESP_M3",
       "n_esl": 3,
       "generados": 3,
@@ -3745,7 +3853,7 @@
       "es_reintento": false
     },
     {
-      "num": 311,
+      "num": 320,
       "nombre": "ESC_DESP_V1",
       "n_esl": 1,
       "generados": 1,
@@ -3757,7 +3865,7 @@
       "es_reintento": false
     },
     {
-      "num": 312,
+      "num": 321,
       "nombre": "ESC_DESP_V2",
       "n_esl": 1,
       "generados": 1,
@@ -3769,7 +3877,7 @@
       "es_reintento": false
     },
     {
-      "num": 313,
+      "num": 322,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
       "generados": 3,
@@ -3781,7 +3889,7 @@
       "es_reintento": false
     },
     {
-      "num": 314,
+      "num": 323,
       "nombre": "SAILOR_CLAVES",
       "n_esl": 6,
       "generados": 6,
@@ -3793,7 +3901,7 @@
       "es_reintento": false
     },
     {
-      "num": 315,
+      "num": 324,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
       "generados": 17,
@@ -3805,103 +3913,103 @@
       "es_reintento": false
     },
     {
-      "num": 316,
+      "num": 325,
       "nombre": "ESC_PM_QUIETA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 19:10",
+      "eta_txt": "Termina: Mié 30/09 20:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 317,
+      "num": 326,
       "nombre": "ESC_PM_ORBITA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 19:18",
+      "eta_txt": "Termina: Mié 30/09 20:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 318,
+      "num": 327,
       "nombre": "ESC_PM_PERRITA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 19:26",
+      "eta_txt": "Termina: Mié 30/09 20:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 319,
+      "num": 328,
       "nombre": "ESC_PM_GALLINA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Mié 30/09 19:34",
+      "eta_txt": "Termina: Mié 30/09 20:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 320,
+      "num": 329,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Mié 30/09 20:14",
+      "eta_txt": "Termina: Mié 30/09 21:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 321,
+      "num": 330,
       "nombre": "ESC_PM_ANAL",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 20:38",
+      "eta_txt": "Termina: Mié 30/09 21:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 322,
+      "num": 331,
       "nombre": "ESC_PM_ANAL_SIN",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 21:02",
+      "eta_txt": "Termina: Mié 30/09 22:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 323,
+      "num": 332,
       "nombre": "ESC_PM_FINAL",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.4,
-      "eta_txt": "Termina: Mié 30/09 21:26",
+      "eta_txt": "Termina: Mié 30/09 22:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 324,
+      "num": 333,
       "nombre": "POSES_T1",
       "n_esl": 128,
       "generados": 0,
@@ -3913,12 +4021,12 @@
       "es_reintento": false
     },
     {
-      "num": 325,
+      "num": 334,
       "nombre": "WEB_0930_darky_poderes_v3",
       "n_esl": 20,
       "generados": 0,
       "horas": 2.6666666666666665,
-      "eta_txt": "Termina: Jue 01/10 00:06",
+      "eta_txt": "Termina: Jue 01/10 01:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
