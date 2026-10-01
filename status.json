@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-01 11:13:34",
+  "timestamp": "2026-10-01 11:21:05",
   "corriendo": {
     "nombre": "WEB_0930_aonuk_calle_p3",
-    "hora": "10:22",
+    "hora": "10:21",
     "eslabon_actual": 9,
     "eslabon_total": 9,
-    "horas_rest": 0.13333333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 9,
       "tot_esl": 9,
-      "elapsed": 32,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 11,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 1911,
+    "eslabones_hechos": 1912,
     "eslabones_totales": 2186,
-    "horas_hechas": 254.8000000000002,
-    "horas_restantes": 36.66666666666654,
+    "horas_hechas": 254.93333333333354,
+    "horas_restantes": 36.53333333333322,
     "fecha_fin_estimada": "Vie 02/10 23:53"
   },
   "items": [
@@ -4252,7 +4252,7 @@
       "num": 353,
       "nombre": "WEB_0930_aonuk_calle_p3",
       "n_esl": 9,
-      "generados": 8,
+      "generados": 9,
       "horas": 1.2,
       "eta_txt": "Termina: Jue 01/10 11:21",
       "es_activa": true,
