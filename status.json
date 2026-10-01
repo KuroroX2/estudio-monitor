@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-01 17:25:52",
+  "timestamp": "2026-10-01 17:33:01",
   "corriendo": {
     "nombre": "WEB_0930_poderes3_p1",
     "hora": "16:29",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 16,
-    "horas_rest": 0.9333333333333333,
+    "horas_rest": 0.8,
     "suelto": true,
     "clip_info": {
-      "num_esl": 10,
+      "num_esl": 11,
       "tot_esl": 16,
-      "elapsed": 1,
+      "elapsed": 64,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 1960,
+    "eslabones_hechos": 1961,
     "eslabones_totales": 2186,
-    "horas_hechas": 261.33333333333354,
-    "horas_restantes": 30.133333333333212,
+    "horas_hechas": 261.46666666666687,
+    "horas_restantes": 29.999999999999886,
     "fecha_fin_estimada": "Vie 02/10 23:33"
   },
   "items": [
@@ -4278,7 +4278,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 01/10 17:25",
+      "eta_txt": "Termina: Jue 01/10 17:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4312,7 +4312,7 @@
       "num": 358,
       "nombre": "WEB_0930_poderes3_p1",
       "n_esl": 16,
-      "generados": 9,
+      "generados": 10,
       "horas": 2.1333333333333333,
       "eta_txt": "Termina: Jue 01/10 18:21",
       "es_activa": true,
