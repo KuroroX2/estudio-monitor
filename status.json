@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-01 19:10:50",
+  "timestamp": "2026-10-01 19:18:01",
   "corriendo": {
     "nombre": "WEB_0930_poderes3_p2",
     "hora": "18:27",
-    "eslabon_actual": 8,
+    "eslabon_actual": 9,
     "eslabon_total": 18,
-    "horas_rest": 1.4666666666666666,
+    "horas_rest": 1.3333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 8,
+      "num_esl": 9,
       "tot_esl": 18,
-      "elapsed": 2,
+      "elapsed": 33,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 1974,
+    "eslabones_hechos": 1975,
     "eslabones_totales": 2186,
-    "horas_hechas": 263.2000000000002,
-    "horas_restantes": 28.266666666666538,
+    "horas_hechas": 263.33333333333354,
+    "horas_restantes": 28.133333333333212,
     "fecha_fin_estimada": "Vie 02/10 23:26"
   },
   "items": [
@@ -4278,7 +4278,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 01/10 19:10",
+      "eta_txt": "Termina: Jue 01/10 19:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4324,7 +4324,7 @@
       "num": 359,
       "nombre": "WEB_0930_poderes3_p2",
       "n_esl": 18,
-      "generados": 7,
+      "generados": 8,
       "horas": 2.4,
       "eta_txt": "Termina: Jue 01/10 20:38",
       "es_activa": true,
