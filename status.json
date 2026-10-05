@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-05 18:52:53",
+  "timestamp": "2026-10-05 19:00:58",
   "corriendo": {
     "nombre": "WEB_1005_mago_p1",
     "hora": "18:04",
-    "eslabon_actual": 8,
+    "eslabon_actual": 9,
     "eslabon_total": 12,
-    "horas_rest": 0.6666666666666666,
+    "horas_rest": 0.5333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 8,
+      "num_esl": 9,
       "tot_esl": 12,
-      "elapsed": 2,
+      "elapsed": 29,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 2511,
+    "eslabones_hechos": 2512,
     "eslabones_totales": 2744,
-    "horas_hechas": 334.79999999999956,
-    "horas_restantes": 31.066666666666663,
+    "horas_hechas": 334.9333333333329,
+    "horas_restantes": 30.933333333333337,
     "fecha_fin_estimada": "Mié 07/10 01:56"
   },
   "items": [
@@ -4852,7 +4852,7 @@
       "num": 403,
       "nombre": "WEB_1005_mago_p1",
       "n_esl": 12,
-      "generados": 7,
+      "generados": 8,
       "horas": 1.6,
       "eta_txt": "Termina: Lun 05/10 19:32",
       "es_activa": true,
