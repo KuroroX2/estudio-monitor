@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-05 10:16:42",
+  "timestamp": "2026-10-05 10:25:46",
   "corriendo": {
-    "nombre": "ESC_LO_MINIMAXH3REF2V8STEPNSFWR",
-    "hora": "10:15",
+    "nombre": "ESC_LO_THROBBINGCUMINSIDEFORMIN",
+    "hora": "10:20",
     "eslabon_actual": 1,
     "eslabon_total": 1,
     "horas_rest": 0.13333333333333333,
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 53,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 343,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 2465,
-    "eslabones_totales": 2692,
+    "eslabones_totales": 2694,
     "horas_hechas": 328.66666666666634,
-    "horas_restantes": 30.26666666666648,
-    "fecha_fin_estimada": "Mar 06/10 16:32"
+    "horas_restantes": 30.533333333333132,
+    "fecha_fin_estimada": "Mar 06/10 16:57"
   },
   "items": [
     {
@@ -3962,35 +3962,35 @@
     },
     {
       "num": 329,
+      "nombre": "ESC_SW_SON_A",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 10:33",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 330,
+      "nombre": "ESC_SW_SON_B",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 10:41",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 331,
       "nombre": "ESC_LO_MINIMAXH3REF2V8STEPNSFWR",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 10:24",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false
-    },
-    {
-      "num": 330,
-      "nombre": "ESC_LO_THROBBINGCUMINSIDEFORMIN",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 10:32",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 331,
-      "nombre": "ESC_LO_MMH3CONCEPTVAGINALOBJECT",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 10:40",
+      "eta_txt": "Termina: Lun 05/10 10:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3998,23 +3998,23 @@
     },
     {
       "num": 332,
-      "nombre": "ESC_LO_MINIMAXT2VANPENTABLEPRO6",
+      "nombre": "ESC_LO_THROBBINGCUMINSIDEFORMIN",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 10:48",
-      "es_activa": false,
+      "eta_txt": "Termina: Lun 05/10 10:57",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": true
+      "es_reintento": false
     },
     {
       "num": 333,
-      "nombre": "ESC_LO_FUMORUFANGMMH3000032",
+      "nombre": "ESC_LO_MMH3CONCEPTVAGINALOBJECT",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 10:56",
+      "eta_txt": "Termina: Lun 05/10 11:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4022,6 +4022,30 @@
     },
     {
       "num": 334,
+      "nombre": "ESC_LO_MINIMAXT2VANPENTABLEPRO6",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 11:13",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 335,
+      "nombre": "ESC_LO_FUMORUFANGMMH3000032",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 11:21",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 336,
       "nombre": "ESC_LO_SPOONLGCUDDLECUPV1",
       "n_esl": 1,
       "generados": 1,
@@ -4033,19 +4057,19 @@
       "es_reintento": false
     },
     {
-      "num": 335,
+      "num": 337,
       "nombre": "ESC_LO_MMH3FPOV000160",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:04",
+      "eta_txt": "Termina: Lun 05/10 11:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 336,
+      "num": 338,
       "nombre": "ESC_LO_MMH3NSFWDOGGYSTYLESEX335",
       "n_esl": 1,
       "generados": 1,
@@ -4057,36 +4081,12 @@
       "es_reintento": false
     },
     {
-      "num": 337,
+      "num": 339,
       "nombre": "ESC_LO_LICKINGLIPSV1H3",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:12",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 338,
-      "nombre": "ESC_LO_765T21ZXKSC46KX7BNS7ZTW7",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:20",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 339,
-      "nombre": "ESC_LO_N3ESMCV2B2A73ZFN7GPHD9BX",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:28",
+      "eta_txt": "Termina: Lun 05/10 11:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4094,6 +4094,30 @@
     },
     {
       "num": 340,
+      "nombre": "ESC_LO_765T21ZXKSC46KX7BNS7ZTW7",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 11:45",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 341,
+      "nombre": "ESC_LO_N3ESMCV2B2A73ZFN7GPHD9BX",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 11:53",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 342,
       "nombre": "ESC_LO_MMH3FINGERINGV4",
       "n_esl": 1,
       "generados": 1,
@@ -4105,19 +4129,19 @@
       "es_reintento": false
     },
     {
-      "num": 341,
+      "num": 343,
       "nombre": "ESC_LO_H3DOUBLEFUCK000009",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:36",
+      "eta_txt": "Termina: Lun 05/10 12:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 342,
+      "num": 344,
       "nombre": "ESC_LO_H3BASEFINGERINGV116000",
       "n_esl": 1,
       "generados": 1,
@@ -4129,7 +4153,7 @@
       "es_reintento": false
     },
     {
-      "num": 343,
+      "num": 345,
       "nombre": "ESC_LO_R9C398VW42RBND7D8S912VQQ",
       "n_esl": 1,
       "generados": 1,
@@ -4141,7 +4165,7 @@
       "es_reintento": false
     },
     {
-      "num": 344,
+      "num": 346,
       "nombre": "ESC_LO_G3DXH3BASECUNNV125500",
       "n_esl": 1,
       "generados": 1,
@@ -4153,7 +4177,7 @@
       "es_reintento": false
     },
     {
-      "num": 345,
+      "num": 347,
       "nombre": "ESC_LO_BODYTRANSFORMATIONLORA00",
       "n_esl": 1,
       "generados": 1,
@@ -4165,7 +4189,7 @@
       "es_reintento": false
     },
     {
-      "num": 346,
+      "num": 348,
       "nombre": "ESC_LO_MINIMAXH3SPLITSCREENXREV",
       "n_esl": 1,
       "generados": 1,
@@ -4177,7 +4201,7 @@
       "es_reintento": false
     },
     {
-      "num": 347,
+      "num": 349,
       "nombre": "ESC_LO_STOMACHBULGEH3I2VV20",
       "n_esl": 1,
       "generados": 1,
@@ -4189,7 +4213,7 @@
       "es_reintento": false
     },
     {
-      "num": 348,
+      "num": 350,
       "nombre": "ESC_LO_FRONTALBLOWJOBSANDWICHH3",
       "n_esl": 1,
       "generados": 1,
@@ -4201,7 +4225,7 @@
       "es_reintento": false
     },
     {
-      "num": 349,
+      "num": 351,
       "nombre": "ESC_LO_HMCUMSHOTV10",
       "n_esl": 1,
       "generados": 1,
@@ -4213,7 +4237,7 @@
       "es_reintento": false
     },
     {
-      "num": 350,
+      "num": 352,
       "nombre": "ESC_LO_SYNTHPUSSYMINIMAXH3V1",
       "n_esl": 1,
       "generados": 1,
@@ -4225,7 +4249,7 @@
       "es_reintento": false
     },
     {
-      "num": 351,
+      "num": 353,
       "nombre": "ESC_LO_COWGIRLSIDE2MH3E50AZ420",
       "n_esl": 1,
       "generados": 1,
@@ -4237,7 +4261,7 @@
       "es_reintento": false
     },
     {
-      "num": 352,
+      "num": 354,
       "nombre": "ESC_LO_BLACKEDCOWGIRLV01",
       "n_esl": 1,
       "generados": 1,
@@ -4249,7 +4273,7 @@
       "es_reintento": false
     },
     {
-      "num": 353,
+      "num": 355,
       "nombre": "ESC_LO_H3MALEUNDRESS000011",
       "n_esl": 1,
       "generados": 1,
@@ -4261,7 +4285,7 @@
       "es_reintento": false
     },
     {
-      "num": 354,
+      "num": 356,
       "nombre": "ESC_LO_MMH3COWGIRLSEX",
       "n_esl": 1,
       "generados": 1,
@@ -4273,7 +4297,7 @@
       "es_reintento": false
     },
     {
-      "num": 355,
+      "num": 357,
       "nombre": "ESC_LO_FRONTDOGGYMH3E33AZ420",
       "n_esl": 1,
       "generados": 1,
@@ -4285,7 +4309,7 @@
       "es_reintento": false
     },
     {
-      "num": 356,
+      "num": 358,
       "nombre": "ESC_LO_MMH3PUSSYLORA",
       "n_esl": 1,
       "generados": 1,
@@ -4297,7 +4321,7 @@
       "es_reintento": false
     },
     {
-      "num": 357,
+      "num": 359,
       "nombre": "ESC_LO_POVDOGGYMH3E29AZ420",
       "n_esl": 1,
       "generados": 1,
@@ -4309,7 +4333,7 @@
       "es_reintento": false
     },
     {
-      "num": 358,
+      "num": 360,
       "nombre": "ESC_LO_HOGTIED5KOSTRIS",
       "n_esl": 1,
       "generados": 1,
@@ -4321,36 +4345,12 @@
       "es_reintento": false
     },
     {
-      "num": 359,
+      "num": 361,
       "nombre": "ESC_LV_MINIMAXH3REF2V8S_A_MYSTIC_CON",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:44",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 360,
-      "nombre": "ESC_LV_MINIMAXH3REF2V8S_COW12",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 11:52",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true
-    },
-    {
-      "num": 361,
-      "nombre": "ESC_LV_MINIMAXH3REF2V8S_DOG_D5",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 12:00",
+      "eta_txt": "Termina: Lun 05/10 12:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4358,6 +4358,30 @@
     },
     {
       "num": 362,
+      "nombre": "ESC_LV_MINIMAXH3REF2V8S_COW12",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 12:17",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 363,
+      "nombre": "ESC_LV_MINIMAXH3REF2V8S_DOG_D5",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Lun 05/10 12:25",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true
+    },
+    {
+      "num": 364,
       "nombre": "ESC_LV_H3BASEFINGERINGV_A_MAST_CON",
       "n_esl": 1,
       "generados": 1,
@@ -4369,7 +4393,7 @@
       "es_reintento": false
     },
     {
-      "num": 363,
+      "num": 365,
       "nombre": "ESC_LV_MMH3FINGERINGV4_A_MAST_CON",
       "n_esl": 1,
       "generados": 1,
@@ -4381,7 +4405,7 @@
       "es_reintento": false
     },
     {
-      "num": 364,
+      "num": 366,
       "nombre": "ESC_LV_G3DXH3BASECUNNV1_A_LAMIDA7_05",
       "n_esl": 1,
       "generados": 1,
@@ -4393,7 +4417,7 @@
       "es_reintento": false
     },
     {
-      "num": 365,
+      "num": 367,
       "nombre": "ESC_LV_STOMACHBULGEH3I2_DOG_D5",
       "n_esl": 1,
       "generados": 1,
@@ -4405,7 +4429,7 @@
       "es_reintento": false
     },
     {
-      "num": 366,
+      "num": 368,
       "nombre": "ESC_LV_HMCUMSHOTV10_A_CUM4",
       "n_esl": 1,
       "generados": 1,
@@ -4417,7 +4441,7 @@
       "es_reintento": false
     },
     {
-      "num": 367,
+      "num": 369,
       "nombre": "ESC_LV_SYNTHPUSSYMINIMA_A_LAMIDA7_05",
       "n_esl": 1,
       "generados": 1,
@@ -4429,7 +4453,7 @@
       "es_reintento": false
     },
     {
-      "num": 368,
+      "num": 370,
       "nombre": "ESC_LV_MMH3PUSSYLORA_A_LAMIDA7_05",
       "n_esl": 1,
       "generados": 1,
@@ -4441,7 +4465,7 @@
       "es_reintento": false
     },
     {
-      "num": 369,
+      "num": 371,
       "nombre": "ESC_LV_COWGIRLSIDE2MH3E_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -4453,7 +4477,7 @@
       "es_reintento": false
     },
     {
-      "num": 370,
+      "num": 372,
       "nombre": "ESC_LV_BLACKEDCOWGIRLV0_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -4465,7 +4489,7 @@
       "es_reintento": false
     },
     {
-      "num": 371,
+      "num": 373,
       "nombre": "ESC_LV_MMH3COWGIRLSEX_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -4477,7 +4501,7 @@
       "es_reintento": false
     },
     {
-      "num": 372,
+      "num": 374,
       "nombre": "ESC_LV_FRONTDOGGYMH3E33_DOG_D5",
       "n_esl": 1,
       "generados": 1,
@@ -4489,7 +4513,7 @@
       "es_reintento": false
     },
     {
-      "num": 373,
+      "num": 375,
       "nombre": "ESC_LV_POVDOGGYMH3E29AZ_DOG_D5",
       "n_esl": 1,
       "generados": 1,
@@ -4501,7 +4525,7 @@
       "es_reintento": false
     },
     {
-      "num": 374,
+      "num": 376,
       "nombre": "ESC_LV_MMH3NSFWDOGGYSTY_DOG_D5",
       "n_esl": 1,
       "generados": 1,
@@ -4513,7 +4537,7 @@
       "es_reintento": false
     },
     {
-      "num": 375,
+      "num": 377,
       "nombre": "WEB_1001_lenceria_aonuk",
       "n_esl": 11,
       "generados": 11,
@@ -4525,7 +4549,7 @@
       "es_reintento": false
     },
     {
-      "num": 376,
+      "num": 378,
       "nombre": "WEB_1001_aeropuerto_instaa_p1",
       "n_esl": 9,
       "generados": 9,
@@ -4537,7 +4561,7 @@
       "es_reintento": false
     },
     {
-      "num": 377,
+      "num": 379,
       "nombre": "WEB_1001_aeropuerto_instaa_p2",
       "n_esl": 16,
       "generados": 16,
@@ -4549,7 +4573,7 @@
       "es_reintento": false
     },
     {
-      "num": 378,
+      "num": 380,
       "nombre": "WEB_1001_aeropuerto_instaa_p3",
       "n_esl": 17,
       "generados": 17,
@@ -4561,7 +4585,7 @@
       "es_reintento": false
     },
     {
-      "num": 379,
+      "num": 381,
       "nombre": "MONTAR_1001_aeropuerto_instaa",
       "n_esl": 0,
       "generados": 0,
@@ -4573,7 +4597,7 @@
       "es_reintento": false
     },
     {
-      "num": 380,
+      "num": 382,
       "nombre": "WEB_1001_control_humilla_moon_p1",
       "n_esl": 12,
       "generados": 12,
@@ -4585,7 +4609,7 @@
       "es_reintento": false
     },
     {
-      "num": 381,
+      "num": 383,
       "nombre": "WEB_1001_control_humilla_moon_p2",
       "n_esl": 6,
       "generados": 6,
@@ -4597,7 +4621,7 @@
       "es_reintento": false
     },
     {
-      "num": 382,
+      "num": 384,
       "nombre": "WEB_1001_control_humilla_moon_p3",
       "n_esl": 3,
       "generados": 3,
@@ -4609,7 +4633,7 @@
       "es_reintento": false
     },
     {
-      "num": 383,
+      "num": 385,
       "nombre": "MONTAR_1001_control_humilla_moon",
       "n_esl": 0,
       "generados": 0,
@@ -4621,7 +4645,7 @@
       "es_reintento": false
     },
     {
-      "num": 384,
+      "num": 386,
       "nombre": "WEB_1001_calle_darky_p1",
       "n_esl": 17,
       "generados": 17,
@@ -4633,7 +4657,7 @@
       "es_reintento": false
     },
     {
-      "num": 385,
+      "num": 387,
       "nombre": "WEB_1001_calle_darky_p2",
       "n_esl": 11,
       "generados": 11,
@@ -4645,7 +4669,7 @@
       "es_reintento": false
     },
     {
-      "num": 386,
+      "num": 388,
       "nombre": "WEB_1001_calle_darky_p3",
       "n_esl": 9,
       "generados": 9,
@@ -4657,7 +4681,7 @@
       "es_reintento": false
     },
     {
-      "num": 387,
+      "num": 389,
       "nombre": "WEB_1001_calle_darky_p4",
       "n_esl": 10,
       "generados": 10,
@@ -4669,7 +4693,7 @@
       "es_reintento": false
     },
     {
-      "num": 388,
+      "num": 390,
       "nombre": "MONTAR_1001_calle_darky",
       "n_esl": 0,
       "generados": 0,
@@ -4681,7 +4705,7 @@
       "es_reintento": false
     },
     {
-      "num": 389,
+      "num": 391,
       "nombre": "WEB_1001_aeropuerto_tetona_p1",
       "n_esl": 9,
       "generados": 9,
@@ -4693,7 +4717,7 @@
       "es_reintento": false
     },
     {
-      "num": 390,
+      "num": 392,
       "nombre": "WEB_1001_aeropuerto_tetona_p2",
       "n_esl": 16,
       "generados": 16,
@@ -4705,7 +4729,7 @@
       "es_reintento": false
     },
     {
-      "num": 391,
+      "num": 393,
       "nombre": "WEB_1001_aeropuerto_tetona_p3",
       "n_esl": 17,
       "generados": 17,
@@ -4717,7 +4741,7 @@
       "es_reintento": false
     },
     {
-      "num": 392,
+      "num": 394,
       "nombre": "MONTAR_1001_aeropuerto_tetona",
       "n_esl": 0,
       "generados": 0,
@@ -4729,7 +4753,7 @@
       "es_reintento": false
     },
     {
-      "num": 393,
+      "num": 395,
       "nombre": "WEB_1001_control_humilla_darky_p1",
       "n_esl": 12,
       "generados": 12,
@@ -4741,7 +4765,7 @@
       "es_reintento": false
     },
     {
-      "num": 394,
+      "num": 396,
       "nombre": "WEB_1001_control_humilla_darky_p2",
       "n_esl": 6,
       "generados": 6,
@@ -4753,7 +4777,7 @@
       "es_reintento": false
     },
     {
-      "num": 395,
+      "num": 397,
       "nombre": "WEB_1001_control_humilla_darky_p3",
       "n_esl": 3,
       "generados": 3,
@@ -4765,7 +4789,7 @@
       "es_reintento": false
     },
     {
-      "num": 396,
+      "num": 398,
       "nombre": "MONTAR_1001_control_humilla_darky",
       "n_esl": 0,
       "generados": 0,
@@ -4777,60 +4801,36 @@
       "es_reintento": false
     },
     {
-      "num": 397,
+      "num": 399,
       "nombre": "WEB_1002_yate_p1",
       "n_esl": 11,
       "generados": 0,
       "horas": 1.4666666666666666,
-      "eta_txt": "Termina: Lun 05/10 13:28",
+      "eta_txt": "Termina: Lun 05/10 13:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 398,
+      "num": 400,
       "nombre": "WEB_1002_yate_p2",
       "n_esl": 9,
       "generados": 0,
       "horas": 1.2,
-      "eta_txt": "Termina: Lun 05/10 14:40",
+      "eta_txt": "Termina: Lun 05/10 15:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 399,
+      "num": 401,
       "nombre": "WEB_1002_yate_p3",
       "n_esl": 10,
       "generados": 0,
       "horas": 1.3333333333333333,
-      "eta_txt": "Termina: Lun 05/10 16:00",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 400,
-      "nombre": "MONTAR_1002_yate",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Lun 05/10 16:00",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 401,
-      "nombre": "WEB_1002_mall2_p1",
-      "n_esl": 13,
-      "generados": 0,
-      "horas": 1.7333333333333334,
-      "eta_txt": "Termina: Lun 05/10 17:44",
+      "eta_txt": "Termina: Lun 05/10 16:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4838,11 +4838,11 @@
     },
     {
       "num": 402,
-      "nombre": "WEB_1002_mall2_p2",
-      "n_esl": 7,
+      "nombre": "MONTAR_1002_yate",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.9333333333333333,
-      "eta_txt": "Termina: Lun 05/10 18:40",
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 05/10 16:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4850,11 +4850,11 @@
     },
     {
       "num": 403,
-      "nombre": "MONTAR_1002_mall2",
-      "n_esl": 0,
+      "nombre": "WEB_1002_mall2_p1",
+      "n_esl": 13,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Lun 05/10 18:40",
+      "horas": 1.7333333333333334,
+      "eta_txt": "Termina: Lun 05/10 18:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4862,6 +4862,30 @@
     },
     {
       "num": 404,
+      "nombre": "WEB_1002_mall2_p2",
+      "n_esl": 7,
+      "generados": 0,
+      "horas": 0.9333333333333333,
+      "eta_txt": "Termina: Lun 05/10 19:05",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 405,
+      "nombre": "MONTAR_1002_mall2",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 05/10 19:05",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 406,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -4873,7 +4897,7 @@
       "es_reintento": false
     },
     {
-      "num": 405,
+      "num": 407,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -4885,7 +4909,7 @@
       "es_reintento": false
     },
     {
-      "num": 406,
+      "num": 408,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -4897,7 +4921,7 @@
       "es_reintento": false
     },
     {
-      "num": 407,
+      "num": 409,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -4909,7 +4933,7 @@
       "es_reintento": false
     },
     {
-      "num": 408,
+      "num": 410,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -4921,7 +4945,7 @@
       "es_reintento": false
     },
     {
-      "num": 409,
+      "num": 411,
       "nombre": "ESC_COW8",
       "n_esl": 1,
       "generados": 1,
@@ -4933,7 +4957,7 @@
       "es_reintento": false
     },
     {
-      "num": 410,
+      "num": 412,
       "nombre": "ESC_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -4945,7 +4969,7 @@
       "es_reintento": false
     },
     {
-      "num": 411,
+      "num": 413,
       "nombre": "ESC_COW13",
       "n_esl": 1,
       "generados": 1,
@@ -4957,7 +4981,7 @@
       "es_reintento": false
     },
     {
-      "num": 412,
+      "num": 414,
       "nombre": "ESC_COW9",
       "n_esl": 1,
       "generados": 1,
@@ -4969,7 +4993,7 @@
       "es_reintento": false
     },
     {
-      "num": 413,
+      "num": 415,
       "nombre": "WEB_0929_pijamada_pov3_p2",
       "n_esl": 4,
       "generados": 4,
@@ -4981,7 +5005,7 @@
       "es_reintento": false
     },
     {
-      "num": 414,
+      "num": 416,
       "nombre": "ESC_COW10",
       "n_esl": 1,
       "generados": 1,
@@ -4993,7 +5017,7 @@
       "es_reintento": false
     },
     {
-      "num": 415,
+      "num": 417,
       "nombre": "ESC_COW11",
       "n_esl": 1,
       "generados": 1,
@@ -5005,7 +5029,7 @@
       "es_reintento": false
     },
     {
-      "num": 416,
+      "num": 418,
       "nombre": "ESC_MULTI_REV",
       "n_esl": 7,
       "generados": 7,
@@ -5017,7 +5041,7 @@
       "es_reintento": false
     },
     {
-      "num": 417,
+      "num": 419,
       "nombre": "ESC_MULTI_DOG",
       "n_esl": 6,
       "generados": 6,
@@ -5029,7 +5053,7 @@
       "es_reintento": false
     },
     {
-      "num": 418,
+      "num": 420,
       "nombre": "SAILOR_REFVIDEO",
       "n_esl": 2,
       "generados": 2,
@@ -5041,7 +5065,7 @@
       "es_reintento": false
     },
     {
-      "num": 419,
+      "num": 421,
       "nombre": "SAILOR_PS",
       "n_esl": 7,
       "generados": 7,
@@ -5053,7 +5077,7 @@
       "es_reintento": false
     },
     {
-      "num": 420,
+      "num": 422,
       "nombre": "SAILOR_REFVIDEO_MIN",
       "n_esl": 1,
       "generados": 1,
@@ -5065,7 +5089,7 @@
       "es_reintento": false
     },
     {
-      "num": 421,
+      "num": 423,
       "nombre": "ESC_MULTI_DOG2",
       "n_esl": 7,
       "generados": 7,
@@ -5077,7 +5101,7 @@
       "es_reintento": false
     },
     {
-      "num": 422,
+      "num": 424,
       "nombre": "ESC_DESP_ESTAB",
       "n_esl": 1,
       "generados": 1,
@@ -5089,7 +5113,7 @@
       "es_reintento": false
     },
     {
-      "num": 423,
+      "num": 425,
       "nombre": "ESC_DESP_D1",
       "n_esl": 1,
       "generados": 1,
@@ -5101,7 +5125,7 @@
       "es_reintento": false
     },
     {
-      "num": 424,
+      "num": 426,
       "nombre": "ESC_DESP_D2",
       "n_esl": 1,
       "generados": 1,
@@ -5113,7 +5137,7 @@
       "es_reintento": false
     },
     {
-      "num": 425,
+      "num": 427,
       "nombre": "SAILOR_V3",
       "n_esl": 9,
       "generados": 9,
@@ -5125,7 +5149,7 @@
       "es_reintento": false
     },
     {
-      "num": 426,
+      "num": 428,
       "nombre": "ESC_MULTI_DOG3",
       "n_esl": 6,
       "generados": 6,
@@ -5137,7 +5161,7 @@
       "es_reintento": false
     },
     {
-      "num": 427,
+      "num": 429,
       "nombre": "ESC_DESP_D3",
       "n_esl": 3,
       "generados": 3,
@@ -5149,7 +5173,7 @@
       "es_reintento": false
     },
     {
-      "num": 428,
+      "num": 430,
       "nombre": "ESC_DESP_M1",
       "n_esl": 1,
       "generados": 1,
@@ -5161,7 +5185,7 @@
       "es_reintento": false
     },
     {
-      "num": 429,
+      "num": 431,
       "nombre": "ESC_DESP_M2",
       "n_esl": 1,
       "generados": 1,
@@ -5173,7 +5197,7 @@
       "es_reintento": false
     },
     {
-      "num": 430,
+      "num": 432,
       "nombre": "ESC_DESP_M3",
       "n_esl": 3,
       "generados": 3,
@@ -5185,7 +5209,7 @@
       "es_reintento": false
     },
     {
-      "num": 431,
+      "num": 433,
       "nombre": "ESC_DESP_V1",
       "n_esl": 1,
       "generados": 1,
@@ -5197,7 +5221,7 @@
       "es_reintento": false
     },
     {
-      "num": 432,
+      "num": 434,
       "nombre": "ESC_DESP_V2",
       "n_esl": 1,
       "generados": 1,
@@ -5209,7 +5233,7 @@
       "es_reintento": false
     },
     {
-      "num": 433,
+      "num": 435,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
       "generados": 3,
@@ -5221,7 +5245,7 @@
       "es_reintento": false
     },
     {
-      "num": 434,
+      "num": 436,
       "nombre": "SAILOR_CLAVES",
       "n_esl": 6,
       "generados": 6,
@@ -5233,7 +5257,7 @@
       "es_reintento": false
     },
     {
-      "num": 435,
+      "num": 437,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
       "generados": 17,
@@ -5245,7 +5269,7 @@
       "es_reintento": false
     },
     {
-      "num": 436,
+      "num": 438,
       "nombre": "POSES_T1",
       "n_esl": 128,
       "generados": 0,
@@ -5257,7 +5281,7 @@
       "es_reintento": false
     },
     {
-      "num": 437,
+      "num": 439,
       "nombre": "SAILOR_VIDEO1",
       "n_esl": 2,
       "generados": 2,
@@ -5269,7 +5293,7 @@
       "es_reintento": false
     },
     {
-      "num": 438,
+      "num": 440,
       "nombre": "ESC_CI_SUELO",
       "n_esl": 1,
       "generados": 1,
@@ -5281,7 +5305,7 @@
       "es_reintento": false
     },
     {
-      "num": 439,
+      "num": 441,
       "nombre": "ESC_PM_QUIETA",
       "n_esl": 1,
       "generados": 1,
@@ -5293,7 +5317,7 @@
       "es_reintento": false
     },
     {
-      "num": 440,
+      "num": 442,
       "nombre": "ESC_PM_ORBITA",
       "n_esl": 1,
       "generados": 1,
@@ -5305,7 +5329,7 @@
       "es_reintento": false
     },
     {
-      "num": 441,
+      "num": 443,
       "nombre": "ESC_PM_PERRITA",
       "n_esl": 1,
       "generados": 1,
@@ -5317,7 +5341,7 @@
       "es_reintento": false
     },
     {
-      "num": 442,
+      "num": 444,
       "nombre": "ESC_PM_GALLINA",
       "n_esl": 1,
       "generados": 1,
@@ -5329,7 +5353,7 @@
       "es_reintento": false
     },
     {
-      "num": 443,
+      "num": 445,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
       "generados": 5,
@@ -5341,7 +5365,7 @@
       "es_reintento": false
     },
     {
-      "num": 444,
+      "num": 446,
       "nombre": "ESC_PM_ANAL",
       "n_esl": 3,
       "generados": 3,
@@ -5353,7 +5377,7 @@
       "es_reintento": false
     },
     {
-      "num": 445,
+      "num": 447,
       "nombre": "ESC_PM_ANAL_SIN",
       "n_esl": 3,
       "generados": 3,
@@ -5365,7 +5389,7 @@
       "es_reintento": false
     },
     {
-      "num": 446,
+      "num": 448,
       "nombre": "ESC_PM_FINAL",
       "n_esl": 3,
       "generados": 3,
@@ -5377,7 +5401,7 @@
       "es_reintento": false
     },
     {
-      "num": 447,
+      "num": 449,
       "nombre": "WEB_0930_clausula2_p3",
       "n_esl": 2,
       "generados": 2,
@@ -5389,7 +5413,7 @@
       "es_reintento": false
     },
     {
-      "num": 448,
+      "num": 450,
       "nombre": "MONTAR_0930_clausula2",
       "n_esl": 0,
       "generados": 0,
@@ -5401,7 +5425,7 @@
       "es_reintento": false
     },
     {
-      "num": 449,
+      "num": 451,
       "nombre": "WEB_0930_darky_dildo2_p1",
       "n_esl": 14,
       "generados": 14,
@@ -5413,7 +5437,7 @@
       "es_reintento": false
     },
     {
-      "num": 450,
+      "num": 452,
       "nombre": "WEB_0930_darky_dildo2_p2",
       "n_esl": 12,
       "generados": 12,
@@ -5425,7 +5449,7 @@
       "es_reintento": false
     },
     {
-      "num": 451,
+      "num": 453,
       "nombre": "WEB_0930_darky_dildo2_p3",
       "n_esl": 8,
       "generados": 8,
@@ -5437,7 +5461,7 @@
       "es_reintento": false
     },
     {
-      "num": 452,
+      "num": 454,
       "nombre": "WEB_0930_rockstar2",
       "n_esl": 13,
       "generados": 13,
@@ -5449,7 +5473,7 @@
       "es_reintento": false
     },
     {
-      "num": 453,
+      "num": 455,
       "nombre": "ESC_CR_CONTROL",
       "n_esl": 2,
       "generados": 2,
@@ -5461,7 +5485,7 @@
       "es_reintento": false
     },
     {
-      "num": 454,
+      "num": 456,
       "nombre": "ESC_CR_CONTROL_RO",
       "n_esl": 2,
       "generados": 2,
@@ -5473,7 +5497,7 @@
       "es_reintento": false
     },
     {
-      "num": 455,
+      "num": 457,
       "nombre": "ESC_CR_JUNTAS",
       "n_esl": 1,
       "generados": 1,
@@ -5485,7 +5509,7 @@
       "es_reintento": false
     },
     {
-      "num": 456,
+      "num": 458,
       "nombre": "ESC_CR_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -5497,7 +5521,7 @@
       "es_reintento": false
     },
     {
-      "num": 457,
+      "num": 459,
       "nombre": "ESC_CR_LOCURA_RO",
       "n_esl": 1,
       "generados": 1,
@@ -5509,7 +5533,7 @@
       "es_reintento": false
     },
     {
-      "num": 458,
+      "num": 460,
       "nombre": "ESC_CR_CUERPOS",
       "n_esl": 2,
       "generados": 2,
@@ -5521,7 +5545,7 @@
       "es_reintento": false
     },
     {
-      "num": 459,
+      "num": 461,
       "nombre": "ESC_RO_NIVELES",
       "n_esl": 5,
       "generados": 5,
@@ -5533,7 +5557,7 @@
       "es_reintento": false
     },
     {
-      "num": 460,
+      "num": 462,
       "nombre": "ESC_ANAL_MX_MIS",
       "n_esl": 1,
       "generados": 1,
@@ -5545,7 +5569,7 @@
       "es_reintento": false
     },
     {
-      "num": 461,
+      "num": 463,
       "nombre": "ESC_PM_PREMIO_RO",
       "n_esl": 5,
       "generados": 5,
@@ -5557,7 +5581,7 @@
       "es_reintento": false
     },
     {
-      "num": 462,
+      "num": 464,
       "nombre": "ESC_ANAL_MX_DOGGY",
       "n_esl": 1,
       "generados": 1,
@@ -5569,7 +5593,7 @@
       "es_reintento": false
     },
     {
-      "num": 463,
+      "num": 465,
       "nombre": "ESC_CR_FINAL_RODILLAS",
       "n_esl": 1,
       "generados": 1,
@@ -5581,7 +5605,7 @@
       "es_reintento": false
     },
     {
-      "num": 464,
+      "num": 466,
       "nombre": "ESC_CI_POV_ELLA",
       "n_esl": 2,
       "generados": 2,
@@ -5593,7 +5617,7 @@
       "es_reintento": false
     },
     {
-      "num": 465,
+      "num": 467,
       "nombre": "ESC_CI_CAMARA",
       "n_esl": 1,
       "generados": 1,
@@ -5605,7 +5629,7 @@
       "es_reintento": false
     },
     {
-      "num": 466,
+      "num": 468,
       "nombre": "ESC_CI_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -5617,7 +5641,7 @@
       "es_reintento": false
     },
     {
-      "num": 467,
+      "num": 469,
       "nombre": "ESC_PM_PREMIO_RO2",
       "n_esl": 5,
       "generados": 5,
@@ -5629,7 +5653,7 @@
       "es_reintento": false
     },
     {
-      "num": 468,
+      "num": 470,
       "nombre": "ESC_ANAL_MX_REV",
       "n_esl": 1,
       "generados": 1,
@@ -5641,7 +5665,7 @@
       "es_reintento": false
     },
     {
-      "num": 469,
+      "num": 471,
       "nombre": "ESC_ANAL_MX_CUCHARA",
       "n_esl": 1,
       "generados": 1,
@@ -5653,7 +5677,7 @@
       "es_reintento": false
     },
     {
-      "num": 470,
+      "num": 472,
       "nombre": "ESC_ANAL_MX_PIE",
       "n_esl": 1,
       "generados": 1,
@@ -5665,7 +5689,7 @@
       "es_reintento": false
     },
     {
-      "num": 471,
+      "num": 473,
       "nombre": "ESC_THUMB",
       "n_esl": 1,
       "generados": 1,
@@ -5677,7 +5701,7 @@
       "es_reintento": false
     },
     {
-      "num": 472,
+      "num": 474,
       "nombre": "ESC_CR_JUNTAS_RO",
       "n_esl": 1,
       "generados": 1,
@@ -5689,7 +5713,7 @@
       "es_reintento": false
     },
     {
-      "num": 473,
+      "num": 475,
       "nombre": "ESC_RO_EXTREMO",
       "n_esl": 4,
       "generados": 4,
@@ -5701,7 +5725,7 @@
       "es_reintento": false
     },
     {
-      "num": 474,
+      "num": 476,
       "nombre": "ESC_GB_MY",
       "n_esl": 1,
       "generados": 1,
@@ -5713,7 +5737,7 @@
       "es_reintento": false
     },
     {
-      "num": 475,
+      "num": 477,
       "nombre": "ESC_GB_DT",
       "n_esl": 1,
       "generados": 1,
@@ -5725,7 +5749,7 @@
       "es_reintento": false
     },
     {
-      "num": 476,
+      "num": 478,
       "nombre": "ESC_PM_PREMIO_RO3",
       "n_esl": 5,
       "generados": 5,
@@ -5737,7 +5761,7 @@
       "es_reintento": false
     },
     {
-      "num": 477,
+      "num": 479,
       "nombre": "ESC_THUMB2",
       "n_esl": 1,
       "generados": 1,
@@ -5749,7 +5773,7 @@
       "es_reintento": false
     },
     {
-      "num": 478,
+      "num": 480,
       "nombre": "MONTAR_0930_darky_dildo2",
       "n_esl": 0,
       "generados": 0,
@@ -5761,7 +5785,7 @@
       "es_reintento": false
     },
     {
-      "num": 479,
+      "num": 481,
       "nombre": "MONTAR_0930_rockstar2",
       "n_esl": 0,
       "generados": 0,
@@ -5773,7 +5797,7 @@
       "es_reintento": false
     },
     {
-      "num": 480,
+      "num": 482,
       "nombre": "WEB_0930_pais_mujeres2",
       "n_esl": 12,
       "generados": 12,
@@ -5785,7 +5809,7 @@
       "es_reintento": false
     },
     {
-      "num": 481,
+      "num": 483,
       "nombre": "MONTAR_0930_pais_mujeres2",
       "n_esl": 0,
       "generados": 0,
@@ -5797,7 +5821,7 @@
       "es_reintento": false
     },
     {
-      "num": 482,
+      "num": 484,
       "nombre": "WEB_0930_lenceria_moon",
       "n_esl": 11,
       "generados": 11,
@@ -5809,7 +5833,7 @@
       "es_reintento": false
     },
     {
-      "num": 483,
+      "num": 485,
       "nombre": "ESC_GB2_MY",
       "n_esl": 1,
       "generados": 1,
@@ -5821,7 +5845,7 @@
       "es_reintento": false
     },
     {
-      "num": 484,
+      "num": 486,
       "nombre": "ESC_GB2_DT",
       "n_esl": 1,
       "generados": 1,
@@ -5833,7 +5857,7 @@
       "es_reintento": false
     },
     {
-      "num": 485,
+      "num": 487,
       "nombre": "ESC_THUMB3",
       "n_esl": 1,
       "generados": 1,
@@ -5845,7 +5869,7 @@
       "es_reintento": false
     },
     {
-      "num": 486,
+      "num": 488,
       "nombre": "WEB_0930_aonuk_calle_p1",
       "n_esl": 17,
       "generados": 17,
@@ -5857,7 +5881,7 @@
       "es_reintento": false
     },
     {
-      "num": 487,
+      "num": 489,
       "nombre": "WEB_0930_aonuk_calle_p2",
       "n_esl": 11,
       "generados": 11,
@@ -5869,7 +5893,7 @@
       "es_reintento": false
     },
     {
-      "num": 488,
+      "num": 490,
       "nombre": "WEB_0930_aonuk_calle_p3",
       "n_esl": 9,
       "generados": 9,
@@ -5881,7 +5905,7 @@
       "es_reintento": false
     },
     {
-      "num": 489,
+      "num": 491,
       "nombre": "WEB_0930_aonuk_calle_p4",
       "n_esl": 8,
       "generados": 8,
@@ -5893,7 +5917,7 @@
       "es_reintento": false
     },
     {
-      "num": 490,
+      "num": 492,
       "nombre": "MONTAR_0930_aonuk_calle",
       "n_esl": 0,
       "generados": 0,
@@ -5905,7 +5929,7 @@
       "es_reintento": false
     },
     {
-      "num": 491,
+      "num": 493,
       "nombre": "WEB_0930_darky_poderes_v3",
       "n_esl": 20,
       "generados": 20,
@@ -5917,7 +5941,7 @@
       "es_reintento": false
     },
     {
-      "num": 492,
+      "num": 494,
       "nombre": "WEB_0930_control_remoto_inverso",
       "n_esl": 11,
       "generados": 11,
@@ -5929,7 +5953,7 @@
       "es_reintento": false
     },
     {
-      "num": 493,
+      "num": 495,
       "nombre": "WEB_0930_poderes3_p1",
       "n_esl": 16,
       "generados": 16,
@@ -5941,7 +5965,7 @@
       "es_reintento": false
     },
     {
-      "num": 494,
+      "num": 496,
       "nombre": "WEB_0930_poderes3_p2",
       "n_esl": 18,
       "generados": 18,
@@ -5953,7 +5977,7 @@
       "es_reintento": false
     },
     {
-      "num": 495,
+      "num": 497,
       "nombre": "WEB_0930_poderes3_p3",
       "n_esl": 5,
       "generados": 5,
@@ -5965,7 +5989,7 @@
       "es_reintento": false
     },
     {
-      "num": 496,
+      "num": 498,
       "nombre": "MONTAR_0930_poderes3",
       "n_esl": 0,
       "generados": 0,
@@ -5977,7 +6001,7 @@
       "es_reintento": false
     },
     {
-      "num": 497,
+      "num": 499,
       "nombre": "WEB_0930_control_remoto",
       "n_esl": 19,
       "generados": 19,
@@ -5989,36 +6013,12 @@
       "es_reintento": false
     },
     {
-      "num": 498,
+      "num": 500,
       "nombre": "WEB_1001_rockstar3_p1",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0666666666666667,
-      "eta_txt": "Termina: Lun 05/10 19:44",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 499,
-      "nombre": "WEB_1001_rockstar3_p2",
-      "n_esl": 13,
-      "generados": 0,
-      "horas": 1.7333333333333334,
-      "eta_txt": "Termina: Lun 05/10 21:28",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 500,
-      "nombre": "MONTAR_1001_rockstar3",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Lun 05/10 21:28",
+      "eta_txt": "Termina: Lun 05/10 20:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6026,23 +6026,23 @@
     },
     {
       "num": 501,
-      "nombre": "WEB_0930_casting2",
+      "nombre": "WEB_1001_rockstar3_p2",
       "n_esl": 13,
-      "generados": 13,
+      "generados": 0,
       "horas": 1.7333333333333334,
-      "eta_txt": "Termina: Lun 05/10 23:12",
+      "eta_txt": "Termina: Lun 05/10 21:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": false
+      "es_reintento": null
     },
     {
       "num": 502,
-      "nombre": "FICHA_MOON_CARA_COLEGIALA",
-      "n_esl": 1,
+      "nombre": "MONTAR_1001_rockstar3",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 23:20",
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 05/10 21:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6050,23 +6050,23 @@
     },
     {
       "num": 503,
-      "nombre": "FICHA_MOON_CARA_SECRETARIA",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 23:28",
+      "nombre": "WEB_0930_casting2",
+      "n_esl": 13,
+      "generados": 13,
+      "horas": 1.7333333333333334,
+      "eta_txt": "Termina: Lun 05/10 23:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 504,
-      "nombre": "FICHA_MOON_CARA_ENFERMERA",
+      "nombre": "FICHA_MOON_CARA_COLEGIALA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 23:36",
+      "eta_txt": "Termina: Lun 05/10 23:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6074,11 +6074,11 @@
     },
     {
       "num": 505,
-      "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
+      "nombre": "FICHA_MOON_CARA_SECRETARIA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 23:44",
+      "eta_txt": "Termina: Lun 05/10 23:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6086,11 +6086,35 @@
     },
     {
       "num": 506,
+      "nombre": "FICHA_MOON_CARA_ENFERMERA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 06/10 00:01",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 507,
+      "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.13333333333333333,
+      "eta_txt": "Termina: Mar 06/10 00:09",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 508,
       "nombre": "FICHA_MOON_CARA_INTERIOR",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.13333333333333333,
-      "eta_txt": "Termina: Lun 05/10 23:52",
+      "eta_txt": "Termina: Mar 06/10 00:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
