@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 05:44:07",
+  "timestamp": "2026-10-06 05:51:12",
   "corriendo": {
     "nombre": "WEB_1001_rockstar3_p1",
-    "hora": "05:00",
+    "hora": "04:59",
     "eslabon_actual": 8,
     "eslabon_total": 8,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 8,
       "tot_esl": 8,
-      "elapsed": 0,
+      "elapsed": 7,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2568,
+    "eslabones_hechos": 2569,
     "eslabones_totales": 2600,
-    "horas_hechas": 310.05499999999887,
-    "horas_restantes": 4.053333333333334,
-    "fecha_fin_estimada": "Mar 06/10 09:47"
+    "horas_hechas": 310.18166666666554,
+    "horas_restantes": 3.9266666666666667,
+    "fecha_fin_estimada": "Mar 06/10 09:46"
   },
   "items": [
     {
@@ -6304,7 +6304,7 @@
       "num": 524,
       "nombre": "WEB_1001_rockstar3_p1",
       "n_esl": 8,
-      "generados": 7,
+      "generados": 8,
       "horas": 1.0133333333333332,
       "eta_txt": "Termina: Mar 06/10 05:51",
       "es_activa": true,
@@ -6342,7 +6342,7 @@
       "n_esl": 13,
       "generados": 0,
       "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Mar 06/10 09:09",
+      "eta_txt": "Termina: Mar 06/10 09:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6378,7 +6378,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 09:32",
+      "eta_txt": "Termina: Mar 06/10 09:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6402,7 +6402,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 09:47",
+      "eta_txt": "Termina: Mar 06/10 09:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
