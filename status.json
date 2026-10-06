@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 16:42:28",
+  "timestamp": "2026-10-06 16:49:48",
   "corriendo": {
     "nombre": "WEB_1006_poderes5_p3",
     "hora": "16:15",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 6,
-    "horas_rest": 0.2533333333333333,
+    "horas_rest": 0.12666666666666665,
     "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 6,
       "tot_esl": 6,
-      "elapsed": 66,
+      "elapsed": 70,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2654,
+    "eslabones_hechos": 2655,
     "eslabones_totales": 2670,
-    "horas_hechas": 320.9483333333321,
-    "horas_restantes": 2.026666666666667,
-    "fecha_fin_estimada": "Mar 06/10 18:44"
+    "horas_hechas": 321.07499999999874,
+    "horas_restantes": 1.9,
+    "fecha_fin_estimada": "Mar 06/10 18:43"
   },
   "items": [
     {
@@ -6616,7 +6616,7 @@
       "num": 550,
       "nombre": "WEB_1006_poderes5_p3",
       "n_esl": 6,
-      "generados": 4,
+      "generados": 5,
       "horas": 0.7599999999999999,
       "eta_txt": "Termina: Mar 06/10 16:57",
       "es_activa": true,
@@ -6678,7 +6678,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 18:06",
+      "eta_txt": "Termina: Mar 06/10 18:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6738,7 +6738,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 18:44",
+      "eta_txt": "Termina: Mar 06/10 18:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
