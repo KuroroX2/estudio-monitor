@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06 14:55:22",
+  "timestamp": "2026-10-06 15:02:44",
   "corriendo": {
     "nombre": "WEB_1006_poderes5_p2",
     "hora": "14:04",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 9,
       "tot_esl": 17,
-      "elapsed": 4,
+      "elapsed": 408,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
     "eslabones_hechos": 2641,
-    "eslabones_totales": 2667,
+    "eslabones_totales": 2670,
     "horas_hechas": 319.3016666666654,
-    "horas_restantes": 3.2933333333333334,
-    "fecha_fin_estimada": "Mar 06/10 18:12"
+    "horas_restantes": 3.6733333333333333,
+    "fecha_fin_estimada": "Mar 06/10 18:43"
   },
   "items": [
     {
@@ -6606,7 +6606,7 @@
       "n_esl": 17,
       "generados": 8,
       "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Mar 06/10 16:03",
+      "eta_txt": "Termina: Mar 06/10 16:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -6618,7 +6618,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mar 06/10 16:49",
+      "eta_txt": "Termina: Mar 06/10 16:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6630,7 +6630,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mar 06/10 17:34",
+      "eta_txt": "Termina: Mar 06/10 17:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6642,18 +6642,6 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 06/10 17:34",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 553,
-      "nombre": "FICHA_MOON_CARA_COLEGIALA",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
       "eta_txt": "Termina: Mar 06/10 17:42",
       "es_activa": false,
       "es_hecha": false,
@@ -6661,20 +6649,20 @@
       "es_reintento": null
     },
     {
-      "num": 554,
-      "nombre": "FICHA_MOON_CARA_SECRETARIA",
+      "num": 553,
+      "nombre": "ESC_CUM_AZAR",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 17:50",
+      "eta_txt": "Termina: Mar 06/10 17:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 555,
-      "nombre": "FICHA_MOON_CARA_ENFERMERA",
+      "num": 554,
+      "nombre": "ESC_SON_BJ_G",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
@@ -6685,8 +6673,8 @@
       "es_reintento": null
     },
     {
-      "num": 556,
-      "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
+      "num": 555,
+      "nombre": "ESC_BULGE_DILDO2",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
@@ -6697,12 +6685,60 @@
       "es_reintento": null
     },
     {
-      "num": 557,
-      "nombre": "FICHA_MOON_CARA_INTERIOR",
+      "num": 556,
+      "nombre": "FICHA_MOON_CARA_COLEGIALA",
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
       "eta_txt": "Termina: Mar 06/10 18:12",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 557,
+      "nombre": "FICHA_MOON_CARA_SECRETARIA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Mar 06/10 18:20",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 558,
+      "nombre": "FICHA_MOON_CARA_ENFERMERA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Mar 06/10 18:27",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 559,
+      "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Mar 06/10 18:35",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 560,
+      "nombre": "FICHA_MOON_CARA_INTERIOR",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Mar 06/10 18:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
