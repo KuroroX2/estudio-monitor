@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-06 15:51:12",
+  "timestamp": "2026-10-06 15:58:53",
   "corriendo": {
     "nombre": "WEB_1006_poderes5_p2",
     "hora": "14:04",
     "eslabon_actual": 17,
     "eslabon_total": 17,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 17,
       "tot_esl": 17,
       "elapsed": 18,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2649,
+    "eslabones_hechos": 2650,
     "eslabones_totales": 2670,
-    "horas_hechas": 320.31499999999875,
-    "horas_restantes": 2.66,
+    "horas_hechas": 320.4416666666654,
+    "horas_restantes": 2.533333333333333,
     "fecha_fin_estimada": "Mar 06/10 18:30"
   },
   "items": [
@@ -6604,7 +6604,7 @@
       "num": 549,
       "nombre": "WEB_1006_poderes5_p2",
       "n_esl": 17,
-      "generados": 16,
+      "generados": 17,
       "horas": 2.1533333333333333,
       "eta_txt": "Termina: Mar 06/10 15:58",
       "es_activa": true,
