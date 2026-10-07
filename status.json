@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-07 00:40:37",
+  "timestamp": "2026-10-07 00:50:43",
   "corriendo": {
     "nombre": "DOMI_FA_v1",
     "hora": "00:29",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 4,
-    "horas_rest": 0.2533333333333333,
+    "horas_rest": 0.12666666666666665,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 4,
-      "elapsed": 9,
+      "elapsed": 253,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2695,
+    "eslabones_hechos": 2696,
     "eslabones_totales": 2709,
-    "horas_hechas": 326.14166666666534,
-    "horas_restantes": 1.7733333333333334,
-    "fecha_fin_estimada": "Mié 07/10 02:27"
+    "horas_hechas": 326.268333333332,
+    "horas_restantes": 1.6466666666666667,
+    "fecha_fin_estimada": "Mié 07/10 02:29"
   },
   "items": [
     {
@@ -4984,9 +4984,9 @@
       "num": 414,
       "nombre": "DOMI_FA_v1",
       "n_esl": 4,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 07/10 00:55",
+      "eta_txt": "Termina: Mié 07/10 00:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -4998,7 +4998,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mié 07/10 01:41",
+      "eta_txt": "Termina: Mié 07/10 01:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -5010,7 +5010,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 07/10 02:11",
+      "eta_txt": "Termina: Mié 07/10 02:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -5022,7 +5022,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mié 07/10 02:27",
+      "eta_txt": "Termina: Mié 07/10 02:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -5034,7 +5034,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 07/10 02:27",
+      "eta_txt": "Termina: Mié 07/10 02:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
