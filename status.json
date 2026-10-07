@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-07 00:53:40",
+  "timestamp": "2026-10-07 00:58:06",
   "corriendo": {
     "nombre": "DOMI_FB_v1",
     "hora": "00:52",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 6,
-    "horas_rest": 0.7599999999999999,
+    "horas_rest": 0.6333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 6,
-      "elapsed": 50,
+      "elapsed": 1,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 2697,
+    "eslabones_hechos": 2698,
     "eslabones_totales": 2709,
-    "horas_hechas": 326.3949999999987,
-    "horas_restantes": 1.52,
-    "fecha_fin_estimada": "Mié 07/10 02:24"
+    "horas_hechas": 326.52166666666534,
+    "horas_restantes": 1.3933333333333333,
+    "fecha_fin_estimada": "Mié 07/10 02:21"
   },
   "items": [
     {
@@ -4996,9 +4996,9 @@
       "num": 415,
       "nombre": "DOMI_FB_v1",
       "n_esl": 6,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mié 07/10 01:39",
+      "eta_txt": "Termina: Mié 07/10 01:36",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -5010,7 +5010,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 07/10 02:09",
+      "eta_txt": "Termina: Mié 07/10 02:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -5022,7 +5022,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mié 07/10 02:24",
+      "eta_txt": "Termina: Mié 07/10 02:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -5034,7 +5034,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mié 07/10 02:24",
+      "eta_txt": "Termina: Mié 07/10 02:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
