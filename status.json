@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 21:34:55",
+  "timestamp": "2026-10-06 21:37:52",
   "corriendo": {
     "nombre": "WEB_1006_kage_cris",
     "hora": "20:45",
-    "eslabon_actual": 8,
+    "eslabon_actual": 9,
     "eslabon_total": 10,
-    "horas_rest": 0.37999999999999995,
+    "horas_rest": 0.2533333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 8,
+      "num_esl": 9,
       "tot_esl": 10,
-      "elapsed": 311,
+      "elapsed": 67,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2677,
+    "eslabones_hechos": 2678,
     "eslabones_totales": 2680,
-    "horas_hechas": 323.86166666666537,
-    "horas_restantes": 0.38,
-    "fecha_fin_estimada": "Mar 06/10 21:57"
+    "horas_hechas": 323.98833333333204,
+    "horas_restantes": 0.25333333333333335,
+    "fecha_fin_estimada": "Mar 06/10 21:53"
   },
   "items": [
     {
@@ -6688,9 +6688,9 @@
       "num": 556,
       "nombre": "WEB_1006_kage_cris",
       "n_esl": 10,
-      "generados": 7,
+      "generados": 8,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Mar 06/10 21:57",
+      "eta_txt": "Termina: Mar 06/10 21:53",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
