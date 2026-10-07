@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 22:42:33",
+  "timestamp": "2026-10-06 22:48:03",
   "corriendo": {
     "nombre": "ESC_SON_BJ_I",
     "hora": "22:41",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 46,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 17,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2681,
+    "eslabones_hechos": 2682,
     "eslabones_totales": 2682,
-    "horas_hechas": 324.36833333333203,
-    "horas_restantes": 0.12666666666666668,
-    "fecha_fin_estimada": "Mar 06/10 22:50"
+    "horas_hechas": 324.4949999999987,
+    "horas_restantes": 0.0,
+    "fecha_fin_estimada": "Mar 06/10 22:48"
   },
   "items": [
     {
@@ -4852,9 +4852,9 @@
       "num": 403,
       "nombre": "ESC_SON_BJ_I",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 22:50",
+      "eta_txt": "Termina: Mar 06/10 22:48",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
