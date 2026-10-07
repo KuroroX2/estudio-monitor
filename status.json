@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 22:34:39",
+  "timestamp": "2026-10-06 22:40:10",
   "corriendo": {
     "nombre": "ESC_SON_BJ_H",
     "hora": "22:33",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 46,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 9,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2680,
-    "eslabones_totales": 2776,
-    "horas_hechas": 324.24166666666537,
-    "horas_restantes": 12.16,
-    "fecha_fin_estimada": "Mié 07/10 10:44"
+    "eslabones_hechos": 2681,
+    "eslabones_totales": 2682,
+    "horas_hechas": 324.36833333333203,
+    "horas_restantes": 0.12666666666666668,
+    "fecha_fin_estimada": "Mar 06/10 22:47"
   },
   "items": [
     {
@@ -4840,9 +4840,9 @@
       "num": 402,
       "nombre": "ESC_SON_BJ_H",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 22:42",
+      "eta_txt": "Termina: Mar 06/10 22:40",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -4854,7 +4854,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 22:49",
+      "eta_txt": "Termina: Mar 06/10 22:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -4862,210 +4862,6 @@
     },
     {
       "num": 404,
-      "nombre": "WEB_1006_mago2_p1",
-      "n_esl": 15,
-      "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Mié 07/10 00:43",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 405,
-      "nombre": "WEB_1006_mago2_p2",
-      "n_esl": 6,
-      "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mié 07/10 01:29",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 406,
-      "nombre": "WEB_1006_mago2_p3",
-      "n_esl": 8,
-      "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Mié 07/10 02:30",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 407,
-      "nombre": "WEB_1006_mago2_p4",
-      "n_esl": 15,
-      "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Mié 07/10 04:24",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 408,
-      "nombre": "WEB_1006_mago2_p5",
-      "n_esl": 6,
-      "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mié 07/10 05:09",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 409,
-      "nombre": "MONTAR_1006_mago2",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Mié 07/10 05:09",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 410,
-      "nombre": "WEB_1006_control_ciudad2_p1",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 07/10 05:32",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 411,
-      "nombre": "WEB_1006_control_ciudad2_p2",
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mié 07/10 05:40",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 412,
-      "nombre": "WEB_1006_control_ciudad2_p3",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mié 07/10 05:55",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 413,
-      "nombre": "WEB_1006_control_ciudad2_p4",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 07/10 06:18",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 414,
-      "nombre": "WEB_1006_control_ciudad2_p5",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 07/10 06:41",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 415,
-      "nombre": "WEB_1006_control_ciudad2_p6",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 07/10 07:03",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 416,
-      "nombre": "WEB_1006_control_ciudad2_p7",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 07/10 07:26",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 417,
-      "nombre": "WEB_1006_control_ciudad2_p8",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mié 07/10 07:41",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 418,
-      "nombre": "WEB_1006_control_ciudad2_p9",
-      "n_esl": 6,
-      "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Mié 07/10 08:27",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 419,
-      "nombre": "MONTAR_1006_control_ciudad2",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Mié 07/10 08:27",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 420,
-      "nombre": "WEB_1006_control_remoto_inverso3",
-      "n_esl": 18,
-      "generados": 0,
-      "horas": 2.28,
-      "eta_txt": "Termina: Mié 07/10 10:44",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 421,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -5077,7 +4873,7 @@
       "es_reintento": false
     },
     {
-      "num": 422,
+      "num": 405,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -5089,7 +4885,7 @@
       "es_reintento": false
     },
     {
-      "num": 423,
+      "num": 406,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -5101,7 +4897,7 @@
       "es_reintento": false
     },
     {
-      "num": 424,
+      "num": 407,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -5113,7 +4909,7 @@
       "es_reintento": false
     },
     {
-      "num": 425,
+      "num": 408,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -5125,7 +4921,7 @@
       "es_reintento": false
     },
     {
-      "num": 426,
+      "num": 409,
       "nombre": "ESC_COW8",
       "n_esl": 1,
       "generados": 1,
@@ -5137,7 +4933,7 @@
       "es_reintento": false
     },
     {
-      "num": 427,
+      "num": 410,
       "nombre": "ESC_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -5149,7 +4945,7 @@
       "es_reintento": false
     },
     {
-      "num": 428,
+      "num": 411,
       "nombre": "ESC_COW13",
       "n_esl": 1,
       "generados": 1,
@@ -5161,7 +4957,7 @@
       "es_reintento": false
     },
     {
-      "num": 429,
+      "num": 412,
       "nombre": "ESC_COW9",
       "n_esl": 1,
       "generados": 1,
@@ -5173,7 +4969,7 @@
       "es_reintento": false
     },
     {
-      "num": 430,
+      "num": 413,
       "nombre": "WEB_0929_pijamada_pov3_p2",
       "n_esl": 4,
       "generados": 4,
@@ -5185,7 +4981,7 @@
       "es_reintento": false
     },
     {
-      "num": 431,
+      "num": 414,
       "nombre": "ESC_COW10",
       "n_esl": 1,
       "generados": 1,
@@ -5197,7 +4993,7 @@
       "es_reintento": false
     },
     {
-      "num": 432,
+      "num": 415,
       "nombre": "ESC_COW11",
       "n_esl": 1,
       "generados": 1,
@@ -5209,7 +5005,7 @@
       "es_reintento": false
     },
     {
-      "num": 433,
+      "num": 416,
       "nombre": "ESC_MULTI_REV",
       "n_esl": 7,
       "generados": 7,
@@ -5221,7 +5017,7 @@
       "es_reintento": false
     },
     {
-      "num": 434,
+      "num": 417,
       "nombre": "ESC_MULTI_DOG",
       "n_esl": 6,
       "generados": 6,
@@ -5233,7 +5029,7 @@
       "es_reintento": false
     },
     {
-      "num": 435,
+      "num": 418,
       "nombre": "SAILOR_REFVIDEO",
       "n_esl": 2,
       "generados": 2,
@@ -5245,7 +5041,7 @@
       "es_reintento": false
     },
     {
-      "num": 436,
+      "num": 419,
       "nombre": "SAILOR_PS",
       "n_esl": 7,
       "generados": 7,
@@ -5257,7 +5053,7 @@
       "es_reintento": false
     },
     {
-      "num": 437,
+      "num": 420,
       "nombre": "SAILOR_REFVIDEO_MIN",
       "n_esl": 1,
       "generados": 1,
@@ -5269,7 +5065,7 @@
       "es_reintento": false
     },
     {
-      "num": 438,
+      "num": 421,
       "nombre": "ESC_MULTI_DOG2",
       "n_esl": 7,
       "generados": 7,
@@ -5281,7 +5077,7 @@
       "es_reintento": false
     },
     {
-      "num": 439,
+      "num": 422,
       "nombre": "ESC_DESP_ESTAB",
       "n_esl": 1,
       "generados": 1,
@@ -5293,7 +5089,7 @@
       "es_reintento": false
     },
     {
-      "num": 440,
+      "num": 423,
       "nombre": "ESC_DESP_D1",
       "n_esl": 1,
       "generados": 1,
@@ -5305,7 +5101,7 @@
       "es_reintento": false
     },
     {
-      "num": 441,
+      "num": 424,
       "nombre": "ESC_DESP_D2",
       "n_esl": 1,
       "generados": 1,
@@ -5317,7 +5113,7 @@
       "es_reintento": false
     },
     {
-      "num": 442,
+      "num": 425,
       "nombre": "SAILOR_V3",
       "n_esl": 9,
       "generados": 9,
@@ -5329,7 +5125,7 @@
       "es_reintento": false
     },
     {
-      "num": 443,
+      "num": 426,
       "nombre": "ESC_MULTI_DOG3",
       "n_esl": 6,
       "generados": 6,
@@ -5341,7 +5137,7 @@
       "es_reintento": false
     },
     {
-      "num": 444,
+      "num": 427,
       "nombre": "ESC_DESP_D3",
       "n_esl": 3,
       "generados": 3,
@@ -5353,7 +5149,7 @@
       "es_reintento": false
     },
     {
-      "num": 445,
+      "num": 428,
       "nombre": "ESC_DESP_M1",
       "n_esl": 1,
       "generados": 1,
@@ -5365,7 +5161,7 @@
       "es_reintento": false
     },
     {
-      "num": 446,
+      "num": 429,
       "nombre": "ESC_DESP_M2",
       "n_esl": 1,
       "generados": 1,
@@ -5377,7 +5173,7 @@
       "es_reintento": false
     },
     {
-      "num": 447,
+      "num": 430,
       "nombre": "ESC_DESP_M3",
       "n_esl": 3,
       "generados": 3,
@@ -5389,7 +5185,7 @@
       "es_reintento": false
     },
     {
-      "num": 448,
+      "num": 431,
       "nombre": "ESC_DESP_V1",
       "n_esl": 1,
       "generados": 1,
@@ -5401,7 +5197,7 @@
       "es_reintento": false
     },
     {
-      "num": 449,
+      "num": 432,
       "nombre": "ESC_DESP_V2",
       "n_esl": 1,
       "generados": 1,
@@ -5413,7 +5209,7 @@
       "es_reintento": false
     },
     {
-      "num": 450,
+      "num": 433,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
       "generados": 3,
@@ -5425,7 +5221,7 @@
       "es_reintento": false
     },
     {
-      "num": 451,
+      "num": 434,
       "nombre": "SAILOR_CLAVES",
       "n_esl": 6,
       "generados": 6,
@@ -5437,7 +5233,7 @@
       "es_reintento": false
     },
     {
-      "num": 452,
+      "num": 435,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
       "generados": 17,
@@ -5449,7 +5245,7 @@
       "es_reintento": false
     },
     {
-      "num": 453,
+      "num": 436,
       "nombre": "SAILOR_VIDEO1",
       "n_esl": 2,
       "generados": 2,
@@ -5461,7 +5257,7 @@
       "es_reintento": false
     },
     {
-      "num": 454,
+      "num": 437,
       "nombre": "ESC_CI_SUELO",
       "n_esl": 1,
       "generados": 1,
@@ -5473,7 +5269,7 @@
       "es_reintento": false
     },
     {
-      "num": 455,
+      "num": 438,
       "nombre": "ESC_PM_QUIETA",
       "n_esl": 1,
       "generados": 1,
@@ -5485,7 +5281,7 @@
       "es_reintento": false
     },
     {
-      "num": 456,
+      "num": 439,
       "nombre": "ESC_PM_ORBITA",
       "n_esl": 1,
       "generados": 1,
@@ -5497,7 +5293,7 @@
       "es_reintento": false
     },
     {
-      "num": 457,
+      "num": 440,
       "nombre": "ESC_PM_PERRITA",
       "n_esl": 1,
       "generados": 1,
@@ -5509,7 +5305,7 @@
       "es_reintento": false
     },
     {
-      "num": 458,
+      "num": 441,
       "nombre": "ESC_PM_GALLINA",
       "n_esl": 1,
       "generados": 1,
@@ -5521,7 +5317,7 @@
       "es_reintento": false
     },
     {
-      "num": 459,
+      "num": 442,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
       "generados": 5,
@@ -5533,7 +5329,7 @@
       "es_reintento": false
     },
     {
-      "num": 460,
+      "num": 443,
       "nombre": "ESC_PM_ANAL",
       "n_esl": 3,
       "generados": 3,
@@ -5545,7 +5341,7 @@
       "es_reintento": false
     },
     {
-      "num": 461,
+      "num": 444,
       "nombre": "ESC_PM_ANAL_SIN",
       "n_esl": 3,
       "generados": 3,
@@ -5557,7 +5353,7 @@
       "es_reintento": false
     },
     {
-      "num": 462,
+      "num": 445,
       "nombre": "ESC_PM_FINAL",
       "n_esl": 3,
       "generados": 3,
@@ -5569,7 +5365,7 @@
       "es_reintento": false
     },
     {
-      "num": 463,
+      "num": 446,
       "nombre": "WEB_0930_clausula2_p3",
       "n_esl": 2,
       "generados": 2,
@@ -5581,7 +5377,7 @@
       "es_reintento": false
     },
     {
-      "num": 464,
+      "num": 447,
       "nombre": "MONTAR_0930_clausula2",
       "n_esl": 0,
       "generados": 0,
@@ -5593,7 +5389,7 @@
       "es_reintento": false
     },
     {
-      "num": 465,
+      "num": 448,
       "nombre": "WEB_0930_darky_dildo2_p1",
       "n_esl": 14,
       "generados": 14,
@@ -5605,7 +5401,7 @@
       "es_reintento": false
     },
     {
-      "num": 466,
+      "num": 449,
       "nombre": "WEB_0930_darky_dildo2_p2",
       "n_esl": 12,
       "generados": 12,
@@ -5617,7 +5413,7 @@
       "es_reintento": false
     },
     {
-      "num": 467,
+      "num": 450,
       "nombre": "WEB_0930_darky_dildo2_p3",
       "n_esl": 8,
       "generados": 8,
@@ -5629,7 +5425,7 @@
       "es_reintento": false
     },
     {
-      "num": 468,
+      "num": 451,
       "nombre": "WEB_0930_rockstar2",
       "n_esl": 13,
       "generados": 13,
@@ -5641,7 +5437,7 @@
       "es_reintento": false
     },
     {
-      "num": 469,
+      "num": 452,
       "nombre": "ESC_CR_CONTROL",
       "n_esl": 2,
       "generados": 2,
@@ -5653,7 +5449,7 @@
       "es_reintento": false
     },
     {
-      "num": 470,
+      "num": 453,
       "nombre": "ESC_CR_CONTROL_RO",
       "n_esl": 2,
       "generados": 2,
@@ -5665,7 +5461,7 @@
       "es_reintento": false
     },
     {
-      "num": 471,
+      "num": 454,
       "nombre": "ESC_CR_JUNTAS",
       "n_esl": 1,
       "generados": 1,
@@ -5677,7 +5473,7 @@
       "es_reintento": false
     },
     {
-      "num": 472,
+      "num": 455,
       "nombre": "ESC_CR_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -5689,7 +5485,7 @@
       "es_reintento": false
     },
     {
-      "num": 473,
+      "num": 456,
       "nombre": "ESC_CR_LOCURA_RO",
       "n_esl": 1,
       "generados": 1,
@@ -5701,7 +5497,7 @@
       "es_reintento": false
     },
     {
-      "num": 474,
+      "num": 457,
       "nombre": "ESC_CR_CUERPOS",
       "n_esl": 2,
       "generados": 2,
@@ -5713,7 +5509,7 @@
       "es_reintento": false
     },
     {
-      "num": 475,
+      "num": 458,
       "nombre": "ESC_RO_NIVELES",
       "n_esl": 5,
       "generados": 5,
@@ -5725,7 +5521,7 @@
       "es_reintento": false
     },
     {
-      "num": 476,
+      "num": 459,
       "nombre": "ESC_ANAL_MX_MIS",
       "n_esl": 1,
       "generados": 1,
@@ -5737,7 +5533,7 @@
       "es_reintento": false
     },
     {
-      "num": 477,
+      "num": 460,
       "nombre": "ESC_PM_PREMIO_RO",
       "n_esl": 5,
       "generados": 5,
@@ -5749,7 +5545,7 @@
       "es_reintento": false
     },
     {
-      "num": 478,
+      "num": 461,
       "nombre": "ESC_ANAL_MX_DOGGY",
       "n_esl": 1,
       "generados": 1,
@@ -5761,7 +5557,7 @@
       "es_reintento": false
     },
     {
-      "num": 479,
+      "num": 462,
       "nombre": "ESC_CR_FINAL_RODILLAS",
       "n_esl": 1,
       "generados": 1,
@@ -5773,7 +5569,7 @@
       "es_reintento": false
     },
     {
-      "num": 480,
+      "num": 463,
       "nombre": "ESC_CI_POV_ELLA",
       "n_esl": 2,
       "generados": 2,
@@ -5785,7 +5581,7 @@
       "es_reintento": false
     },
     {
-      "num": 481,
+      "num": 464,
       "nombre": "ESC_CI_CAMARA",
       "n_esl": 1,
       "generados": 1,
@@ -5797,7 +5593,7 @@
       "es_reintento": false
     },
     {
-      "num": 482,
+      "num": 465,
       "nombre": "ESC_CI_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -5809,7 +5605,7 @@
       "es_reintento": false
     },
     {
-      "num": 483,
+      "num": 466,
       "nombre": "ESC_PM_PREMIO_RO2",
       "n_esl": 5,
       "generados": 5,
@@ -5821,7 +5617,7 @@
       "es_reintento": false
     },
     {
-      "num": 484,
+      "num": 467,
       "nombre": "ESC_ANAL_MX_REV",
       "n_esl": 1,
       "generados": 1,
@@ -5833,7 +5629,7 @@
       "es_reintento": false
     },
     {
-      "num": 485,
+      "num": 468,
       "nombre": "ESC_ANAL_MX_CUCHARA",
       "n_esl": 1,
       "generados": 1,
@@ -5845,7 +5641,7 @@
       "es_reintento": false
     },
     {
-      "num": 486,
+      "num": 469,
       "nombre": "ESC_ANAL_MX_PIE",
       "n_esl": 1,
       "generados": 1,
@@ -5857,7 +5653,7 @@
       "es_reintento": false
     },
     {
-      "num": 487,
+      "num": 470,
       "nombre": "ESC_THUMB",
       "n_esl": 1,
       "generados": 1,
@@ -5869,7 +5665,7 @@
       "es_reintento": false
     },
     {
-      "num": 488,
+      "num": 471,
       "nombre": "ESC_CR_JUNTAS_RO",
       "n_esl": 1,
       "generados": 1,
@@ -5881,7 +5677,7 @@
       "es_reintento": false
     },
     {
-      "num": 489,
+      "num": 472,
       "nombre": "ESC_RO_EXTREMO",
       "n_esl": 4,
       "generados": 4,
@@ -5893,7 +5689,7 @@
       "es_reintento": false
     },
     {
-      "num": 490,
+      "num": 473,
       "nombre": "ESC_GB_MY",
       "n_esl": 1,
       "generados": 1,
@@ -5905,7 +5701,7 @@
       "es_reintento": false
     },
     {
-      "num": 491,
+      "num": 474,
       "nombre": "ESC_GB_DT",
       "n_esl": 1,
       "generados": 1,
@@ -5917,7 +5713,7 @@
       "es_reintento": false
     },
     {
-      "num": 492,
+      "num": 475,
       "nombre": "ESC_PM_PREMIO_RO3",
       "n_esl": 5,
       "generados": 5,
@@ -5929,7 +5725,7 @@
       "es_reintento": false
     },
     {
-      "num": 493,
+      "num": 476,
       "nombre": "ESC_THUMB2",
       "n_esl": 1,
       "generados": 1,
@@ -5941,7 +5737,7 @@
       "es_reintento": false
     },
     {
-      "num": 494,
+      "num": 477,
       "nombre": "MONTAR_0930_darky_dildo2",
       "n_esl": 0,
       "generados": 0,
@@ -5953,7 +5749,7 @@
       "es_reintento": false
     },
     {
-      "num": 495,
+      "num": 478,
       "nombre": "MONTAR_0930_rockstar2",
       "n_esl": 0,
       "generados": 0,
@@ -5965,7 +5761,7 @@
       "es_reintento": false
     },
     {
-      "num": 496,
+      "num": 479,
       "nombre": "WEB_0930_pais_mujeres2",
       "n_esl": 12,
       "generados": 12,
@@ -5977,7 +5773,7 @@
       "es_reintento": false
     },
     {
-      "num": 497,
+      "num": 480,
       "nombre": "MONTAR_0930_pais_mujeres2",
       "n_esl": 0,
       "generados": 0,
@@ -5989,7 +5785,7 @@
       "es_reintento": false
     },
     {
-      "num": 498,
+      "num": 481,
       "nombre": "WEB_0930_lenceria_moon",
       "n_esl": 11,
       "generados": 11,
@@ -6001,7 +5797,7 @@
       "es_reintento": false
     },
     {
-      "num": 499,
+      "num": 482,
       "nombre": "ESC_GB2_MY",
       "n_esl": 1,
       "generados": 1,
@@ -6013,7 +5809,7 @@
       "es_reintento": false
     },
     {
-      "num": 500,
+      "num": 483,
       "nombre": "ESC_GB2_DT",
       "n_esl": 1,
       "generados": 1,
@@ -6025,7 +5821,7 @@
       "es_reintento": false
     },
     {
-      "num": 501,
+      "num": 484,
       "nombre": "ESC_THUMB3",
       "n_esl": 1,
       "generados": 1,
@@ -6037,7 +5833,7 @@
       "es_reintento": false
     },
     {
-      "num": 502,
+      "num": 485,
       "nombre": "WEB_0930_aonuk_calle_p1",
       "n_esl": 17,
       "generados": 17,
@@ -6049,7 +5845,7 @@
       "es_reintento": false
     },
     {
-      "num": 503,
+      "num": 486,
       "nombre": "WEB_0930_aonuk_calle_p2",
       "n_esl": 11,
       "generados": 11,
@@ -6061,7 +5857,7 @@
       "es_reintento": false
     },
     {
-      "num": 504,
+      "num": 487,
       "nombre": "WEB_0930_aonuk_calle_p3",
       "n_esl": 9,
       "generados": 9,
@@ -6073,7 +5869,7 @@
       "es_reintento": false
     },
     {
-      "num": 505,
+      "num": 488,
       "nombre": "WEB_0930_aonuk_calle_p4",
       "n_esl": 8,
       "generados": 8,
@@ -6085,7 +5881,7 @@
       "es_reintento": false
     },
     {
-      "num": 506,
+      "num": 489,
       "nombre": "MONTAR_0930_aonuk_calle",
       "n_esl": 0,
       "generados": 0,
@@ -6097,7 +5893,7 @@
       "es_reintento": false
     },
     {
-      "num": 507,
+      "num": 490,
       "nombre": "WEB_0930_darky_poderes_v3",
       "n_esl": 20,
       "generados": 20,
@@ -6109,7 +5905,7 @@
       "es_reintento": false
     },
     {
-      "num": 508,
+      "num": 491,
       "nombre": "WEB_0930_control_remoto_inverso",
       "n_esl": 11,
       "generados": 11,
@@ -6121,7 +5917,7 @@
       "es_reintento": false
     },
     {
-      "num": 509,
+      "num": 492,
       "nombre": "WEB_0930_poderes3_p1",
       "n_esl": 16,
       "generados": 16,
@@ -6133,7 +5929,7 @@
       "es_reintento": false
     },
     {
-      "num": 510,
+      "num": 493,
       "nombre": "WEB_0930_poderes3_p2",
       "n_esl": 18,
       "generados": 18,
@@ -6145,7 +5941,7 @@
       "es_reintento": false
     },
     {
-      "num": 511,
+      "num": 494,
       "nombre": "WEB_0930_poderes3_p3",
       "n_esl": 5,
       "generados": 5,
@@ -6157,7 +5953,7 @@
       "es_reintento": false
     },
     {
-      "num": 512,
+      "num": 495,
       "nombre": "MONTAR_0930_poderes3",
       "n_esl": 0,
       "generados": 0,
@@ -6169,7 +5965,7 @@
       "es_reintento": false
     },
     {
-      "num": 513,
+      "num": 496,
       "nombre": "WEB_0930_control_remoto",
       "n_esl": 19,
       "generados": 19,
@@ -6181,7 +5977,7 @@
       "es_reintento": false
     },
     {
-      "num": 514,
+      "num": 497,
       "nombre": "WEB_1005_mago_p1",
       "n_esl": 13,
       "generados": 13,
@@ -6193,7 +5989,7 @@
       "es_reintento": false
     },
     {
-      "num": 515,
+      "num": 498,
       "nombre": "WEB_1005_mago_p2",
       "n_esl": 6,
       "generados": 6,
@@ -6205,7 +6001,7 @@
       "es_reintento": false
     },
     {
-      "num": 516,
+      "num": 499,
       "nombre": "WEB_1005_mago_p3",
       "n_esl": 7,
       "generados": 7,
@@ -6217,7 +6013,7 @@
       "es_reintento": false
     },
     {
-      "num": 517,
+      "num": 500,
       "nombre": "WEB_1005_mago_p4",
       "n_esl": 15,
       "generados": 15,
@@ -6229,7 +6025,7 @@
       "es_reintento": false
     },
     {
-      "num": 518,
+      "num": 501,
       "nombre": "WEB_1005_mago_p5",
       "n_esl": 6,
       "generados": 6,
@@ -6241,7 +6037,7 @@
       "es_reintento": false
     },
     {
-      "num": 519,
+      "num": 502,
       "nombre": "MONTAR_1005_mago",
       "n_esl": 0,
       "generados": 0,
@@ -6253,7 +6049,7 @@
       "es_reintento": false
     },
     {
-      "num": 520,
+      "num": 503,
       "nombre": "ESC_CUM_SEGUIDO",
       "n_esl": 1,
       "generados": 1,
@@ -6265,7 +6061,7 @@
       "es_reintento": false
     },
     {
-      "num": 521,
+      "num": 504,
       "nombre": "ESC_SON_BJ_A",
       "n_esl": 1,
       "generados": 1,
@@ -6277,7 +6073,7 @@
       "es_reintento": false
     },
     {
-      "num": 522,
+      "num": 505,
       "nombre": "ESC_SON_BJ_B",
       "n_esl": 1,
       "generados": 1,
@@ -6289,7 +6085,7 @@
       "es_reintento": false
     },
     {
-      "num": 523,
+      "num": 506,
       "nombre": "ESC_SNAP_A",
       "n_esl": 1,
       "generados": 1,
@@ -6301,7 +6097,7 @@
       "es_reintento": false
     },
     {
-      "num": 524,
+      "num": 507,
       "nombre": "ESC_SNAP_B",
       "n_esl": 1,
       "generados": 1,
@@ -6313,7 +6109,7 @@
       "es_reintento": false
     },
     {
-      "num": 525,
+      "num": 508,
       "nombre": "ESC_FIST",
       "n_esl": 1,
       "generados": 1,
@@ -6325,7 +6121,7 @@
       "es_reintento": false
     },
     {
-      "num": 526,
+      "num": 509,
       "nombre": "ESC_FIST_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6337,7 +6133,7 @@
       "es_reintento": false
     },
     {
-      "num": 527,
+      "num": 510,
       "nombre": "ESC_FIST_ANAL",
       "n_esl": 1,
       "generados": 1,
@@ -6349,7 +6145,7 @@
       "es_reintento": false
     },
     {
-      "num": 528,
+      "num": 511,
       "nombre": "ESC_TRANSF",
       "n_esl": 1,
       "generados": 1,
@@ -6361,7 +6157,7 @@
       "es_reintento": false
     },
     {
-      "num": 529,
+      "num": 512,
       "nombre": "ESC_TRANSF_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6373,7 +6169,7 @@
       "es_reintento": false
     },
     {
-      "num": 530,
+      "num": 513,
       "nombre": "ESC_BULGE",
       "n_esl": 1,
       "generados": 1,
@@ -6385,7 +6181,7 @@
       "es_reintento": false
     },
     {
-      "num": 531,
+      "num": 514,
       "nombre": "ESC_CUDDLE",
       "n_esl": 1,
       "generados": 1,
@@ -6397,7 +6193,7 @@
       "es_reintento": false
     },
     {
-      "num": 532,
+      "num": 515,
       "nombre": "ESC_THROB",
       "n_esl": 1,
       "generados": 1,
@@ -6409,7 +6205,7 @@
       "es_reintento": false
     },
     {
-      "num": 533,
+      "num": 516,
       "nombre": "ESC_JACKO",
       "n_esl": 1,
       "generados": 1,
@@ -6421,7 +6217,7 @@
       "es_reintento": false
     },
     {
-      "num": 534,
+      "num": 517,
       "nombre": "ESC_BACKROOM",
       "n_esl": 1,
       "generados": 1,
@@ -6433,7 +6229,7 @@
       "es_reintento": false
     },
     {
-      "num": 535,
+      "num": 518,
       "nombre": "ESC_MALEUNDRESS",
       "n_esl": 1,
       "generados": 1,
@@ -6445,7 +6241,7 @@
       "es_reintento": false
     },
     {
-      "num": 536,
+      "num": 519,
       "nombre": "ESC_FPOV",
       "n_esl": 1,
       "generados": 1,
@@ -6457,7 +6253,7 @@
       "es_reintento": false
     },
     {
-      "num": 537,
+      "num": 520,
       "nombre": "ESC_CARICIA",
       "n_esl": 1,
       "generados": 1,
@@ -6469,7 +6265,7 @@
       "es_reintento": false
     },
     {
-      "num": 538,
+      "num": 521,
       "nombre": "ESC_SYNTH",
       "n_esl": 1,
       "generados": 1,
@@ -6481,7 +6277,7 @@
       "es_reintento": false
     },
     {
-      "num": 539,
+      "num": 522,
       "nombre": "ESC_GROPING",
       "n_esl": 1,
       "generados": 1,
@@ -6493,7 +6289,7 @@
       "es_reintento": false
     },
     {
-      "num": 540,
+      "num": 523,
       "nombre": "ESC_TF_AUTOR",
       "n_esl": 1,
       "generados": 1,
@@ -6505,7 +6301,7 @@
       "es_reintento": false
     },
     {
-      "num": 541,
+      "num": 524,
       "nombre": "ESC_TF_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6517,7 +6313,7 @@
       "es_reintento": false
     },
     {
-      "num": 542,
+      "num": 525,
       "nombre": "ESC_TF_QUIETA",
       "n_esl": 1,
       "generados": 1,
@@ -6529,7 +6325,7 @@
       "es_reintento": false
     },
     {
-      "num": 543,
+      "num": 526,
       "nombre": "WEB_1001_rockstar3_p1",
       "n_esl": 8,
       "generados": 8,
@@ -6541,7 +6337,7 @@
       "es_reintento": false
     },
     {
-      "num": 544,
+      "num": 527,
       "nombre": "WEB_1001_rockstar3_p2",
       "n_esl": 13,
       "generados": 13,
@@ -6553,7 +6349,7 @@
       "es_reintento": false
     },
     {
-      "num": 545,
+      "num": 528,
       "nombre": "MONTAR_1001_rockstar3",
       "n_esl": 0,
       "generados": 0,
@@ -6565,7 +6361,7 @@
       "es_reintento": false
     },
     {
-      "num": 546,
+      "num": 529,
       "nombre": "ESC_CUM_SIN_FRENTE",
       "n_esl": 1,
       "generados": 1,
@@ -6577,7 +6373,7 @@
       "es_reintento": false
     },
     {
-      "num": 547,
+      "num": 530,
       "nombre": "ESC_CUM_SEGUIDO_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6589,7 +6385,7 @@
       "es_reintento": false
     },
     {
-      "num": 548,
+      "num": 531,
       "nombre": "ESC_SON_BJ_C",
       "n_esl": 1,
       "generados": 1,
@@ -6601,7 +6397,7 @@
       "es_reintento": false
     },
     {
-      "num": 549,
+      "num": 532,
       "nombre": "ESC_SON_BJ_D",
       "n_esl": 1,
       "generados": 1,
@@ -6613,7 +6409,7 @@
       "es_reintento": false
     },
     {
-      "num": 550,
+      "num": 533,
       "nombre": "ESC_FIST_CODO",
       "n_esl": 1,
       "generados": 1,
@@ -6625,7 +6421,7 @@
       "es_reintento": false
     },
     {
-      "num": 551,
+      "num": 534,
       "nombre": "ESC_FIST_DOGGY",
       "n_esl": 1,
       "generados": 1,
@@ -6637,7 +6433,7 @@
       "es_reintento": false
     },
     {
-      "num": 552,
+      "num": 535,
       "nombre": "ESC_BULGE2",
       "n_esl": 1,
       "generados": 1,
@@ -6649,7 +6445,7 @@
       "es_reintento": false
     },
     {
-      "num": 553,
+      "num": 536,
       "nombre": "ESC_BULGE3",
       "n_esl": 1,
       "generados": 1,
@@ -6661,7 +6457,7 @@
       "es_reintento": false
     },
     {
-      "num": 554,
+      "num": 537,
       "nombre": "ESC_CUDDLE2",
       "n_esl": 1,
       "generados": 1,
@@ -6673,7 +6469,7 @@
       "es_reintento": false
     },
     {
-      "num": 555,
+      "num": 538,
       "nombre": "ESC_BACKROOM2",
       "n_esl": 1,
       "generados": 1,
@@ -6685,7 +6481,7 @@
       "es_reintento": false
     },
     {
-      "num": 556,
+      "num": 539,
       "nombre": "ESC_MALEUNDRESS_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6697,7 +6493,7 @@
       "es_reintento": false
     },
     {
-      "num": 557,
+      "num": 540,
       "nombre": "ESC_TF2",
       "n_esl": 2,
       "generados": 2,
@@ -6709,7 +6505,7 @@
       "es_reintento": false
     },
     {
-      "num": 558,
+      "num": 541,
       "nombre": "ESC_TF2_SIN",
       "n_esl": 2,
       "generados": 2,
@@ -6721,7 +6517,7 @@
       "es_reintento": false
     },
     {
-      "num": 559,
+      "num": 542,
       "nombre": "WEB_0930_casting2",
       "n_esl": 13,
       "generados": 13,
@@ -6733,7 +6529,7 @@
       "es_reintento": false
     },
     {
-      "num": 560,
+      "num": 543,
       "nombre": "ESC_CUM_UN_SITIO",
       "n_esl": 1,
       "generados": 1,
@@ -6745,7 +6541,7 @@
       "es_reintento": false
     },
     {
-      "num": 561,
+      "num": 544,
       "nombre": "ESC_CUM_SIN_TEXTURA",
       "n_esl": 1,
       "generados": 1,
@@ -6757,7 +6553,7 @@
       "es_reintento": false
     },
     {
-      "num": 562,
+      "num": 545,
       "nombre": "ESC_SON_BJ_E",
       "n_esl": 1,
       "generados": 1,
@@ -6769,7 +6565,7 @@
       "es_reintento": false
     },
     {
-      "num": 563,
+      "num": 546,
       "nombre": "ESC_SON_BJ_F",
       "n_esl": 1,
       "generados": 1,
@@ -6781,7 +6577,7 @@
       "es_reintento": false
     },
     {
-      "num": 564,
+      "num": 547,
       "nombre": "ESC_FIST_DOGGY_CODO",
       "n_esl": 1,
       "generados": 1,
@@ -6793,7 +6589,7 @@
       "es_reintento": false
     },
     {
-      "num": 565,
+      "num": 548,
       "nombre": "ESC_BULGE_DILDO",
       "n_esl": 1,
       "generados": 1,
@@ -6805,7 +6601,7 @@
       "es_reintento": false
     },
     {
-      "num": 566,
+      "num": 549,
       "nombre": "ESC_BACKROOM3",
       "n_esl": 1,
       "generados": 1,
@@ -6817,7 +6613,7 @@
       "es_reintento": false
     },
     {
-      "num": 567,
+      "num": 550,
       "nombre": "WEB_1006_poderes5_p1",
       "n_esl": 16,
       "generados": 16,
@@ -6829,7 +6625,7 @@
       "es_reintento": false
     },
     {
-      "num": 568,
+      "num": 551,
       "nombre": "WEB_1006_poderes5_p2",
       "n_esl": 17,
       "generados": 17,
@@ -6841,7 +6637,7 @@
       "es_reintento": false
     },
     {
-      "num": 569,
+      "num": 552,
       "nombre": "WEB_1006_poderes5_p3",
       "n_esl": 6,
       "generados": 6,
@@ -6853,7 +6649,7 @@
       "es_reintento": false
     },
     {
-      "num": 570,
+      "num": 553,
       "nombre": "WEB_1006_poderes5_p4",
       "n_esl": 6,
       "generados": 6,
@@ -6865,7 +6661,7 @@
       "es_reintento": false
     },
     {
-      "num": 571,
+      "num": 554,
       "nombre": "MONTAR_1006_poderes5",
       "n_esl": 0,
       "generados": 0,
@@ -6877,7 +6673,7 @@
       "es_reintento": false
     },
     {
-      "num": 572,
+      "num": 555,
       "nombre": "ESC_CUM_AZAR",
       "n_esl": 1,
       "generados": 1,
@@ -6889,7 +6685,7 @@
       "es_reintento": false
     },
     {
-      "num": 573,
+      "num": 556,
       "nombre": "ESC_SON_BJ_G",
       "n_esl": 1,
       "generados": 1,
@@ -6901,7 +6697,7 @@
       "es_reintento": false
     },
     {
-      "num": 574,
+      "num": 557,
       "nombre": "ESC_BULGE_DILDO2",
       "n_esl": 1,
       "generados": 1,
@@ -6913,7 +6709,7 @@
       "es_reintento": false
     },
     {
-      "num": 575,
+      "num": 558,
       "nombre": "WEB_1006_kage_cris",
       "n_esl": 10,
       "generados": 10,
@@ -6925,7 +6721,7 @@
       "es_reintento": false
     },
     {
-      "num": 576,
+      "num": 559,
       "nombre": "FICHA_MOON_CARA_COLEGIALA",
       "n_esl": 1,
       "generados": 1,
@@ -6937,7 +6733,7 @@
       "es_reintento": false
     },
     {
-      "num": 577,
+      "num": 560,
       "nombre": "FICHA_MOON_CARA_SECRETARIA",
       "n_esl": 1,
       "generados": 1,
@@ -6949,7 +6745,7 @@
       "es_reintento": false
     },
     {
-      "num": 578,
+      "num": 561,
       "nombre": "FICHA_MOON_CARA_ENFERMERA",
       "n_esl": 1,
       "generados": 1,
@@ -6961,7 +6757,7 @@
       "es_reintento": false
     },
     {
-      "num": 579,
+      "num": 562,
       "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
       "n_esl": 1,
       "generados": 1,
@@ -6973,7 +6769,7 @@
       "es_reintento": false
     },
     {
-      "num": 580,
+      "num": 563,
       "nombre": "FICHA_MOON_CARA_INTERIOR",
       "n_esl": 1,
       "generados": 1,
