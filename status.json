@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-07 19:26:50",
+  "timestamp": "2026-10-07 19:33:29",
   "corriendo": {
     "nombre": "WEB_1002_yate_p1",
     "hora": "18:35",
-    "eslabon_actual": 9,
+    "eslabon_actual": 10,
     "eslabon_total": 11,
-    "horas_rest": 0.37999999999999995,
+    "horas_rest": 0.2533333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 9,
+      "num_esl": 10,
       "tot_esl": 11,
-      "elapsed": 35,
+      "elapsed": 0,
       "paso_num": 1,
       "paso_str": "Esperando hueco de GPU",
       "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 2810,
+    "eslabones_hechos": 2811,
     "eslabones_totales": 2813,
-    "horas_hechas": 340.7083333333319,
-    "horas_restantes": 0.38,
-    "fecha_fin_estimada": "Mié 07/10 19:49"
+    "horas_hechas": 340.83499999999856,
+    "horas_restantes": 0.25333333333333335,
+    "fecha_fin_estimada": "Mié 07/10 19:48"
   },
   "items": [
     {
@@ -7144,9 +7144,9 @@
       "num": 594,
       "nombre": "WEB_1002_yate_p1",
       "n_esl": 11,
-      "generados": 8,
+      "generados": 9,
       "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Mié 07/10 19:49",
+      "eta_txt": "Termina: Mié 07/10 19:48",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
