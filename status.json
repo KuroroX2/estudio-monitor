@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-06 23:25:25",
+  "timestamp": "2026-10-06 23:30:24",
   "corriendo": {
     "nombre": "DOMI_P3_v1",
-    "hora": "23:24",
+    "hora": "23:23",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 58,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 20,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2684,
+    "eslabones_hechos": 2685,
     "eslabones_totales": 2687,
-    "horas_hechas": 324.748333333332,
-    "horas_restantes": 0.38,
-    "fecha_fin_estimada": "Mar 06/10 23:48"
+    "horas_hechas": 324.8749999999987,
+    "horas_restantes": 0.25333333333333335,
+    "fecha_fin_estimada": "Mar 06/10 23:45"
   },
   "items": [
     {
@@ -4888,9 +4888,9 @@
       "num": 406,
       "nombre": "DOMI_P3_v1",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 23:33",
+      "eta_txt": "Termina: Mar 06/10 23:30",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -4902,7 +4902,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 23:40",
+      "eta_txt": "Termina: Mar 06/10 23:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -6834,7 +6834,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 06/10 23:48",
+      "eta_txt": "Termina: Mar 06/10 23:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
