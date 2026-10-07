@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-07 00:12:11",
+  "timestamp": "2026-10-07 00:17:12",
   "corriendo": {
     "nombre": "DOMI_P4_v1",
     "hora": "00:11",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 36,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 1,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2691,
+    "eslabones_hechos": 2692,
     "eslabones_totales": 2693,
-    "horas_hechas": 325.6349999999987,
-    "horas_restantes": 0.25333333333333335,
-    "fecha_fin_estimada": "Mié 07/10 00:27"
+    "horas_hechas": 325.76166666666535,
+    "horas_restantes": 0.12666666666666668,
+    "fecha_fin_estimada": "Mié 07/10 00:24"
   },
   "items": [
     {
@@ -4972,9 +4972,9 @@
       "num": 413,
       "nombre": "DOMI_P4_v1",
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mié 07/10 00:19",
+      "eta_txt": "Termina: Mié 07/10 00:17",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -6906,7 +6906,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mié 07/10 00:27",
+      "eta_txt": "Termina: Mié 07/10 00:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
