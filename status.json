@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08 04:09:21",
+  "timestamp": "2026-10-08 04:10:31",
   "corriendo": {
     "nombre": "WEB_1007_idea_i_clon",
     "hora": "03:58",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 304,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 374,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2861,
+    "eslabones_hechos": 2862,
     "eslabones_totales": 2871,
-    "horas_hechas": 347.1683333333318,
-    "horas_restantes": 1.2666666666666666,
-    "fecha_fin_estimada": "Jue 08/10 05:25"
+    "horas_hechas": 347.2949999999985,
+    "horas_restantes": 1.14,
+    "fecha_fin_estimada": "Jue 08/10 05:18"
   },
   "items": [
     {
@@ -7444,9 +7444,9 @@
       "num": 619,
       "nombre": "WEB_1007_idea_i_clon",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 08/10 04:16",
+      "eta_txt": "Termina: Jue 08/10 04:10",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -7458,7 +7458,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 08/10 04:32",
+      "eta_txt": "Termina: Jue 08/10 04:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7470,7 +7470,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Jue 08/10 05:25",
+      "eta_txt": "Termina: Jue 08/10 05:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7482,7 +7482,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 05:25",
+      "eta_txt": "Termina: Jue 08/10 05:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7494,7 +7494,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 05:25",
+      "eta_txt": "Termina: Jue 08/10 05:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
