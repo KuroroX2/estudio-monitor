@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08 09:02:27",
+  "timestamp": "2026-10-08 09:13:54",
   "corriendo": {
     "nombre": "WEB_1007_fembot2_p1",
     "hora": "07:05",
@@ -10,18 +10,18 @@
     "clip_info": {
       "num_esl": 18,
       "tot_esl": 18,
-      "elapsed": 8,
+      "elapsed": 660,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
     "eslabones_hechos": 2901,
-    "eslabones_totales": 3451,
+    "eslabones_totales": 3474,
     "horas_hechas": 352.2349999999984,
-    "horas_restantes": 69.66666666666667,
-    "fecha_fin_estimada": "Dom 11/10 06:42"
+    "horas_restantes": 72.58,
+    "fecha_fin_estimada": "Dom 11/10 09:48"
   },
   "items": [
     {
@@ -5294,78 +5294,6 @@
     },
     {
       "num": 440,
-      "nombre": "WEB_1007_camara_oculta_p1",
-      "n_esl": 8,
-      "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Jue 08/10 10:03",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 441,
-      "nombre": "WEB_1007_camara_oculta_p2",
-      "n_esl": 11,
-      "generados": 0,
-      "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Jue 08/10 11:26",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 442,
-      "nombre": "MONTAR_1007_camara_oculta",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 11:26",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 443,
-      "nombre": "WEB_1007_rei_p1",
-      "n_esl": 9,
-      "generados": 0,
-      "horas": 1.14,
-      "eta_txt": "Termina: Jue 08/10 12:35",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 444,
-      "nombre": "WEB_1007_rei_p2",
-      "n_esl": 15,
-      "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Jue 08/10 14:29",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 445,
-      "nombre": "MONTAR_1007_rei",
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 14:29",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 446,
       "nombre": "ESC_E8B_SUN",
       "n_esl": 20,
       "generados": 20,
@@ -5377,7 +5305,7 @@
       "es_reintento": false
     },
     {
-      "num": 447,
+      "num": 441,
       "nombre": "JOTA_EXTRA_RESTANTES",
       "n_esl": 126,
       "generados": 126,
@@ -5389,7 +5317,7 @@
       "es_reintento": false
     },
     {
-      "num": 448,
+      "num": 442,
       "nombre": "FICHA_VISUAL_V3",
       "n_esl": 175,
       "generados": 175,
@@ -5401,7 +5329,7 @@
       "es_reintento": false
     },
     {
-      "num": 449,
+      "num": 443,
       "nombre": "ESC_E0H_DARKY",
       "n_esl": 1,
       "generados": 1,
@@ -5413,7 +5341,7 @@
       "es_reintento": false
     },
     {
-      "num": 450,
+      "num": 444,
       "nombre": "ESC_E1_DARKY",
       "n_esl": 2,
       "generados": 2,
@@ -5425,7 +5353,7 @@
       "es_reintento": false
     },
     {
-      "num": 451,
+      "num": 445,
       "nombre": "ESC_COW8",
       "n_esl": 1,
       "generados": 1,
@@ -5437,7 +5365,7 @@
       "es_reintento": false
     },
     {
-      "num": 452,
+      "num": 446,
       "nombre": "ESC_COW12",
       "n_esl": 1,
       "generados": 1,
@@ -5449,7 +5377,7 @@
       "es_reintento": false
     },
     {
-      "num": 453,
+      "num": 447,
       "nombre": "ESC_COW13",
       "n_esl": 1,
       "generados": 1,
@@ -5461,7 +5389,7 @@
       "es_reintento": false
     },
     {
-      "num": 454,
+      "num": 448,
       "nombre": "ESC_COW9",
       "n_esl": 1,
       "generados": 1,
@@ -5473,7 +5401,7 @@
       "es_reintento": false
     },
     {
-      "num": 455,
+      "num": 449,
       "nombre": "WEB_0929_pijamada_pov3_p2",
       "n_esl": 4,
       "generados": 4,
@@ -5485,7 +5413,7 @@
       "es_reintento": false
     },
     {
-      "num": 456,
+      "num": 450,
       "nombre": "ESC_COW10",
       "n_esl": 1,
       "generados": 1,
@@ -5497,7 +5425,7 @@
       "es_reintento": false
     },
     {
-      "num": 457,
+      "num": 451,
       "nombre": "ESC_COW11",
       "n_esl": 1,
       "generados": 1,
@@ -5509,7 +5437,7 @@
       "es_reintento": false
     },
     {
-      "num": 458,
+      "num": 452,
       "nombre": "ESC_MULTI_REV",
       "n_esl": 7,
       "generados": 7,
@@ -5521,7 +5449,7 @@
       "es_reintento": false
     },
     {
-      "num": 459,
+      "num": 453,
       "nombre": "ESC_MULTI_DOG",
       "n_esl": 6,
       "generados": 6,
@@ -5533,7 +5461,7 @@
       "es_reintento": false
     },
     {
-      "num": 460,
+      "num": 454,
       "nombre": "SAILOR_REFVIDEO",
       "n_esl": 2,
       "generados": 2,
@@ -5545,7 +5473,7 @@
       "es_reintento": false
     },
     {
-      "num": 461,
+      "num": 455,
       "nombre": "SAILOR_PS",
       "n_esl": 7,
       "generados": 7,
@@ -5557,7 +5485,7 @@
       "es_reintento": false
     },
     {
-      "num": 462,
+      "num": 456,
       "nombre": "SAILOR_REFVIDEO_MIN",
       "n_esl": 1,
       "generados": 1,
@@ -5569,7 +5497,7 @@
       "es_reintento": false
     },
     {
-      "num": 463,
+      "num": 457,
       "nombre": "ESC_MULTI_DOG2",
       "n_esl": 7,
       "generados": 7,
@@ -5581,7 +5509,7 @@
       "es_reintento": false
     },
     {
-      "num": 464,
+      "num": 458,
       "nombre": "ESC_DESP_ESTAB",
       "n_esl": 1,
       "generados": 1,
@@ -5593,7 +5521,7 @@
       "es_reintento": false
     },
     {
-      "num": 465,
+      "num": 459,
       "nombre": "ESC_DESP_D1",
       "n_esl": 1,
       "generados": 1,
@@ -5605,7 +5533,7 @@
       "es_reintento": false
     },
     {
-      "num": 466,
+      "num": 460,
       "nombre": "ESC_DESP_D2",
       "n_esl": 1,
       "generados": 1,
@@ -5617,7 +5545,7 @@
       "es_reintento": false
     },
     {
-      "num": 467,
+      "num": 461,
       "nombre": "SAILOR_V3",
       "n_esl": 9,
       "generados": 9,
@@ -5629,7 +5557,7 @@
       "es_reintento": false
     },
     {
-      "num": 468,
+      "num": 462,
       "nombre": "ESC_MULTI_DOG3",
       "n_esl": 6,
       "generados": 6,
@@ -5641,7 +5569,7 @@
       "es_reintento": false
     },
     {
-      "num": 469,
+      "num": 463,
       "nombre": "ESC_DESP_D3",
       "n_esl": 3,
       "generados": 3,
@@ -5653,7 +5581,7 @@
       "es_reintento": false
     },
     {
-      "num": 470,
+      "num": 464,
       "nombre": "ESC_DESP_M1",
       "n_esl": 1,
       "generados": 1,
@@ -5665,7 +5593,7 @@
       "es_reintento": false
     },
     {
-      "num": 471,
+      "num": 465,
       "nombre": "ESC_DESP_M2",
       "n_esl": 1,
       "generados": 1,
@@ -5677,7 +5605,7 @@
       "es_reintento": false
     },
     {
-      "num": 472,
+      "num": 466,
       "nombre": "ESC_DESP_M3",
       "n_esl": 3,
       "generados": 3,
@@ -5689,7 +5617,7 @@
       "es_reintento": false
     },
     {
-      "num": 473,
+      "num": 467,
       "nombre": "ESC_DESP_V1",
       "n_esl": 1,
       "generados": 1,
@@ -5701,7 +5629,7 @@
       "es_reintento": false
     },
     {
-      "num": 474,
+      "num": 468,
       "nombre": "ESC_DESP_V2",
       "n_esl": 1,
       "generados": 1,
@@ -5713,7 +5641,7 @@
       "es_reintento": false
     },
     {
-      "num": 475,
+      "num": 469,
       "nombre": "ESC_DESP_V3",
       "n_esl": 3,
       "generados": 3,
@@ -5725,7 +5653,7 @@
       "es_reintento": false
     },
     {
-      "num": 476,
+      "num": 470,
       "nombre": "SAILOR_CLAVES",
       "n_esl": 6,
       "generados": 6,
@@ -5737,7 +5665,7 @@
       "es_reintento": false
     },
     {
-      "num": 477,
+      "num": 471,
       "nombre": "SAILOR_V4",
       "n_esl": 17,
       "generados": 17,
@@ -5749,7 +5677,7 @@
       "es_reintento": false
     },
     {
-      "num": 478,
+      "num": 472,
       "nombre": "SAILOR_VIDEO1",
       "n_esl": 2,
       "generados": 2,
@@ -5761,7 +5689,7 @@
       "es_reintento": false
     },
     {
-      "num": 479,
+      "num": 473,
       "nombre": "ESC_CI_SUELO",
       "n_esl": 1,
       "generados": 1,
@@ -5773,7 +5701,7 @@
       "es_reintento": false
     },
     {
-      "num": 480,
+      "num": 474,
       "nombre": "ESC_PM_QUIETA",
       "n_esl": 1,
       "generados": 1,
@@ -5785,7 +5713,7 @@
       "es_reintento": false
     },
     {
-      "num": 481,
+      "num": 475,
       "nombre": "ESC_PM_ORBITA",
       "n_esl": 1,
       "generados": 1,
@@ -5797,7 +5725,7 @@
       "es_reintento": false
     },
     {
-      "num": 482,
+      "num": 476,
       "nombre": "ESC_PM_PERRITA",
       "n_esl": 1,
       "generados": 1,
@@ -5809,7 +5737,7 @@
       "es_reintento": false
     },
     {
-      "num": 483,
+      "num": 477,
       "nombre": "ESC_PM_GALLINA",
       "n_esl": 1,
       "generados": 1,
@@ -5821,7 +5749,7 @@
       "es_reintento": false
     },
     {
-      "num": 484,
+      "num": 478,
       "nombre": "ESC_PM_PREMIO",
       "n_esl": 5,
       "generados": 5,
@@ -5833,7 +5761,7 @@
       "es_reintento": false
     },
     {
-      "num": 485,
+      "num": 479,
       "nombre": "ESC_PM_ANAL",
       "n_esl": 3,
       "generados": 3,
@@ -5845,7 +5773,7 @@
       "es_reintento": false
     },
     {
-      "num": 486,
+      "num": 480,
       "nombre": "ESC_PM_ANAL_SIN",
       "n_esl": 3,
       "generados": 3,
@@ -5857,7 +5785,7 @@
       "es_reintento": false
     },
     {
-      "num": 487,
+      "num": 481,
       "nombre": "ESC_PM_FINAL",
       "n_esl": 3,
       "generados": 3,
@@ -5869,7 +5797,7 @@
       "es_reintento": false
     },
     {
-      "num": 488,
+      "num": 482,
       "nombre": "WEB_0930_clausula2_p3",
       "n_esl": 2,
       "generados": 2,
@@ -5881,7 +5809,7 @@
       "es_reintento": false
     },
     {
-      "num": 489,
+      "num": 483,
       "nombre": "MONTAR_0930_clausula2",
       "n_esl": 0,
       "generados": 0,
@@ -5893,7 +5821,7 @@
       "es_reintento": false
     },
     {
-      "num": 490,
+      "num": 484,
       "nombre": "WEB_0930_darky_dildo2_p1",
       "n_esl": 14,
       "generados": 14,
@@ -5905,7 +5833,7 @@
       "es_reintento": false
     },
     {
-      "num": 491,
+      "num": 485,
       "nombre": "WEB_0930_darky_dildo2_p2",
       "n_esl": 12,
       "generados": 12,
@@ -5917,7 +5845,7 @@
       "es_reintento": false
     },
     {
-      "num": 492,
+      "num": 486,
       "nombre": "WEB_0930_darky_dildo2_p3",
       "n_esl": 8,
       "generados": 8,
@@ -5929,7 +5857,7 @@
       "es_reintento": false
     },
     {
-      "num": 493,
+      "num": 487,
       "nombre": "WEB_0930_rockstar2",
       "n_esl": 13,
       "generados": 13,
@@ -5941,7 +5869,7 @@
       "es_reintento": false
     },
     {
-      "num": 494,
+      "num": 488,
       "nombre": "ESC_CR_CONTROL",
       "n_esl": 2,
       "generados": 2,
@@ -5953,7 +5881,7 @@
       "es_reintento": false
     },
     {
-      "num": 495,
+      "num": 489,
       "nombre": "ESC_CR_CONTROL_RO",
       "n_esl": 2,
       "generados": 2,
@@ -5965,7 +5893,7 @@
       "es_reintento": false
     },
     {
-      "num": 496,
+      "num": 490,
       "nombre": "ESC_CR_JUNTAS",
       "n_esl": 1,
       "generados": 1,
@@ -5977,7 +5905,7 @@
       "es_reintento": false
     },
     {
-      "num": 497,
+      "num": 491,
       "nombre": "ESC_CR_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -5989,7 +5917,7 @@
       "es_reintento": false
     },
     {
-      "num": 498,
+      "num": 492,
       "nombre": "ESC_CR_LOCURA_RO",
       "n_esl": 1,
       "generados": 1,
@@ -6001,7 +5929,7 @@
       "es_reintento": false
     },
     {
-      "num": 499,
+      "num": 493,
       "nombre": "ESC_CR_CUERPOS",
       "n_esl": 2,
       "generados": 2,
@@ -6013,7 +5941,7 @@
       "es_reintento": false
     },
     {
-      "num": 500,
+      "num": 494,
       "nombre": "ESC_RO_NIVELES",
       "n_esl": 5,
       "generados": 5,
@@ -6025,7 +5953,7 @@
       "es_reintento": false
     },
     {
-      "num": 501,
+      "num": 495,
       "nombre": "ESC_ANAL_MX_MIS",
       "n_esl": 1,
       "generados": 1,
@@ -6037,7 +5965,7 @@
       "es_reintento": false
     },
     {
-      "num": 502,
+      "num": 496,
       "nombre": "ESC_PM_PREMIO_RO",
       "n_esl": 5,
       "generados": 5,
@@ -6049,7 +5977,7 @@
       "es_reintento": false
     },
     {
-      "num": 503,
+      "num": 497,
       "nombre": "ESC_ANAL_MX_DOGGY",
       "n_esl": 1,
       "generados": 1,
@@ -6061,7 +5989,7 @@
       "es_reintento": false
     },
     {
-      "num": 504,
+      "num": 498,
       "nombre": "ESC_CR_FINAL_RODILLAS",
       "n_esl": 1,
       "generados": 1,
@@ -6073,7 +6001,7 @@
       "es_reintento": false
     },
     {
-      "num": 505,
+      "num": 499,
       "nombre": "ESC_CI_POV_ELLA",
       "n_esl": 2,
       "generados": 2,
@@ -6085,7 +6013,7 @@
       "es_reintento": false
     },
     {
-      "num": 506,
+      "num": 500,
       "nombre": "ESC_CI_CAMARA",
       "n_esl": 1,
       "generados": 1,
@@ -6097,7 +6025,7 @@
       "es_reintento": false
     },
     {
-      "num": 507,
+      "num": 501,
       "nombre": "ESC_CI_LOCURA",
       "n_esl": 1,
       "generados": 1,
@@ -6109,7 +6037,7 @@
       "es_reintento": false
     },
     {
-      "num": 508,
+      "num": 502,
       "nombre": "ESC_PM_PREMIO_RO2",
       "n_esl": 5,
       "generados": 5,
@@ -6121,7 +6049,7 @@
       "es_reintento": false
     },
     {
-      "num": 509,
+      "num": 503,
       "nombre": "ESC_ANAL_MX_REV",
       "n_esl": 1,
       "generados": 1,
@@ -6133,7 +6061,7 @@
       "es_reintento": false
     },
     {
-      "num": 510,
+      "num": 504,
       "nombre": "ESC_ANAL_MX_CUCHARA",
       "n_esl": 1,
       "generados": 1,
@@ -6145,7 +6073,7 @@
       "es_reintento": false
     },
     {
-      "num": 511,
+      "num": 505,
       "nombre": "ESC_ANAL_MX_PIE",
       "n_esl": 1,
       "generados": 1,
@@ -6157,7 +6085,7 @@
       "es_reintento": false
     },
     {
-      "num": 512,
+      "num": 506,
       "nombre": "ESC_THUMB",
       "n_esl": 1,
       "generados": 1,
@@ -6169,7 +6097,7 @@
       "es_reintento": false
     },
     {
-      "num": 513,
+      "num": 507,
       "nombre": "ESC_CR_JUNTAS_RO",
       "n_esl": 1,
       "generados": 1,
@@ -6181,7 +6109,7 @@
       "es_reintento": false
     },
     {
-      "num": 514,
+      "num": 508,
       "nombre": "ESC_RO_EXTREMO",
       "n_esl": 4,
       "generados": 4,
@@ -6193,7 +6121,7 @@
       "es_reintento": false
     },
     {
-      "num": 515,
+      "num": 509,
       "nombre": "ESC_GB_MY",
       "n_esl": 1,
       "generados": 1,
@@ -6205,7 +6133,7 @@
       "es_reintento": false
     },
     {
-      "num": 516,
+      "num": 510,
       "nombre": "ESC_GB_DT",
       "n_esl": 1,
       "generados": 1,
@@ -6217,7 +6145,7 @@
       "es_reintento": false
     },
     {
-      "num": 517,
+      "num": 511,
       "nombre": "ESC_PM_PREMIO_RO3",
       "n_esl": 5,
       "generados": 5,
@@ -6229,7 +6157,7 @@
       "es_reintento": false
     },
     {
-      "num": 518,
+      "num": 512,
       "nombre": "ESC_THUMB2",
       "n_esl": 1,
       "generados": 1,
@@ -6241,7 +6169,7 @@
       "es_reintento": false
     },
     {
-      "num": 519,
+      "num": 513,
       "nombre": "MONTAR_0930_darky_dildo2",
       "n_esl": 0,
       "generados": 0,
@@ -6253,7 +6181,7 @@
       "es_reintento": false
     },
     {
-      "num": 520,
+      "num": 514,
       "nombre": "MONTAR_0930_rockstar2",
       "n_esl": 0,
       "generados": 0,
@@ -6265,7 +6193,7 @@
       "es_reintento": false
     },
     {
-      "num": 521,
+      "num": 515,
       "nombre": "WEB_0930_pais_mujeres2",
       "n_esl": 12,
       "generados": 12,
@@ -6277,7 +6205,7 @@
       "es_reintento": false
     },
     {
-      "num": 522,
+      "num": 516,
       "nombre": "MONTAR_0930_pais_mujeres2",
       "n_esl": 0,
       "generados": 0,
@@ -6289,7 +6217,7 @@
       "es_reintento": false
     },
     {
-      "num": 523,
+      "num": 517,
       "nombre": "WEB_0930_lenceria_moon",
       "n_esl": 11,
       "generados": 11,
@@ -6301,7 +6229,7 @@
       "es_reintento": false
     },
     {
-      "num": 524,
+      "num": 518,
       "nombre": "ESC_GB2_MY",
       "n_esl": 1,
       "generados": 1,
@@ -6313,7 +6241,7 @@
       "es_reintento": false
     },
     {
-      "num": 525,
+      "num": 519,
       "nombre": "ESC_GB2_DT",
       "n_esl": 1,
       "generados": 1,
@@ -6325,7 +6253,7 @@
       "es_reintento": false
     },
     {
-      "num": 526,
+      "num": 520,
       "nombre": "ESC_THUMB3",
       "n_esl": 1,
       "generados": 1,
@@ -6337,7 +6265,7 @@
       "es_reintento": false
     },
     {
-      "num": 527,
+      "num": 521,
       "nombre": "WEB_0930_aonuk_calle_p1",
       "n_esl": 17,
       "generados": 17,
@@ -6349,7 +6277,7 @@
       "es_reintento": false
     },
     {
-      "num": 528,
+      "num": 522,
       "nombre": "WEB_0930_aonuk_calle_p2",
       "n_esl": 11,
       "generados": 11,
@@ -6361,7 +6289,7 @@
       "es_reintento": false
     },
     {
-      "num": 529,
+      "num": 523,
       "nombre": "WEB_0930_aonuk_calle_p3",
       "n_esl": 9,
       "generados": 9,
@@ -6373,7 +6301,7 @@
       "es_reintento": false
     },
     {
-      "num": 530,
+      "num": 524,
       "nombre": "WEB_0930_aonuk_calle_p4",
       "n_esl": 8,
       "generados": 8,
@@ -6385,7 +6313,7 @@
       "es_reintento": false
     },
     {
-      "num": 531,
+      "num": 525,
       "nombre": "MONTAR_0930_aonuk_calle",
       "n_esl": 0,
       "generados": 0,
@@ -6397,7 +6325,7 @@
       "es_reintento": false
     },
     {
-      "num": 532,
+      "num": 526,
       "nombre": "WEB_0930_darky_poderes_v3",
       "n_esl": 20,
       "generados": 20,
@@ -6409,7 +6337,7 @@
       "es_reintento": false
     },
     {
-      "num": 533,
+      "num": 527,
       "nombre": "WEB_0930_control_remoto_inverso",
       "n_esl": 11,
       "generados": 11,
@@ -6421,7 +6349,7 @@
       "es_reintento": false
     },
     {
-      "num": 534,
+      "num": 528,
       "nombre": "WEB_0930_poderes3_p1",
       "n_esl": 16,
       "generados": 16,
@@ -6433,7 +6361,7 @@
       "es_reintento": false
     },
     {
-      "num": 535,
+      "num": 529,
       "nombre": "WEB_0930_poderes3_p2",
       "n_esl": 18,
       "generados": 18,
@@ -6445,7 +6373,7 @@
       "es_reintento": false
     },
     {
-      "num": 536,
+      "num": 530,
       "nombre": "WEB_0930_poderes3_p3",
       "n_esl": 5,
       "generados": 5,
@@ -6457,7 +6385,7 @@
       "es_reintento": false
     },
     {
-      "num": 537,
+      "num": 531,
       "nombre": "MONTAR_0930_poderes3",
       "n_esl": 0,
       "generados": 0,
@@ -6469,7 +6397,7 @@
       "es_reintento": false
     },
     {
-      "num": 538,
+      "num": 532,
       "nombre": "WEB_0930_control_remoto",
       "n_esl": 19,
       "generados": 19,
@@ -6481,7 +6409,7 @@
       "es_reintento": false
     },
     {
-      "num": 539,
+      "num": 533,
       "nombre": "WEB_1005_mago_p1",
       "n_esl": 13,
       "generados": 13,
@@ -6493,7 +6421,7 @@
       "es_reintento": false
     },
     {
-      "num": 540,
+      "num": 534,
       "nombre": "WEB_1005_mago_p2",
       "n_esl": 6,
       "generados": 6,
@@ -6505,7 +6433,7 @@
       "es_reintento": false
     },
     {
-      "num": 541,
+      "num": 535,
       "nombre": "WEB_1005_mago_p3",
       "n_esl": 7,
       "generados": 7,
@@ -6517,7 +6445,7 @@
       "es_reintento": false
     },
     {
-      "num": 542,
+      "num": 536,
       "nombre": "WEB_1005_mago_p4",
       "n_esl": 15,
       "generados": 15,
@@ -6529,7 +6457,7 @@
       "es_reintento": false
     },
     {
-      "num": 543,
+      "num": 537,
       "nombre": "WEB_1005_mago_p5",
       "n_esl": 6,
       "generados": 6,
@@ -6541,7 +6469,7 @@
       "es_reintento": false
     },
     {
-      "num": 544,
+      "num": 538,
       "nombre": "MONTAR_1005_mago",
       "n_esl": 0,
       "generados": 0,
@@ -6553,7 +6481,7 @@
       "es_reintento": false
     },
     {
-      "num": 545,
+      "num": 539,
       "nombre": "ESC_CUM_SEGUIDO",
       "n_esl": 1,
       "generados": 1,
@@ -6565,7 +6493,7 @@
       "es_reintento": false
     },
     {
-      "num": 546,
+      "num": 540,
       "nombre": "ESC_SON_BJ_A",
       "n_esl": 1,
       "generados": 1,
@@ -6577,7 +6505,7 @@
       "es_reintento": false
     },
     {
-      "num": 547,
+      "num": 541,
       "nombre": "ESC_SON_BJ_B",
       "n_esl": 1,
       "generados": 1,
@@ -6589,7 +6517,7 @@
       "es_reintento": false
     },
     {
-      "num": 548,
+      "num": 542,
       "nombre": "ESC_SNAP_A",
       "n_esl": 1,
       "generados": 1,
@@ -6601,7 +6529,7 @@
       "es_reintento": false
     },
     {
-      "num": 549,
+      "num": 543,
       "nombre": "ESC_SNAP_B",
       "n_esl": 1,
       "generados": 1,
@@ -6613,7 +6541,7 @@
       "es_reintento": false
     },
     {
-      "num": 550,
+      "num": 544,
       "nombre": "ESC_FIST",
       "n_esl": 1,
       "generados": 1,
@@ -6625,7 +6553,7 @@
       "es_reintento": false
     },
     {
-      "num": 551,
+      "num": 545,
       "nombre": "ESC_FIST_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6637,7 +6565,7 @@
       "es_reintento": false
     },
     {
-      "num": 552,
+      "num": 546,
       "nombre": "ESC_FIST_ANAL",
       "n_esl": 1,
       "generados": 1,
@@ -6649,7 +6577,7 @@
       "es_reintento": false
     },
     {
-      "num": 553,
+      "num": 547,
       "nombre": "ESC_TRANSF",
       "n_esl": 1,
       "generados": 1,
@@ -6661,7 +6589,7 @@
       "es_reintento": false
     },
     {
-      "num": 554,
+      "num": 548,
       "nombre": "ESC_TRANSF_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6673,7 +6601,7 @@
       "es_reintento": false
     },
     {
-      "num": 555,
+      "num": 549,
       "nombre": "ESC_BULGE",
       "n_esl": 1,
       "generados": 1,
@@ -6685,7 +6613,7 @@
       "es_reintento": false
     },
     {
-      "num": 556,
+      "num": 550,
       "nombre": "ESC_CUDDLE",
       "n_esl": 1,
       "generados": 1,
@@ -6697,7 +6625,7 @@
       "es_reintento": false
     },
     {
-      "num": 557,
+      "num": 551,
       "nombre": "ESC_THROB",
       "n_esl": 1,
       "generados": 1,
@@ -6709,7 +6637,7 @@
       "es_reintento": false
     },
     {
-      "num": 558,
+      "num": 552,
       "nombre": "ESC_JACKO",
       "n_esl": 1,
       "generados": 1,
@@ -6721,7 +6649,7 @@
       "es_reintento": false
     },
     {
-      "num": 559,
+      "num": 553,
       "nombre": "ESC_BACKROOM",
       "n_esl": 1,
       "generados": 1,
@@ -6733,7 +6661,7 @@
       "es_reintento": false
     },
     {
-      "num": 560,
+      "num": 554,
       "nombre": "ESC_MALEUNDRESS",
       "n_esl": 1,
       "generados": 1,
@@ -6745,7 +6673,7 @@
       "es_reintento": false
     },
     {
-      "num": 561,
+      "num": 555,
       "nombre": "ESC_FPOV",
       "n_esl": 1,
       "generados": 1,
@@ -6757,7 +6685,7 @@
       "es_reintento": false
     },
     {
-      "num": 562,
+      "num": 556,
       "nombre": "ESC_CARICIA",
       "n_esl": 1,
       "generados": 1,
@@ -6769,7 +6697,7 @@
       "es_reintento": false
     },
     {
-      "num": 563,
+      "num": 557,
       "nombre": "ESC_SYNTH",
       "n_esl": 1,
       "generados": 1,
@@ -6781,7 +6709,7 @@
       "es_reintento": false
     },
     {
-      "num": 564,
+      "num": 558,
       "nombre": "ESC_GROPING",
       "n_esl": 1,
       "generados": 1,
@@ -6793,7 +6721,7 @@
       "es_reintento": false
     },
     {
-      "num": 565,
+      "num": 559,
       "nombre": "ESC_TF_AUTOR",
       "n_esl": 1,
       "generados": 1,
@@ -6805,7 +6733,7 @@
       "es_reintento": false
     },
     {
-      "num": 566,
+      "num": 560,
       "nombre": "ESC_TF_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6817,7 +6745,7 @@
       "es_reintento": false
     },
     {
-      "num": 567,
+      "num": 561,
       "nombre": "ESC_TF_QUIETA",
       "n_esl": 1,
       "generados": 1,
@@ -6829,7 +6757,7 @@
       "es_reintento": false
     },
     {
-      "num": 568,
+      "num": 562,
       "nombre": "WEB_1001_rockstar3_p1",
       "n_esl": 8,
       "generados": 8,
@@ -6841,7 +6769,7 @@
       "es_reintento": false
     },
     {
-      "num": 569,
+      "num": 563,
       "nombre": "WEB_1001_rockstar3_p2",
       "n_esl": 13,
       "generados": 13,
@@ -6853,7 +6781,7 @@
       "es_reintento": false
     },
     {
-      "num": 570,
+      "num": 564,
       "nombre": "MONTAR_1001_rockstar3",
       "n_esl": 0,
       "generados": 0,
@@ -6865,7 +6793,7 @@
       "es_reintento": false
     },
     {
-      "num": 571,
+      "num": 565,
       "nombre": "ESC_CUM_SIN_FRENTE",
       "n_esl": 1,
       "generados": 1,
@@ -6877,7 +6805,7 @@
       "es_reintento": false
     },
     {
-      "num": 572,
+      "num": 566,
       "nombre": "ESC_CUM_SEGUIDO_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6889,7 +6817,7 @@
       "es_reintento": false
     },
     {
-      "num": 573,
+      "num": 567,
       "nombre": "ESC_SON_BJ_C",
       "n_esl": 1,
       "generados": 1,
@@ -6901,7 +6829,7 @@
       "es_reintento": false
     },
     {
-      "num": 574,
+      "num": 568,
       "nombre": "ESC_SON_BJ_D",
       "n_esl": 1,
       "generados": 1,
@@ -6913,7 +6841,7 @@
       "es_reintento": false
     },
     {
-      "num": 575,
+      "num": 569,
       "nombre": "ESC_FIST_CODO",
       "n_esl": 1,
       "generados": 1,
@@ -6925,7 +6853,7 @@
       "es_reintento": false
     },
     {
-      "num": 576,
+      "num": 570,
       "nombre": "ESC_FIST_DOGGY",
       "n_esl": 1,
       "generados": 1,
@@ -6937,7 +6865,7 @@
       "es_reintento": false
     },
     {
-      "num": 577,
+      "num": 571,
       "nombre": "ESC_BULGE2",
       "n_esl": 1,
       "generados": 1,
@@ -6949,7 +6877,7 @@
       "es_reintento": false
     },
     {
-      "num": 578,
+      "num": 572,
       "nombre": "ESC_BULGE3",
       "n_esl": 1,
       "generados": 1,
@@ -6961,7 +6889,7 @@
       "es_reintento": false
     },
     {
-      "num": 579,
+      "num": 573,
       "nombre": "ESC_CUDDLE2",
       "n_esl": 1,
       "generados": 1,
@@ -6973,7 +6901,7 @@
       "es_reintento": false
     },
     {
-      "num": 580,
+      "num": 574,
       "nombre": "ESC_BACKROOM2",
       "n_esl": 1,
       "generados": 1,
@@ -6985,7 +6913,7 @@
       "es_reintento": false
     },
     {
-      "num": 581,
+      "num": 575,
       "nombre": "ESC_MALEUNDRESS_SIN",
       "n_esl": 1,
       "generados": 1,
@@ -6997,7 +6925,7 @@
       "es_reintento": false
     },
     {
-      "num": 582,
+      "num": 576,
       "nombre": "ESC_TF2",
       "n_esl": 2,
       "generados": 2,
@@ -7009,7 +6937,7 @@
       "es_reintento": false
     },
     {
-      "num": 583,
+      "num": 577,
       "nombre": "ESC_TF2_SIN",
       "n_esl": 2,
       "generados": 2,
@@ -7021,7 +6949,7 @@
       "es_reintento": false
     },
     {
-      "num": 584,
+      "num": 578,
       "nombre": "WEB_0930_casting2",
       "n_esl": 13,
       "generados": 13,
@@ -7033,7 +6961,7 @@
       "es_reintento": false
     },
     {
-      "num": 585,
+      "num": 579,
       "nombre": "ESC_CUM_UN_SITIO",
       "n_esl": 1,
       "generados": 1,
@@ -7045,7 +6973,7 @@
       "es_reintento": false
     },
     {
-      "num": 586,
+      "num": 580,
       "nombre": "ESC_CUM_SIN_TEXTURA",
       "n_esl": 1,
       "generados": 1,
@@ -7057,7 +6985,7 @@
       "es_reintento": false
     },
     {
-      "num": 587,
+      "num": 581,
       "nombre": "ESC_SON_BJ_E",
       "n_esl": 1,
       "generados": 1,
@@ -7069,7 +6997,7 @@
       "es_reintento": false
     },
     {
-      "num": 588,
+      "num": 582,
       "nombre": "ESC_SON_BJ_F",
       "n_esl": 1,
       "generados": 1,
@@ -7081,7 +7009,7 @@
       "es_reintento": false
     },
     {
-      "num": 589,
+      "num": 583,
       "nombre": "ESC_FIST_DOGGY_CODO",
       "n_esl": 1,
       "generados": 1,
@@ -7093,7 +7021,7 @@
       "es_reintento": false
     },
     {
-      "num": 590,
+      "num": 584,
       "nombre": "ESC_BULGE_DILDO",
       "n_esl": 1,
       "generados": 1,
@@ -7105,7 +7033,7 @@
       "es_reintento": false
     },
     {
-      "num": 591,
+      "num": 585,
       "nombre": "ESC_BACKROOM3",
       "n_esl": 1,
       "generados": 1,
@@ -7117,7 +7045,7 @@
       "es_reintento": false
     },
     {
-      "num": 592,
+      "num": 586,
       "nombre": "WEB_1006_poderes5_p1",
       "n_esl": 16,
       "generados": 16,
@@ -7129,7 +7057,7 @@
       "es_reintento": false
     },
     {
-      "num": 593,
+      "num": 587,
       "nombre": "WEB_1006_poderes5_p2",
       "n_esl": 17,
       "generados": 17,
@@ -7141,7 +7069,7 @@
       "es_reintento": false
     },
     {
-      "num": 594,
+      "num": 588,
       "nombre": "WEB_1006_poderes5_p3",
       "n_esl": 6,
       "generados": 6,
@@ -7153,7 +7081,7 @@
       "es_reintento": false
     },
     {
-      "num": 595,
+      "num": 589,
       "nombre": "WEB_1006_poderes5_p4",
       "n_esl": 6,
       "generados": 6,
@@ -7165,7 +7093,7 @@
       "es_reintento": false
     },
     {
-      "num": 596,
+      "num": 590,
       "nombre": "MONTAR_1006_poderes5",
       "n_esl": 0,
       "generados": 0,
@@ -7177,7 +7105,7 @@
       "es_reintento": false
     },
     {
-      "num": 597,
+      "num": 591,
       "nombre": "ESC_CUM_AZAR",
       "n_esl": 1,
       "generados": 1,
@@ -7189,7 +7117,7 @@
       "es_reintento": false
     },
     {
-      "num": 598,
+      "num": 592,
       "nombre": "ESC_SON_BJ_G",
       "n_esl": 1,
       "generados": 1,
@@ -7201,7 +7129,7 @@
       "es_reintento": false
     },
     {
-      "num": 599,
+      "num": 593,
       "nombre": "ESC_BULGE_DILDO2",
       "n_esl": 1,
       "generados": 1,
@@ -7213,7 +7141,7 @@
       "es_reintento": false
     },
     {
-      "num": 600,
+      "num": 594,
       "nombre": "WEB_1006_kage_cris",
       "n_esl": 10,
       "generados": 10,
@@ -7225,7 +7153,7 @@
       "es_reintento": false
     },
     {
-      "num": 601,
+      "num": 595,
       "nombre": "FICHA_MOON_CARA_COLEGIALA",
       "n_esl": 1,
       "generados": 1,
@@ -7237,7 +7165,7 @@
       "es_reintento": false
     },
     {
-      "num": 602,
+      "num": 596,
       "nombre": "FICHA_MOON_CARA_SECRETARIA",
       "n_esl": 1,
       "generados": 1,
@@ -7249,7 +7177,7 @@
       "es_reintento": false
     },
     {
-      "num": 603,
+      "num": 597,
       "nombre": "FICHA_MOON_CARA_ENFERMERA",
       "n_esl": 1,
       "generados": 1,
@@ -7261,7 +7189,7 @@
       "es_reintento": false
     },
     {
-      "num": 604,
+      "num": 598,
       "nombre": "FICHA_MOON_CARA_TOP_BLANCO_MINIFALDA",
       "n_esl": 1,
       "generados": 1,
@@ -7273,7 +7201,7 @@
       "es_reintento": false
     },
     {
-      "num": 605,
+      "num": 599,
       "nombre": "FICHA_MOON_CARA_INTERIOR",
       "n_esl": 1,
       "generados": 1,
@@ -7285,7 +7213,7 @@
       "es_reintento": false
     },
     {
-      "num": 606,
+      "num": 600,
       "nombre": "ESC_SON_BJ_J",
       "n_esl": 1,
       "generados": 1,
@@ -7297,7 +7225,7 @@
       "es_reintento": false
     },
     {
-      "num": 607,
+      "num": 601,
       "nombre": "WEB_1007_fembot_p1",
       "n_esl": 18,
       "generados": 18,
@@ -7309,7 +7237,7 @@
       "es_reintento": false
     },
     {
-      "num": 608,
+      "num": 602,
       "nombre": "WEB_1007_fembot_p2",
       "n_esl": 13,
       "generados": 13,
@@ -7321,7 +7249,7 @@
       "es_reintento": false
     },
     {
-      "num": 609,
+      "num": 603,
       "nombre": "WEB_1007_fembot_p3",
       "n_esl": 5,
       "generados": 5,
@@ -7333,7 +7261,7 @@
       "es_reintento": false
     },
     {
-      "num": 610,
+      "num": 604,
       "nombre": "WEB_1007_fembot_p4",
       "n_esl": 7,
       "generados": 7,
@@ -7345,7 +7273,7 @@
       "es_reintento": false
     },
     {
-      "num": 611,
+      "num": 605,
       "nombre": "MONTAR_1007_fembot",
       "n_esl": 0,
       "generados": 0,
@@ -7357,7 +7285,7 @@
       "es_reintento": false
     },
     {
-      "num": 612,
+      "num": 606,
       "nombre": "DOMI_FB_v2",
       "n_esl": 6,
       "generados": 6,
@@ -7369,7 +7297,7 @@
       "es_reintento": false
     },
     {
-      "num": 613,
+      "num": 607,
       "nombre": "DOMI_FC_v2",
       "n_esl": 4,
       "generados": 4,
@@ -7381,7 +7309,7 @@
       "es_reintento": false
     },
     {
-      "num": 614,
+      "num": 608,
       "nombre": "DOMI_MONTAJE_v2",
       "n_esl": 0,
       "generados": 0,
@@ -7393,7 +7321,7 @@
       "es_reintento": false
     },
     {
-      "num": 615,
+      "num": 609,
       "nombre": "DOMI_FB_v3",
       "n_esl": 6,
       "generados": 6,
@@ -7405,7 +7333,7 @@
       "es_reintento": false
     },
     {
-      "num": 616,
+      "num": 610,
       "nombre": "DOMI_FC_v3",
       "n_esl": 4,
       "generados": 4,
@@ -7417,7 +7345,7 @@
       "es_reintento": false
     },
     {
-      "num": 617,
+      "num": 611,
       "nombre": "DOMI_MONTAJE_v3",
       "n_esl": 0,
       "generados": 0,
@@ -7429,7 +7357,7 @@
       "es_reintento": false
     },
     {
-      "num": 618,
+      "num": 612,
       "nombre": "WEB_1006_kage2_p1",
       "n_esl": 10,
       "generados": 10,
@@ -7441,7 +7369,7 @@
       "es_reintento": false
     },
     {
-      "num": 619,
+      "num": 613,
       "nombre": "WEB_1006_kage2_p2",
       "n_esl": 20,
       "generados": 20,
@@ -7453,7 +7381,7 @@
       "es_reintento": false
     },
     {
-      "num": 620,
+      "num": 614,
       "nombre": "MONTAR_1006_kage2",
       "n_esl": 0,
       "generados": 0,
@@ -7465,7 +7393,7 @@
       "es_reintento": false
     },
     {
-      "num": 621,
+      "num": 615,
       "nombre": "WEB_1002_yate_p1",
       "n_esl": 11,
       "generados": 11,
@@ -7477,7 +7405,7 @@
       "es_reintento": false
     },
     {
-      "num": 622,
+      "num": 616,
       "nombre": "WEB_1002_yate_p2",
       "n_esl": 9,
       "generados": 9,
@@ -7489,7 +7417,7 @@
       "es_reintento": false
     },
     {
-      "num": 623,
+      "num": 617,
       "nombre": "YK_ANIME_PRUEBA",
       "n_esl": 8,
       "generados": 8,
@@ -7501,7 +7429,7 @@
       "es_reintento": false
     },
     {
-      "num": 624,
+      "num": 618,
       "nombre": "WEB_1007_idea_i_snap",
       "n_esl": 3,
       "generados": 3,
@@ -7513,7 +7441,7 @@
       "es_reintento": false
     },
     {
-      "num": 625,
+      "num": 619,
       "nombre": "WEB_1007_idea_i_clon",
       "n_esl": 2,
       "generados": 2,
@@ -7525,7 +7453,7 @@
       "es_reintento": false
     },
     {
-      "num": 626,
+      "num": 620,
       "nombre": "WEB_1007_idea_i_tiempo",
       "n_esl": 2,
       "generados": 2,
@@ -7537,7 +7465,7 @@
       "es_reintento": false
     },
     {
-      "num": 627,
+      "num": 621,
       "nombre": "YAMETE3",
       "n_esl": 7,
       "generados": 7,
@@ -7549,7 +7477,7 @@
       "es_reintento": false
     },
     {
-      "num": 628,
+      "num": 622,
       "nombre": "YAMETE_MONTAJE",
       "n_esl": 0,
       "generados": 0,
@@ -7561,7 +7489,7 @@
       "es_reintento": false
     },
     {
-      "num": 629,
+      "num": 623,
       "nombre": "WEB_1007_idea_i_tiempo2",
       "n_esl": 2,
       "generados": 2,
@@ -7573,7 +7501,7 @@
       "es_reintento": false
     },
     {
-      "num": 630,
+      "num": 624,
       "nombre": "DEVOLVER_COLA_NOCHE",
       "n_esl": 0,
       "generados": 0,
@@ -7585,7 +7513,7 @@
       "es_reintento": false
     },
     {
-      "num": 631,
+      "num": 625,
       "nombre": "POST_1002_yate_p2",
       "n_esl": 0,
       "generados": 0,
@@ -7597,7 +7525,7 @@
       "es_reintento": false
     },
     {
-      "num": 632,
+      "num": 626,
       "nombre": "MUSICA_PRUEBA",
       "n_esl": 0,
       "generados": 0,
@@ -7609,7 +7537,7 @@
       "es_reintento": false
     },
     {
-      "num": 633,
+      "num": 627,
       "nombre": "WEB_1002_yate_p3",
       "n_esl": 10,
       "generados": 10,
@@ -7621,7 +7549,7 @@
       "es_reintento": false
     },
     {
-      "num": 634,
+      "num": 628,
       "nombre": "COVER_PRUEBA",
       "n_esl": 0,
       "generados": 0,
@@ -7633,7 +7561,7 @@
       "es_reintento": false
     },
     {
-      "num": 635,
+      "num": 629,
       "nombre": "MONTAR_1002_yate",
       "n_esl": 0,
       "generados": 0,
@@ -7645,24 +7573,96 @@
       "es_reintento": false
     },
     {
-      "num": 636,
+      "num": 630,
       "nombre": "WEB_1007_fembot2_p1",
       "n_esl": 18,
       "generados": 18,
       "horas": 2.28,
-      "eta_txt": "Termina: Jue 08/10 14:29",
+      "eta_txt": "Termina: Jue 08/10 09:13",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 637,
+      "num": 631,
+      "nombre": "WEB_1008_hipno_s30_256",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Jue 08/10 09:21",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 632,
+      "nombre": "WEB_1008_hipno_s30_192",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Jue 08/10 09:29",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 633,
+      "nombre": "WEB_1008_hipno_s60_256",
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Jue 08/10 09:36",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 634,
+      "nombre": "MUSICA2",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Jue 08/10 09:36",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 635,
       "nombre": "WEB_1007_fembot2_p2",
       "n_esl": 18,
       "generados": 0,
       "horas": 2.28,
-      "eta_txt": "Termina: Jue 08/10 16:46",
+      "eta_txt": "Termina: Jue 08/10 11:53",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 636,
+      "nombre": "WEB_1007_fembot2_p3",
+      "n_esl": 6,
+      "generados": 0,
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Jue 08/10 12:39",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 637,
+      "nombre": "WEB_1007_fembot2_p4",
+      "n_esl": 9,
+      "generados": 0,
+      "horas": 1.14,
+      "eta_txt": "Termina: Jue 08/10 13:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7670,11 +7670,11 @@
     },
     {
       "num": 638,
-      "nombre": "WEB_1007_fembot2_p3",
-      "n_esl": 6,
+      "nombre": "MONTAR_1007_fembot2",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Jue 08/10 17:31",
+      "horas": 0.0,
+      "eta_txt": "Termina: Jue 08/10 13:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7682,11 +7682,11 @@
     },
     {
       "num": 639,
-      "nombre": "WEB_1007_fembot2_p4",
-      "n_esl": 9,
+      "nombre": "WEB_1008_duelo_plugs_p1",
+      "n_esl": 5,
       "generados": 0,
-      "horas": 1.14,
-      "eta_txt": "Termina: Jue 08/10 18:40",
+      "horas": 0.6333333333333333,
+      "eta_txt": "Termina: Jue 08/10 14:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7694,11 +7694,11 @@
     },
     {
       "num": 640,
-      "nombre": "MONTAR_1007_fembot2",
-      "n_esl": 0,
+      "nombre": "WEB_1008_duelo_plugs_p2",
+      "n_esl": 4,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 18:40",
+      "horas": 0.5066666666666666,
+      "eta_txt": "Termina: Jue 08/10 14:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7706,11 +7706,11 @@
     },
     {
       "num": 641,
-      "nombre": "WEB_1007_kage3_p1",
-      "n_esl": 10,
+      "nombre": "WEB_1008_duelo_plugs_p3",
+      "n_esl": 11,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Jue 08/10 19:56",
+      "horas": 1.3933333333333333,
+      "eta_txt": "Termina: Jue 08/10 16:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7718,11 +7718,11 @@
     },
     {
       "num": 642,
-      "nombre": "WEB_1007_kage3_p2",
-      "n_esl": 20,
+      "nombre": "MONTAR_1008_duelo_plugs",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 2.533333333333333,
-      "eta_txt": "Termina: Jue 08/10 22:28",
+      "horas": 0.0,
+      "eta_txt": "Termina: Jue 08/10 16:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7730,11 +7730,11 @@
     },
     {
       "num": 643,
-      "nombre": "MONTAR_1007_kage3",
-      "n_esl": 0,
+      "nombre": "WEB_1007_kage3_p1",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 22:28",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Jue 08/10 17:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7742,11 +7742,11 @@
     },
     {
       "num": 644,
-      "nombre": "WEB_1007_control_cerebral2_p1",
-      "n_esl": 10,
+      "nombre": "WEB_1007_kage3_p2",
+      "n_esl": 20,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Jue 08/10 23:44",
+      "horas": 2.533333333333333,
+      "eta_txt": "Termina: Jue 08/10 20:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7754,11 +7754,11 @@
     },
     {
       "num": 645,
-      "nombre": "WEB_1007_control_cerebral2_p2",
-      "n_esl": 10,
+      "nombre": "MONTAR_1007_kage3",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 09/10 01:00",
+      "horas": 0.0,
+      "eta_txt": "Termina: Jue 08/10 20:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7766,11 +7766,11 @@
     },
     {
       "num": 646,
-      "nombre": "WEB_1007_control_cerebral2_p3",
-      "n_esl": 5,
+      "nombre": "WEB_1007_control_cerebral2_p1",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Vie 09/10 01:38",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Jue 08/10 21:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7778,11 +7778,11 @@
     },
     {
       "num": 647,
-      "nombre": "WEB_1007_control_cerebral2_p4",
-      "n_esl": 8,
+      "nombre": "WEB_1007_control_cerebral2_p2",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 09/10 02:38",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Jue 08/10 22:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7790,11 +7790,11 @@
     },
     {
       "num": 648,
-      "nombre": "WEB_1007_control_cerebral2_p5",
-      "n_esl": 11,
+      "nombre": "WEB_1007_control_cerebral2_p3",
+      "n_esl": 5,
       "generados": 0,
-      "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Vie 09/10 04:02",
+      "horas": 0.6333333333333333,
+      "eta_txt": "Termina: Jue 08/10 23:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7802,11 +7802,11 @@
     },
     {
       "num": 649,
-      "nombre": "MONTAR_1007_control_cerebral2",
-      "n_esl": 0,
+      "nombre": "WEB_1007_control_cerebral2_p4",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 09/10 04:02",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Vie 09/10 00:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7814,11 +7814,11 @@
     },
     {
       "num": 650,
-      "nombre": "WEB_1007_sun_niveles_p1",
+      "nombre": "WEB_1007_control_cerebral2_p5",
       "n_esl": 11,
       "generados": 0,
       "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Vie 09/10 05:26",
+      "eta_txt": "Termina: Vie 09/10 01:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7826,11 +7826,11 @@
     },
     {
       "num": 651,
-      "nombre": "WEB_1007_sun_niveles_p2",
-      "n_esl": 16,
+      "nombre": "MONTAR_1007_control_cerebral2",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Vie 09/10 07:27",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 09/10 01:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7838,11 +7838,11 @@
     },
     {
       "num": 652,
-      "nombre": "WEB_1007_sun_niveles_p3",
-      "n_esl": 13,
+      "nombre": "WEB_1007_sun_niveles_p1",
+      "n_esl": 11,
       "generados": 0,
-      "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Vie 09/10 09:06",
+      "horas": 1.3933333333333333,
+      "eta_txt": "Termina: Vie 09/10 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7850,11 +7850,11 @@
     },
     {
       "num": 653,
-      "nombre": "MONTAR_1007_sun_niveles",
-      "n_esl": 0,
+      "nombre": "WEB_1007_sun_niveles_p2",
+      "n_esl": 16,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 09/10 09:06",
+      "horas": 2.0266666666666664,
+      "eta_txt": "Termina: Vie 09/10 05:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7862,11 +7862,11 @@
     },
     {
       "num": 654,
-      "nombre": "WEB_1006_mall3_p1",
-      "n_esl": 16,
+      "nombre": "WEB_1007_sun_niveles_p3",
+      "n_esl": 13,
       "generados": 0,
-      "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Vie 09/10 11:08",
+      "horas": 1.6466666666666667,
+      "eta_txt": "Termina: Vie 09/10 06:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7874,11 +7874,11 @@
     },
     {
       "num": 655,
-      "nombre": "WEB_1006_mall3_p2",
-      "n_esl": 9,
+      "nombre": "MONTAR_1007_sun_niveles",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.14,
-      "eta_txt": "Termina: Vie 09/10 12:16",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 09/10 06:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7886,11 +7886,11 @@
     },
     {
       "num": 656,
-      "nombre": "MONTAR_1006_mall3",
-      "n_esl": 0,
+      "nombre": "WEB_1006_mall3_p1",
+      "n_esl": 16,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 09/10 12:16",
+      "horas": 2.0266666666666664,
+      "eta_txt": "Termina: Vie 09/10 08:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7898,11 +7898,11 @@
     },
     {
       "num": 657,
-      "nombre": "WEB_1006_mago2_p1",
-      "n_esl": 15,
+      "nombre": "WEB_1006_mall3_p2",
+      "n_esl": 9,
       "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Vie 09/10 14:10",
+      "horas": 1.14,
+      "eta_txt": "Termina: Vie 09/10 09:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7910,11 +7910,11 @@
     },
     {
       "num": 658,
-      "nombre": "WEB_1006_mago2_p2",
-      "n_esl": 6,
+      "nombre": "MONTAR_1006_mall3",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Vie 09/10 14:56",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 09/10 09:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7922,11 +7922,11 @@
     },
     {
       "num": 659,
-      "nombre": "WEB_1006_mago2_p3",
-      "n_esl": 8,
+      "nombre": "WEB_1006_mago2_p1",
+      "n_esl": 15,
       "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 09/10 15:56",
+      "horas": 1.9,
+      "eta_txt": "Termina: Vie 09/10 11:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7934,11 +7934,11 @@
     },
     {
       "num": 660,
-      "nombre": "WEB_1006_mago2_p4",
-      "n_esl": 15,
+      "nombre": "WEB_1006_mago2_p2",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Vie 09/10 17:50",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Vie 09/10 12:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7946,11 +7946,11 @@
     },
     {
       "num": 661,
-      "nombre": "WEB_1006_mago2_p5",
-      "n_esl": 6,
+      "nombre": "WEB_1006_mago2_p3",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Vie 09/10 18:36",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Vie 09/10 13:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7958,11 +7958,11 @@
     },
     {
       "num": 662,
-      "nombre": "MONTAR_1006_mago2",
-      "n_esl": 0,
+      "nombre": "WEB_1006_mago2_p4",
+      "n_esl": 15,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 09/10 18:36",
+      "horas": 1.9,
+      "eta_txt": "Termina: Vie 09/10 15:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7970,11 +7970,11 @@
     },
     {
       "num": 663,
-      "nombre": "WEB_1006_control_ciudad2_p1",
-      "n_esl": 3,
+      "nombre": "WEB_1006_mago2_p5",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 09/10 18:59",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Vie 09/10 16:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7982,11 +7982,11 @@
     },
     {
       "num": 664,
-      "nombre": "WEB_1006_control_ciudad2_p2",
-      "n_esl": 1,
+      "nombre": "MONTAR_1006_mago2",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 09/10 19:06",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 09/10 16:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7994,11 +7994,11 @@
     },
     {
       "num": 665,
-      "nombre": "WEB_1006_control_ciudad2_p3",
-      "n_esl": 2,
+      "nombre": "WEB_1006_control_ciudad2_p1",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 09/10 19:22",
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Vie 09/10 16:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8006,11 +8006,11 @@
     },
     {
       "num": 666,
-      "nombre": "WEB_1006_control_ciudad2_p4",
-      "n_esl": 3,
+      "nombre": "WEB_1006_control_ciudad2_p2",
+      "n_esl": 1,
       "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 09/10 19:44",
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 09/10 16:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8018,11 +8018,11 @@
     },
     {
       "num": 667,
-      "nombre": "WEB_1006_control_ciudad2_p5",
-      "n_esl": 3,
+      "nombre": "WEB_1006_control_ciudad2_p3",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 09/10 20:07",
+      "horas": 0.2533333333333333,
+      "eta_txt": "Termina: Vie 09/10 17:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8030,11 +8030,11 @@
     },
     {
       "num": 668,
-      "nombre": "WEB_1006_control_ciudad2_p6",
+      "nombre": "WEB_1006_control_ciudad2_p4",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 09/10 20:30",
+      "eta_txt": "Termina: Vie 09/10 17:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8042,11 +8042,11 @@
     },
     {
       "num": 669,
-      "nombre": "WEB_1006_control_ciudad2_p7",
+      "nombre": "WEB_1006_control_ciudad2_p5",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 09/10 20:53",
+      "eta_txt": "Termina: Vie 09/10 17:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8054,11 +8054,11 @@
     },
     {
       "num": 670,
-      "nombre": "WEB_1006_control_ciudad2_p8",
-      "n_esl": 2,
+      "nombre": "WEB_1006_control_ciudad2_p6",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 09/10 21:08",
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Vie 09/10 18:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8066,11 +8066,11 @@
     },
     {
       "num": 671,
-      "nombre": "WEB_1006_control_ciudad2_p9",
-      "n_esl": 6,
+      "nombre": "WEB_1006_control_ciudad2_p7",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Vie 09/10 21:54",
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Vie 09/10 18:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8078,11 +8078,11 @@
     },
     {
       "num": 672,
-      "nombre": "MONTAR_1006_control_ciudad2",
-      "n_esl": 0,
+      "nombre": "WEB_1006_control_ciudad2_p8",
+      "n_esl": 2,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 09/10 21:54",
+      "horas": 0.2533333333333333,
+      "eta_txt": "Termina: Vie 09/10 18:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8090,11 +8090,11 @@
     },
     {
       "num": 673,
-      "nombre": "WEB_1006_control_remoto_inverso3",
-      "n_esl": 18,
+      "nombre": "WEB_1006_control_ciudad2_p9",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 2.28,
-      "eta_txt": "Termina: Sáb 10/10 00:10",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Vie 09/10 19:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8102,11 +8102,11 @@
     },
     {
       "num": 674,
-      "nombre": "WEB_1006_aeropuerto2_p1",
-      "n_esl": 10,
+      "nombre": "MONTAR_1006_control_ciudad2",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Sáb 10/10 01:26",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 09/10 19:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8114,11 +8114,11 @@
     },
     {
       "num": 675,
-      "nombre": "WEB_1006_aeropuerto2_p2",
-      "n_esl": 16,
+      "nombre": "WEB_1006_control_remoto_inverso3",
+      "n_esl": 18,
       "generados": 0,
-      "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Sáb 10/10 03:28",
+      "horas": 2.28,
+      "eta_txt": "Termina: Vie 09/10 21:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8126,11 +8126,11 @@
     },
     {
       "num": 676,
-      "nombre": "WEB_1006_aeropuerto2_p3",
-      "n_esl": 15,
+      "nombre": "WEB_1006_aeropuerto2_p1",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Sáb 10/10 05:22",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Vie 09/10 23:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8138,11 +8138,11 @@
     },
     {
       "num": 677,
-      "nombre": "MONTAR_1006_aeropuerto2",
-      "n_esl": 0,
+      "nombre": "WEB_1006_aeropuerto2_p2",
+      "n_esl": 16,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Sáb 10/10 05:22",
+      "horas": 2.0266666666666664,
+      "eta_txt": "Termina: Sáb 10/10 01:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8150,11 +8150,11 @@
     },
     {
       "num": 678,
-      "nombre": "WEB_1006_calle_sun3_p1",
-      "n_esl": 17,
+      "nombre": "WEB_1006_aeropuerto2_p3",
+      "n_esl": 15,
       "generados": 0,
-      "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Sáb 10/10 07:31",
+      "horas": 1.9,
+      "eta_txt": "Termina: Sáb 10/10 03:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8162,11 +8162,11 @@
     },
     {
       "num": 679,
-      "nombre": "WEB_1006_calle_sun3_p2",
-      "n_esl": 10,
+      "nombre": "MONTAR_1006_aeropuerto2",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Sáb 10/10 08:47",
+      "horas": 0.0,
+      "eta_txt": "Termina: Sáb 10/10 03:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8174,11 +8174,11 @@
     },
     {
       "num": 680,
-      "nombre": "WEB_1006_calle_sun3_p3",
-      "n_esl": 10,
+      "nombre": "WEB_1006_calle_sun3_p1",
+      "n_esl": 17,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Sáb 10/10 10:03",
+      "horas": 2.1533333333333333,
+      "eta_txt": "Termina: Sáb 10/10 05:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8186,11 +8186,11 @@
     },
     {
       "num": 681,
-      "nombre": "WEB_1006_calle_sun3_p4",
+      "nombre": "WEB_1006_calle_sun3_p2",
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Sáb 10/10 11:19",
+      "eta_txt": "Termina: Sáb 10/10 06:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8198,11 +8198,11 @@
     },
     {
       "num": 682,
-      "nombre": "MONTAR_1006_calle_sun3",
-      "n_esl": 0,
+      "nombre": "WEB_1006_calle_sun3_p3",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Sáb 10/10 11:19",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Sáb 10/10 07:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8210,11 +8210,11 @@
     },
     {
       "num": 683,
-      "nombre": "WEB_1006_control_humilla2_p1",
-      "n_esl": 16,
+      "nombre": "WEB_1006_calle_sun3_p4",
+      "n_esl": 10,
       "generados": 0,
-      "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Sáb 10/10 13:21",
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Sáb 10/10 08:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8222,11 +8222,11 @@
     },
     {
       "num": 684,
-      "nombre": "WEB_1006_control_humilla2_p2",
-      "n_esl": 6,
+      "nombre": "MONTAR_1006_calle_sun3",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Sáb 10/10 14:06",
+      "horas": 0.0,
+      "eta_txt": "Termina: Sáb 10/10 08:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8234,11 +8234,11 @@
     },
     {
       "num": 685,
-      "nombre": "WEB_1006_control_humilla2_p3",
-      "n_esl": 8,
+      "nombre": "WEB_1006_control_humilla2_p1",
+      "n_esl": 16,
       "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Sáb 10/10 15:07",
+      "horas": 2.0266666666666664,
+      "eta_txt": "Termina: Sáb 10/10 11:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8246,11 +8246,11 @@
     },
     {
       "num": 686,
-      "nombre": "MONTAR_1006_control_humilla2",
-      "n_esl": 0,
+      "nombre": "WEB_1006_control_humilla2_p2",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Sáb 10/10 15:07",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Sáb 10/10 11:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8258,11 +8258,11 @@
     },
     {
       "num": 687,
-      "nombre": "WEB_1006_secretaria5",
-      "n_esl": 16,
+      "nombre": "WEB_1006_control_humilla2_p3",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Sáb 10/10 17:09",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Sáb 10/10 12:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8270,11 +8270,11 @@
     },
     {
       "num": 688,
-      "nombre": "MONTAR_1006_secretaria5",
+      "nombre": "MONTAR_1006_control_humilla2",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Sáb 10/10 17:09",
+      "eta_txt": "Termina: Sáb 10/10 12:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8282,11 +8282,11 @@
     },
     {
       "num": 689,
-      "nombre": "WEB_1006_rockstar4_p1",
-      "n_esl": 8,
+      "nombre": "WEB_1006_secretaria5",
+      "n_esl": 16,
       "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Sáb 10/10 18:10",
+      "horas": 2.0266666666666664,
+      "eta_txt": "Termina: Sáb 10/10 14:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8294,11 +8294,11 @@
     },
     {
       "num": 690,
-      "nombre": "WEB_1006_rockstar4_p2",
-      "n_esl": 13,
+      "nombre": "MONTAR_1006_secretaria5",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Sáb 10/10 19:48",
+      "horas": 0.0,
+      "eta_txt": "Termina: Sáb 10/10 14:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8306,11 +8306,11 @@
     },
     {
       "num": 691,
-      "nombre": "MONTAR_1006_rockstar4",
-      "n_esl": 0,
+      "nombre": "WEB_1006_rockstar4_p1",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Sáb 10/10 19:48",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Sáb 10/10 15:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8318,11 +8318,11 @@
     },
     {
       "num": 692,
-      "nombre": "WEB_1006_casting3",
-      "n_esl": 14,
+      "nombre": "WEB_1006_rockstar4_p2",
+      "n_esl": 13,
       "generados": 0,
-      "horas": 1.7733333333333332,
-      "eta_txt": "Termina: Sáb 10/10 21:35",
+      "horas": 1.6466666666666667,
+      "eta_txt": "Termina: Sáb 10/10 17:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8330,11 +8330,11 @@
     },
     {
       "num": 693,
-      "nombre": "WEB_1007_cuerpos_p1",
-      "n_esl": 9,
+      "nombre": "MONTAR_1006_rockstar4",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.14,
-      "eta_txt": "Termina: Sáb 10/10 22:43",
+      "horas": 0.0,
+      "eta_txt": "Termina: Sáb 10/10 17:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8342,11 +8342,11 @@
     },
     {
       "num": 694,
-      "nombre": "WEB_1007_cuerpos_p2",
-      "n_esl": 6,
+      "nombre": "WEB_1006_casting3",
+      "n_esl": 14,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Sáb 10/10 23:29",
+      "horas": 1.7733333333333332,
+      "eta_txt": "Termina: Sáb 10/10 19:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8354,11 +8354,11 @@
     },
     {
       "num": 695,
-      "nombre": "WEB_1007_cuerpos_p3",
-      "n_esl": 1,
+      "nombre": "WEB_1007_camara_oculta_p1",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 10/10 23:36",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Sáb 10/10 20:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8366,11 +8366,11 @@
     },
     {
       "num": 696,
-      "nombre": "WEB_1007_cuerpos_p4",
-      "n_esl": 3,
+      "nombre": "WEB_1007_camara_oculta_p2",
+      "n_esl": 11,
       "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 10/10 23:59",
+      "horas": 1.3933333333333333,
+      "eta_txt": "Termina: Sáb 10/10 21:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8378,11 +8378,11 @@
     },
     {
       "num": 697,
-      "nombre": "WEB_1007_cuerpos_p5",
-      "n_esl": 10,
+      "nombre": "MONTAR_1007_camara_oculta",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Dom 11/10 01:15",
+      "horas": 0.0,
+      "eta_txt": "Termina: Sáb 10/10 21:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8390,11 +8390,11 @@
     },
     {
       "num": 698,
-      "nombre": "MONTAR_1007_cuerpos",
-      "n_esl": 0,
+      "nombre": "WEB_1007_rei_p1",
+      "n_esl": 9,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Dom 11/10 01:15",
+      "horas": 1.14,
+      "eta_txt": "Termina: Sáb 10/10 22:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8402,11 +8402,11 @@
     },
     {
       "num": 699,
-      "nombre": "WEB_1007_genio_p1",
-      "n_esl": 6,
+      "nombre": "WEB_1007_rei_p2",
+      "n_esl": 15,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Dom 11/10 02:01",
+      "horas": 1.9,
+      "eta_txt": "Termina: Dom 11/10 00:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8414,11 +8414,11 @@
     },
     {
       "num": 700,
-      "nombre": "WEB_1007_genio_p2",
-      "n_esl": 17,
+      "nombre": "MONTAR_1007_rei",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Dom 11/10 04:10",
+      "horas": 0.0,
+      "eta_txt": "Termina: Dom 11/10 00:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8426,11 +8426,11 @@
     },
     {
       "num": 701,
-      "nombre": "MONTAR_1007_genio",
-      "n_esl": 0,
+      "nombre": "WEB_1007_cuerpos_p1",
+      "n_esl": 9,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Dom 11/10 04:10",
+      "horas": 1.14,
+      "eta_txt": "Termina: Dom 11/10 01:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8438,11 +8438,11 @@
     },
     {
       "num": 702,
-      "nombre": "WEB_1007_app_puntos_p1",
+      "nombre": "WEB_1007_cuerpos_p2",
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Dom 11/10 04:56",
+      "eta_txt": "Termina: Dom 11/10 02:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8450,11 +8450,11 @@
     },
     {
       "num": 703,
-      "nombre": "WEB_1007_app_puntos_p2",
-      "n_esl": 7,
+      "nombre": "WEB_1007_cuerpos_p3",
+      "n_esl": 1,
       "generados": 0,
-      "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Dom 11/10 05:49",
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 11/10 02:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8462,11 +8462,11 @@
     },
     {
       "num": 704,
-      "nombre": "WEB_1007_app_puntos_p3",
-      "n_esl": 7,
+      "nombre": "WEB_1007_cuerpos_p4",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Dom 11/10 06:42",
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Dom 11/10 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8474,11 +8474,107 @@
     },
     {
       "num": 705,
+      "nombre": "WEB_1007_cuerpos_p5",
+      "n_esl": 10,
+      "generados": 0,
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Dom 11/10 04:21",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 706,
+      "nombre": "MONTAR_1007_cuerpos",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Dom 11/10 04:21",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 707,
+      "nombre": "WEB_1007_genio_p1",
+      "n_esl": 6,
+      "generados": 0,
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Dom 11/10 05:07",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 708,
+      "nombre": "WEB_1007_genio_p2",
+      "n_esl": 17,
+      "generados": 0,
+      "horas": 2.1533333333333333,
+      "eta_txt": "Termina: Dom 11/10 07:16",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 709,
+      "nombre": "MONTAR_1007_genio",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Dom 11/10 07:16",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 710,
+      "nombre": "WEB_1007_app_puntos_p1",
+      "n_esl": 6,
+      "generados": 0,
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Dom 11/10 08:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 711,
+      "nombre": "WEB_1007_app_puntos_p2",
+      "n_esl": 7,
+      "generados": 0,
+      "horas": 0.8866666666666666,
+      "eta_txt": "Termina: Dom 11/10 08:55",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 712,
+      "nombre": "WEB_1007_app_puntos_p3",
+      "n_esl": 7,
+      "generados": 0,
+      "horas": 0.8866666666666666,
+      "eta_txt": "Termina: Dom 11/10 09:48",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 713,
       "nombre": "MONTAR_1007_app_puntos",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Dom 11/10 06:42",
+      "eta_txt": "Termina: Dom 11/10 09:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
