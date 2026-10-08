@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-08 02:52:37",
+  "timestamp": "2026-10-08 02:57:03",
   "corriendo": {
     "nombre": "YK_ANIME_PRUEBA",
     "hora": "02:51",
     "eslabon_actual": 1,
     "eslabon_total": 8,
-    "horas_rest": 1.0133333333333332,
+    "horas_rest": 0.8866666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 62,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 3,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 2849,
+    "eslabones_hechos": 2850,
     "eslabones_totales": 2864,
-    "horas_hechas": 345.64833333333183,
-    "horas_restantes": 1.9,
-    "fecha_fin_estimada": "Jue 08/10 04:46"
+    "horas_hechas": 345.7749999999985,
+    "horas_restantes": 1.7733333333333334,
+    "fecha_fin_estimada": "Jue 08/10 04:43"
   },
   "items": [
     {
@@ -7420,9 +7420,9 @@
       "num": 617,
       "nombre": "YK_ANIME_PRUEBA",
       "n_esl": 8,
-      "generados": 0,
+      "generados": 1,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Jue 08/10 03:53",
+      "eta_txt": "Termina: Jue 08/10 03:50",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -7434,7 +7434,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 08/10 04:16",
+      "eta_txt": "Termina: Jue 08/10 04:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7446,7 +7446,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 08/10 04:31",
+      "eta_txt": "Termina: Jue 08/10 04:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7458,7 +7458,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 08/10 04:46",
+      "eta_txt": "Termina: Jue 08/10 04:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
