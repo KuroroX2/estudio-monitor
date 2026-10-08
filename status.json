@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-08 20:05:05",
+  "timestamp": "2026-10-08 20:12:46",
   "corriendo": {
     "nombre": "WEB_1007_fembot2_p2",
     "hora": "19:27",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 18,
-    "horas_rest": 1.5199999999999998,
+    "horas_rest": 1.3933333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 18,
-      "elapsed": 14,
+      "elapsed": 59,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 2982,
+    "eslabones_hechos": 2983,
     "eslabones_totales": 3595,
-    "horas_hechas": 362.4949999999983,
-    "horas_restantes": 77.64666666666666,
+    "horas_hechas": 362.62166666666496,
+    "horas_restantes": 77.52,
     "fecha_fin_estimada": "Lun 12/10 01:43"
   },
   "items": [
@@ -7972,7 +7972,7 @@
       "num": 663,
       "nombre": "WEB_1007_fembot2_p2",
       "n_esl": 18,
-      "generados": 6,
+      "generados": 7,
       "horas": 2.28,
       "eta_txt": "Termina: Jue 08/10 21:36",
       "es_activa": true,
