@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07 20:32:17",
+  "timestamp": "2026-10-07 21:17:34",
   "corriendo": {
-    "nombre": "WEB_1002_YATE_P2",
-    "hora": "20:21",
+    "nombre": "WEB_1002_yate_p2",
+    "hora": "20:20",
     "eslabon_actual": 2,
     "eslabon_total": 9,
     "horas_rest": 1.0133333333333332,
-    "suelto": true,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 9,
-      "elapsed": 314,
+      "elapsed": 282,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
@@ -21,7 +21,7 @@
     "eslabones_totales": 2813,
     "horas_hechas": 341.0883333333319,
     "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mié 07/10 20:32"
+    "fecha_fin_estimada": "Mié 07/10 21:17"
   },
   "items": [
     {
