@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-08 04:59:41",
+  "timestamp": "2026-10-08 05:06:58",
   "corriendo": {
     "nombre": "YAMETE3",
     "hora": "04:28",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 7,
-    "horas_rest": 0.2533333333333333,
+    "horas_rest": 0.12666666666666665,
     "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 11,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 7,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 2869,
+    "eslabones_hechos": 2870,
     "eslabones_totales": 2873,
-    "horas_hechas": 348.18166666666514,
-    "horas_restantes": 0.5066666666666667,
-    "fecha_fin_estimada": "Jue 08/10 05:30"
+    "horas_hechas": 348.3083333333318,
+    "horas_restantes": 0.38,
+    "fecha_fin_estimada": "Jue 08/10 05:29"
   },
   "items": [
     {
@@ -7468,7 +7468,7 @@
       "num": 621,
       "nombre": "YAMETE3",
       "n_esl": 7,
-      "generados": 5,
+      "generados": 6,
       "horas": 0.8866666666666666,
       "eta_txt": "Termina: Jue 08/10 05:14",
       "es_activa": true,
@@ -7494,7 +7494,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 08/10 05:30",
+      "eta_txt": "Termina: Jue 08/10 05:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7506,7 +7506,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 08/10 05:30",
+      "eta_txt": "Termina: Jue 08/10 05:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
