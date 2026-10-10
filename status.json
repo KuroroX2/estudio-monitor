@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-10 20:40:11",
+  "timestamp": "2026-10-10 20:47:41",
   "corriendo": {
     "nombre": "WEB_1006_mall3_p1",
     "hora": "20:01",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 16,
-    "horas_rest": 1.2666666666666666,
+    "horas_rest": 1.14,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 16,
-      "elapsed": 8,
+      "elapsed": 3,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 3236,
+    "eslabones_hechos": 3237,
     "eslabones_totales": 3674,
-    "horas_hechas": 394.6683333333314,
-    "horas_restantes": 55.48,
+    "horas_hechas": 394.7949999999981,
+    "horas_restantes": 55.35333333333333,
     "fecha_fin_estimada": "Mar 13/10 04:08"
   },
   "items": [
@@ -8358,7 +8358,7 @@
       "n_esl": 16,
       "generados": 0,
       "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Sáb 10/10 22:41",
+      "eta_txt": "Termina: Sáb 10/10 22:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8370,7 +8370,7 @@
       "n_esl": 13,
       "generados": 0,
       "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Dom 11/10 00:20",
+      "eta_txt": "Termina: Dom 11/10 00:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8382,7 +8382,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Dom 11/10 00:20",
+      "eta_txt": "Termina: Dom 11/10 00:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8392,7 +8392,7 @@
       "num": 698,
       "nombre": "WEB_1006_mall3_p1",
       "n_esl": 16,
-      "generados": 6,
+      "generados": 7,
       "horas": 2.0266666666666664,
       "eta_txt": "Termina: Dom 11/10 01:36",
       "es_activa": true,
