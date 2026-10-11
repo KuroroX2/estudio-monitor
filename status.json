@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-11 13:59:33",
+  "timestamp": "2026-10-11 14:07:09",
   "corriendo": {
     "nombre": "WEB_1007_sun_niveles_p2",
     "hora": "13:47",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 16,
-    "horas_rest": 1.7733333333333332,
+    "horas_rest": 1.6466666666666667,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 16,
-      "elapsed": 4,
+      "elapsed": 39,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 3333,
+    "eslabones_hechos": 3334,
     "eslabones_totales": 3674,
-    "horas_hechas": 406.95499999999794,
-    "horas_restantes": 43.193333333333335,
+    "horas_hechas": 407.0816666666646,
+    "horas_restantes": 43.06666666666667,
     "fecha_fin_estimada": "Mar 13/10 09:11"
   },
   "items": [
@@ -8356,7 +8356,7 @@
       "num": 695,
       "nombre": "WEB_1007_sun_niveles_p2",
       "n_esl": 16,
-      "generados": 2,
+      "generados": 3,
       "horas": 2.0266666666666664,
       "eta_txt": "Termina: Dom 11/10 15:45",
       "es_activa": true,
