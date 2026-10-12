@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-12 06:44:28",
+  "timestamp": "2026-10-12 06:52:12",
   "corriendo": {
     "nombre": "WEB_1006_calle_sun3_p1",
     "hora": "04:58",
     "eslabon_actual": 17,
     "eslabon_total": 17,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 17,
       "tot_esl": 17,
-      "elapsed": 3,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 24,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 3435,
+    "eslabones_hechos": 3436,
     "eslabones_totales": 3674,
-    "horas_hechas": 419.8749999999978,
-    "horas_restantes": 30.273333333333333,
-    "fecha_fin_estimada": "Mar 13/10 13:00"
+    "horas_hechas": 420.00166666666445,
+    "horas_restantes": 30.14666666666667,
+    "fecha_fin_estimada": "Mar 13/10 13:01"
   },
   "items": [
     {
@@ -8680,7 +8680,7 @@
       "num": 722,
       "nombre": "WEB_1006_calle_sun3_p1",
       "n_esl": 17,
-      "generados": 16,
+      "generados": 17,
       "horas": 2.1533333333333333,
       "eta_txt": "Termina: Lun 12/10 06:52",
       "es_activa": true,
@@ -9054,7 +9054,7 @@
       "n_esl": 17,
       "generados": 0,
       "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Mar 13/10 10:28",
+      "eta_txt": "Termina: Mar 13/10 10:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -9066,7 +9066,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 13/10 10:28",
+      "eta_txt": "Termina: Mar 13/10 10:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -9102,7 +9102,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Mar 13/10 13:00",
+      "eta_txt": "Termina: Mar 13/10 13:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -9114,7 +9114,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 13/10 13:00",
+      "eta_txt": "Termina: Mar 13/10 13:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -9126,7 +9126,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 13/10 13:00",
+      "eta_txt": "Termina: Mar 13/10 13:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
