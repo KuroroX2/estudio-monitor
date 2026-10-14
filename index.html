@@ -720,6 +720,16 @@
       </div>
     </section>
 
+    <!-- COLA EN PAUSA (Cris, 14/10): solo para mirar; se mueve desde la web local -->
+    <section class="queue-section">
+      <div class="queue-header"><div class="queue-title"><h3>En espera · aprobado, no se genera (<span id="espera-count">0</span>)</h3></div></div>
+      <div class="queue-list" id="espera-list"></div>
+    </section>
+    <section class="queue-section">
+      <div class="queue-header"><div class="queue-title"><h3>Prompts por validar (<span id="pv-count">0</span>)</h3></div></div>
+      <div class="queue-list" id="pv-list"></div>
+    </section>
+
     <footer>
       Estudio H3 • Monitor Web en Vivo • Actualización continua vía GitHub
     </footer>
@@ -818,6 +828,18 @@
 
       // 3. QUEUE LIST
       renderQueueList(data.items || []);
+      renderPausa("espera-list", "espera-count", data.espera || [], "Nada en espera. Lo que apruebes en Prompts por validar aparece aquí.");
+      renderPausa("pv-list", "pv-count", data.por_validar || [], "Nada por validar.");
+    }
+
+    function renderPausa(idLista, idCuenta, grupos, vacio) {
+      document.getElementById(idCuenta).textContent = grupos.length;
+      const el = document.getElementById(idLista);
+      const esc = (t) => String(t || "").replace(/[&<>"]/g, (ch) => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[ch]));
+      el.innerHTML = grupos.length ? grupos.map((g, i) => `<div class="queue-card" style="padding:12px 16px">
+          <div style="font-weight:600">${i + 1}. ${esc(g.titulo)}</div>
+          <div style="opacity:.75;font-size:13px;margin-top:4px">${g.trabajos} trabajo${g.trabajos === 1 ? "" : "s"} · ${g.clips} clips · ~${g.minutos} min${g.motivo ? " · " + esc(g.motivo) : ""}</div>
+        </div>`).join("") : `<div style="opacity:.6;padding:12px 16px">${vacio}</div>`;
     }
 
     function renderQueueList(items) {
