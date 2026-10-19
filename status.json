@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-19 19:37:47",
+  "timestamp": "2026-10-19 19:49:10",
   "corriendo": {
     "nombre": "WEB_1019_sun_bano_dildo",
     "hora": "19:32",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 5,
-    "horas_rest": 0.5066666666666666,
+    "horas_rest": 0.37999999999999995,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 5,
-      "elapsed": 2,
+      "elapsed": 309,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 4681,
+    "eslabones_hechos": 4682,
     "eslabones_totales": 4746,
-    "horas_hechas": 577.7016666666627,
-    "horas_restantes": 8.233333333333333,
-    "fecha_fin_estimada": "Mar 20/10 03:51"
+    "horas_hechas": 577.8283333333294,
+    "horas_restantes": 8.106666666666667,
+    "fecha_fin_estimada": "Mar 20/10 03:55"
   },
   "items": [
     {
@@ -13660,9 +13660,9 @@
       "num": 1137,
       "nombre": "WEB_1019_sun_bano_dildo",
       "n_esl": 5,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Lun 19/10 20:08",
+      "eta_txt": "Termina: Lun 19/10 20:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -13670,11 +13670,11 @@
     },
     {
       "num": 1138,
-      "nombre": "MONTAR_1019_sun_bano_dildo",
+      "nombre": "MOSS_DIAG_1019",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Lun 19/10 20:08",
+      "eta_txt": "Termina: Lun 19/10 20:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -13682,6 +13682,30 @@
     },
     {
       "num": 1139,
+      "nombre": "FOTOS_SUN_QWEN_1019",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 19/10 20:11",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1140,
+      "nombre": "MONTAR_1019_sun_bano_dildo",
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 19/10 20:11",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1141,
       "nombre": "WEB_1014_mago3_p6",
       "n_esl": 4,
       "generados": 4,
@@ -13693,7 +13717,7 @@
       "es_reintento": false
     },
     {
-      "num": 1140,
+      "num": 1142,
       "nombre": "WEB_1014_fembot3_p1",
       "n_esl": 20,
       "generados": 20,
@@ -13705,7 +13729,7 @@
       "es_reintento": false
     },
     {
-      "num": 1141,
+      "num": 1143,
       "nombre": "WEB_1014_fembot3_p2",
       "n_esl": 19,
       "generados": 19,
@@ -13717,7 +13741,7 @@
       "es_reintento": false
     },
     {
-      "num": 1142,
+      "num": 1144,
       "nombre": "WEB_1014_fembot3_p3",
       "n_esl": 7,
       "generados": 7,
@@ -13729,7 +13753,7 @@
       "es_reintento": false
     },
     {
-      "num": 1143,
+      "num": 1145,
       "nombre": "WEB_1014_fembot3_p4",
       "n_esl": 14,
       "generados": 14,
@@ -13741,7 +13765,7 @@
       "es_reintento": false
     },
     {
-      "num": 1144,
+      "num": 1146,
       "nombre": "MONTAR_1014_fembot3",
       "n_esl": 0,
       "generados": 0,
@@ -13753,7 +13777,7 @@
       "es_reintento": false
     },
     {
-      "num": 1145,
+      "num": 1147,
       "nombre": "WEB_1014_kage4_p1",
       "n_esl": 11,
       "generados": 11,
@@ -13765,7 +13789,7 @@
       "es_reintento": false
     },
     {
-      "num": 1146,
+      "num": 1148,
       "nombre": "WEB_1014_kage4_p2",
       "n_esl": 13,
       "generados": 13,
@@ -13777,7 +13801,7 @@
       "es_reintento": false
     },
     {
-      "num": 1147,
+      "num": 1149,
       "nombre": "WEB_1014_kage4_p3",
       "n_esl": 13,
       "generados": 13,
@@ -13789,7 +13813,7 @@
       "es_reintento": false
     },
     {
-      "num": 1148,
+      "num": 1150,
       "nombre": "MONTAR_1014_kage4",
       "n_esl": 0,
       "generados": 0,
@@ -13801,7 +13825,7 @@
       "es_reintento": false
     },
     {
-      "num": 1149,
+      "num": 1151,
       "nombre": "WEB_1014_noche_fiesta2_p1",
       "n_esl": 3,
       "generados": 3,
@@ -13813,7 +13837,7 @@
       "es_reintento": false
     },
     {
-      "num": 1150,
+      "num": 1152,
       "nombre": "WEB_1014_noche_fiesta2_p2",
       "n_esl": 9,
       "generados": 9,
@@ -13825,84 +13849,60 @@
       "es_reintento": false
     },
     {
-      "num": 1151,
+      "num": 1153,
       "nombre": "FICHA_DARKY_1019_0830",
       "n_esl": 15,
       "generados": 0,
       "horas": 1.9,
-      "eta_txt": "Termina: Lun 19/10 22:02",
+      "eta_txt": "Termina: Lun 19/10 22:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
     },
     {
-      "num": 1152,
+      "num": 1154,
       "nombre": "WEB_1014_mago3_p4",
       "n_esl": 17,
       "generados": 0,
       "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Mar 20/10 00:11",
+      "eta_txt": "Termina: Mar 20/10 00:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false
     },
     {
-      "num": 1153,
+      "num": 1155,
       "nombre": "WEB_1014_mago3_p5",
       "n_esl": 11,
       "generados": 0,
       "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Mar 20/10 01:34",
+      "eta_txt": "Termina: Mar 20/10 01:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 1154,
+      "num": 1156,
       "nombre": "MONTAR_1014_mago3",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 20/10 01:34",
+      "eta_txt": "Termina: Mar 20/10 01:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true
     },
     {
-      "num": 1155,
+      "num": 1157,
       "nombre": "WEB_1014_noche_fiesta2_p3",
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mar 20/10 01:57",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 1156,
-      "nombre": "WEB_1014_noche_fiesta2_p4",
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mar 20/10 02:20",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 1157,
-      "nombre": "WEB_1014_noche_fiesta2_p5",
-      "n_esl": 2,
-      "generados": 0,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 20/10 02:35",
+      "eta_txt": "Termina: Mar 20/10 02:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -13910,11 +13910,11 @@
     },
     {
       "num": 1158,
-      "nombre": "WEB_1014_noche_fiesta2_p6",
-      "n_esl": 10,
+      "nombre": "WEB_1014_noche_fiesta2_p4",
+      "n_esl": 3,
       "generados": 0,
-      "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Mar 20/10 03:51",
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Mar 20/10 02:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -13922,11 +13922,35 @@
     },
     {
       "num": 1159,
+      "nombre": "WEB_1014_noche_fiesta2_p5",
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.2533333333333333,
+      "eta_txt": "Termina: Mar 20/10 02:39",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1160,
+      "nombre": "WEB_1014_noche_fiesta2_p6",
+      "n_esl": 10,
+      "generados": 0,
+      "horas": 1.2666666666666666,
+      "eta_txt": "Termina: Mar 20/10 03:55",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1161,
       "nombre": "MONTAR_1014_noche_fiesta2",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 20/10 03:51",
+      "eta_txt": "Termina: Mar 20/10 03:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
