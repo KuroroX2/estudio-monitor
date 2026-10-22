@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-22 03:01:22",
+  "timestamp": "2026-10-22 03:08:55",
   "corriendo": {
     "nombre": "WEB_1014_calle_sun5_frag_22_24_zapato",
-    "hora": "02:49",
+    "hora": "02:48",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 4,
+      "elapsed": 0,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 5043,
+    "eslabones_hechos": 5044,
     "eslabones_totales": 5117,
-    "horas_hechas": 623.5549999999955,
-    "horas_restantes": 9.373333333333333,
+    "horas_hechas": 623.6816666666622,
+    "horas_restantes": 9.246666666666666,
     "fecha_fin_estimada": "Jue 22/10 12:23"
   },
   "items": [
@@ -16384,7 +16384,7 @@
       "num": 1364,
       "nombre": "WEB_1014_calle_sun5_frag_22_24_zapato",
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.37999999999999995,
       "eta_txt": "Termina: Jue 22/10 03:08",
       "es_activa": true,
