@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23 00:13:29",
+  "timestamp": "2026-10-23 01:47:04",
   "corriendo": {
-    "nombre": "BFS_PORNO_1020_P5",
-    "hora": "00:05",
+    "nombre": "BFS_PORNO_1020_P6",
+    "hora": "01:44",
     "eslabon_actual": 0,
     "eslabon_total": null,
-    "horas_rest": 1.6075155919444446,
+    "horas_rest": 0.23115910166666667,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 466,
+      "elapsed": 145,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
@@ -19,9 +19,9 @@
   "global": {
     "eslabones_hechos": 5179,
     "eslabones_totales": 5179,
-    "horas_hechas": 656.9649999999953,
-    "horas_restantes": 2.9741782311111113,
-    "fecha_fin_estimada": "Vie 23/10 03:11"
+    "horas_hechas": 658.7149999999953,
+    "horas_restantes": 1.314488261111111,
+    "fecha_fin_estimada": "Vie 23/10 03:05"
   },
   "items": [
     {
@@ -17286,11 +17286,11 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.75,
-      "eta_txt": "Termina: Vie 23/10 01:49",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 1440,
@@ -17298,8 +17298,8 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.2833333333333333,
-      "eta_txt": "Termina: Vie 23/10 02:06",
-      "es_activa": false,
+      "eta_txt": "Termina: Vie 23/10 02:00",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -17310,7 +17310,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.0833333333333333,
-      "eta_txt": "Termina: Vie 23/10 03:11",
+      "eta_txt": "Termina: Vie 23/10 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
