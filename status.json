@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22 20:30:48",
+  "timestamp": "2026-10-22 21:56:22",
   "corriendo": {
-    "nombre": "BFS_PORNO_1020_P2",
-    "hora": "20:22",
+    "nombre": "BFS_PORNO_1020_P3",
+    "hora": "21:52",
     "eslabon_actual": 0,
     "eslabon_total": null,
-    "horas_rest": 1.5688626280555555,
+    "horas_rest": 1.6762957916666668,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 450,
+      "elapsed": 220,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
@@ -19,9 +19,9 @@
   "global": {
     "eslabones_hechos": 5179,
     "eslabones_totales": 5179,
-    "horas_hechas": 652.8316666666619,
-    "horas_restantes": 7.102192766666667,
-    "fecha_fin_estimada": "Vie 23/10 03:36"
+    "horas_hechas": 654.5483333333286,
+    "horas_restantes": 5.459626064166667,
+    "fecha_fin_estimada": "Vie 23/10 03:23"
   },
   "items": [
     {
@@ -17250,11 +17250,11 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.7166666666666666,
-      "eta_txt": "Termina: Jue 22/10 22:04",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 1437,
@@ -17262,8 +17262,8 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.75,
-      "eta_txt": "Termina: Jue 22/10 23:49",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 22/10 23:36",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -17274,7 +17274,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.6666666666666666,
-      "eta_txt": "Termina: Vie 23/10 00:29",
+      "eta_txt": "Termina: Vie 23/10 00:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -17286,7 +17286,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.75,
-      "eta_txt": "Termina: Vie 23/10 02:14",
+      "eta_txt": "Termina: Vie 23/10 02:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -17298,7 +17298,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.2833333333333333,
-      "eta_txt": "Termina: Vie 23/10 02:31",
+      "eta_txt": "Termina: Vie 23/10 02:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -17310,7 +17310,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.0833333333333333,
-      "eta_txt": "Termina: Vie 23/10 03:36",
+      "eta_txt": "Termina: Vie 23/10 03:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
