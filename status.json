@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-10-27 14:09:18",
+  "timestamp": "2026-10-27 14:16:40",
   "corriendo": {
     "nombre": "DOMI_GRACIAS_G",
-    "hora": "14:04",
+    "hora": "14:03",
     "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 1,
+      "elapsed": 5,
       "paso_num": 6,
       "paso_str": "Terminando: montaje y entrega",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 5922,
+    "eslabones_hechos": 5923,
     "eslabones_totales": 5927,
-    "horas_hechas": 753.611666666661,
-    "horas_restantes": 0.6333333333333333,
+    "horas_hechas": 753.7383333333277,
+    "horas_restantes": 0.5066666666666667,
     "fecha_fin_estimada": "Mar 27/10 14:47"
   },
   "items": [
@@ -28,7 +28,7 @@
       "num": 1,
       "nombre": "DOMI_GRACIAS_G",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.2533333333333333,
       "eta_txt": "Termina: Mar 27/10 14:16",
       "es_activa": true,
@@ -42,7 +42,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 27/10 14:32",
+      "eta_txt": "Termina: Mar 27/10 14:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
