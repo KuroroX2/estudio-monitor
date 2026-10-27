@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-27 14:24:48",
+  "timestamp": "2026-10-27 14:30:46",
   "corriendo": {
     "nombre": "DOMI_GRACIAS_H",
-    "hora": "14:20",
+    "hora": "14:18",
     "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 3,
+      "elapsed": 2,
       "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
       "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 5924,
+    "eslabones_hechos": 5925,
     "eslabones_totales": 5927,
-    "horas_hechas": 753.8649999999943,
-    "horas_restantes": 0.38,
-    "fecha_fin_estimada": "Mar 27/10 14:47"
+    "horas_hechas": 753.991666666661,
+    "horas_restantes": 0.25333333333333335,
+    "fecha_fin_estimada": "Mar 27/10 14:45"
   },
   "items": [
     {
@@ -40,9 +40,9 @@
       "num": 2,
       "nombre": "DOMI_GRACIAS_H",
       "n_esl": 2,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 27/10 14:32",
+      "eta_txt": "Termina: Mar 27/10 14:30",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -54,7 +54,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 27/10 14:47",
+      "eta_txt": "Termina: Mar 27/10 14:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
