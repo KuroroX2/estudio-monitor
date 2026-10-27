@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-10-27 14:30:46",
+  "timestamp": "2026-10-27 14:34:07",
   "corriendo": {
-    "nombre": "DOMI_GRACIAS_H",
-    "hora": "14:18",
-    "eslabon_actual": 2,
+    "nombre": "FINAL_TEATRO_SIN_TIRON",
+    "hora": "14:33",
+    "eslabon_actual": 0,
     "eslabon_total": 2,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.2533333333333333,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 2,
-      "tot_esl": 2,
-      "elapsed": 2,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 26,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 5927,
     "horas_hechas": 753.991666666661,
     "horas_restantes": 0.25333333333333335,
-    "fecha_fin_estimada": "Mar 27/10 14:45"
+    "fecha_fin_estimada": "Mar 27/10 14:49"
   },
   "items": [
     {
@@ -42,11 +42,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 27/10 14:30",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 3,
@@ -54,8 +54,8 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Mar 27/10 14:45",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 27/10 14:49",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
