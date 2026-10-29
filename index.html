@@ -525,6 +525,11 @@
       border: 1px solid rgba(244, 63, 94, 0.3);
     }
 
+    .tipo { display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase;
+            padding: 1px 6px; border-radius: 4px; margin-right: 6px; vertical-align: 1px; color: #fff; background: #6b7280; }
+    .tipo-videoclip { background: #b45309; } .tipo-pelicula { background: #7c3aed; } .tipo-minipelicula { background: #2563eb; }
+    .tipo-miniprueba { background: #0d9488; } .tipo-prueba { background: #475569; } .tipo-puntual { background: #db2777; }
+    .tipo-foto { background: #65a30d; } .tipo-montaje { background: #374151; }
     .job-name {
       font-weight: 600;
       font-size: 14px;
@@ -884,7 +889,7 @@
         card.innerHTML = `
           <div class="job-num">${it.num}</div>
           <div class="badge-status ${badgeClass}">${badgeText}</div>
-          <div class="job-name" title="${it.nombre}">${it.nombre}</div>
+          <div class="job-name" title="${it.nombre}"><span class="tipo tipo-${(it.tipo || 'Prueba').toLowerCase()}">${it.tipo || ''}</span> ${it.nombre}</div>
           <div class="job-progress-col">
             <div class="job-progress-text">
               <span>${it.generados}/${it.n_esl} esl</span>
