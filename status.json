@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-10-29 08:34:47",
+  "timestamp": "2026-10-29 08:45:00",
   "corriendo": {
     "nombre": "WEB_1029_minipeli_delirio_darky_p1",
     "hora": "07:36",
-    "eslabon_actual": 11,
+    "eslabon_actual": 12,
     "eslabon_total": 13,
-    "horas_rest": 0.37999999999999995,
+    "horas_rest": 0.2533333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 11,
+      "num_esl": 12,
       "tot_esl": 13,
-      "elapsed": 63,
+      "elapsed": 270,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 6221,
-    "eslabones_totales": 6544,
-    "horas_hechas": 791.9183333333272,
-    "horas_restantes": 41.013333333333335,
-    "fecha_fin_estimada": "Sáb 31/10 01:35"
+    "eslabones_hechos": 6222,
+    "eslabones_totales": 6558,
+    "horas_hechas": 792.0449999999938,
+    "horas_restantes": 42.66,
+    "fecha_fin_estimada": "Sáb 31/10 03:24"
   },
   "items": [
     {
@@ -126,7 +126,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 09:05",
+      "eta_txt": "Termina: Jue 29/10 09:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -138,7 +138,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 09:35",
+      "eta_txt": "Termina: Jue 29/10 09:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -174,7 +174,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 09:43",
+      "eta_txt": "Termina: Jue 29/10 09:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -186,7 +186,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 10:13",
+      "eta_txt": "Termina: Jue 29/10 10:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -198,7 +198,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Jue 29/10 11:14",
+      "eta_txt": "Termina: Jue 29/10 11:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -210,7 +210,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 11:29",
+      "eta_txt": "Termina: Jue 29/10 11:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -222,7 +222,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 11:52",
+      "eta_txt": "Termina: Jue 29/10 12:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -234,7 +234,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 12:15",
+      "eta_txt": "Termina: Jue 29/10 12:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -246,7 +246,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 12:30",
+      "eta_txt": "Termina: Jue 29/10 12:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -258,7 +258,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 13:00",
+      "eta_txt": "Termina: Jue 29/10 13:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -270,7 +270,7 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Jue 29/10 13:46",
+      "eta_txt": "Termina: Jue 29/10 13:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -282,7 +282,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 14:16",
+      "eta_txt": "Termina: Jue 29/10 14:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -330,7 +330,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 14:39",
+      "eta_txt": "Termina: Jue 29/10 14:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -342,7 +342,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 15:02",
+      "eta_txt": "Termina: Jue 29/10 15:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -354,7 +354,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 29/10 15:32",
+      "eta_txt": "Termina: Jue 29/10 15:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -366,7 +366,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 15:55",
+      "eta_txt": "Termina: Jue 29/10 16:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -378,7 +378,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 16:03",
+      "eta_txt": "Termina: Jue 29/10 16:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -390,7 +390,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 16:18",
+      "eta_txt": "Termina: Jue 29/10 16:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -402,7 +402,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 16:33",
+      "eta_txt": "Termina: Jue 29/10 16:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -414,7 +414,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 16:48",
+      "eta_txt": "Termina: Jue 29/10 16:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -426,7 +426,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 17:03",
+      "eta_txt": "Termina: Jue 29/10 17:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -438,7 +438,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 17:19",
+      "eta_txt": "Termina: Jue 29/10 17:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -714,7 +714,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Jue 29/10 17:57",
+      "eta_txt": "Termina: Jue 29/10 18:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -726,7 +726,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.1,
-      "eta_txt": "Termina: Jue 29/10 18:03",
+      "eta_txt": "Termina: Jue 29/10 18:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7770,7 +7770,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:10",
+      "eta_txt": "Termina: Jue 29/10 18:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7782,7 +7782,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:18",
+      "eta_txt": "Termina: Jue 29/10 18:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7794,7 +7794,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:25",
+      "eta_txt": "Termina: Jue 29/10 18:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7806,7 +7806,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:33",
+      "eta_txt": "Termina: Jue 29/10 18:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7818,7 +7818,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:41",
+      "eta_txt": "Termina: Jue 29/10 18:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7830,7 +7830,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:48",
+      "eta_txt": "Termina: Jue 29/10 18:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7842,7 +7842,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 18:56",
+      "eta_txt": "Termina: Jue 29/10 19:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7854,7 +7854,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:03",
+      "eta_txt": "Termina: Jue 29/10 19:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7866,7 +7866,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:11",
+      "eta_txt": "Termina: Jue 29/10 19:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7878,7 +7878,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:19",
+      "eta_txt": "Termina: Jue 29/10 19:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7890,7 +7890,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:26",
+      "eta_txt": "Termina: Jue 29/10 19:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7902,7 +7902,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:34",
+      "eta_txt": "Termina: Jue 29/10 19:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7914,7 +7914,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:41",
+      "eta_txt": "Termina: Jue 29/10 19:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7926,7 +7926,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:49",
+      "eta_txt": "Termina: Jue 29/10 19:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7938,7 +7938,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 19:57",
+      "eta_txt": "Termina: Jue 29/10 20:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7950,7 +7950,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 20:04",
+      "eta_txt": "Termina: Jue 29/10 20:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7962,7 +7962,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 20:12",
+      "eta_txt": "Termina: Jue 29/10 20:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7974,7 +7974,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Jue 29/10 20:12",
+      "eta_txt": "Termina: Jue 29/10 20:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7986,7 +7986,7 @@
       "n_esl": 16,
       "generados": 0,
       "horas": 2.0266666666666664,
-      "eta_txt": "Termina: Jue 29/10 22:13",
+      "eta_txt": "Termina: Jue 29/10 22:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -7998,7 +7998,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 29/10 22:36",
+      "eta_txt": "Termina: Jue 29/10 22:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8010,7 +8010,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 22:51",
+      "eta_txt": "Termina: Jue 29/10 23:02",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8022,7 +8022,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 23:07",
+      "eta_txt": "Termina: Jue 29/10 23:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8034,7 +8034,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 23:22",
+      "eta_txt": "Termina: Jue 29/10 23:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8046,7 +8046,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 29/10 23:29",
+      "eta_txt": "Termina: Jue 29/10 23:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8058,7 +8058,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 29/10 23:45",
+      "eta_txt": "Termina: Jue 29/10 23:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8070,7 +8070,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 30/10 00:00",
+      "eta_txt": "Termina: Vie 30/10 00:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8082,7 +8082,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 30/10 00:07",
+      "eta_txt": "Termina: Vie 30/10 00:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8094,7 +8094,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 30/10 00:23",
+      "eta_txt": "Termina: Vie 30/10 00:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8106,7 +8106,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 30/10 00:38",
+      "eta_txt": "Termina: Vie 30/10 00:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -8118,7 +8118,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 30/10 00:53",
+      "eta_txt": "Termina: Vie 30/10 01:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -20802,7 +20802,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 30/10 01:16",
+      "eta_txt": "Termina: Vie 30/10 01:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -20812,9 +20812,9 @@
       "num": 1733,
       "nombre": "WEB_1029_minipeli_delirio_darky_p1",
       "n_esl": 13,
-      "generados": 10,
+      "generados": 11,
       "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Vie 30/10 01:39",
+      "eta_txt": "Termina: Vie 30/10 01:41",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -20826,7 +20826,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.5199999999999998,
-      "eta_txt": "Termina: Vie 30/10 03:10",
+      "eta_txt": "Termina: Vie 30/10 03:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -20834,6 +20834,18 @@
     },
     {
       "num": 1735,
+      "nombre": "WEB_1029_minipeli_tele_darky2",
+      "n_esl": 14,
+      "generados": 0,
+      "horas": 1.7733333333333332,
+      "eta_txt": "Termina: Vie 30/10 04:59",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1736,
       "nombre": "WEB_1029_minipeli_tele_darky",
       "n_esl": 14,
       "generados": 14,
@@ -20845,7 +20857,7 @@
       "es_reintento": false
     },
     {
-      "num": 1736,
+      "num": 1737,
       "nombre": "WEB_1028_minipeli_mall_control_darky_p1",
       "n_esl": 2,
       "generados": 2,
@@ -20857,7 +20869,7 @@
       "es_reintento": false
     },
     {
-      "num": 1737,
+      "num": 1738,
       "nombre": "WEB_1028_minipeli_mall_control_darky_p2",
       "n_esl": 1,
       "generados": 1,
@@ -20869,7 +20881,7 @@
       "es_reintento": false
     },
     {
-      "num": 1738,
+      "num": 1739,
       "nombre": "WEB_1028_minipeli_mall_control_darky_p3",
       "n_esl": 2,
       "generados": 2,
@@ -20881,7 +20893,7 @@
       "es_reintento": false
     },
     {
-      "num": 1739,
+      "num": 1740,
       "nombre": "WEB_1028_minipeli_mall_control_darky_p4",
       "n_esl": 1,
       "generados": 1,
@@ -20893,7 +20905,7 @@
       "es_reintento": false
     },
     {
-      "num": 1740,
+      "num": 1741,
       "nombre": "WEB_1028_minipeli_mall_control_darky_p5",
       "n_esl": 4,
       "generados": 4,
@@ -20905,7 +20917,7 @@
       "es_reintento": false
     },
     {
-      "num": 1741,
+      "num": 1742,
       "nombre": "WEB_1026_narrador_b_baritono",
       "n_esl": 1,
       "generados": 1,
@@ -20917,7 +20929,7 @@
       "es_reintento": false
     },
     {
-      "num": 1742,
+      "num": 1743,
       "nombre": "WEB_1026_narrador_c_catastrofe",
       "n_esl": 1,
       "generados": 1,
@@ -20929,7 +20941,7 @@
       "es_reintento": false
     },
     {
-      "num": 1743,
+      "num": 1744,
       "nombre": "ELEGIR_1026_NARRADOR",
       "n_esl": 0,
       "generados": 0,
@@ -20941,7 +20953,7 @@
       "es_reintento": false
     },
     {
-      "num": 1744,
+      "num": 1745,
       "nombre": "SETS_DARKY",
       "n_esl": 0,
       "generados": 0,
@@ -20953,7 +20965,7 @@
       "es_reintento": false
     },
     {
-      "num": 1745,
+      "num": 1746,
       "nombre": "WEB_1026_darky_dildo4s_frag_30_35_insercion_y_mismo_dildo_con_set",
       "n_esl": 6,
       "generados": 6,
@@ -20965,7 +20977,7 @@
       "es_reintento": false
     },
     {
-      "num": 1746,
+      "num": 1747,
       "nombre": "SKATE_YIMMY_EXTENDER",
       "n_esl": 2,
       "generados": 2,
@@ -20977,7 +20989,7 @@
       "es_reintento": false
     },
     {
-      "num": 1747,
+      "num": 1748,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_control",
       "n_esl": 1,
       "generados": 1,
@@ -20989,7 +21001,7 @@
       "es_reintento": false
     },
     {
-      "num": 1748,
+      "num": 1749,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_plora",
       "n_esl": 1,
       "generados": 1,
@@ -21001,7 +21013,7 @@
       "es_reintento": false
     },
     {
-      "num": 1749,
+      "num": 1750,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_ultimatedt",
       "n_esl": 1,
       "generados": 1,
@@ -21013,7 +21025,7 @@
       "es_reintento": false
     },
     {
-      "num": 1750,
+      "num": 1751,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_allinone",
       "n_esl": 1,
       "generados": 1,
@@ -21025,7 +21037,7 @@
       "es_reintento": false
     },
     {
-      "num": 1751,
+      "num": 1752,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_dt_v02",
       "n_esl": 1,
       "generados": 1,
@@ -21037,7 +21049,7 @@
       "es_reintento": false
     },
     {
-      "num": 1752,
+      "num": 1753,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_bj21",
       "n_esl": 1,
       "generados": 1,
@@ -21049,7 +21061,7 @@
       "es_reintento": false
     },
     {
-      "num": 1753,
+      "num": 1754,
       "nombre": "WEB_1026_minipeli_cine_darky_frag_5_5_garganta_messy",
       "n_esl": 1,
       "generados": 1,
@@ -21061,7 +21073,7 @@
       "es_reintento": false
     },
     {
-      "num": 1754,
+      "num": 1755,
       "nombre": "ELEGIR_GARGANTA_DARKY",
       "n_esl": 0,
       "generados": 0,
@@ -21073,7 +21085,7 @@
       "es_reintento": false
     },
     {
-      "num": 1755,
+      "num": 1756,
       "nombre": "WEB_1026_darky_dildo4s_frag_24_27_dildo_en_su_mano_con_set",
       "n_esl": 4,
       "generados": 4,
@@ -21085,7 +21097,7 @@
       "es_reintento": false
     },
     {
-      "num": 1756,
+      "num": 1757,
       "nombre": "WEB_1026_darky_dildo4s_frag_20_23_tramo_nuevo_y_una_darky_con_set",
       "n_esl": 4,
       "generados": 4,
@@ -21097,7 +21109,7 @@
       "es_reintento": false
     },
     {
-      "num": 1757,
+      "num": 1758,
       "nombre": "WEB_1026_darky_dildo4s_frag_15_19_sin_loras_de_mas_con_set",
       "n_esl": 5,
       "generados": 5,
@@ -21109,7 +21121,7 @@
       "es_reintento": false
     },
     {
-      "num": 1758,
+      "num": 1759,
       "nombre": "WEB_1014_fembot4_frag_7_8_pov_falda_nalgada",
       "n_esl": 2,
       "generados": 2,
@@ -21121,7 +21133,7 @@
       "es_reintento": false
     },
     {
-      "num": 1759,
+      "num": 1760,
       "nombre": "WEB_1026_darky_dildo4_frag_30_35_insercion_y_mismo_dildo",
       "n_esl": 6,
       "generados": 6,
@@ -21133,7 +21145,7 @@
       "es_reintento": false
     },
     {
-      "num": 1760,
+      "num": 1761,
       "nombre": "WEB_1026_darky_dildo4_frag_24_27_dildo_en_su_mano",
       "n_esl": 4,
       "generados": 4,
@@ -21145,7 +21157,7 @@
       "es_reintento": false
     },
     {
-      "num": 1761,
+      "num": 1762,
       "nombre": "WEB_1026_darky_dildo4_frag_20_23_tramo_nuevo_y_una_darky",
       "n_esl": 4,
       "generados": 4,
@@ -21157,7 +21169,7 @@
       "es_reintento": false
     },
     {
-      "num": 1762,
+      "num": 1763,
       "nombre": "WEB_1026_darky_dildo4_frag_15_19_sin_loras_de_mas",
       "n_esl": 5,
       "generados": 5,
@@ -21169,7 +21181,7 @@
       "es_reintento": false
     },
     {
-      "num": 1763,
+      "num": 1764,
       "nombre": "ELEGIR_SETS_DARKY",
       "n_esl": 0,
       "generados": 0,
@@ -21181,7 +21193,7 @@
       "es_reintento": false
     },
     {
-      "num": 1764,
+      "num": 1765,
       "nombre": "WEB_1026_clausula4_frag_15_18_pancho_se_queda",
       "n_esl": 4,
       "generados": 4,
@@ -21193,7 +21205,7 @@
       "es_reintento": false
     },
     {
-      "num": 1765,
+      "num": 1766,
       "nombre": "WEB_1026_clausula4_frag_12_13_las_manos_en_su_lado",
       "n_esl": 2,
       "generados": 2,
@@ -21205,7 +21217,7 @@
       "es_reintento": false
     },
     {
-      "num": 1766,
+      "num": 1767,
       "nombre": "WEB_1026_clausula4_frag_2_6_puerta_cerrada_y_un_pancho",
       "n_esl": 5,
       "generados": 5,
@@ -21217,7 +21229,7 @@
       "es_reintento": false
     },
     {
-      "num": 1767,
+      "num": 1768,
       "nombre": "WEB_1026_control_remoto_inverso5_frag_3_10_bulto_pene_ropa_y_frases",
       "n_esl": 8,
       "generados": 8,
@@ -21229,7 +21241,7 @@
       "es_reintento": false
     },
     {
-      "num": 1768,
+      "num": 1769,
       "nombre": "WEB_1026_control_remoto_inverso5_frag_19_20_frase_final_de_ella",
       "n_esl": 2,
       "generados": 2,
@@ -21241,7 +21253,7 @@
       "es_reintento": false
     },
     {
-      "num": 1769,
+      "num": 1770,
       "nombre": "WEB_1026_control_ciudad4_frag_4_5_dos_voces",
       "n_esl": 2,
       "generados": 2,
@@ -21253,7 +21265,7 @@
       "es_reintento": false
     },
     {
-      "num": 1770,
+      "num": 1771,
       "nombre": "WEB_1026_nsfw3_post_p4_dildo_foto",
       "n_esl": 1,
       "generados": 1,
@@ -21265,7 +21277,7 @@
       "es_reintento": false
     },
     {
-      "num": 1771,
+      "num": 1772,
       "nombre": "WEB_1026_nsfw3_post_p7_capsula_foto",
       "n_esl": 1,
       "generados": 1,
@@ -21277,7 +21289,7 @@
       "es_reintento": false
     },
     {
-      "num": 1772,
+      "num": 1773,
       "nombre": "WEB_1026_bikini4",
       "n_esl": 6,
       "generados": 6,
@@ -21289,7 +21301,7 @@
       "es_reintento": false
     },
     {
-      "num": 1773,
+      "num": 1774,
       "nombre": "WEB_1026_desvestir5_mujer",
       "n_esl": 3,
       "generados": 3,
@@ -21301,7 +21313,7 @@
       "es_reintento": false
     },
     {
-      "num": 1774,
+      "num": 1775,
       "nombre": "WEB_1026_sitcom_maleta8",
       "n_esl": 6,
       "generados": 6,
@@ -21313,7 +21325,7 @@
       "es_reintento": false
     },
     {
-      "num": 1775,
+      "num": 1776,
       "nombre": "WEB_1014_noche_fiesta3_frag_26_26_loto_sin_tocar",
       "n_esl": 1,
       "generados": 1,
@@ -21325,7 +21337,7 @@
       "es_reintento": false
     },
     {
-      "num": 1776,
+      "num": 1777,
       "nombre": "WEB_1014_noche_fiesta3_frag_9_12_mejillas_infladas",
       "n_esl": 4,
       "generados": 4,
@@ -21337,7 +21349,7 @@
       "es_reintento": false
     },
     {
-      "num": 1777,
+      "num": 1778,
       "nombre": "WEB_1014_calle_sun5_frag_21_28_pene_pov_anclado",
       "n_esl": 8,
       "generados": 8,
@@ -21349,7 +21361,7 @@
       "es_reintento": false
     },
     {
-      "num": 1778,
+      "num": 1779,
       "nombre": "WEB_1014_aeropuerto4_frag_39_40_varita_desde_atras",
       "n_esl": 2,
       "generados": 2,
@@ -21361,7 +21373,7 @@
       "es_reintento": false
     },
     {
-      "num": 1779,
+      "num": 1780,
       "nombre": "WEB_1014_aeropuerto4_frag_28_30_una_cabeza",
       "n_esl": 3,
       "generados": 3,
@@ -21373,7 +21385,7 @@
       "es_reintento": false
     },
     {
-      "num": 1780,
+      "num": 1781,
       "nombre": "WEB_1014_fembot4_frag_53_54_cabalga_corto",
       "n_esl": 2,
       "generados": 2,
@@ -21385,7 +21397,7 @@
       "es_reintento": false
     },
     {
-      "num": 1781,
+      "num": 1782,
       "nombre": "WEB_1014_fembot4_frag_36_38_polera_igual",
       "n_esl": 3,
       "generados": 3,
@@ -21397,7 +21409,7 @@
       "es_reintento": false
     },
     {
-      "num": 1782,
+      "num": 1783,
       "nombre": "WEB_1014_fembot4_frag_2_4_la_saca_de_la_caja",
       "n_esl": 3,
       "generados": 3,
@@ -21409,7 +21421,7 @@
       "es_reintento": false
     },
     {
-      "num": 1783,
+      "num": 1784,
       "nombre": "WEB_1026_skate_secuencia_6_8",
       "n_esl": 3,
       "generados": 3,
@@ -21421,7 +21433,7 @@
       "es_reintento": false
     },
     {
-      "num": 1784,
+      "num": 1785,
       "nombre": "WEB_1026_skate_v2_i4_escalera",
       "n_esl": 1,
       "generados": 1,
@@ -21433,7 +21445,7 @@
       "es_reintento": false
     },
     {
-      "num": 1785,
+      "num": 1786,
       "nombre": "WEB_1026_skate_v2_t5_wallride_kickflip",
       "n_esl": 2,
       "generados": 2,
@@ -21445,7 +21457,7 @@
       "es_reintento": false
     },
     {
-      "num": 1786,
+      "num": 1787,
       "nombre": "SKATE_ENTREGAR",
       "n_esl": 0,
       "generados": 0,
@@ -21457,7 +21469,7 @@
       "es_reintento": false
     },
     {
-      "num": 1787,
+      "num": 1788,
       "nombre": "WEB_1014_sun_niveles2_p3",
       "n_esl": 14,
       "generados": 14,
@@ -21469,7 +21481,7 @@
       "es_reintento": false
     },
     {
-      "num": 1788,
+      "num": 1789,
       "nombre": "MONTAR_1014_sun_niveles2",
       "n_esl": 0,
       "generados": 0,
@@ -21481,7 +21493,7 @@
       "es_reintento": false
     },
     {
-      "num": 1789,
+      "num": 1790,
       "nombre": "WEB_1019_casting5",
       "n_esl": 14,
       "generados": 14,
@@ -21493,24 +21505,12 @@
       "es_reintento": false
     },
     {
-      "num": 1790,
+      "num": 1791,
       "nombre": "MONTAR_1019_casting5",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Vie 30/10 03:10",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null
-    },
-    {
-      "num": 1791,
-      "nombre": "WEB_1019_rockstar6_p1",
-      "n_esl": 8,
-      "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 04:11",
+      "eta_txt": "Termina: Vie 30/10 04:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21518,11 +21518,11 @@
     },
     {
       "num": 1792,
-      "nombre": "WEB_1019_rockstar6_p2",
-      "n_esl": 14,
+      "nombre": "WEB_1019_rockstar6_p1",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 1.7733333333333332,
-      "eta_txt": "Termina: Vie 30/10 05:57",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Vie 30/10 06:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21530,11 +21530,11 @@
     },
     {
       "num": 1793,
-      "nombre": "MONTAR_1019_rockstar6",
-      "n_esl": 0,
+      "nombre": "WEB_1019_rockstar6_p2",
+      "n_esl": 14,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 30/10 05:57",
+      "horas": 1.7733333333333332,
+      "eta_txt": "Termina: Vie 30/10 07:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21542,11 +21542,11 @@
     },
     {
       "num": 1794,
-      "nombre": "WEB_1014_mall4_p1",
-      "n_esl": 17,
+      "nombre": "MONTAR_1019_rockstar6",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Vie 30/10 08:06",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 30/10 07:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21554,11 +21554,11 @@
     },
     {
       "num": 1795,
-      "nombre": "WEB_1014_mall4_p2",
-      "n_esl": 15,
+      "nombre": "WEB_1014_mall4_p1",
+      "n_esl": 17,
       "generados": 0,
-      "horas": 1.9,
-      "eta_txt": "Termina: Vie 30/10 10:00",
+      "horas": 2.1533333333333333,
+      "eta_txt": "Termina: Vie 30/10 09:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21566,11 +21566,11 @@
     },
     {
       "num": 1796,
-      "nombre": "MONTAR_1014_mall4",
-      "n_esl": 0,
+      "nombre": "WEB_1014_mall4_p2",
+      "n_esl": 15,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 30/10 10:00",
+      "horas": 1.9,
+      "eta_txt": "Termina: Vie 30/10 11:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21578,11 +21578,11 @@
     },
     {
       "num": 1797,
-      "nombre": "WEB_1026_instaa_finger3_p1",
-      "n_esl": 8,
+      "nombre": "MONTAR_1014_mall4",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 11:01",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 30/10 11:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21590,11 +21590,11 @@
     },
     {
       "num": 1798,
-      "nombre": "WEB_1026_instaa_finger3_p2",
+      "nombre": "WEB_1026_instaa_finger3_p1",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 12:02",
+      "eta_txt": "Termina: Vie 30/10 12:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21602,11 +21602,11 @@
     },
     {
       "num": 1799,
-      "nombre": "WEB_1026_instaa_finger3_p3",
+      "nombre": "WEB_1026_instaa_finger3_p2",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 13:03",
+      "eta_txt": "Termina: Vie 30/10 13:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21614,11 +21614,11 @@
     },
     {
       "num": 1800,
-      "nombre": "WEB_1026_instaa_finger3_p4",
+      "nombre": "WEB_1026_instaa_finger3_p3",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 14:03",
+      "eta_txt": "Termina: Vie 30/10 14:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21626,11 +21626,11 @@
     },
     {
       "num": 1801,
-      "nombre": "WEB_1026_instaa_finger3_p5",
+      "nombre": "WEB_1026_instaa_finger3_p4",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 15:04",
+      "eta_txt": "Termina: Vie 30/10 15:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21638,11 +21638,11 @@
     },
     {
       "num": 1802,
-      "nombre": "WEB_1026_instaa_finger3_p6",
+      "nombre": "WEB_1026_instaa_finger3_p5",
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 30/10 16:05",
+      "eta_txt": "Termina: Vie 30/10 16:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21650,11 +21650,11 @@
     },
     {
       "num": 1803,
-      "nombre": "WEB_1026_instaa_finger3_p7",
-      "n_esl": 6,
+      "nombre": "WEB_1026_instaa_finger3_p6",
+      "n_esl": 8,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Vie 30/10 16:51",
+      "horas": 1.0133333333333332,
+      "eta_txt": "Termina: Vie 30/10 17:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21662,11 +21662,11 @@
     },
     {
       "num": 1804,
-      "nombre": "MONTAR_1026_instaa_finger3",
-      "n_esl": 0,
+      "nombre": "WEB_1026_instaa_finger3_p7",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Vie 30/10 16:51",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Vie 30/10 18:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21674,11 +21674,11 @@
     },
     {
       "num": 1805,
-      "nombre": "WEB_1014_mago4_p1",
-      "n_esl": 20,
+      "nombre": "MONTAR_1026_instaa_finger3",
+      "n_esl": 0,
       "generados": 0,
-      "horas": 2.533333333333333,
-      "eta_txt": "Termina: Vie 30/10 19:23",
+      "horas": 0.0,
+      "eta_txt": "Termina: Vie 30/10 18:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21686,11 +21686,11 @@
     },
     {
       "num": 1806,
-      "nombre": "WEB_1014_mago4_p2",
-      "n_esl": 6,
+      "nombre": "WEB_1014_mago4_p1",
+      "n_esl": 20,
       "generados": 0,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Vie 30/10 20:08",
+      "horas": 2.533333333333333,
+      "eta_txt": "Termina: Vie 30/10 21:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21698,11 +21698,11 @@
     },
     {
       "num": 1807,
-      "nombre": "WEB_1014_mago4_p3",
-      "n_esl": 11,
+      "nombre": "WEB_1014_mago4_p2",
+      "n_esl": 6,
       "generados": 0,
-      "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Vie 30/10 21:32",
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Vie 30/10 21:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21710,11 +21710,11 @@
     },
     {
       "num": 1808,
-      "nombre": "WEB_1014_mago4_p4",
-      "n_esl": 17,
+      "nombre": "WEB_1014_mago4_p3",
+      "n_esl": 11,
       "generados": 0,
-      "horas": 2.1533333333333333,
-      "eta_txt": "Termina: Vie 30/10 23:41",
+      "horas": 1.3933333333333333,
+      "eta_txt": "Termina: Vie 30/10 23:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21722,11 +21722,11 @@
     },
     {
       "num": 1809,
-      "nombre": "WEB_1014_mago4_p5",
-      "n_esl": 11,
+      "nombre": "WEB_1014_mago4_p4",
+      "n_esl": 17,
       "generados": 0,
-      "horas": 1.3933333333333333,
-      "eta_txt": "Termina: Sáb 31/10 01:05",
+      "horas": 2.1533333333333333,
+      "eta_txt": "Termina: Sáb 31/10 01:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21734,11 +21734,11 @@
     },
     {
       "num": 1810,
-      "nombre": "WEB_1014_mago4_p6",
-      "n_esl": 4,
+      "nombre": "WEB_1014_mago4_p5",
+      "n_esl": 11,
       "generados": 0,
-      "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Sáb 31/10 01:35",
+      "horas": 1.3933333333333333,
+      "eta_txt": "Termina: Sáb 31/10 02:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -21746,11 +21746,23 @@
     },
     {
       "num": 1811,
+      "nombre": "WEB_1014_mago4_p6",
+      "n_esl": 4,
+      "generados": 0,
+      "horas": 0.5066666666666666,
+      "eta_txt": "Termina: Sáb 31/10 03:24",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 1812,
       "nombre": "MONTAR_1014_mago4",
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Sáb 31/10 01:35",
+      "eta_txt": "Termina: Sáb 31/10 03:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
