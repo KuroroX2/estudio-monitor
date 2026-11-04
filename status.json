@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-11-04 15:01:43",
+  "timestamp": "2026-11-04 15:08:48",
   "corriendo": {
     "nombre": "WEB_1102_minipeli_delirio_darky4_p1",
     "hora": "14:50",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 13,
-    "horas_rest": 1.3933333333333333,
+    "horas_rest": 1.2666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 13,
-      "elapsed": 4,
+      "elapsed": 63,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 7298,
+    "eslabones_hechos": 7299,
     "eslabones_totales": 7370,
-    "horas_hechas": 928.4383333333255,
-    "horas_restantes": 9.12,
+    "horas_hechas": 928.5649999999922,
+    "horas_restantes": 8.993333333333334,
     "fecha_fin_estimada": "Jue 05/11 00:08"
   },
   "items": [
@@ -573,7 +573,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mié 04/11 15:09",
+      "eta_txt": "Termina: Mié 04/11 15:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2011,7 +2011,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 13,
-      "generados": 2,
+      "generados": 3,
       "horas": 1.6466666666666667,
       "eta_txt": "Termina: Mié 04/11 16:32",
       "es_activa": true,
@@ -2028,7 +2028,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.5199999999999998,
-      "eta_txt": "Termina: Mié 04/11 18:04",
+      "eta_txt": "Termina: Mié 04/11 18:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2058,7 +2058,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Mié 04/11 20:51",
+      "eta_txt": "Termina: Mié 04/11 20:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
