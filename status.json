@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-04 22:28:22",
+  "timestamp": "2026-11-04 22:38:40",
   "corriendo": {
     "nombre": "WEB_1102_rockstar7_p2",
     "hora": "22:07",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 14,
-    "horas_rest": 1.3933333333333333,
+    "horas_rest": 1.2666666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 14,
-      "elapsed": 157,
+      "elapsed": 377,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 7365,
+    "eslabones_hechos": 7366,
     "eslabones_totales": 7389,
-    "horas_hechas": 936.9249999999921,
-    "horas_restantes": 3.04,
-    "fecha_fin_estimada": "Jue 05/11 01:30"
+    "horas_hechas": 937.0516666666588,
+    "horas_restantes": 2.9133333333333336,
+    "fecha_fin_estimada": "Jue 05/11 01:33"
   },
   "items": [
     {
@@ -603,7 +603,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mié 04/11 22:35",
+      "eta_txt": "Termina: Mié 04/11 22:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2101,9 +2101,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 14,
-      "generados": 3,
+      "generados": 4,
       "horas": 1.7733333333333332,
-      "eta_txt": "Termina: Mié 04/11 23:59",
+      "eta_txt": "Termina: Jue 05/11 00:02",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2118,7 +2118,7 @@
       "n_esl": 12,
       "generados": 0,
       "horas": 1.5199999999999998,
-      "eta_txt": "Termina: Jue 05/11 01:30",
+      "eta_txt": "Termina: Jue 05/11 01:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
