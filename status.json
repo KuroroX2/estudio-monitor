@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-11-05 00:03:54",
+  "timestamp": "2026-11-05 00:11:07",
   "corriendo": {
     "nombre": "WEB_1102_rockstar7_p2",
     "hora": "22:07",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 14,
-    "horas_rest": 0.6333333333333333,
+    "horas_rest": 0.5066666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 10,
+      "num_esl": 11,
       "tot_esl": 14,
-      "elapsed": 122,
+      "elapsed": 3,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
-    "eslabones_hechos": 7371,
+    "eslabones_hechos": 7372,
     "eslabones_totales": 7389,
-    "horas_hechas": 937.6849999999921,
-    "horas_restantes": 2.28,
+    "horas_hechas": 937.8116666666588,
+    "horas_restantes": 2.1533333333333333,
     "fecha_fin_estimada": "Jue 05/11 02:20"
   },
   "items": [
@@ -603,7 +603,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 05/11 00:11",
+      "eta_txt": "Termina: Jue 05/11 00:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2101,7 +2101,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 14,
-      "generados": 9,
+      "generados": 10,
       "horas": 1.7733333333333332,
       "eta_txt": "Termina: Jue 05/11 00:49",
       "es_activa": true,
