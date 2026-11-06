@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-06 13:28:23",
+  "timestamp": "2026-11-06 13:34:52",
   "corriendo": {
     "nombre": "WEB_1102_noche_fiesta4_p5",
     "hora": "13:28",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 2,
-    "horas_rest": 0.2533333333333333,
+    "horas_rest": 0.12666666666666665,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 2,
-      "elapsed": 10,
+      "elapsed": 62,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 7700,
+    "eslabones_hechos": 7701,
     "eslabones_totales": 7713,
-    "horas_hechas": 979.358333333325,
-    "horas_restantes": 1.6466666666666667,
-    "fecha_fin_estimada": "Vie 06/11 15:07"
+    "horas_hechas": 979.4849999999917,
+    "horas_restantes": 1.52,
+    "fecha_fin_estimada": "Vie 06/11 15:06"
   },
   "items": [
     {
@@ -1638,7 +1638,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 06/11 13:35",
+      "eta_txt": "Termina: Vie 06/11 13:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -32281,9 +32281,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 2,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 06/11 13:51",
+      "eta_txt": "Termina: Vie 06/11 13:50",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -32298,7 +32298,7 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 06/11 15:07",
+      "eta_txt": "Termina: Vie 06/11 15:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -32313,7 +32313,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Vie 06/11 15:07",
+      "eta_txt": "Termina: Vie 06/11 15:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
