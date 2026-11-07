@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-07 19:50:59",
+  "timestamp": "2026-11-07 19:53:47",
   "corriendo": {
     "nombre": "WEB_1107_clip_cerca_darky3",
     "hora": "18:46",
-    "eslabon_actual": 8,
+    "eslabon_actual": 9,
     "eslabon_total": 12,
-    "horas_rest": 0.6333333333333333,
+    "horas_rest": 0.5066666666666666,
     "suelto": true,
     "clip_info": {
-      "num_esl": 8,
+      "num_esl": 9,
       "tot_esl": 12,
-      "elapsed": 282,
+      "elapsed": 11,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 7720,
+    "eslabones_hechos": 7721,
     "eslabones_totales": 7732,
-    "horas_hechas": 981.8916666666584,
-    "horas_restantes": 1.52,
-    "fecha_fin_estimada": "Sáb 07/11 21:22"
+    "horas_hechas": 982.018333333325,
+    "horas_restantes": 1.3933333333333333,
+    "fecha_fin_estimada": "Sáb 07/11 21:17"
   },
   "items": [
     {
@@ -13876,9 +13876,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 12,
-      "generados": 7,
+      "generados": 8,
       "horas": 1.5199999999999998,
-      "eta_txt": "Termina: Sáb 07/11 20:28",
+      "eta_txt": "Termina: Sáb 07/11 20:24",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -13893,7 +13893,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Sáb 07/11 21:22",
+      "eta_txt": "Termina: Sáb 07/11 21:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
