@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-08 13:17:32",
+  "timestamp": "2026-11-08 13:22:55",
   "corriendo": {
-    "nombre": "WEB_1107_darky_show_hipnosis_p2",
-    "hora": "12:43",
-    "eslabon_actual": 5,
+    "nombre": "WEB_1107_darky_show_hipnosis_p3",
+    "hora": "13:22",
+    "eslabon_actual": 1,
     "eslabon_total": 5,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.6333333333333333,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 5,
+      "num_esl": 1,
       "tot_esl": 5,
-      "elapsed": 2,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 14,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 7890,
     "horas_hechas": 999.6249999999915,
     "horas_restantes": 3.8,
-    "fecha_fin_estimada": "Dom 08/11 17:05"
+    "fecha_fin_estimada": "Dom 08/11 17:10"
   },
   "items": [
     {
@@ -14253,11 +14253,11 @@
       "n_esl": 5,
       "generados": 5,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 13:17",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 950,
@@ -14268,8 +14268,8 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 13:55",
-      "es_activa": false,
+      "eta_txt": "Termina: Dom 08/11 14:00",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -14283,7 +14283,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 14:33",
+      "eta_txt": "Termina: Dom 08/11 14:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -14298,7 +14298,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 15:11",
+      "eta_txt": "Termina: Dom 08/11 15:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -14313,7 +14313,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 15:49",
+      "eta_txt": "Termina: Dom 08/11 15:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -14328,7 +14328,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 16:27",
+      "eta_txt": "Termina: Dom 08/11 16:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -14343,7 +14343,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 17:05",
+      "eta_txt": "Termina: Dom 08/11 17:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
