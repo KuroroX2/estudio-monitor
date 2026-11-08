@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-08 16:05:04",
+  "timestamp": "2026-11-08 16:16:37",
   "corriendo": {
     "nombre": "WEB_1107_darky_show_hipnosis_p7",
     "hora": "15:59",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 5,
-    "horas_rest": 0.5066666666666666,
+    "horas_rest": 0.37999999999999995,
     "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 5,
-      "elapsed": 2,
+      "elapsed": 307,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 7881,
+    "eslabones_hechos": 7882,
     "eslabones_totales": 7890,
-    "horas_hechas": 1002.2849999999914,
-    "horas_restantes": 1.14,
-    "fecha_fin_estimada": "Dom 08/11 17:13"
+    "horas_hechas": 1002.4116666666581,
+    "horas_restantes": 1.0133333333333334,
+    "fecha_fin_estimada": "Dom 08/11 17:17"
   },
   "items": [
     {
@@ -14326,9 +14326,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 5,
-      "generados": 1,
+      "generados": 2,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 16:35",
+      "eta_txt": "Termina: Dom 08/11 16:39",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -14343,7 +14343,7 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 08/11 17:13",
+      "eta_txt": "Termina: Dom 08/11 17:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
