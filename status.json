@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-07 21:09:24",
+  "timestamp": "2026-11-07 21:19:55",
   "corriendo": {
     "nombre": "SR_1107_202658",
     "hora": "20:33",
-    "eslabon_actual": 5,
+    "eslabon_actual": 6,
     "eslabon_total": 10,
-    "horas_rest": 0.6333333333333333,
+    "horas_rest": 0.5066666666666666,
     "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 2150,
+      "elapsed": 2780,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15
     }
   },
   "global": {
-    "eslabones_hechos": 7730,
+    "eslabones_hechos": 7731,
     "eslabones_totales": 7750,
-    "horas_hechas": 983.158333333325,
-    "horas_restantes": 2.533333333333333,
-    "fecha_fin_estimada": "Sáb 07/11 23:41"
+    "horas_hechas": 983.2849999999917,
+    "horas_restantes": 2.4066666666666667,
+    "fecha_fin_estimada": "Sáb 07/11 23:44"
   },
   "items": [
     {
@@ -33,7 +33,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Sáb 07/11 22:10",
+      "eta_txt": "Termina: Sáb 07/11 22:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -46,9 +46,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 10,
-      "generados": 5,
+      "generados": 6,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Sáb 07/11 22:48",
+      "eta_txt": "Termina: Sáb 07/11 22:51",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -13923,7 +13923,7 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Sáb 07/11 23:41",
+      "eta_txt": "Termina: Sáb 07/11 23:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
