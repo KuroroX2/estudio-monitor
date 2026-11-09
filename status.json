@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-09 09:45:58",
+  "timestamp": "2026-11-09 09:57:56",
   "corriendo": {
-    "nombre": "WEB_1108_223932_ref",
-    "hora": "09:12",
+    "nombre": "VIAJE_PARECIDO",
+    "hora": "09:57",
     "eslabon_actual": 0,
-    "eslabon_total": 3,
-    "horas_rest": 0.37999999999999995,
-    "suelto": false,
+    "eslabon_total": 5,
+    "horas_rest": 0.6333333333333333,
+    "suelto": true,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 242,
+      "elapsed": 19,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 7890,
+    "eslabones_hechos": 7893,
     "eslabones_totales": 7900,
-    "horas_hechas": 1003.4249999999914,
-    "horas_restantes": 1.2666666666666666,
-    "fecha_fin_estimada": "Lun 09/11 11:01"
+    "horas_hechas": 1003.8049999999914,
+    "horas_restantes": 0.8866666666666667,
+    "fecha_fin_estimada": "Lun 09/11 10:51"
   },
   "items": [
     {
@@ -33,8 +33,8 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Lun 09/11 10:23",
-      "es_activa": false,
+      "eta_txt": "Termina: Lun 09/11 10:35",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -32821,13 +32821,13 @@
       "serie": "",
       "episodio": null,
       "n_esl": 3,
-      "generados": 0,
+      "generados": 3,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Lun 09/11 10:46",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 2188,
@@ -32838,7 +32838,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 09/11 10:54",
+      "eta_txt": "Termina: Lun 09/11 10:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -32853,7 +32853,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 09/11 11:01",
+      "eta_txt": "Termina: Lun 09/11 10:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
