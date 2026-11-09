@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-08 17:14:05",
+  "timestamp": "2026-11-08 22:40:37",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 7890,
-    "eslabones_totales": 7890,
+    "eslabones_totales": 7933,
     "horas_hechas": 1003.4249999999914,
-    "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Dom 08/11 17:14"
+    "horas_restantes": 5.446666666666666,
+    "fecha_fin_estimada": "Lun 09/11 04:07"
   },
   "items": [
     {
@@ -32783,6 +32783,96 @@
       "es_hecha": true,
       "es_fallo": false,
       "es_reintento": false
+    },
+    {
+      "num": 2186,
+      "nombre": "WEB_1108_224021_ref",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 4,
+      "generados": 0,
+      "horas": 0.5066666666666666,
+      "eta_txt": "Termina: Dom 08/11 23:11",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2187,
+      "nombre": "WEB_1108_224010_ref",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 4,
+      "generados": 0,
+      "horas": 0.5066666666666666,
+      "eta_txt": "Termina: Dom 08/11 23:41",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2188,
+      "nombre": "WEB_1108_223955_ref",
+      "tipo": "Pelicula",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 12,
+      "generados": 0,
+      "horas": 1.5199999999999998,
+      "eta_txt": "Termina: Lun 09/11 01:12",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2189,
+      "nombre": "WEB_1108_223932_ref",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 3,
+      "generados": 0,
+      "horas": 0.37999999999999995,
+      "eta_txt": "Termina: Lun 09/11 01:35",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2190,
+      "nombre": "WEB_1108_223914_ref",
+      "tipo": "Pelicula",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 18,
+      "generados": 0,
+      "horas": 2.28,
+      "eta_txt": "Termina: Lun 09/11 03:52",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
+    },
+    {
+      "num": 2191,
+      "nombre": "WEB_1108_223857_ref",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 2,
+      "generados": 0,
+      "horas": 0.2533333333333333,
+      "eta_txt": "Termina: Lun 09/11 04:07",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null
     }
   ],
   "espera": [],
