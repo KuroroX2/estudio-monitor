@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-11-09 10:31:54",
+  "timestamp": "2026-11-09 10:33:09",
   "corriendo": {
-    "nombre": "WEB_1109_skate_t10_yimmy_ia",
-    "hora": "10:25",
-    "eslabon_actual": 1,
-    "eslabon_total": 1,
-    "horas_rest": 0.0,
+    "nombre": "RETIRO_VFX_AGUILA",
+    "hora": "10:32",
+    "eslabon_actual": 0,
+    "eslabon_total": null,
+    "horas_rest": 0.180013645,
     "suelto": false,
     "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 1,
-      "elapsed": 7,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 13,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
     "eslabones_hechos": 7899,
     "eslabones_totales": 8013,
     "horas_hechas": 1004.7316666666579,
-    "horas_restantes": 15.04,
+    "horas_restantes": 15.019997361388889,
     "fecha_fin_estimada": "Mar 10/11 01:34"
   },
   "items": [
@@ -14389,7 +14389,7 @@
       "generados": 0,
       "horas": 0.2,
       "eta_txt": "Termina: Lun 09/11 10:43",
-      "es_activa": false,
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -14418,11 +14418,11 @@
       "n_esl": 1,
       "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 09/11 10:55",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 961,
