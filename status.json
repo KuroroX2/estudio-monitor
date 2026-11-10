@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-10 19:27:05",
+  "timestamp": "2026-11-10 19:28:16",
   "corriendo": {
-    "nombre": "WEB_1109_lo_bjmm_cara",
-    "hora": "19:19",
+    "nombre": "WEB_1109_lo_edge_cara",
+    "hora": "19:27",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.12666666666666665,
+    "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 0,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 64,
+      "paso_num": 1,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 8136,
     "horas_hechas": 1037.1683333333253,
     "horas_restantes": 2.8,
-    "fecha_fin_estimada": "Mar 10/11 22:15"
+    "fecha_fin_estimada": "Mar 10/11 22:16"
   },
   "items": [
     {
@@ -34293,11 +34293,11 @@
       "n_esl": 1,
       "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:27",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 2286,
@@ -34308,8 +34308,8 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:34",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 10/11 19:35",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -34323,7 +34323,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:42",
+      "eta_txt": "Termina: Mar 10/11 19:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34338,7 +34338,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:49",
+      "eta_txt": "Termina: Mar 10/11 19:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34353,7 +34353,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:57",
+      "eta_txt": "Termina: Mar 10/11 19:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34368,7 +34368,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 20:05",
+      "eta_txt": "Termina: Mar 10/11 20:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34383,7 +34383,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 2.1666666666666665,
-      "eta_txt": "Termina: Mar 10/11 22:15",
+      "eta_txt": "Termina: Mar 10/11 22:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
