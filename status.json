@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-10 19:34:21",
+  "timestamp": "2026-11-10 19:40:20",
   "corriendo": {
     "nombre": "WEB_1109_lo_instapic_con",
     "hora": "19:34",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 13,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 22,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 8132,
+    "eslabones_hechos": 8133,
     "eslabones_totales": 8136,
-    "horas_hechas": 1037.2949999999921,
-    "horas_restantes": 2.6733333333333333,
-    "fecha_fin_estimada": "Mar 10/11 22:14"
+    "horas_hechas": 1037.421666666659,
+    "horas_restantes": 2.546666666666667,
+    "fecha_fin_estimada": "Mar 10/11 22:13"
   },
   "items": [
     {
@@ -34321,9 +34321,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:41",
+      "eta_txt": "Termina: Mar 10/11 19:40",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -34338,7 +34338,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:49",
+      "eta_txt": "Termina: Mar 10/11 19:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34353,7 +34353,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 19:57",
+      "eta_txt": "Termina: Mar 10/11 19:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34368,7 +34368,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 10/11 20:04",
+      "eta_txt": "Termina: Mar 10/11 20:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -34383,7 +34383,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 2.1666666666666665,
-      "eta_txt": "Termina: Mar 10/11 22:14",
+      "eta_txt": "Termina: Mar 10/11 22:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
