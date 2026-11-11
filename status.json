@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-11 00:28:01",
+  "timestamp": "2026-11-11 00:34:10",
   "corriendo": {
     "nombre": "WEB_1110_cine4_sitio_frag_1_3_dos_miradas",
     "hora": "00:17",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 31,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 1,
+      "paso_num": 6,
+      "paso_str": "Terminando: montaje y entrega",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 8142,
+    "eslabones_hechos": 8143,
     "eslabones_totales": 8149,
-    "horas_hechas": 1040.728333333326,
-    "horas_restantes": 0.8866666666666667,
-    "fecha_fin_estimada": "Mié 11/11 01:21"
+    "horas_hechas": 1040.8549999999927,
+    "horas_restantes": 0.76,
+    "fecha_fin_estimada": "Mié 11/11 01:19"
   },
   "items": [
     {
@@ -15556,9 +15556,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 00:35",
+      "eta_txt": "Termina: Mié 11/11 00:34",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -15573,7 +15573,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 00:58",
+      "eta_txt": "Termina: Mié 11/11 00:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15588,7 +15588,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:21",
+      "eta_txt": "Termina: Mié 11/11 01:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
