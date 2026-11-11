@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-11 00:48:13",
+  "timestamp": "2026-11-11 00:56:05",
   "corriendo": {
     "nombre": "WEB_1110_presentacion3_sitio_frag_6_8_sitio_desde_camara",
     "hora": "00:36",
-    "eslabon_actual": 2,
+    "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.2533333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 330,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 6,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 8144,
+    "eslabones_hechos": 8146,
     "eslabones_totales": 8149,
-    "horas_hechas": 1040.9816666666593,
-    "horas_restantes": 0.6333333333333333,
-    "fecha_fin_estimada": "Mié 11/11 01:26"
+    "horas_hechas": 1041.2349999999929,
+    "horas_restantes": 0.38,
+    "fecha_fin_estimada": "Mié 11/11 01:18"
   },
   "items": [
     {
@@ -15571,9 +15571,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 3,
-      "generados": 1,
+      "generados": 3,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:03",
+      "eta_txt": "Termina: Mié 11/11 00:56",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -15588,7 +15588,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:26",
+      "eta_txt": "Termina: Mié 11/11 01:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
