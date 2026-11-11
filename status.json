@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-11 00:34:10",
+  "timestamp": "2026-11-11 00:36:59",
   "corriendo": {
-    "nombre": "WEB_1110_cine4_sitio_frag_1_3_dos_miradas",
-    "hora": "00:17",
-    "eslabon_actual": 3,
+    "nombre": "WEB_1110_presentacion3_sitio_frag_6_8_sitio_desde_camara",
+    "hora": "00:36",
+    "eslabon_actual": 1,
     "eslabon_total": 3,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.37999999999999995,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 1,
       "tot_esl": 3,
-      "elapsed": 1,
-      "paso_num": 6,
-      "paso_str": "Terminando: montaje y entrega",
-      "pct": 1.0
+      "elapsed": 3,
+      "paso_num": 1,
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 8149,
     "horas_hechas": 1040.8549999999927,
     "horas_restantes": 0.76,
-    "fecha_fin_estimada": "Mié 11/11 01:19"
+    "fecha_fin_estimada": "Mié 11/11 01:22"
   },
   "items": [
     {
@@ -15558,11 +15558,11 @@
       "n_esl": 3,
       "generados": 3,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 00:34",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 1037,
@@ -15573,8 +15573,8 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 00:56",
-      "es_activa": false,
+      "eta_txt": "Termina: Mié 11/11 00:59",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -15588,7 +15588,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:19",
+      "eta_txt": "Termina: Mié 11/11 01:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
