@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-11 01:00:40",
+  "timestamp": "2026-11-11 01:11:19",
   "corriendo": {
     "nombre": "WEB_1110_mago7_sitio_frag_48_50_sitio_desde_camara",
     "hora": "01:00",
-    "eslabon_actual": 1,
+    "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.37999999999999995,
+    "horas_rest": 0.12666666666666665,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 29,
+      "elapsed": 16,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
     }
   },
   "global": {
-    "eslabones_hechos": 8146,
+    "eslabones_hechos": 8148,
     "eslabones_totales": 8149,
-    "horas_hechas": 1041.2349999999929,
-    "horas_restantes": 0.38,
-    "fecha_fin_estimada": "Mié 11/11 01:23"
+    "horas_hechas": 1041.4883333333262,
+    "horas_restantes": 0.12666666666666668,
+    "fecha_fin_estimada": "Mié 11/11 01:18"
   },
   "items": [
     {
@@ -15586,9 +15586,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 3,
-      "generados": 0,
+      "generados": 2,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:23",
+      "eta_txt": "Termina: Mié 11/11 01:18",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
