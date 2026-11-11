@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-11 10:04:46",
+  "timestamp": "2026-11-11 10:08:38",
   "corriendo": {
-    "nombre": "WEB_1111_mago8_frag_32_35_sitio_desde_camara",
-    "hora": "09:39",
-    "eslabon_actual": 4,
+    "nombre": "WEB_1111_mago8_frag_66_69_sitio_desde_camara",
+    "hora": "10:08",
+    "eslabon_actual": 1,
     "eslabon_total": 4,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.5066666666666666,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 1,
       "tot_esl": 4,
-      "elapsed": 18,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 22,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 8183,
     "horas_hechas": 1045.0349999999928,
     "horas_restantes": 0.8866666666666667,
-    "fecha_fin_estimada": "Mié 11/11 10:57"
+    "fecha_fin_estimada": "Mié 11/11 11:01"
   },
   "items": [
     {
@@ -15693,11 +15693,11 @@
       "n_esl": 4,
       "generados": 4,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 10:04",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 1046,
@@ -15708,8 +15708,8 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 10:35",
-      "es_activa": false,
+      "eta_txt": "Termina: Mié 11/11 10:39",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -15723,7 +15723,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 10:57",
+      "eta_txt": "Termina: Mié 11/11 11:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
