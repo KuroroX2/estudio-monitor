@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-10 23:58:09",
+  "timestamp": "2026-11-10 23:59:18",
   "corriendo": {
     "nombre": "WEB_1110_noche_m6_auto4_frag_1_4_dos_miradas",
     "hora": "23:54",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 4,
-    "horas_rest": 0.5066666666666666,
+    "horas_rest": 0.37999999999999995,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 224,
+      "elapsed": 68,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 8149,
     "horas_hechas": 1040.0949999999925,
     "horas_restantes": 1.52,
-    "fecha_fin_estimada": "Mié 11/11 01:29"
+    "fecha_fin_estimada": "Mié 11/11 01:30"
   },
   "items": [
     {
@@ -15543,7 +15543,7 @@
       "n_esl": 4,
       "generados": 1,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 00:20",
+      "eta_txt": "Termina: Mié 11/11 00:22",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -15558,7 +15558,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 00:43",
+      "eta_txt": "Termina: Mié 11/11 00:44",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15573,7 +15573,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:06",
+      "eta_txt": "Termina: Mié 11/11 01:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15588,7 +15588,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 01:29",
+      "eta_txt": "Termina: Mié 11/11 01:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
