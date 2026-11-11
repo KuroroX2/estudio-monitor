@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-11 08:58:19",
+  "timestamp": "2026-11-11 09:07:15",
   "corriendo": {
     "nombre": "WEB_1111_hipnosis3_show_frag_6_10_sitio_desde_camara",
     "hora": "08:36",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 5,
-    "horas_rest": 0.2533333333333333,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 5,
-      "elapsed": 292,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15
+      "elapsed": 6,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 8166,
+    "eslabones_hechos": 8168,
     "eslabones_totales": 8183,
-    "horas_hechas": 1043.7683333333262,
-    "horas_restantes": 2.1533333333333333,
-    "fecha_fin_estimada": "Mié 11/11 11:07"
+    "horas_hechas": 1044.0216666666595,
+    "horas_restantes": 1.9,
+    "fecha_fin_estimada": "Mié 11/11 11:01"
   },
   "items": [
     {
@@ -15661,9 +15661,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 5,
-      "generados": 3,
+      "generados": 5,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Mié 11/11 09:13",
+      "eta_txt": "Termina: Mié 11/11 09:07",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -15678,7 +15678,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 09:43",
+      "eta_txt": "Termina: Mié 11/11 09:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15693,7 +15693,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 10:14",
+      "eta_txt": "Termina: Mié 11/11 10:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15708,7 +15708,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Mié 11/11 10:44",
+      "eta_txt": "Termina: Mié 11/11 10:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -15723,7 +15723,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 11/11 11:07",
+      "eta_txt": "Termina: Mié 11/11 11:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
