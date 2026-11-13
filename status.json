@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-12 23:21:11",
+  "timestamp": "2026-11-12 23:23:36",
   "corriendo": {
-    "nombre": "WEB_1111_sun4_sabado_noche",
-    "hora": "23:09",
-    "eslabon_actual": 2,
+    "nombre": "WEB_1111_sun4_viernes_reel",
+    "hora": "23:23",
+    "eslabon_actual": 1,
     "eslabon_total": 2,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.2533333333333333,
+    "suelto": true,
     "clip_info": {
-      "num_esl": 2,
+      "num_esl": 1,
       "tot_esl": 2,
-      "elapsed": 0,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0
+      "elapsed": 20,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1
     }
   },
   "global": {
@@ -21,7 +21,7 @@
     "eslabones_totales": 8463,
     "horas_hechas": 1080.7916666666636,
     "horas_restantes": 1.0133333333333334,
-    "fecha_fin_estimada": "Vie 13/11 00:21"
+    "fecha_fin_estimada": "Vie 13/11 00:24"
   },
   "items": [
     {
@@ -35853,11 +35853,11 @@
       "n_esl": 2,
       "generados": 2,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 12/11 23:21",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null
+      "es_reintento": false
     },
     {
       "num": 2390,
@@ -35868,8 +35868,8 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 12/11 23:36",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 12/11 23:38",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null
@@ -35883,7 +35883,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 12/11 23:51",
+      "eta_txt": "Termina: Jue 12/11 23:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -35898,7 +35898,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 13/11 00:06",
+      "eta_txt": "Termina: Vie 13/11 00:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -35913,7 +35913,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 13/11 00:21",
+      "eta_txt": "Termina: Vie 13/11 00:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
