@@ -860,6 +860,10 @@
         if (currentFilter === 'pending') return !it.es_hecha && !it.es_activa;
         return true;
       });
+      // Pendientes en el ORDEN REAL de la cola (19/11); los que no arrancan, al fondo
+      if (currentFilter === 'pending') {
+        filtered.sort((a, b) => (a.no_arranca - b.no_arranca) || ((a.orden_real || 1e9) - (b.orden_real || 1e9)));
+      }
 
       document.getElementById('queue-count').textContent = items.length;
 
@@ -868,7 +872,7 @@
         card.className = 'job-card' + (it.es_activa ? ' is-active' : '');
 
         let badgeClass = 'badge-espera';
-        let badgeText = 'ESPERA';
+        let badgeText = it.orden_real ? ('PENDIENTE #' + it.orden_real) : 'PENDIENTE';
 
         if (it.es_hecha) {
           badgeClass = 'badge-hecho';
@@ -876,6 +880,9 @@
         } else if (it.es_activa) {
           badgeClass = 'badge-corriendo';
           badgeText = '▶ ACTIVO';
+        } else if (it.no_arranca) {
+          badgeClass = 'badge-fallo';
+          badgeText = 'NO ARRANCA';
         } else if (it.es_reintento) {
           badgeClass = 'badge-reintento';
           badgeText = 'REINTENTO';
@@ -884,7 +891,8 @@
           badgeText = 'FALLÓ';
         }
 
-        const pct = it.n_esl > 0 ? (it.generados / it.n_esl * 100) : 0;
+        const pct = it.es_hecha ? 100 : (it.n_esl > 0 ? (it.generados / it.n_esl * 100) : 0);
+        const eslTxt = it.n_esl > 0 ? `${it.generados}/${it.n_esl} esl` : (it.es_hecha ? 'foto/montaje' : '--');
 
         card.innerHTML = `
           <div class="job-num">${it.num}</div>
@@ -892,7 +900,7 @@
           <div class="job-name" title="${it.nombre}"><span class="tipo tipo-${(it.tipo || 'Prueba').toLowerCase()}">${it.tipo || ''}${it.tipo === 'Serie' ? ((it.serie ? ' · ' + it.serie : '') + (it.episodio ? ' · Ep ' + it.episodio : '')) : ''}</span> ${it.nombre}</div>
           <div class="job-progress-col">
             <div class="job-progress-text">
-              <span>${it.generados}/${it.n_esl} esl</span>
+              <span>${eslTxt}</span>
               <span>${pct.toFixed(0)}%</span>
             </div>
             <div class="job-progress-bar">
