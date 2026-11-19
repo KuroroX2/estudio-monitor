@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-11-18 20:53:11",
+  "timestamp": "2026-11-18 21:00:44",
   "corriendo": {
     "nombre": "TECHO2_1118_CORRER",
     "hora": "20:52",
-    "eslabon_actual": 0,
+    "eslabon_actual": 1,
     "eslabon_total": 20,
-    "horas_rest": 2.533333333333333,
-    "suelto": true,
+    "horas_rest": 2.4066666666666667,
+    "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 26,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1
+      "elapsed": 480,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0
     }
   },
   "global": {
-    "eslabones_hechos": 9244,
+    "eslabones_hechos": 9245,
     "eslabones_totales": 9367,
-    "horas_hechas": 1180.9983333333382,
-    "horas_restantes": 15.646666666666667,
+    "horas_hechas": 1181.1250000000048,
+    "horas_restantes": 15.52,
     "fecha_fin_estimada": "Jue 19/11 12:31"
   },
   "items": [
@@ -46,7 +46,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 20,
-      "generados": 0,
+      "generados": 1,
       "horas": 2.533333333333333,
       "eta_txt": "Termina: Mié 18/11 23:25",
       "es_activa": true,
