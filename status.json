@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-20 05:54:36",
+  "timestamp": "2026-11-20 05:56:50",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 9477,
     "eslabones_totales": 9564,
-    "horas_hechas": 1216.4950000000104,
-    "horas_restantes": 11.053333333333333,
-    "fecha_fin_estimada": "Vie 20/11 16:57"
+    "horas_hechas": 1216.5283333333437,
+    "horas_restantes": 11.02,
+    "fecha_fin_estimada": "Vie 20/11 16:58"
   },
   "items": [
     {
@@ -2418,13 +2418,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 09:21",
+      "eta_txt": "Termina: Vie 20/11 09:22",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 1433,
@@ -2435,13 +2435,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 10:37",
+      "eta_txt": "Termina: Vie 20/11 10:38",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 1636,
@@ -2458,7 +2458,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 2961,
@@ -2469,7 +2469,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 20/11 06:55",
+      "eta_txt": "Termina: Vie 20/11 06:57",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -2492,7 +2492,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 2963,
@@ -2509,7 +2509,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 11
     },
     {
       "num": 2964,
@@ -2526,7 +2526,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 12
     },
     {
       "num": 2965,
@@ -2537,13 +2537,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:19",
+      "eta_txt": "Termina: Vie 20/11 16:20",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 2966,
@@ -2560,7 +2560,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 2967,
@@ -2577,7 +2577,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 2968,
@@ -2594,7 +2594,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 2969,
@@ -2611,7 +2611,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 2970,
@@ -2622,13 +2622,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:57",
+      "eta_txt": "Termina: Vie 20/11 16:58",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 2972,
@@ -2639,7 +2639,7 @@
       "n_esl": 9,
       "generados": 0,
       "horas": 1.14,
-      "eta_txt": "Termina: Vie 20/11 08:03",
+      "eta_txt": "Termina: Vie 20/11 08:06",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
@@ -2656,13 +2656,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 11:53",
+      "eta_txt": "Termina: Vie 20/11 11:54",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 2975,
@@ -2673,30 +2673,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 13:09",
+      "eta_txt": "Termina: Vie 20/11 13:10",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 7
-    },
-    {
-      "num": 2986,
-      "nombre": "APOYO_1115_MONTAR",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.03333333333333333,
-      "eta_txt": "Termina: Vie 20/11 08:05",
-      "es_activa": null,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 6
     },
     {
       "num": 2987,
@@ -2707,13 +2690,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 14:25",
+      "eta_txt": "Termina: Vie 20/11 14:26",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 2988,
@@ -2724,13 +2707,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 15:41",
+      "eta_txt": "Termina: Vie 20/11 15:42",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     }
   ],
   "espera": [],
