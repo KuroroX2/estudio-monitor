@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-19 21:39:08",
+  "timestamp": "2026-11-19 22:29:30",
   "corriendo": {
-    "nombre": "WEB_1119_h3image_cuerpos_darky2",
-    "hora": "21:38",
-    "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": 0.9801159266666667,
-    "suelto": false,
+    "nombre": "WEB_1119_darky_redes_29_pinta_pared",
+    "hora": "22:29",
+    "eslabon_actual": 1,
+    "eslabon_total": 3,
+    "horas_rest": 0.37999999999999995,
+    "suelto": true,
     "clip_info": {
-      "num_esl": null,
-      "tot_esl": null,
-      "elapsed": 20,
+      "num_esl": 1,
+      "tot_esl": 3,
+      "elapsed": 8,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1
@@ -19,9 +19,9 @@
   "global": {
     "eslabones_hechos": 9422,
     "eslabones_totales": 9564,
-    "horas_hechas": 1208.528333333342,
-    "horas_restantes": 19.000115926666666,
-    "fecha_fin_estimada": "Vie 20/11 16:39"
+    "horas_hechas": 1209.528333333342,
+    "horas_restantes": 18.02,
+    "fecha_fin_estimada": "Vie 20/11 16:30"
   },
   "items": [
     {
@@ -33,13 +33,12 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 1.0,
-      "eta_txt": "Termina: Jue 19/11 22:37",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 1
+      "es_reintento": false,
+      "no_arranca": false
     },
     {
       "num": 2,
@@ -1218,13 +1217,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 19/11 23:00",
-      "es_activa": false,
+      "eta_txt": "Termina: Jue 19/11 22:52",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 2
+      "orden_real": 1
     },
     {
       "num": 76,
@@ -1235,13 +1234,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 19/11 23:23",
+      "eta_txt": "Termina: Jue 19/11 23:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 2
     },
     {
       "num": 77,
@@ -1252,13 +1251,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 19/11 23:46",
+      "eta_txt": "Termina: Jue 19/11 23:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 78,
@@ -1269,13 +1268,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 20/11 00:09",
+      "eta_txt": "Termina: Vie 20/11 00:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 79,
@@ -1286,13 +1285,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 20/11 00:31",
+      "eta_txt": "Termina: Vie 20/11 00:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 80,
@@ -1303,13 +1302,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 20/11 00:54",
+      "eta_txt": "Termina: Vie 20/11 00:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 81,
@@ -1320,13 +1319,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 20/11 01:17",
+      "eta_txt": "Termina: Vie 20/11 01:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 82,
@@ -1337,13 +1336,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 20/11 01:40",
+      "eta_txt": "Termina: Vie 20/11 01:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 83,
@@ -2562,22 +2561,6 @@
       "no_arranca": false
     },
     {
-      "num": 159,
-      "nombre": "WEB_1116_cuerpoh3_frente_2_foto",
-      "tipo": "Foto",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
       "num": 1432,
       "nombre": "WEB_1115_cris_darky_manoseo_p1",
       "tipo": "Puntual",
@@ -2586,13 +2569,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 09:03",
+      "eta_txt": "Termina: Vie 20/11 08:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 30
+      "orden_real": 29
     },
     {
       "num": 1433,
@@ -2603,13 +2586,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 10:19",
+      "eta_txt": "Termina: Vie 20/11 10:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 31
+      "orden_real": 30
     },
     {
       "num": 1634,
@@ -2620,13 +2603,13 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 20/11 02:41",
+      "eta_txt": "Termina: Vie 20/11 02:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 1635,
@@ -2637,13 +2620,13 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Vie 20/11 03:34",
+      "eta_txt": "Termina: Vie 20/11 03:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 1636,
@@ -2654,17 +2637,34 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 15:30",
+      "eta_txt": "Termina: Vie 20/11 15:22",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 36
+      "orden_real": 35
     },
     {
       "num": 2958,
       "nombre": "WEB_1115_nightclub_12_ambiente_paneo_chicas",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 20/11 03:33",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true,
+      "no_arranca": false,
+      "orden_real": 11
+    },
+    {
+      "num": 2959,
+      "nombre": "WEB_1115_nightclub_16_ambiente_acercamiento_luces",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -2680,23 +2680,6 @@
       "orden_real": 12
     },
     {
-      "num": 2959,
-      "nombre": "WEB_1115_nightclub_16_ambiente_acercamiento_luces",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 03:49",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true,
-      "no_arranca": false,
-      "orden_real": 13
-    },
-    {
       "num": 2960,
       "nombre": "WEB_1115_mozo_01_mozo_camino_al_vip",
       "tipo": "Prueba",
@@ -2705,13 +2688,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 03:57",
+      "eta_txt": "Termina: Vie 20/11 03:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 2961,
@@ -2722,13 +2705,13 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Vie 20/11 04:57",
+      "eta_txt": "Termina: Vie 20/11 04:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 2962,
@@ -2739,7 +2722,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 15:38",
+      "eta_txt": "Termina: Vie 20/11 15:29",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 36
+    },
+    {
+      "num": 2963,
+      "nombre": "WEB_1117_bfs_mix_g2_misma_ropa",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 20/11 15:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2748,8 +2748,8 @@
       "orden_real": 37
     },
     {
-      "num": 2963,
-      "nombre": "WEB_1117_bfs_mix_g2_misma_ropa",
+      "num": 2964,
+      "nombre": "WEB_1117_bfs_mix_g3_cuadro_a_cuadro",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -2765,23 +2765,6 @@
       "orden_real": 38
     },
     {
-      "num": 2964,
-      "nombre": "WEB_1117_bfs_mix_g3_cuadro_a_cuadro",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 15:53",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 39
-    },
-    {
       "num": 2965,
       "nombre": "WEB_1117_bfs_mix_g4_cubierta_igual",
       "tipo": "Prueba",
@@ -2790,13 +2773,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:01",
+      "eta_txt": "Termina: Vie 20/11 15:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 40
+      "orden_real": 39
     },
     {
       "num": 2966,
@@ -2807,13 +2790,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:08",
+      "eta_txt": "Termina: Vie 20/11 16:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 41
+      "orden_real": 40
     },
     {
       "num": 2967,
@@ -2824,7 +2807,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:16",
+      "eta_txt": "Termina: Vie 20/11 16:07",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 41
+    },
+    {
+      "num": 2968,
+      "nombre": "WEB_1117_bfs_mix_g7_segundo_a_segundo",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 20/11 16:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2833,8 +2833,8 @@
       "orden_real": 42
     },
     {
-      "num": 2968,
-      "nombre": "WEB_1117_bfs_mix_g7_segundo_a_segundo",
+      "num": 2969,
+      "nombre": "WEB_1117_bfs_mix_g8_etiqueta",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -2850,23 +2850,6 @@
       "orden_real": 43
     },
     {
-      "num": 2969,
-      "nombre": "WEB_1117_bfs_mix_g8_etiqueta",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:31",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 44
-    },
-    {
       "num": 2970,
       "nombre": "WEB_1117_bfs_mix_g9_fuentes",
       "tipo": "Prueba",
@@ -2875,13 +2858,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 16:39",
+      "eta_txt": "Termina: Vie 20/11 16:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 45
+      "orden_real": 44
     },
     {
       "num": 2971,
@@ -2892,13 +2875,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 05:05",
+      "eta_txt": "Termina: Vie 20/11 04:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 2972,
@@ -2909,13 +2892,13 @@
       "n_esl": 9,
       "generados": 0,
       "horas": 1.14,
-      "eta_txt": "Termina: Vie 20/11 06:13",
+      "eta_txt": "Termina: Vie 20/11 06:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 2973,
@@ -2926,13 +2909,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Vie 20/11 06:29",
+      "eta_txt": "Termina: Vie 20/11 06:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 2974,
@@ -2943,13 +2926,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 11:35",
+      "eta_txt": "Termina: Vie 20/11 11:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 32
+      "orden_real": 31
     },
     {
       "num": 2975,
@@ -2960,13 +2943,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 12:51",
+      "eta_txt": "Termina: Vie 20/11 12:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 33
+      "orden_real": 32
     },
     {
       "num": 2976,
@@ -2977,13 +2960,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 06:36",
+      "eta_txt": "Termina: Vie 20/11 06:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 2977,
@@ -2994,7 +2977,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 06:44",
+      "eta_txt": "Termina: Vie 20/11 06:35",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true,
+      "no_arranca": false,
+      "orden_real": 19
+    },
+    {
+      "num": 2978,
+      "nombre": "WEB_1115_apoyo_03_pp_bj_frontal",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 20/11 06:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3003,8 +3003,8 @@
       "orden_real": 20
     },
     {
-      "num": 2978,
-      "nombre": "WEB_1115_apoyo_03_pp_bj_frontal",
+      "num": 2979,
+      "nombre": "WEB_1115_apoyo_04_pp_manos_cintura_lenceria",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -3020,23 +3020,6 @@
       "orden_real": 21
     },
     {
-      "num": 2979,
-      "nombre": "WEB_1115_apoyo_04_pp_manos_cintura_lenceria",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 06:59",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true,
-      "no_arranca": false,
-      "orden_real": 22
-    },
-    {
       "num": 2980,
       "nombre": "WEB_1115_apoyo_05_pp_beso_cuello_pecho",
       "tipo": "Prueba",
@@ -3045,13 +3028,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 07:07",
+      "eta_txt": "Termina: Vie 20/11 06:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 23
+      "orden_real": 22
     },
     {
       "num": 2981,
@@ -3062,13 +3045,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 07:14",
+      "eta_txt": "Termina: Vie 20/11 07:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 24
+      "orden_real": 23
     },
     {
       "num": 2982,
@@ -3079,7 +3062,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 07:22",
+      "eta_txt": "Termina: Vie 20/11 07:13",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": true,
+      "no_arranca": false,
+      "orden_real": 24
+    },
+    {
+      "num": 2983,
+      "nombre": "WEB_1115_apoyo_08_pp_lamida_limpieza",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Vie 20/11 07:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3088,8 +3088,8 @@
       "orden_real": 25
     },
     {
-      "num": 2983,
-      "nombre": "WEB_1115_apoyo_08_pp_lamida_limpieza",
+      "num": 2984,
+      "nombre": "WEB_1115_apoyo_09_pp_champana_pecho",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -3105,23 +3105,6 @@
       "orden_real": 26
     },
     {
-      "num": 2984,
-      "nombre": "WEB_1115_apoyo_09_pp_champana_pecho",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 07:37",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true,
-      "no_arranca": false,
-      "orden_real": 27
-    },
-    {
       "num": 2985,
       "nombre": "WEB_1115_apoyo_10_pp_liguero_billete",
       "tipo": "Prueba",
@@ -3130,13 +3113,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 20/11 07:45",
+      "eta_txt": "Termina: Vie 20/11 07:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 28
+      "orden_real": 27
     },
     {
       "num": 2986,
@@ -3147,13 +3130,13 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.03333333333333333,
-      "eta_txt": "Termina: Vie 20/11 07:47",
+      "eta_txt": "Termina: Vie 20/11 07:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 29
+      "orden_real": 28
     },
     {
       "num": 2987,
@@ -3164,13 +3147,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 14:07",
+      "eta_txt": "Termina: Vie 20/11 13:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 34
+      "orden_real": 33
     },
     {
       "num": 2988,
@@ -3181,13 +3164,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Vie 20/11 15:23",
+      "eta_txt": "Termina: Vie 20/11 15:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 35
+      "orden_real": 34
     }
   ],
   "espera": [],
