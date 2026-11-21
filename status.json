@@ -1,32 +1,28 @@
 {
-  "timestamp": "2026-11-21 20:45:15",
+  "timestamp": "2026-11-21 20:50:51",
   "corriendo": {
-    "nombre": "WEB_1120_101644_ref_Darky_ficha",
-    "hora": "20:02",
-    "eslabon_actual": 4,
-    "eslabon_total": 4,
-    "horas_rest": 0.2116666666666667,
+    "nombre": "WEB_1120_101635_ref_Darky_ficha",
+    "hora": "20:47",
+    "eslabon_actual": 0,
+    "eslabon_total": 3,
+    "horas_rest": 0.37999999999999995,
     "suelto": false,
     "clip_info": {
-      "num_esl": 4,
-      "tot_esl": 4,
-      "elapsed": 254,
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 83,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15,
-      "trozos": {
-        "hechos": 3,
-        "total": 4,
-        "min_media": 12.700000000000001
-      }
+      "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 9741,
+    "eslabones_hechos": 9745,
     "eslabones_totales": 9942,
-    "horas_hechas": 1252.4183333333565,
-    "horas_restantes": 25.165,
-    "fecha_fin_estimada": "Dom 22/11 21:55"
+    "horas_hechas": 1252.9250000000231,
+    "horas_restantes": 24.953333333333333,
+    "fecha_fin_estimada": "Dom 22/11 21:48"
   },
   "items": [
     {
@@ -2438,7 +2434,24 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 06:12",
+      "eta_txt": "Termina: Dom 22/11 06:05",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 20
+    },
+    {
+      "num": 1718,
+      "nombre": "WEB_1120_indiferencia_supermercado_p2",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 06:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2447,8 +2460,8 @@
       "orden_real": 21
     },
     {
-      "num": 1718,
-      "nombre": "WEB_1120_indiferencia_supermercado_p2",
+      "num": 1719,
+      "nombre": "WEB_1120_indiferencia_supermercado_p3",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2464,23 +2477,6 @@
       "orden_real": 22
     },
     {
-      "num": 1719,
-      "nombre": "WEB_1120_indiferencia_supermercado_p3",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 06:27",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 23
-    },
-    {
       "num": 1720,
       "nombre": "WEB_1120_indiferencia_supermercado_p4",
       "tipo": "Puntual",
@@ -2489,7 +2485,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 06:35",
+      "eta_txt": "Termina: Dom 22/11 06:28",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 23
+    },
+    {
+      "num": 1721,
+      "nombre": "WEB_1120_indiferencia_supermercado_p5",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 06:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2498,8 +2511,8 @@
       "orden_real": 24
     },
     {
-      "num": 1721,
-      "nombre": "WEB_1120_indiferencia_supermercado_p5",
+      "num": 1722,
+      "nombre": "WEB_1120_indiferencia_supermercado_p6",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2515,15 +2528,15 @@
       "orden_real": 25
     },
     {
-      "num": 1722,
-      "nombre": "WEB_1120_indiferencia_supermercado_p6",
+      "num": 1723,
+      "nombre": "WEB_1120_indiferencia_supermercado_p7",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 06:50",
+      "eta_txt": "Termina: Dom 22/11 06:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2532,8 +2545,8 @@
       "orden_real": 26
     },
     {
-      "num": 1723,
-      "nombre": "WEB_1120_indiferencia_supermercado_p7",
+      "num": 1724,
+      "nombre": "WEB_1120_indiferencia_supermercado_p8",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2549,23 +2562,6 @@
       "orden_real": 27
     },
     {
-      "num": 1724,
-      "nombre": "WEB_1120_indiferencia_supermercado_p8",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 07:05",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 28
-    },
-    {
       "num": 1725,
       "nombre": "WEB_1120_indiferencia_supermercado_p9",
       "tipo": "Puntual",
@@ -2574,13 +2570,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 07:13",
+      "eta_txt": "Termina: Dom 22/11 07:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 29
+      "orden_real": 28
     },
     {
       "num": 1726,
@@ -2591,13 +2587,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 07:21",
+      "eta_txt": "Termina: Dom 22/11 07:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 30
+      "orden_real": 29
     },
     {
       "num": 1727,
@@ -2608,13 +2604,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 07:43",
+      "eta_txt": "Termina: Dom 22/11 07:36",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 31
+      "orden_real": 30
     },
     {
       "num": 1728,
@@ -2625,13 +2621,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 07:59",
+      "eta_txt": "Termina: Dom 22/11 07:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 32
+      "orden_real": 31
     },
     {
       "num": 1729,
@@ -2642,13 +2638,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 08:14",
+      "eta_txt": "Termina: Dom 22/11 08:07",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 33
+      "orden_real": 32
     },
     {
       "num": 1730,
@@ -2659,13 +2655,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 08:21",
+      "eta_txt": "Termina: Dom 22/11 08:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 34
+      "orden_real": 33
     },
     {
       "num": 1731,
@@ -2676,7 +2672,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 08:29",
+      "eta_txt": "Termina: Dom 22/11 08:22",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 34
+    },
+    {
+      "num": 1732,
+      "nombre": "WEB_1120_indiferencia_metro_p4",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 08:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2685,8 +2698,8 @@
       "orden_real": 35
     },
     {
-      "num": 1732,
-      "nombre": "WEB_1120_indiferencia_metro_p4",
+      "num": 1733,
+      "nombre": "WEB_1120_indiferencia_metro_p5",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2702,15 +2715,15 @@
       "orden_real": 36
     },
     {
-      "num": 1733,
-      "nombre": "WEB_1120_indiferencia_metro_p5",
+      "num": 1734,
+      "nombre": "WEB_1120_indiferencia_metro_p6",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 08:44",
+      "eta_txt": "Termina: Dom 22/11 08:45",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2719,8 +2732,8 @@
       "orden_real": 37
     },
     {
-      "num": 1734,
-      "nombre": "WEB_1120_indiferencia_metro_p6",
+      "num": 1735,
+      "nombre": "WEB_1120_indiferencia_metro_p7",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2736,23 +2749,6 @@
       "orden_real": 38
     },
     {
-      "num": 1735,
-      "nombre": "WEB_1120_indiferencia_metro_p7",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 08:59",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 39
-    },
-    {
       "num": 1736,
       "nombre": "WEB_1120_indiferencia_metro_p8",
       "tipo": "Puntual",
@@ -2761,7 +2757,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 09:07",
+      "eta_txt": "Termina: Dom 22/11 09:00",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 39
+    },
+    {
+      "num": 1737,
+      "nombre": "WEB_1120_indiferencia_metro_p9",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 09:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2770,8 +2783,8 @@
       "orden_real": 40
     },
     {
-      "num": 1737,
-      "nombre": "WEB_1120_indiferencia_metro_p9",
+      "num": 1738,
+      "nombre": "WEB_1120_indiferencia_metro_p10",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2787,23 +2800,6 @@
       "orden_real": 41
     },
     {
-      "num": 1738,
-      "nombre": "WEB_1120_indiferencia_metro_p10",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 09:22",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 42
-    },
-    {
       "num": 1739,
       "nombre": "WEB_1120_indiferencia_metro_p11",
       "tipo": "Puntual",
@@ -2812,13 +2808,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 09:37",
+      "eta_txt": "Termina: Dom 22/11 09:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 43
+      "orden_real": 42
     },
     {
       "num": 1740,
@@ -2829,13 +2825,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 09:53",
+      "eta_txt": "Termina: Dom 22/11 09:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 44
+      "orden_real": 43
     },
     {
       "num": 1741,
@@ -2846,7 +2842,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 10:00",
+      "eta_txt": "Termina: Dom 22/11 09:53",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 44
+    },
+    {
+      "num": 1742,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p3",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 10:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2855,8 +2868,8 @@
       "orden_real": 45
     },
     {
-      "num": 1742,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p3",
+      "num": 1743,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p4",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2872,23 +2885,6 @@
       "orden_real": 46
     },
     {
-      "num": 1743,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p4",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 10:15",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 47
-    },
-    {
       "num": 1744,
       "nombre": "WEB_1120_indiferencia_biblioteca_p5",
       "tipo": "Puntual",
@@ -2897,7 +2893,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 10:23",
+      "eta_txt": "Termina: Dom 22/11 10:16",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 47
+    },
+    {
+      "num": 1745,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p6",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 10:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2906,8 +2919,8 @@
       "orden_real": 48
     },
     {
-      "num": 1745,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p6",
+      "num": 1746,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p7",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2923,15 +2936,15 @@
       "orden_real": 49
     },
     {
-      "num": 1746,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p7",
+      "num": 1747,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p8",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 10:38",
+      "eta_txt": "Termina: Dom 22/11 10:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2940,8 +2953,8 @@
       "orden_real": 50
     },
     {
-      "num": 1747,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p8",
+      "num": 1748,
+      "nombre": "WEB_1120_indiferencia_biblioteca_p9",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -2957,23 +2970,6 @@
       "orden_real": 51
     },
     {
-      "num": 1748,
-      "nombre": "WEB_1120_indiferencia_biblioteca_p9",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 10:53",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 52
-    },
-    {
       "num": 1749,
       "nombre": "WEB_1120_indiferencia_biblioteca_p10",
       "tipo": "Puntual",
@@ -2982,13 +2978,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 11:01",
+      "eta_txt": "Termina: Dom 22/11 10:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 53
+      "orden_real": 52
     },
     {
       "num": 1750,
@@ -2999,13 +2995,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 11:24",
+      "eta_txt": "Termina: Dom 22/11 11:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 54
+      "orden_real": 53
     },
     {
       "num": 1751,
@@ -3016,13 +3012,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 11:31",
+      "eta_txt": "Termina: Dom 22/11 11:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 55
+      "orden_real": 54
     },
     {
       "num": 1752,
@@ -3033,7 +3029,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 11:39",
+      "eta_txt": "Termina: Dom 22/11 11:32",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 55
+    },
+    {
+      "num": 1753,
+      "nombre": "WEB_1120_indiferencia_darky_33_p3",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 11:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3042,8 +3055,8 @@
       "orden_real": 56
     },
     {
-      "num": 1753,
-      "nombre": "WEB_1120_indiferencia_darky_33_p3",
+      "num": 1754,
+      "nombre": "WEB_1120_indiferencia_darky_33_p4",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3059,15 +3072,15 @@
       "orden_real": 57
     },
     {
-      "num": 1754,
-      "nombre": "WEB_1120_indiferencia_darky_33_p4",
+      "num": 1755,
+      "nombre": "WEB_1120_indiferencia_darky_33_p5",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 11:54",
+      "eta_txt": "Termina: Dom 22/11 11:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3076,8 +3089,8 @@
       "orden_real": 58
     },
     {
-      "num": 1755,
-      "nombre": "WEB_1120_indiferencia_darky_33_p5",
+      "num": 1756,
+      "nombre": "WEB_1120_indiferencia_darky_33_p6",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3093,23 +3106,6 @@
       "orden_real": 59
     },
     {
-      "num": 1756,
-      "nombre": "WEB_1120_indiferencia_darky_33_p6",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 12:09",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 60
-    },
-    {
       "num": 1757,
       "nombre": "WEB_1120_indiferencia_darky_33_p7",
       "tipo": "Puntual",
@@ -3118,7 +3114,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 12:17",
+      "eta_txt": "Termina: Dom 22/11 12:10",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 60
+    },
+    {
+      "num": 1758,
+      "nombre": "WEB_1120_indiferencia_darky_33_p8",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 12:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3127,8 +3140,8 @@
       "orden_real": 61
     },
     {
-      "num": 1758,
-      "nombre": "WEB_1120_indiferencia_darky_33_p8",
+      "num": 1759,
+      "nombre": "WEB_1120_indiferencia_darky_33_p9",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3144,15 +3157,15 @@
       "orden_real": 62
     },
     {
-      "num": 1759,
-      "nombre": "WEB_1120_indiferencia_darky_33_p9",
+      "num": 1760,
+      "nombre": "WEB_1120_indiferencia_darky_33_p10",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 12:32",
+      "eta_txt": "Termina: Dom 22/11 12:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3161,8 +3174,8 @@
       "orden_real": 63
     },
     {
-      "num": 1760,
-      "nombre": "WEB_1120_indiferencia_darky_33_p10",
+      "num": 1761,
+      "nombre": "WEB_1120_indiferencia_darky_33_p11",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3178,23 +3191,6 @@
       "orden_real": 64
     },
     {
-      "num": 1761,
-      "nombre": "WEB_1120_indiferencia_darky_33_p11",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 12:47",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 65
-    },
-    {
       "num": 1762,
       "nombre": "WEB_1120_indiferencia_darky_33_p12",
       "tipo": "Puntual",
@@ -3203,7 +3199,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 12:55",
+      "eta_txt": "Termina: Dom 22/11 12:48",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 65
+    },
+    {
+      "num": 1763,
+      "nombre": "WEB_1120_indiferencia_darky_33_p13",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 12:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3212,8 +3225,8 @@
       "orden_real": 66
     },
     {
-      "num": 1763,
-      "nombre": "WEB_1120_indiferencia_darky_33_p13",
+      "num": 1764,
+      "nombre": "WEB_1120_indiferencia_darky_33_p14",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3229,15 +3242,15 @@
       "orden_real": 67
     },
     {
-      "num": 1764,
-      "nombre": "WEB_1120_indiferencia_darky_33_p14",
+      "num": 1765,
+      "nombre": "WEB_1120_indiferencia_darky_33_p15",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 13:10",
+      "eta_txt": "Termina: Dom 22/11 13:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3246,8 +3259,8 @@
       "orden_real": 68
     },
     {
-      "num": 1765,
-      "nombre": "WEB_1120_indiferencia_darky_33_p15",
+      "num": 1766,
+      "nombre": "WEB_1120_indiferencia_darky_33_p16",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3263,23 +3276,6 @@
       "orden_real": 69
     },
     {
-      "num": 1766,
-      "nombre": "WEB_1120_indiferencia_darky_33_p16",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 13:25",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 70
-    },
-    {
       "num": 1767,
       "nombre": "WEB_1120_indiferencia_darky_33_p17",
       "tipo": "Puntual",
@@ -3288,7 +3284,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 13:33",
+      "eta_txt": "Termina: Dom 22/11 13:26",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 70
+    },
+    {
+      "num": 1768,
+      "nombre": "WEB_1120_indiferencia_darky_33_p18",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 13:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3297,8 +3310,8 @@
       "orden_real": 71
     },
     {
-      "num": 1768,
-      "nombre": "WEB_1120_indiferencia_darky_33_p18",
+      "num": 1769,
+      "nombre": "WEB_1120_indiferencia_darky_33_p19",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3314,15 +3327,15 @@
       "orden_real": 72
     },
     {
-      "num": 1769,
-      "nombre": "WEB_1120_indiferencia_darky_33_p19",
+      "num": 1770,
+      "nombre": "WEB_1120_indiferencia_darky_33_p20",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 13:48",
+      "eta_txt": "Termina: Dom 22/11 13:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3331,8 +3344,8 @@
       "orden_real": 73
     },
     {
-      "num": 1770,
-      "nombre": "WEB_1120_indiferencia_darky_33_p20",
+      "num": 1771,
+      "nombre": "WEB_1120_indiferencia_darky_33_p21",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3348,23 +3361,6 @@
       "orden_real": 74
     },
     {
-      "num": 1771,
-      "nombre": "WEB_1120_indiferencia_darky_33_p21",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:03",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 75
-    },
-    {
       "num": 1772,
       "nombre": "WEB_1120_indiferencia_darky_33_p22",
       "tipo": "Puntual",
@@ -3373,7 +3369,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:11",
+      "eta_txt": "Termina: Dom 22/11 14:04",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 75
+    },
+    {
+      "num": 1773,
+      "nombre": "WEB_1120_indiferencia_darky_33_p23",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 14:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3382,8 +3395,8 @@
       "orden_real": 76
     },
     {
-      "num": 1773,
-      "nombre": "WEB_1120_indiferencia_darky_33_p23",
+      "num": 1774,
+      "nombre": "WEB_1120_indiferencia_darky_33_p24",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3399,15 +3412,15 @@
       "orden_real": 77
     },
     {
-      "num": 1774,
-      "nombre": "WEB_1120_indiferencia_darky_33_p24",
+      "num": 1775,
+      "nombre": "WEB_1120_indiferencia_darky_33_p25",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:26",
+      "eta_txt": "Termina: Dom 22/11 14:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3416,8 +3429,8 @@
       "orden_real": 78
     },
     {
-      "num": 1775,
-      "nombre": "WEB_1120_indiferencia_darky_33_p25",
+      "num": 1776,
+      "nombre": "WEB_1120_indiferencia_darky_33_p26",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3433,23 +3446,6 @@
       "orden_real": 79
     },
     {
-      "num": 1776,
-      "nombre": "WEB_1120_indiferencia_darky_33_p26",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:41",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 80
-    },
-    {
       "num": 1777,
       "nombre": "WEB_1120_indiferencia_darky_33_p27",
       "tipo": "Puntual",
@@ -3458,7 +3454,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:49",
+      "eta_txt": "Termina: Dom 22/11 14:42",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 80
+    },
+    {
+      "num": 1778,
+      "nombre": "WEB_1120_indiferencia_darky_33_p28",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 14:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3467,8 +3480,8 @@
       "orden_real": 81
     },
     {
-      "num": 1778,
-      "nombre": "WEB_1120_indiferencia_darky_33_p28",
+      "num": 1779,
+      "nombre": "WEB_1120_indiferencia_darky_33_p29",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3484,15 +3497,15 @@
       "orden_real": 82
     },
     {
-      "num": 1779,
-      "nombre": "WEB_1120_indiferencia_darky_33_p29",
+      "num": 1780,
+      "nombre": "WEB_1120_indiferencia_darky_33_p30",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:04",
+      "eta_txt": "Termina: Dom 22/11 15:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3501,8 +3514,8 @@
       "orden_real": 83
     },
     {
-      "num": 1780,
-      "nombre": "WEB_1120_indiferencia_darky_33_p30",
+      "num": 1781,
+      "nombre": "WEB_1120_indiferencia_darky_33_p31",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
@@ -3518,23 +3531,6 @@
       "orden_real": 84
     },
     {
-      "num": 1781,
-      "nombre": "WEB_1120_indiferencia_darky_33_p31",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:19",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 85
-    },
-    {
       "num": 1782,
       "nombre": "WEB_1120_indiferencia_darky_33_p32",
       "tipo": "Puntual",
@@ -3543,13 +3539,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 15:35",
+      "eta_txt": "Termina: Dom 22/11 15:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 86
+      "orden_real": 85
     },
     {
       "num": 1783,
@@ -3560,13 +3556,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 16:05",
+      "eta_txt": "Termina: Dom 22/11 15:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 87
+      "orden_real": 86
     },
     {
       "num": 1784,
@@ -3577,13 +3573,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 16:35",
+      "eta_txt": "Termina: Dom 22/11 16:28",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 88
+      "orden_real": 87
     },
     {
       "num": 1785,
@@ -3594,13 +3590,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 17:06",
+      "eta_txt": "Termina: Dom 22/11 16:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 89
+      "orden_real": 88
     },
     {
       "num": 1786,
@@ -3611,13 +3607,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 17:36",
+      "eta_txt": "Termina: Dom 22/11 17:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 90
+      "orden_real": 89
     },
     {
       "num": 1787,
@@ -3628,13 +3624,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 18:07",
+      "eta_txt": "Termina: Dom 22/11 18:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 91
+      "orden_real": 90
     },
     {
       "num": 1788,
@@ -3645,13 +3641,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 20:46",
+      "eta_txt": "Termina: Dom 22/11 20:39",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 94
+      "orden_real": 93
     },
     {
       "num": 3113,
@@ -3662,7 +3658,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Sáb 21/11 21:46",
+      "eta_txt": "Termina: Sáb 21/11 21:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3679,13 +3675,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 20:54",
+      "eta_txt": "Termina: Dom 22/11 20:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 95
+      "orden_real": 94
     },
     {
       "num": 3115,
@@ -3696,13 +3692,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:01",
+      "eta_txt": "Termina: Dom 22/11 20:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 96
+      "orden_real": 95
     },
     {
       "num": 3116,
@@ -3713,7 +3709,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:09",
+      "eta_txt": "Termina: Dom 22/11 21:02",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 96
+    },
+    {
+      "num": 3117,
+      "nombre": "WEB_1117_bfs_mix_g4_cubierta_igual",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 0,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Dom 22/11 21:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3722,8 +3735,8 @@
       "orden_real": 97
     },
     {
-      "num": 3117,
-      "nombre": "WEB_1117_bfs_mix_g4_cubierta_igual",
+      "num": 3118,
+      "nombre": "WEB_1117_bfs_mix_g5_misma_piel",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -3739,15 +3752,15 @@
       "orden_real": 98
     },
     {
-      "num": 3118,
-      "nombre": "WEB_1117_bfs_mix_g5_misma_piel",
+      "num": 3119,
+      "nombre": "WEB_1117_bfs_mix_g6_todo_del_video",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:24",
+      "eta_txt": "Termina: Dom 22/11 21:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3756,8 +3769,8 @@
       "orden_real": 99
     },
     {
-      "num": 3119,
-      "nombre": "WEB_1117_bfs_mix_g6_todo_del_video",
+      "num": 3120,
+      "nombre": "WEB_1117_bfs_mix_g7_segundo_a_segundo",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
@@ -3773,23 +3786,6 @@
       "orden_real": 100
     },
     {
-      "num": 3120,
-      "nombre": "WEB_1117_bfs_mix_g7_segundo_a_segundo",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 0,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:39",
-      "es_activa": false,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 101
-    },
-    {
       "num": 3121,
       "nombre": "WEB_1117_bfs_mix_g8_etiqueta",
       "tipo": "Prueba",
@@ -3798,13 +3794,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:47",
+      "eta_txt": "Termina: Dom 22/11 21:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 102
+      "orden_real": 101
     },
     {
       "num": 3122,
@@ -3815,13 +3811,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 21:55",
+      "eta_txt": "Termina: Dom 22/11 21:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 103
+      "orden_real": 102
     },
     {
       "num": 3124,
@@ -3832,7 +3828,7 @@
       "n_esl": 9,
       "generados": 0,
       "horas": 1.14,
-      "eta_txt": "Termina: Sáb 21/11 22:54",
+      "eta_txt": "Termina: Sáb 21/11 23:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3849,13 +3845,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Dom 22/11 19:23",
+      "eta_txt": "Termina: Dom 22/11 19:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 92
+      "orden_real": 91
     },
     {
       "num": 3140,
@@ -3866,30 +3862,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Dom 22/11 20:39",
+      "eta_txt": "Termina: Dom 22/11 20:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 93
-    },
-    {
-      "num": 3146,
-      "nombre": "WEB_1120_101644_ref_Darky_ficha",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 4,
-      "generados": 0,
-      "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Sáb 21/11 23:07",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 92
     },
     {
       "num": 3147,
@@ -3900,13 +3879,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 21/11 23:29",
-      "es_activa": false,
+      "eta_txt": "Termina: Sáb 21/11 23:22",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 3148,
@@ -3917,13 +3896,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 21/11 23:37",
+      "eta_txt": "Termina: Sáb 21/11 23:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 3149,
@@ -3934,13 +3913,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 00:00",
+      "eta_txt": "Termina: Sáb 21/11 23:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 3150,
@@ -3951,13 +3930,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 00:07",
+      "eta_txt": "Termina: Dom 22/11 00:00",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 3151,
@@ -3968,13 +3947,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 00:38",
+      "eta_txt": "Termina: Dom 22/11 00:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 3152,
@@ -3985,13 +3964,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 01:01",
+      "eta_txt": "Termina: Dom 22/11 00:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 3153,
@@ -4002,13 +3981,13 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Dom 22/11 01:54",
+      "eta_txt": "Termina: Dom 22/11 01:47",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 3154,
@@ -4019,13 +3998,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 02:01",
+      "eta_txt": "Termina: Dom 22/11 01:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 3155,
@@ -4036,13 +4015,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 02:17",
+      "eta_txt": "Termina: Dom 22/11 02:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 11
     },
     {
       "num": 3156,
@@ -4053,13 +4032,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 02:39",
+      "eta_txt": "Termina: Dom 22/11 02:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 12
     },
     {
       "num": 3157,
@@ -4070,13 +4049,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 03:10",
+      "eta_txt": "Termina: Dom 22/11 03:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 3158,
@@ -4087,13 +4066,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 03:17",
+      "eta_txt": "Termina: Dom 22/11 03:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 3159,
@@ -4104,13 +4083,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 03:40",
+      "eta_txt": "Termina: Dom 22/11 03:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 3160,
@@ -4121,13 +4100,13 @@
       "n_esl": 6,
       "generados": 0,
       "horas": 0.7599999999999999,
-      "eta_txt": "Termina: Dom 22/11 04:26",
+      "eta_txt": "Termina: Dom 22/11 04:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 3161,
@@ -4138,13 +4117,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Dom 22/11 04:49",
+      "eta_txt": "Termina: Dom 22/11 04:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 3162,
@@ -4155,13 +4134,13 @@
       "n_esl": 5,
       "generados": 0,
       "horas": 0.6333333333333333,
-      "eta_txt": "Termina: Dom 22/11 05:27",
+      "eta_txt": "Termina: Dom 22/11 05:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 3163,
@@ -4172,13 +4151,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 05:57",
+      "eta_txt": "Termina: Dom 22/11 05:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 20
+      "orden_real": 19
     }
   ],
   "espera": [],
