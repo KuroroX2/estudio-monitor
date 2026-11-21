@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-21 13:34:22",
+  "timestamp": "2026-11-21 13:41:59",
   "corriendo": {
     "nombre": "WEB_1120_calle7_frag_21_24",
     "hora": "13:13",
     "eslabon_actual": 4,
     "eslabon_total": 4,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 4,
       "tot_esl": 4,
-      "elapsed": 50,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15,
+      "elapsed": 12,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 9695,
+    "eslabones_hechos": 9696,
     "eslabones_totales": 9942,
-    "horas_hechas": 1246.5916666666883,
-    "horas_restantes": 31.286666666666665,
+    "horas_hechas": 1246.718333333355,
+    "horas_restantes": 31.16,
     "fecha_fin_estimada": "Dom 22/11 20:51"
   },
   "items": [
@@ -960,7 +960,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 4,
-      "generados": 3,
+      "generados": 4,
       "horas": 0.5066666666666666,
       "eta_txt": "Termina: Sáb 21/11 13:41",
       "es_activa": true,
