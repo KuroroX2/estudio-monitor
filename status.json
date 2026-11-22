@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-22 12:44:34",
+  "timestamp": "2026-11-22 12:45:45",
   "corriendo": {
-    "nombre": "WEB_1120_indiferencia_darky_33_p15",
-    "hora": "12:38",
+    "nombre": "WEB_1120_indiferencia_darky_33_p16",
+    "hora": "12:45",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.0,
-    "suelto": false,
+    "horas_rest": 0.12666666666666665,
+    "suelto": true,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 9,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0,
+      "elapsed": 19,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1,
       "trozos": null
     }
   },
@@ -22,7 +22,7 @@
     "eslabones_totales": 9942,
     "horas_hechas": 1267.1116666666924,
     "horas_restantes": 10.766666666666667,
-    "fecha_fin_estimada": "Dom 22/11 23:30"
+    "fecha_fin_estimada": "Dom 22/11 23:31"
   },
   "items": [
     {
@@ -2426,23 +2426,6 @@
       "no_arranca": false
     },
     {
-      "num": 1765,
-      "nombre": "WEB_1120_indiferencia_darky_33_p15",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 14:53",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 3
-    },
-    {
       "num": 1766,
       "nombre": "WEB_1120_indiferencia_darky_33_p16",
       "tipo": "Puntual",
@@ -2451,13 +2434,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:01",
-      "es_activa": false,
+      "eta_txt": "Termina: Dom 22/11 15:02",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 1767,
@@ -2468,13 +2451,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:08",
+      "eta_txt": "Termina: Dom 22/11 15:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 1768,
@@ -2485,13 +2468,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:16",
+      "eta_txt": "Termina: Dom 22/11 15:17",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 1769,
@@ -2502,13 +2485,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:24",
+      "eta_txt": "Termina: Dom 22/11 15:25",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 1770,
@@ -2519,13 +2502,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:31",
+      "eta_txt": "Termina: Dom 22/11 15:32",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 1771,
@@ -2536,13 +2519,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:39",
+      "eta_txt": "Termina: Dom 22/11 15:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 1772,
@@ -2553,13 +2536,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:46",
+      "eta_txt": "Termina: Dom 22/11 15:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 1773,
@@ -2570,13 +2553,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 15:54",
+      "eta_txt": "Termina: Dom 22/11 15:55",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 1774,
@@ -2587,13 +2570,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:02",
+      "eta_txt": "Termina: Dom 22/11 16:03",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 11
     },
     {
       "num": 1775,
@@ -2604,13 +2587,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:09",
+      "eta_txt": "Termina: Dom 22/11 16:10",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 12
     },
     {
       "num": 1776,
@@ -2621,13 +2604,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:17",
+      "eta_txt": "Termina: Dom 22/11 16:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 1777,
@@ -2638,13 +2621,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:24",
+      "eta_txt": "Termina: Dom 22/11 16:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 1778,
@@ -2655,13 +2638,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:32",
+      "eta_txt": "Termina: Dom 22/11 16:33",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 1779,
@@ -2672,13 +2655,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:40",
+      "eta_txt": "Termina: Dom 22/11 16:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 1780,
@@ -2689,13 +2672,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:47",
+      "eta_txt": "Termina: Dom 22/11 16:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 1781,
@@ -2706,13 +2689,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 16:55",
+      "eta_txt": "Termina: Dom 22/11 16:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 1782,
@@ -2723,13 +2706,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Dom 22/11 17:10",
+      "eta_txt": "Termina: Dom 22/11 17:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 20
+      "orden_real": 19
     },
     {
       "num": 1783,
@@ -2740,13 +2723,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 17:40",
+      "eta_txt": "Termina: Dom 22/11 17:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 21
+      "orden_real": 20
     },
     {
       "num": 1784,
@@ -2757,13 +2740,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 18:11",
+      "eta_txt": "Termina: Dom 22/11 18:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 22
+      "orden_real": 21
     },
     {
       "num": 1785,
@@ -2774,13 +2757,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 18:41",
+      "eta_txt": "Termina: Dom 22/11 18:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 23
+      "orden_real": 22
     },
     {
       "num": 1786,
@@ -2791,13 +2774,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 19:12",
+      "eta_txt": "Termina: Dom 22/11 19:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 24
+      "orden_real": 23
     },
     {
       "num": 1787,
@@ -2808,13 +2791,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Dom 22/11 19:42",
+      "eta_txt": "Termina: Dom 22/11 19:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 25
+      "orden_real": 24
     },
     {
       "num": 1788,
@@ -2825,13 +2808,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 22:22",
+      "eta_txt": "Termina: Dom 22/11 22:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 28
+      "orden_real": 27
     },
     {
       "num": 3113,
@@ -2842,7 +2825,7 @@
       "n_esl": 8,
       "generados": 0,
       "horas": 1.0133333333333332,
-      "eta_txt": "Termina: Dom 22/11 13:45",
+      "eta_txt": "Termina: Dom 22/11 13:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2859,13 +2842,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 22:29",
+      "eta_txt": "Termina: Dom 22/11 22:30",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 29
+      "orden_real": 28
     },
     {
       "num": 3115,
@@ -2876,13 +2859,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 22:37",
+      "eta_txt": "Termina: Dom 22/11 22:38",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 30
+      "orden_real": 29
     },
     {
       "num": 3116,
@@ -2893,13 +2876,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 22:44",
+      "eta_txt": "Termina: Dom 22/11 22:46",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 31
+      "orden_real": 30
     },
     {
       "num": 3117,
@@ -2910,13 +2893,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 22:52",
+      "eta_txt": "Termina: Dom 22/11 22:53",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 32
+      "orden_real": 31
     },
     {
       "num": 3118,
@@ -2927,13 +2910,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 23:00",
+      "eta_txt": "Termina: Dom 22/11 23:01",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 33
+      "orden_real": 32
     },
     {
       "num": 3119,
@@ -2944,13 +2927,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 23:07",
+      "eta_txt": "Termina: Dom 22/11 23:08",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 34
+      "orden_real": 33
     },
     {
       "num": 3120,
@@ -2961,13 +2944,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 23:15",
+      "eta_txt": "Termina: Dom 22/11 23:16",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 35
+      "orden_real": 34
     },
     {
       "num": 3121,
@@ -2978,13 +2961,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 23:22",
+      "eta_txt": "Termina: Dom 22/11 23:24",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 36
+      "orden_real": 35
     },
     {
       "num": 3122,
@@ -2995,13 +2978,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Dom 22/11 23:30",
+      "eta_txt": "Termina: Dom 22/11 23:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 37
+      "orden_real": 36
     },
     {
       "num": 3124,
@@ -3012,7 +2995,7 @@
       "n_esl": 9,
       "generados": 0,
       "horas": 1.14,
-      "eta_txt": "Termina: Dom 22/11 14:53",
+      "eta_txt": "Termina: Dom 22/11 14:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -3029,13 +3012,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Dom 22/11 20:58",
+      "eta_txt": "Termina: Dom 22/11 20:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 26
+      "orden_real": 25
     },
     {
       "num": 3140,
@@ -3046,13 +3029,13 @@
       "n_esl": 10,
       "generados": 0,
       "horas": 1.2666666666666666,
-      "eta_txt": "Termina: Dom 22/11 22:14",
+      "eta_txt": "Termina: Dom 22/11 22:15",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": true,
       "no_arranca": false,
-      "orden_real": 27
+      "orden_real": 26
     }
   ],
   "espera": [],
