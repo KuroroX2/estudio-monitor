@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-23 10:46:21",
+  "timestamp": "2026-11-23 10:53:53",
   "corriendo": {
     "nombre": "WEB_1123_ruido_darky_D",
     "hora": "10:45",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 30,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "elapsed": 14,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 9921,
+    "eslabones_hechos": 9922,
     "eslabones_totales": 9961,
-    "horas_hechas": 1275.2183333333599,
-    "horas_restantes": 5.466666666666667,
+    "horas_hechas": 1275.3450000000266,
+    "horas_restantes": 5.34,
     "fecha_fin_estimada": "Lun 23/11 16:14"
   },
   "items": [
@@ -80,7 +80,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
       "eta_txt": "Termina: Lun 23/11 10:53",
       "es_activa": true,
