@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-23 19:53:30",
+  "timestamp": "2026-11-23 19:56:53",
   "corriendo": null,
   "global": {
-    "eslabones_hechos": 9969,
+    "eslabones_hechos": 9961,
     "eslabones_totales": 9993,
-    "horas_hechas": 1281.765000000028,
-    "horas_restantes": 3.04,
-    "fecha_fin_estimada": "Lun 23/11 22:55"
+    "horas_hechas": 1280.7516666666945,
+    "horas_restantes": 4.053333333333334,
+    "fecha_fin_estimada": "Mar 24/11 00:00"
   },
   "items": [
     {
@@ -619,52 +619,54 @@
     },
     {
       "num": 40,
-      "nombre": "WEB_1123_llegada_v2_a",
+      "nombre": "WEB_1123_llegada_v3_a",
       "tipo": "Puntual",
       "serie": "",
       "episodio": null,
       "n_esl": 2,
-      "generados": 2,
-      "horas": 0.2533333333333333,
-      "eta_txt": "Completado",
-      "es_activa": null,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
-      "num": 41,
-      "nombre": "WEB_1123_llegada_v2_b",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 6,
-      "generados": 6,
-      "horas": 0.7599999999999999,
-      "eta_txt": "Completado",
-      "es_activa": null,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
-      "num": 42,
-      "nombre": "UNIR_1123_llegada_v2",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 0,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Lun 23/11 19:53",
+      "horas": 0.2533333333333333,
+      "eta_txt": "Termina: Lun 23/11 20:12",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
       "orden_real": 1
+    },
+    {
+      "num": 41,
+      "nombre": "WEB_1123_llegada_v3_b",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 6,
+      "generados": 0,
+      "horas": 0.7599999999999999,
+      "eta_txt": "Termina: Lun 23/11 20:57",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 2
+    },
+    {
+      "num": 42,
+      "nombre": "UNIR_1123_llegada_v3",
+      "tipo": "Puntual",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Lun 23/11 20:57",
+      "es_activa": null,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 3
     },
     {
       "num": 43,
@@ -675,13 +677,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Lun 23/11 20:08",
+      "eta_txt": "Termina: Lun 23/11 21:12",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 2
+      "orden_real": 4
     },
     {
       "num": 44,
@@ -692,13 +694,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Lun 23/11 20:39",
+      "eta_txt": "Termina: Lun 23/11 21:43",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 5
     },
     {
       "num": 45,
@@ -709,13 +711,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Lun 23/11 21:09",
+      "eta_txt": "Termina: Lun 23/11 22:13",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 6
     },
     {
       "num": 46,
@@ -726,13 +728,13 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Lun 23/11 21:09",
+      "eta_txt": "Termina: Lun 23/11 22:13",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 7
     },
     {
       "num": 47,
@@ -2495,6 +2497,38 @@
       "no_arranca": false
     },
     {
+      "num": 159,
+      "nombre": "WEB_1118_T_bolas_BALLS_PL",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 1,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Completado",
+      "es_activa": null,
+      "es_hecha": true,
+      "es_fallo": false,
+      "es_reintento": false,
+      "no_arranca": false
+    },
+    {
+      "num": 160,
+      "nombre": "WEB_1118_T_bolas_L0",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 1,
+      "generados": 1,
+      "horas": 0.12666666666666665,
+      "eta_txt": "Completado",
+      "es_activa": null,
+      "es_hecha": true,
+      "es_fallo": false,
+      "es_reintento": false,
+      "no_arranca": false
+    },
+    {
       "num": 3161,
       "nombre": "WEB_1117_bfs_mix_g4_cubierta_igual",
       "tipo": "Prueba",
@@ -2503,13 +2537,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:17",
+      "eta_txt": "Termina: Lun 23/11 23:22",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 10
     },
     {
       "num": 3162,
@@ -2520,13 +2554,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:25",
+      "eta_txt": "Termina: Lun 23/11 23:29",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 11
     },
     {
       "num": 3163,
@@ -2537,13 +2571,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:33",
+      "eta_txt": "Termina: Lun 23/11 23:37",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 12
     },
     {
       "num": 3164,
@@ -2554,13 +2588,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:40",
+      "eta_txt": "Termina: Lun 23/11 23:44",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 13
     },
     {
       "num": 3165,
@@ -2571,13 +2605,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:48",
+      "eta_txt": "Termina: Lun 23/11 23:52",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 14
     },
     {
       "num": 3166,
@@ -2588,13 +2622,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:55",
+      "eta_txt": "Termina: Mar 24/11 00:00",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 15
     },
     {
       "num": 3208,
@@ -2605,13 +2639,13 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Lun 23/11 22:02",
+      "eta_txt": "Termina: Lun 23/11 23:06",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 8
     },
     {
       "num": 3209,
@@ -2622,13 +2656,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Lun 23/11 22:10",
+      "eta_txt": "Termina: Lun 23/11 23:14",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": false,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 9
     }
   ],
   "espera": [],
