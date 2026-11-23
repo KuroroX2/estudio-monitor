@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-23 11:34:46",
+  "timestamp": "2026-11-23 11:42:17",
   "corriendo": {
     "nombre": "WEB_1123_ruido_moon_D",
     "hora": "11:34",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 30,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "elapsed": 14,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 9926,
+    "eslabones_hechos": 9927,
     "eslabones_totales": 9961,
-    "horas_hechas": 1275.8516666666933,
-    "horas_restantes": 4.833333333333333,
+    "horas_hechas": 1275.97833333336,
+    "horas_restantes": 4.706666666666667,
     "fecha_fin_estimada": "Lun 23/11 16:24"
   },
   "items": [
@@ -160,7 +160,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
       "eta_txt": "Termina: Lun 23/11 11:42",
       "es_activa": true,
