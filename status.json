@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-24 02:02:33",
+  "timestamp": "2026-11-24 02:12:45",
   "corriendo": {
-    "nombre": "WEB_1124_h3image_bfs_cuadros_vestida",
-    "hora": "02:01",
+    "nombre": "WEB_1124_bfs_auto_inicio_D2",
+    "hora": "02:12",
     "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": 0.22344723638888891,
+    "eslabon_total": 1,
+    "horas_rest": 0.12666666666666665,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 15,
+      "elapsed": 14,
       "paso_num": 1,
       "paso_str": "Cargando modelos en VRAM (~40s)",
       "pct": 0.1,
@@ -20,9 +20,9 @@
   "global": {
     "eslabones_hechos": 9989,
     "eslabones_totales": 9997,
-    "horas_hechas": 1285.381666666694,
-    "horas_restantes": 1.2367805697222223,
-    "fecha_fin_estimada": "Mar 24/11 03:16"
+    "horas_hechas": 1285.631666666694,
+    "horas_restantes": 1.0133333333333334,
+    "fecha_fin_estimada": "Mar 24/11 03:13"
   },
   "items": [
     {
@@ -866,13 +866,12 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.25,
-      "eta_txt": "Termina: Mar 24/11 02:15",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 1
+      "es_reintento": false,
+      "no_arranca": false
     },
     {
       "num": 55,
@@ -883,13 +882,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:23",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 24/11 02:20",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 2
+      "orden_real": 1
     },
     {
       "num": 56,
@@ -900,13 +899,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:31",
+      "eta_txt": "Termina: Mar 24/11 02:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 2
     },
     {
       "num": 57,
@@ -917,13 +916,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:38",
+      "eta_txt": "Termina: Mar 24/11 02:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 58,
@@ -934,13 +933,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:46",
+      "eta_txt": "Termina: Mar 24/11 02:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 59,
@@ -951,13 +950,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:53",
+      "eta_txt": "Termina: Mar 24/11 02:50",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 60,
@@ -968,13 +967,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 03:01",
+      "eta_txt": "Termina: Mar 24/11 02:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 61,
@@ -985,13 +984,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 03:09",
+      "eta_txt": "Termina: Mar 24/11 03:05",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 62,
@@ -1002,13 +1001,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 03:16",
+      "eta_txt": "Termina: Mar 24/11 03:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 63,
@@ -1019,13 +1018,13 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 03:16",
+      "eta_txt": "Termina: Mar 24/11 03:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 64,
@@ -2566,22 +2565,6 @@
     {
       "num": 162,
       "nombre": "WEB_1118_P2_bj_pov_alta_BJv3",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
-      "num": 163,
-      "nombre": "WEB_1118_P2_bj_pov_alta_DT02",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
