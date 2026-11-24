@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-11-23 23:13:45",
+  "timestamp": "2026-11-23 23:24:01",
   "corriendo": {
     "nombre": "WEB_1117_bfs_mix_g4_cubierta_igual",
     "hora": "22:52",
-    "eslabon_actual": 4,
+    "eslabon_actual": 5,
     "eslabon_total": 11,
-    "horas_rest": 0.8,
+    "horas_rest": 0.7875,
     "suelto": false,
     "clip_info": {
-      "num_esl": 4,
+      "num_esl": 5,
       "tot_esl": 11,
-      "elapsed": 101,
+      "elapsed": 175,
       "paso_num": 1,
       "paso_str": "Generando (ComfyUI aun no reporta el paso)",
       "pct": 0.15,
       "trozos": {
-        "hechos": 3,
+        "hechos": 4,
         "total": 11,
-        "min_media": 6.0
+        "min_media": 6.75
       }
     }
   },
@@ -25,8 +25,8 @@
     "eslabones_hechos": 9987,
     "eslabones_totales": 9993,
     "horas_hechas": 1284.0450000000276,
-    "horas_restantes": 1.4333333333333333,
-    "fecha_fin_estimada": "Mar 24/11 00:39"
+    "horas_restantes": 1.4208333333333334,
+    "fecha_fin_estimada": "Mar 24/11 00:49"
   },
   "items": [
     {
@@ -2438,7 +2438,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:01",
+      "eta_txt": "Termina: Mar 24/11 00:11",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2455,7 +2455,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:09",
+      "eta_txt": "Termina: Mar 24/11 00:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2472,7 +2472,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:16",
+      "eta_txt": "Termina: Mar 24/11 00:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2489,7 +2489,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:24",
+      "eta_txt": "Termina: Mar 24/11 00:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2506,7 +2506,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:32",
+      "eta_txt": "Termina: Mar 24/11 00:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2523,7 +2523,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 00:39",
+      "eta_txt": "Termina: Mar 24/11 00:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
