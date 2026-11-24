@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-24 01:18:39",
+  "timestamp": "2026-11-24 01:28:47",
   "corriendo": {
-    "nombre": "WEB_1124_h3image_bfs_cuadros",
-    "hora": "01:17",
+    "nombre": "WEB_1124_bfs_auto_inicio_B",
+    "hora": "01:28",
     "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": 0.22169903694444446,
+    "eslabon_total": 1,
+    "horas_rest": 0.12666666666666665,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 45,
+      "elapsed": 28,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1,
       "trozos": null
     }
   },
   "global": {
     "eslabones_hechos": 9987,
     "eslabones_totales": 9996,
-    "horas_hechas": 1284.6283333333608,
-    "horas_restantes": 1.3616990369444446,
-    "fecha_fin_estimada": "Mar 24/11 02:40"
+    "horas_hechas": 1284.8783333333606,
+    "horas_restantes": 1.14,
+    "fecha_fin_estimada": "Mar 24/11 02:37"
   },
   "items": [
     {
@@ -802,13 +802,12 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.25,
-      "eta_txt": "Termina: Mar 24/11 01:31",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 1
+      "es_reintento": false,
+      "no_arranca": false
     },
     {
       "num": 51,
@@ -819,13 +818,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 01:39",
-      "es_activa": false,
+      "eta_txt": "Termina: Mar 24/11 01:36",
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 2
+      "orden_real": 1
     },
     {
       "num": 52,
@@ -836,13 +835,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 01:47",
+      "eta_txt": "Termina: Mar 24/11 01:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 2
     },
     {
       "num": 53,
@@ -853,13 +852,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 01:54",
+      "eta_txt": "Termina: Mar 24/11 01:51",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 54,
@@ -870,13 +869,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:02",
+      "eta_txt": "Termina: Mar 24/11 01:59",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 55,
@@ -887,13 +886,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:09",
+      "eta_txt": "Termina: Mar 24/11 02:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 56,
@@ -904,13 +903,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:17",
+      "eta_txt": "Termina: Mar 24/11 02:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 57,
@@ -921,13 +920,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:25",
+      "eta_txt": "Termina: Mar 24/11 02:21",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 58,
@@ -938,13 +937,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:32",
+      "eta_txt": "Termina: Mar 24/11 02:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 59,
@@ -955,13 +954,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:40",
+      "eta_txt": "Termina: Mar 24/11 02:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 60,
@@ -972,13 +971,13 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 02:40",
+      "eta_txt": "Termina: Mar 24/11 02:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 61,
@@ -2583,22 +2582,6 @@
     {
       "num": 163,
       "nombre": "WEB_1118_T_punta_L0",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
-      "num": 164,
-      "nombre": "WEB_1118_T_lado_SAND",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
