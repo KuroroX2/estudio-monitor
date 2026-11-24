@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-24 03:59:19",
+  "timestamp": "2026-11-24 04:09:44",
   "corriendo": null,
   "global": {
     "eslabones_hechos": 9997,
     "eslabones_totales": 9997,
     "horas_hechas": 1286.645000000027,
     "horas_restantes": 0.0,
-    "fecha_fin_estimada": "Mar 24/11 03:59"
+    "fecha_fin_estimada": "Mar 24/11 04:09"
   },
   "items": [
     {
@@ -984,23 +984,6 @@
       "es_fallo": false,
       "es_reintento": false,
       "no_arranca": false
-    },
-    {
-      "num": 63,
-      "nombre": "ELEGIR_BFS_ROPA_AUTO_1124",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 0,
-      "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 03:59",
-      "es_activa": null,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": true,
-      "no_arranca": false,
-      "orden_real": 1
     },
     {
       "num": 64,
