@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-24 20:06:13",
+  "timestamp": "2026-11-24 20:13:58",
   "corriendo": {
     "nombre": "WEB_1124_mago13_p2",
-    "hora": "19:27",
+    "hora": "19:26",
     "eslabon_actual": 9,
     "eslabon_total": 9,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 9,
       "tot_esl": 9,
-      "elapsed": 9,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "elapsed": 19,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10081,
+    "eslabones_hechos": 10082,
     "eslabones_totales": 10132,
-    "horas_hechas": 1299.2850000000292,
-    "horas_restantes": 6.46,
+    "horas_hechas": 1299.411666666696,
+    "horas_restantes": 6.333333333333333,
     "fecha_fin_estimada": "Mié 25/11 02:33"
   },
   "items": [
@@ -2432,7 +2432,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 9,
-      "generados": 8,
+      "generados": 9,
       "horas": 1.14,
       "eta_txt": "Termina: Mar 24/11 20:13",
       "es_activa": true,
@@ -2519,7 +2519,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 20:06",
+      "eta_txt": "Termina: Mar 24/11 20:13",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
