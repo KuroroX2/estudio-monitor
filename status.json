@@ -1,28 +1,32 @@
 {
-  "timestamp": "2026-11-24 01:49:13",
+  "timestamp": "2026-11-24 01:59:24",
   "corriendo": {
-    "nombre": "WEB_1124_h3image_bfs_cuadros_v2",
-    "hora": "01:39",
-    "eslabon_actual": 0,
-    "eslabon_total": null,
-    "horas_rest": 0.08333333333333333,
+    "nombre": "WEB_1124_bfs_auto_inicio_C",
+    "hora": "01:50",
+    "eslabon_actual": 2,
+    "eslabon_total": 2,
+    "horas_rest": 0.07333333333333333,
     "suelto": false,
     "clip_info": {
-      "num_esl": null,
-      "tot_esl": null,
-      "elapsed": 8,
+      "num_esl": 2,
+      "tot_esl": 2,
+      "elapsed": 201,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
-      "trozos": null
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15,
+      "trozos": {
+        "hechos": 1,
+        "total": 2,
+        "min_media": 4.4
+      }
     }
   },
   "global": {
     "eslabones_hechos": 9988,
-    "eslabones_totales": 9996,
-    "horas_hechas": 1285.0050000000274,
-    "horas_restantes": 1.0966666666666667,
-    "fecha_fin_estimada": "Mar 24/11 02:55"
+    "eslabones_totales": 9997,
+    "horas_hechas": 1285.2550000000274,
+    "horas_restantes": 1.3366666666666667,
+    "fecha_fin_estimada": "Mar 24/11 03:19"
   },
   "items": [
     {
@@ -834,13 +838,12 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.25,
-      "eta_txt": "Termina: Mar 24/11 01:54",
-      "es_activa": true,
-      "es_hecha": false,
+      "eta_txt": "Completado",
+      "es_activa": false,
+      "es_hecha": true,
       "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 1
+      "es_reintento": false,
+      "no_arranca": false
     },
     {
       "num": 53,
@@ -851,7 +854,24 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:01",
+      "eta_txt": "Termina: Mar 24/11 02:03",
+      "es_activa": true,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 1
+    },
+    {
+      "num": 54,
+      "nombre": "WEB_1124_h3image_bfs_cuadros_vestida",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.25,
+      "eta_txt": "Termina: Mar 24/11 02:18",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -860,15 +880,15 @@
       "orden_real": 2
     },
     {
-      "num": 54,
-      "nombre": "WEB_1124_bfs_auto_inicio_D",
+      "num": 55,
+      "nombre": "WEB_1124_bfs_auto_inicio_D2",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:09",
+      "eta_txt": "Termina: Mar 24/11 02:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -877,15 +897,15 @@
       "orden_real": 3
     },
     {
-      "num": 55,
-      "nombre": "WEB_1124_bfs_auto_mano_B",
+      "num": 56,
+      "nombre": "WEB_1124_bfs_auto_inicio_D",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:17",
+      "eta_txt": "Termina: Mar 24/11 02:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -894,15 +914,15 @@
       "orden_real": 4
     },
     {
-      "num": 56,
-      "nombre": "WEB_1124_bfs_auto_mano_C",
+      "num": 57,
+      "nombre": "WEB_1124_bfs_auto_mano_B",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:24",
+      "eta_txt": "Termina: Mar 24/11 02:41",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -911,15 +931,15 @@
       "orden_real": 5
     },
     {
-      "num": 57,
-      "nombre": "WEB_1124_bfs_auto_mano_D",
+      "num": 58,
+      "nombre": "WEB_1124_bfs_auto_mano_C",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:32",
+      "eta_txt": "Termina: Mar 24/11 02:49",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -928,15 +948,15 @@
       "orden_real": 6
     },
     {
-      "num": 58,
-      "nombre": "WEB_1124_bfs_auto_ventosa_B",
+      "num": 59,
+      "nombre": "WEB_1124_bfs_auto_mano_D",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:39",
+      "eta_txt": "Termina: Mar 24/11 02:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -945,15 +965,15 @@
       "orden_real": 7
     },
     {
-      "num": 59,
-      "nombre": "WEB_1124_bfs_auto_ventosa_C",
+      "num": 60,
+      "nombre": "WEB_1124_bfs_auto_ventosa_B",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:47",
+      "eta_txt": "Termina: Mar 24/11 03:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -962,15 +982,15 @@
       "orden_real": 8
     },
     {
-      "num": 60,
-      "nombre": "WEB_1124_bfs_auto_ventosa_D",
+      "num": 61,
+      "nombre": "WEB_1124_bfs_auto_ventosa_C",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Mar 24/11 02:55",
+      "eta_txt": "Termina: Mar 24/11 03:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -979,15 +999,15 @@
       "orden_real": 9
     },
     {
-      "num": 61,
-      "nombre": "ELEGIR_BFS_ROPA_AUTO_1124",
+      "num": 62,
+      "nombre": "WEB_1124_bfs_auto_ventosa_D",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
-      "n_esl": 0,
+      "n_esl": 1,
       "generados": 0,
-      "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 02:55",
+      "horas": 0.12666666666666665,
+      "eta_txt": "Termina: Mar 24/11 03:19",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -996,7 +1016,24 @@
       "orden_real": 10
     },
     {
-      "num": 62,
+      "num": 63,
+      "nombre": "ELEGIR_BFS_ROPA_AUTO_1124",
+      "tipo": "Prueba",
+      "serie": "",
+      "episodio": null,
+      "n_esl": 0,
+      "generados": 0,
+      "horas": 0.0,
+      "eta_txt": "Termina: Mar 24/11 03:19",
+      "es_activa": false,
+      "es_hecha": false,
+      "es_fallo": false,
+      "es_reintento": null,
+      "no_arranca": false,
+      "orden_real": 11
+    },
+    {
+      "num": 64,
       "nombre": "WEB_1121_depto_vuelta_pieza_cine",
       "tipo": "Prueba",
       "serie": "",
@@ -1012,7 +1049,7 @@
       "no_arranca": false
     },
     {
-      "num": 63,
+      "num": 65,
       "nombre": "WEB_1121_depto_vuelta_gamer_cine",
       "tipo": "Prueba",
       "serie": "",
@@ -1028,7 +1065,7 @@
       "no_arranca": false
     },
     {
-      "num": 64,
+      "num": 66,
       "nombre": "WEB_1120_depto_vuelta_pieza_chispasA",
       "tipo": "Prueba",
       "serie": "",
@@ -1044,7 +1081,7 @@
       "no_arranca": false
     },
     {
-      "num": 65,
+      "num": 67,
       "nombre": "WEB_1120_depto_vuelta_pieza_chispasB",
       "tipo": "Prueba",
       "serie": "",
@@ -1060,7 +1097,7 @@
       "no_arranca": false
     },
     {
-      "num": 66,
+      "num": 68,
       "nombre": "WEB_1120_depto_vuelta_pieza",
       "tipo": "Prueba",
       "serie": "",
@@ -1076,7 +1113,7 @@
       "no_arranca": false
     },
     {
-      "num": 67,
+      "num": 69,
       "nombre": "WEB_1120_depto_vuelta_gamer",
       "tipo": "Prueba",
       "serie": "",
@@ -1092,7 +1129,7 @@
       "no_arranca": false
     },
     {
-      "num": 68,
+      "num": 70,
       "nombre": "WEB_1120_h3image_depto_darky2",
       "tipo": "Prueba",
       "serie": "",
@@ -1108,7 +1145,7 @@
       "no_arranca": false
     },
     {
-      "num": 69,
+      "num": 71,
       "nombre": "FICHA_DARKY_1120",
       "tipo": "Prueba",
       "serie": "",
@@ -1124,7 +1161,7 @@
       "no_arranca": false
     },
     {
-      "num": 70,
+      "num": 72,
       "nombre": "WEB_1120_h3image_depto_darky",
       "tipo": "Prueba",
       "serie": "",
@@ -1140,7 +1177,7 @@
       "no_arranca": false
     },
     {
-      "num": 71,
+      "num": 73,
       "nombre": "WEB_1111_chasquido_metro4_frag_99_99_solo_su_lugar",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1156,7 +1193,7 @@
       "no_arranca": false
     },
     {
-      "num": 72,
+      "num": 74,
       "nombre": "WEB_1111_chasquido_metro4_frag_98_98_solo_su_lugar",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1172,7 +1209,7 @@
       "no_arranca": false
     },
     {
-      "num": 73,
+      "num": 75,
       "nombre": "WEB_1120_genio4_frag_4_6_chasquido_dorado",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1188,7 +1225,7 @@
       "no_arranca": false
     },
     {
-      "num": 74,
+      "num": 76,
       "nombre": "WEB_1120_poderes9_frag_t4_4_5_mano_cum_y_desaparece",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1204,7 +1241,7 @@
       "no_arranca": false
     },
     {
-      "num": 75,
+      "num": 77,
       "nombre": "WEB_1120_tele6_frag_12_14_grito_y_continuidad",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1220,7 +1257,7 @@
       "no_arranca": false
     },
     {
-      "num": 76,
+      "num": 78,
       "nombre": "WEB_1120_presentacion5_frag_3_6_clic_se_ve",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1236,7 +1273,7 @@
       "no_arranca": false
     },
     {
-      "num": 77,
+      "num": 79,
       "nombre": "WEB_1120_presentacion5_frag_16_20_secretos_y_miradas",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1252,7 +1289,7 @@
       "no_arranca": false
     },
     {
-      "num": 78,
+      "num": 80,
       "nombre": "WEB_1120_mago_eleccion2_frag_1_6_cara_del_mago",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1268,7 +1305,7 @@
       "no_arranca": false
     },
     {
-      "num": 79,
+      "num": 81,
       "nombre": "WEB_1120_mago_bolas2_frag_18_20_queda_una",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1284,7 +1321,7 @@
       "no_arranca": false
     },
     {
-      "num": 80,
+      "num": 82,
       "nombre": "WEB_1120_hipnosis4_show_frag_6_10_pasillo_sin_foto",
       "tipo": "Puntual",
       "serie": "",
@@ -1300,7 +1337,7 @@
       "no_arranca": false
     },
     {
-      "num": 81,
+      "num": 83,
       "nombre": "WEB_1120_hipnosis4_show_frag_22_25_el_mago_chasquea",
       "tipo": "Puntual",
       "serie": "",
@@ -1316,7 +1353,7 @@
       "no_arranca": false
     },
     {
-      "num": 82,
+      "num": 84,
       "nombre": "WEB_1120_hipnosis3_epilogo_frag_3_5_copiloto_y_volante",
       "tipo": "Puntual",
       "serie": "",
@@ -1332,7 +1369,7 @@
       "no_arranca": false
     },
     {
-      "num": 83,
+      "num": 85,
       "nombre": "WEB_1120_genio4_frag_9_11_chasquido_y_mamada",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1348,7 +1385,7 @@
       "no_arranca": false
     },
     {
-      "num": 84,
+      "num": 86,
       "nombre": "WEB_1111_chasquido_metro4_frag_97_97_solo_su_lugar",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1364,7 +1401,7 @@
       "no_arranca": false
     },
     {
-      "num": 85,
+      "num": 87,
       "nombre": "WEB_1120_chasquido_metro5_orden_frag_11_13_alto_y_sin_cara",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1380,7 +1417,7 @@
       "no_arranca": false
     },
     {
-      "num": 86,
+      "num": 88,
       "nombre": "WEB_1120_chasquido_metro5_frag_86_92_frase_partida_y_onda",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1396,7 +1433,7 @@
       "no_arranca": false
     },
     {
-      "num": 87,
+      "num": 89,
       "nombre": "WEB_1120_chasquido_metro5_frag_19_22_sin_su_cara",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1412,7 +1449,7 @@
       "no_arranca": false
     },
     {
-      "num": 88,
+      "num": 90,
       "nombre": "WEB_1120_app_puntos4_frag_10_13_el_lee_y_de_cerca",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1428,7 +1465,7 @@
       "no_arranca": false
     },
     {
-      "num": 89,
+      "num": 91,
       "nombre": "WEB_1120_sun_darky5_frag_5_6_sin_mirar_y_misma_punta",
       "tipo": "Pelicula",
       "serie": "",
@@ -1444,7 +1481,7 @@
       "no_arranca": false
     },
     {
-      "num": 90,
+      "num": 92,
       "nombre": "WEB_1120_sun_darky5_frag_15_18_dildo_dentro_y_cuatro_patas",
       "tipo": "Pelicula",
       "serie": "",
@@ -1460,7 +1497,7 @@
       "no_arranca": false
     },
     {
-      "num": 91,
+      "num": 93,
       "nombre": "WEB_1120_sun_darky5_frag_1_2_cada_una_en_su_plano",
       "tipo": "Pelicula",
       "serie": "",
@@ -1476,7 +1513,7 @@
       "no_arranca": false
     },
     {
-      "num": 92,
+      "num": 94,
       "nombre": "WEB_1120_secretaria11_frag_6_10_sin_sillon_cabeza_y_blusa",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1492,7 +1529,7 @@
       "no_arranca": false
     },
     {
-      "num": 93,
+      "num": 95,
       "nombre": "WEB_1120_secretaria11_frag_18_21_peinado_y_salida",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1508,7 +1545,7 @@
       "no_arranca": false
     },
     {
-      "num": 94,
+      "num": 96,
       "nombre": "WEB_1120_secretaria11_frag_12_13_un_pene_y_sin_salto",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1524,7 +1561,7 @@
       "no_arranca": false
     },
     {
-      "num": 95,
+      "num": 97,
       "nombre": "WEB_1120_secretaria11_frag_1_2_del_lado_de_la_mesa",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1540,7 +1577,7 @@
       "no_arranca": false
     },
     {
-      "num": 96,
+      "num": 98,
       "nombre": "WEB_1120_rockstar10_frag_2_3_sin_cris_y_boca_tapada",
       "tipo": "Pelicula",
       "serie": "",
@@ -1556,7 +1593,7 @@
       "no_arranca": false
     },
     {
-      "num": 97,
+      "num": 99,
       "nombre": "WEB_1120_rockstar10_frag_17_19_caras_juntas_y_chorro_apuntado",
       "tipo": "Pelicula",
       "serie": "",
@@ -1572,7 +1609,7 @@
       "no_arranca": false
     },
     {
-      "num": 98,
+      "num": 100,
       "nombre": "WEB_1120_probador8_frag_2_4_polera_brazos_primero",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1588,7 +1625,7 @@
       "no_arranca": false
     },
     {
-      "num": 99,
+      "num": 101,
       "nombre": "WEB_1120_probador8_frag_14_15_sentada_en_la_banca",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1604,7 +1641,7 @@
       "no_arranca": false
     },
     {
-      "num": 100,
+      "num": 102,
       "nombre": "WEB_1120_noche_fiesta6_frag_16_17_la_mano_por_encima_y_adentro",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1620,7 +1657,7 @@
       "no_arranca": false
     },
     {
-      "num": 101,
+      "num": 103,
       "nombre": "WEB_1120_noche_fiesta6_frag_1_2_cara_de_instaa_escondida",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1636,7 +1673,7 @@
       "no_arranca": false
     },
     {
-      "num": 102,
+      "num": 104,
       "nombre": "WEB_1120_noche_m2_club_manos5_frag_1_2_otra_zona_otra_camara",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1652,7 +1689,7 @@
       "no_arranca": false
     },
     {
-      "num": 103,
+      "num": 105,
       "nombre": "WEB_1120_instaa_finger7_frag_5_8_varias_camaras",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1668,7 +1705,7 @@
       "no_arranca": false
     },
     {
-      "num": 104,
+      "num": 106,
       "nombre": "WEB_1120_instaa_finger7_frag_36_38_con_su_cara",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1684,7 +1721,7 @@
       "no_arranca": false
     },
     {
-      "num": 105,
+      "num": 107,
       "nombre": "WEB_1120_instaa_finger7_frag_29_31_varias_camaras",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1700,7 +1737,7 @@
       "no_arranca": false
     },
     {
-      "num": 106,
+      "num": 108,
       "nombre": "WEB_1120_noche_m6_auto7b_frag_1_4_pies_quietos_plora2400",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1716,7 +1753,7 @@
       "no_arranca": false
     },
     {
-      "num": 107,
+      "num": 109,
       "nombre": "WEB_1120_noche_m6_auto7_frag_1_4_pies_quietos_plora6300",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1732,7 +1769,7 @@
       "no_arranca": false
     },
     {
-      "num": 108,
+      "num": 110,
       "nombre": "WEB_1120_aeropuerto8_frag_40_42_wand_sin_lora",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1748,7 +1785,7 @@
       "no_arranca": false
     },
     {
-      "num": 109,
+      "num": 111,
       "nombre": "WEB_1120_aeropuerto8_frag_28_30_cara_quieta_y_piernas_de_la_mesa",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1764,7 +1801,7 @@
       "no_arranca": false
     },
     {
-      "num": 110,
+      "num": 112,
       "nombre": "WEB_1120_sitcom15",
       "tipo": "Prueba",
       "serie": "",
@@ -1780,7 +1817,7 @@
       "no_arranca": false
     },
     {
-      "num": 111,
+      "num": 113,
       "nombre": "WEB_1120_tiktok_paz_darky3_frag_2_3_dedos_y_fin_de_frase",
       "tipo": "Puntual",
       "serie": "",
@@ -1796,7 +1833,7 @@
       "no_arranca": false
     },
     {
-      "num": 112,
+      "num": 114,
       "nombre": "WEB_1120_playa_darky3_frag_1_2_cara_mas_cerca",
       "tipo": "Prueba",
       "serie": "",
@@ -1812,7 +1849,7 @@
       "no_arranca": false
     },
     {
-      "num": 113,
+      "num": 115,
       "nombre": "WEB_1120_mall8_frag_8_10_fila_y_camino",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1828,7 +1865,7 @@
       "no_arranca": false
     },
     {
-      "num": 114,
+      "num": 116,
       "nombre": "WEB_1120_lo_lick_frag_1_1_semen_de_la_punta",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1844,7 +1881,7 @@
       "no_arranca": false
     },
     {
-      "num": 115,
+      "num": 117,
       "nombre": "WEB_1120_fembot7_frag_53_54_cara_boca_tapada_sin_mystic",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1860,7 +1897,7 @@
       "no_arranca": false
     },
     {
-      "num": 116,
+      "num": 118,
       "nombre": "WEB_1120_delirio7_frag_24_25_tocarse_lento",
       "tipo": "Minipelicula",
       "serie": "",
@@ -1876,7 +1913,7 @@
       "no_arranca": false
     },
     {
-      "num": 117,
+      "num": 119,
       "nombre": "WEB_1120_darky_pillada4_frag_2_6_puerta_con_ella_y_un_fondo",
       "tipo": "Puntual",
       "serie": "",
@@ -1892,7 +1929,7 @@
       "no_arranca": false
     },
     {
-      "num": 118,
+      "num": 120,
       "nombre": "WEB_1120_clip_cerca_darky7_frag_8_9_de_espaldas_y_vulva",
       "tipo": "Puntual",
       "serie": "",
@@ -1908,7 +1945,7 @@
       "no_arranca": false
     },
     {
-      "num": 119,
+      "num": 121,
       "nombre": "WEB_1120_bikini11_frag_3_6_solo_darky_en_la_puerta_y_micro",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1924,7 +1961,7 @@
       "no_arranca": false
     },
     {
-      "num": 120,
+      "num": 122,
       "nombre": "WEB_1120_calle7_frag_21_24",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1940,7 +1977,7 @@
       "no_arranca": false
     },
     {
-      "num": 121,
+      "num": 123,
       "nombre": "WEB_1120_jin_departamento_tv_frag_29_29_sin_tv_al_fondo",
       "tipo": "Puntual",
       "serie": "",
@@ -1956,7 +1993,7 @@
       "no_arranca": false
     },
     {
-      "num": 122,
+      "num": 124,
       "nombre": "WEB_1120_jin_venoso3_frag_3_5_pelo_polera_manos",
       "tipo": "Puntual",
       "serie": "",
@@ -1972,7 +2009,7 @@
       "no_arranca": false
     },
     {
-      "num": 123,
+      "num": 125,
       "nombre": "WEB_1120_plug_joya_chica_frag_2_2_cerca_vulvas",
       "tipo": "Miniprueba",
       "serie": "",
@@ -1988,7 +2025,7 @@
       "no_arranca": false
     },
     {
-      "num": 124,
+      "num": 126,
       "nombre": "WEB_1120_plug_joya_chica_foto_frag_1_1_chica_foto",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2004,7 +2041,7 @@
       "no_arranca": false
     },
     {
-      "num": 125,
+      "num": 127,
       "nombre": "WEB_1120_plug_joya_chica_frag_1_1_chica_texto",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2020,7 +2057,7 @@
       "no_arranca": false
     },
     {
-      "num": 126,
+      "num": 128,
       "nombre": "WEB_1120_plug_normal_darky_frag_1_1_darky",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2036,7 +2073,7 @@
       "no_arranca": false
     },
     {
-      "num": 127,
+      "num": 129,
       "nombre": "WEB_1120_plug_normal_frag_1_1_sun",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2052,7 +2089,7 @@
       "no_arranca": false
     },
     {
-      "num": 128,
+      "num": 130,
       "nombre": "WEB_1120_clausula6_frag_15_19_notebook_bajo_el_brazo",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2068,7 +2105,7 @@
       "no_arranca": false
     },
     {
-      "num": 129,
+      "num": 131,
       "nombre": "WEB_1120_clausula6_frag_2_5_cara_a_cara_cerca",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2084,7 +2121,7 @@
       "no_arranca": false
     },
     {
-      "num": 132,
+      "num": 134,
       "nombre": "WEB_1120_h3image_cuerpos_darky4",
       "tipo": "Prueba",
       "serie": "",
@@ -2100,7 +2137,7 @@
       "no_arranca": false
     },
     {
-      "num": 133,
+      "num": 135,
       "nombre": "WEB_1120_h3image_cuerpos_darky5",
       "tipo": "Prueba",
       "serie": "",
@@ -2116,7 +2153,7 @@
       "no_arranca": false
     },
     {
-      "num": 134,
+      "num": 136,
       "nombre": "WEB_1120_h3image_cuerpos_darky3",
       "tipo": "Prueba",
       "serie": "",
@@ -2132,7 +2169,7 @@
       "no_arranca": false
     },
     {
-      "num": 135,
+      "num": 137,
       "nombre": "WEB_1119_h3image_cuerpos_darky2",
       "tipo": "Prueba",
       "serie": "",
@@ -2148,7 +2185,7 @@
       "no_arranca": false
     },
     {
-      "num": 136,
+      "num": 138,
       "nombre": "WEB_1119_h3image_cuerpos_darky",
       "tipo": "Prueba",
       "serie": "",
@@ -2164,7 +2201,7 @@
       "no_arranca": false
     },
     {
-      "num": 137,
+      "num": 139,
       "nombre": "WEB_1119_cris_puente_carlos_v3",
       "tipo": "Puntual",
       "serie": "",
@@ -2180,7 +2217,7 @@
       "no_arranca": false
     },
     {
-      "num": 138,
+      "num": 140,
       "nombre": "WEB_1119_cris_puente_carlos_v2",
       "tipo": "Puntual",
       "serie": "",
@@ -2196,7 +2233,7 @@
       "no_arranca": false
     },
     {
-      "num": 139,
+      "num": 141,
       "nombre": "WEB_1119_darky_disco_duena_v3",
       "tipo": "Puntual",
       "serie": "",
@@ -2212,7 +2249,7 @@
       "no_arranca": false
     },
     {
-      "num": 140,
+      "num": 142,
       "nombre": "WEB_1119_h3image",
       "tipo": "Prueba",
       "serie": "",
@@ -2228,7 +2265,7 @@
       "no_arranca": false
     },
     {
-      "num": 141,
+      "num": 143,
       "nombre": "WEB_1119_h3image_nsfw",
       "tipo": "Prueba",
       "serie": "",
@@ -2244,7 +2281,7 @@
       "no_arranca": false
     },
     {
-      "num": 142,
+      "num": 144,
       "nombre": "WEB_1119_h3image_pose",
       "tipo": "Prueba",
       "serie": "",
@@ -2260,7 +2297,7 @@
       "no_arranca": false
     },
     {
-      "num": 143,
+      "num": 145,
       "nombre": "WEB_1119_cris_puente_carlos",
       "tipo": "Puntual",
       "serie": "",
@@ -2276,7 +2313,7 @@
       "no_arranca": false
     },
     {
-      "num": 144,
+      "num": 146,
       "nombre": "WEB_1119_darky_disco_duena_v2",
       "tipo": "Puntual",
       "serie": "",
@@ -2292,7 +2329,7 @@
       "no_arranca": false
     },
     {
-      "num": 145,
+      "num": 147,
       "nombre": "WEB_1119_darky_disco_duena",
       "tipo": "Puntual",
       "serie": "",
@@ -2308,7 +2345,7 @@
       "no_arranca": false
     },
     {
-      "num": 146,
+      "num": 148,
       "nombre": "WEB_1118_ropa_9ref_A",
       "tipo": "Prueba",
       "serie": "",
@@ -2324,7 +2361,7 @@
       "no_arranca": false
     },
     {
-      "num": 147,
+      "num": 149,
       "nombre": "WEB_1118_grandes_darky_A_hoy_v2",
       "tipo": "Prueba",
       "serie": "",
@@ -2340,7 +2377,7 @@
       "no_arranca": false
     },
     {
-      "num": 148,
+      "num": 150,
       "nombre": "WEB_1118_grandes_darky_B_grandes_v2",
       "tipo": "Prueba",
       "serie": "",
@@ -2356,7 +2393,7 @@
       "no_arranca": false
     },
     {
-      "num": 149,
+      "num": 151,
       "nombre": "WEB_1118_grandes_darky_C_solo_cuerpo_v2",
       "tipo": "Prueba",
       "serie": "",
@@ -2372,7 +2409,7 @@
       "no_arranca": false
     },
     {
-      "num": 150,
+      "num": 152,
       "nombre": "ELEGIR_FOTOS_GRANDES_1118_v2",
       "tipo": "Prueba",
       "serie": "",
@@ -2388,7 +2425,7 @@
       "no_arranca": false
     },
     {
-      "num": 151,
+      "num": 153,
       "nombre": "WEB_1118_F1_pantalon_lado",
       "tipo": "Prueba",
       "serie": "",
@@ -2404,7 +2441,7 @@
       "no_arranca": false
     },
     {
-      "num": 152,
+      "num": 154,
       "nombre": "WEB_1118_F1_pantalon_frente",
       "tipo": "Prueba",
       "serie": "",
@@ -2420,7 +2457,7 @@
       "no_arranca": false
     },
     {
-      "num": 153,
+      "num": 155,
       "nombre": "WEB_1118_F1_pantalon_baja",
       "tipo": "Prueba",
       "serie": "",
@@ -2436,7 +2473,7 @@
       "no_arranca": false
     },
     {
-      "num": 154,
+      "num": 156,
       "nombre": "WEB_1118_F2_bj_moon_lado",
       "tipo": "Prueba",
       "serie": "",
@@ -2452,7 +2489,7 @@
       "no_arranca": false
     },
     {
-      "num": 155,
+      "num": 157,
       "nombre": "WEB_1118_F2_bj_moon_cara",
       "tipo": "Prueba",
       "serie": "",
@@ -2468,7 +2505,7 @@
       "no_arranca": false
     },
     {
-      "num": 156,
+      "num": 158,
       "nombre": "WEB_1118_F2_bj_moon_arriba",
       "tipo": "Prueba",
       "serie": "",
@@ -2484,7 +2521,7 @@
       "no_arranca": false
     },
     {
-      "num": 157,
+      "num": 159,
       "nombre": "WEB_1118_P1_pantalon_pov_PL24",
       "tipo": "Prueba",
       "serie": "",
@@ -2500,7 +2537,7 @@
       "no_arranca": false
     },
     {
-      "num": 158,
+      "num": 160,
       "nombre": "WEB_1118_P1_pantalon_pov_PENV2",
       "tipo": "Prueba",
       "serie": "",
@@ -2516,7 +2553,7 @@
       "no_arranca": false
     },
     {
-      "num": 159,
+      "num": 161,
       "nombre": "WEB_1118_P2_bj_pov_alta_HKJ",
       "tipo": "Prueba",
       "serie": "",
@@ -2532,7 +2569,7 @@
       "no_arranca": false
     },
     {
-      "num": 160,
+      "num": 162,
       "nombre": "WEB_1118_P2_bj_pov_alta_BJv3",
       "tipo": "Prueba",
       "serie": "",
@@ -2548,7 +2585,7 @@
       "no_arranca": false
     },
     {
-      "num": 161,
+      "num": 163,
       "nombre": "WEB_1118_P2_bj_pov_alta_DT02",
       "tipo": "Prueba",
       "serie": "",
@@ -2564,24 +2601,8 @@
       "no_arranca": false
     },
     {
-      "num": 162,
+      "num": 164,
       "nombre": "WEB_1118_K_bj_lado_HKJ_palabra",
-      "tipo": "Prueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Completado",
-      "es_activa": false,
-      "es_hecha": true,
-      "es_fallo": false,
-      "es_reintento": false,
-      "no_arranca": false
-    },
-    {
-      "num": 163,
-      "nombre": "WEB_1118_T_punta_FREN",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
