@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-24 21:42:31",
+  "timestamp": "2026-11-24 21:54:01",
   "corriendo": {
     "nombre": "WEB_1124_mago13_p4",
     "hora": "21:05",
-    "eslabon_actual": 7,
+    "eslabon_actual": 8,
     "eslabon_total": 12,
-    "horas_rest": 0.7599999999999999,
+    "horas_rest": 0.6333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 7,
+      "num_esl": 8,
       "tot_esl": 12,
-      "elapsed": 2,
+      "elapsed": 291,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10094,
+    "eslabones_hechos": 10095,
     "eslabones_totales": 10132,
-    "horas_hechas": 1300.9316666666962,
-    "horas_restantes": 4.8133333333333335,
-    "fecha_fin_estimada": "Mié 25/11 02:31"
+    "horas_hechas": 1301.058333333363,
+    "horas_restantes": 4.6866666666666665,
+    "fecha_fin_estimada": "Mié 25/11 02:35"
   },
   "items": [
     {
@@ -2432,9 +2432,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 12,
-      "generados": 6,
+      "generados": 7,
       "horas": 1.5199999999999998,
-      "eta_txt": "Termina: Mar 24/11 22:28",
+      "eta_txt": "Termina: Mar 24/11 22:32",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2451,7 +2451,7 @@
       "n_esl": 19,
       "generados": 0,
       "horas": 2.4066666666666667,
-      "eta_txt": "Termina: Mié 25/11 00:52",
+      "eta_txt": "Termina: Mié 25/11 00:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2468,7 +2468,7 @@
       "n_esl": 13,
       "generados": 0,
       "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Mié 25/11 02:31",
+      "eta_txt": "Termina: Mié 25/11 02:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2485,7 +2485,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 21:42",
+      "eta_txt": "Termina: Mar 24/11 21:54",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
