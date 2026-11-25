@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-24 22:46:23",
+  "timestamp": "2026-11-24 22:56:52",
   "corriendo": {
     "nombre": "WEB_1124_mago13_p5",
     "hora": "22:35",
-    "eslabon_actual": 3,
+    "eslabon_actual": 4,
     "eslabon_total": 19,
-    "horas_rest": 2.1533333333333333,
+    "horas_rest": 2.0266666666666664,
     "suelto": true,
     "clip_info": {
-      "num_esl": 3,
+      "num_esl": 4,
       "tot_esl": 19,
-      "elapsed": 1,
+      "elapsed": 228,
       "paso_num": 1,
-      "paso_str": "Esperando hueco de GPU",
-      "pct": 0.05,
+      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
+      "pct": 0.15,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10102,
+    "eslabones_hechos": 10103,
     "eslabones_totales": 10132,
-    "horas_hechas": 1301.94500000003,
-    "horas_restantes": 3.8,
-    "fecha_fin_estimada": "Mié 25/11 02:34"
+    "horas_hechas": 1302.0716666666965,
+    "horas_restantes": 3.6733333333333333,
+    "fecha_fin_estimada": "Mié 25/11 02:37"
   },
   "items": [
     {
@@ -2432,9 +2432,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 19,
-      "generados": 2,
+      "generados": 3,
       "horas": 2.4066666666666667,
-      "eta_txt": "Termina: Mié 25/11 00:55",
+      "eta_txt": "Termina: Mié 25/11 00:58",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2451,7 +2451,7 @@
       "n_esl": 13,
       "generados": 0,
       "horas": 1.6466666666666667,
-      "eta_txt": "Termina: Mié 25/11 02:34",
+      "eta_txt": "Termina: Mié 25/11 02:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2468,7 +2468,7 @@
       "n_esl": 0,
       "generados": 0,
       "horas": 0.0,
-      "eta_txt": "Termina: Mar 24/11 22:46",
+      "eta_txt": "Termina: Mar 24/11 22:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
