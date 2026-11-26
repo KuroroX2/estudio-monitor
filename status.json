@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-25 23:09:54",
+  "timestamp": "2026-11-25 23:11:11",
   "corriendo": null,
   "global": {
-    "eslabones_hechos": 10218,
+    "eslabones_hechos": 10221,
     "eslabones_totales": 10298,
-    "horas_hechas": 1319.3716666666996,
-    "horas_restantes": 10.133333333333333,
-    "fecha_fin_estimada": "Jue 26/11 09:17"
+    "horas_hechas": 1319.7516666666997,
+    "horas_restantes": 9.753333333333334,
+    "fecha_fin_estimada": "Jue 26/11 08:56"
   },
   "items": [
     {
@@ -2410,23 +2410,6 @@
       "no_arranca": false
     },
     {
-      "num": 3295,
-      "nombre": "WEB_1125_darky_redes3_17_bloqueador",
-      "tipo": "Puntual",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 3,
-      "generados": 0,
-      "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 25/11 23:32",
-      "es_activa": null,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 1
-    },
-    {
       "num": 3296,
       "nombre": "WEB_1125_darky_redes3_20_cordones",
       "tipo": "Puntual",
@@ -2435,13 +2418,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Mié 25/11 23:55",
+      "eta_txt": "Termina: Mié 25/11 23:33",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 2
+      "orden_real": 1
     },
     {
       "num": 3297,
@@ -2452,13 +2435,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 00:18",
+      "eta_txt": "Termina: Mié 25/11 23:56",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 3
+      "orden_real": 2
     },
     {
       "num": 3298,
@@ -2469,13 +2452,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 00:41",
+      "eta_txt": "Termina: Jue 26/11 00:19",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 4
+      "orden_real": 3
     },
     {
       "num": 3299,
@@ -2486,13 +2469,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 01:03",
+      "eta_txt": "Termina: Jue 26/11 00:42",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 5
+      "orden_real": 4
     },
     {
       "num": 3300,
@@ -2503,13 +2486,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 01:26",
+      "eta_txt": "Termina: Jue 26/11 01:05",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 6
+      "orden_real": 5
     },
     {
       "num": 3301,
@@ -2520,13 +2503,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 01:49",
+      "eta_txt": "Termina: Jue 26/11 01:27",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 7
+      "orden_real": 6
     },
     {
       "num": 3302,
@@ -2537,13 +2520,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 02:12",
+      "eta_txt": "Termina: Jue 26/11 01:50",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 3303,
@@ -2554,13 +2537,13 @@
       "n_esl": 7,
       "generados": 0,
       "horas": 0.8866666666666666,
-      "eta_txt": "Termina: Jue 26/11 03:05",
+      "eta_txt": "Termina: Jue 26/11 02:43",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 3304,
@@ -2571,13 +2554,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 03:13",
+      "eta_txt": "Termina: Jue 26/11 02:51",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 3305,
@@ -2588,13 +2571,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 03:20",
+      "eta_txt": "Termina: Jue 26/11 02:59",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 3306,
@@ -2605,13 +2588,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 03:28",
+      "eta_txt": "Termina: Jue 26/11 03:06",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 11
     },
     {
       "num": 3307,
@@ -2622,13 +2605,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 03:35",
+      "eta_txt": "Termina: Jue 26/11 03:14",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 12
     },
     {
       "num": 3308,
@@ -2639,13 +2622,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 03:43",
+      "eta_txt": "Termina: Jue 26/11 03:21",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 3309,
@@ -2656,13 +2639,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 26/11 03:58",
+      "eta_txt": "Termina: Jue 26/11 03:37",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 3310,
@@ -2673,13 +2656,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 04:06",
+      "eta_txt": "Termina: Jue 26/11 03:44",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 3311,
@@ -2690,13 +2673,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 04:13",
+      "eta_txt": "Termina: Jue 26/11 03:52",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 3312,
@@ -2707,13 +2690,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 04:36",
+      "eta_txt": "Termina: Jue 26/11 04:15",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 3313,
@@ -2724,13 +2707,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 04:44",
+      "eta_txt": "Termina: Jue 26/11 04:22",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 3314,
@@ -2741,13 +2724,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 04:51",
+      "eta_txt": "Termina: Jue 26/11 04:30",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 20
+      "orden_real": 19
     },
     {
       "num": 3315,
@@ -2758,13 +2741,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 26/11 05:22",
+      "eta_txt": "Termina: Jue 26/11 05:00",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 21
+      "orden_real": 20
     },
     {
       "num": 3316,
@@ -2775,13 +2758,13 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Jue 26/11 05:37",
+      "eta_txt": "Termina: Jue 26/11 05:15",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 22
+      "orden_real": 21
     },
     {
       "num": 3317,
@@ -2792,13 +2775,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 06:00",
+      "eta_txt": "Termina: Jue 26/11 05:38",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 23
+      "orden_real": 22
     },
     {
       "num": 3318,
@@ -2809,13 +2792,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 06:07",
+      "eta_txt": "Termina: Jue 26/11 05:46",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 24
+      "orden_real": 23
     },
     {
       "num": 3319,
@@ -2826,13 +2809,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 06:15",
+      "eta_txt": "Termina: Jue 26/11 05:53",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 25
+      "orden_real": 24
     },
     {
       "num": 3320,
@@ -2843,13 +2826,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 06:23",
+      "eta_txt": "Termina: Jue 26/11 06:01",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 26
+      "orden_real": 25
     },
     {
       "num": 3321,
@@ -2860,13 +2843,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 26/11 06:53",
+      "eta_txt": "Termina: Jue 26/11 06:31",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 27
+      "orden_real": 26
     },
     {
       "num": 3322,
@@ -2877,13 +2860,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 07:16",
+      "eta_txt": "Termina: Jue 26/11 06:54",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 28
+      "orden_real": 27
     },
     {
       "num": 3323,
@@ -2894,13 +2877,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 07:39",
+      "eta_txt": "Termina: Jue 26/11 07:17",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 29
+      "orden_real": 28
     },
     {
       "num": 3324,
@@ -2911,13 +2894,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 26/11 08:09",
+      "eta_txt": "Termina: Jue 26/11 07:47",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 30
+      "orden_real": 29
     },
     {
       "num": 3325,
@@ -2928,13 +2911,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Jue 26/11 08:39",
+      "eta_txt": "Termina: Jue 26/11 08:18",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 31
+      "orden_real": 30
     },
     {
       "num": 3326,
@@ -2945,13 +2928,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Jue 26/11 09:02",
+      "eta_txt": "Termina: Jue 26/11 08:41",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 32
+      "orden_real": 31
     },
     {
       "num": 3330,
@@ -2962,13 +2945,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 09:10",
+      "eta_txt": "Termina: Jue 26/11 08:48",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 33
+      "orden_real": 32
     },
     {
       "num": 3331,
@@ -2979,13 +2962,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Jue 26/11 09:17",
+      "eta_txt": "Termina: Jue 26/11 08:56",
       "es_activa": null,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 34
+      "orden_real": 33
     }
   ],
   "espera": [],
