@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-26 11:21:46",
+  "timestamp": "2026-11-26 11:29:13",
   "corriendo": {
     "nombre": "WEB_1126_darky_reencuentro",
     "hora": "11:21",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 20,
-    "horas_rest": 2.533333333333333,
+    "horas_rest": 2.4066666666666667,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 20,
-      "elapsed": 33,
+      "elapsed": 2,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10291,
+    "eslabones_hechos": 10292,
     "eslabones_totales": 10441,
-    "horas_hechas": 1330.1183333333684,
-    "horas_restantes": 19.0,
+    "horas_hechas": 1330.2450000000351,
+    "horas_restantes": 18.873333333333335,
     "fecha_fin_estimada": "Vie 27/11 06:21"
   },
   "items": [
@@ -2432,7 +2432,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 20,
-      "generados": 0,
+      "generados": 1,
       "horas": 2.533333333333333,
       "eta_txt": "Termina: Jue 26/11 13:53",
       "es_activa": true,
