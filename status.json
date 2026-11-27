@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-27 19:23:38",
+  "timestamp": "2026-11-27 19:33:46",
   "corriendo": {
     "nombre": "WEB_1125_aeropuerto8_gemidos_frag_40_42_mas_gemidos",
     "hora": "19:02",
     "eslabon_actual": 3,
     "eslabon_total": 3,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 3,
       "tot_esl": 3,
-      "elapsed": 111,
-      "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15,
+      "elapsed": 16,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10457,
+    "eslabones_hechos": 10458,
     "eslabones_totales": 10475,
-    "horas_hechas": 1351.1450000000375,
-    "horas_restantes": 2.28,
-    "fecha_fin_estimada": "Vie 27/11 21:40"
+    "horas_hechas": 1351.2716666667043,
+    "horas_restantes": 2.1533333333333333,
+    "fecha_fin_estimada": "Vie 27/11 21:42"
   },
   "items": [
     {
@@ -2434,7 +2434,7 @@
       "n_esl": 15,
       "generados": 0,
       "horas": 1.9,
-      "eta_txt": "Termina: Vie 27/11 21:17",
+      "eta_txt": "Termina: Vie 27/11 21:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2449,9 +2449,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 3,
-      "generados": 2,
+      "generados": 3,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Vie 27/11 21:25",
+      "eta_txt": "Termina: Vie 27/11 21:27",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2468,7 +2468,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 27/11 21:32",
+      "eta_txt": "Termina: Vie 27/11 21:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2485,7 +2485,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 27/11 21:40",
+      "eta_txt": "Termina: Vie 27/11 21:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
