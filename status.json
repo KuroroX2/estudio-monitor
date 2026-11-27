@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-27 19:37:51",
+  "timestamp": "2026-11-27 19:46:41",
   "corriendo": {
     "nombre": "WEB_1125_genio_hkj_frag_11_11_hkj",
-    "hora": "19:37",
+    "hora": "19:36",
     "eslabon_actual": 1,
     "eslabon_total": 1,
-    "horas_rest": 0.12666666666666665,
-    "suelto": true,
+    "horas_rest": 0.0,
+    "suelto": false,
     "clip_info": {
       "num_esl": 1,
       "tot_esl": 1,
-      "elapsed": 35,
-      "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "elapsed": 25,
+      "paso_num": 6,
+      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
+      "pct": 1.0,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10458,
+    "eslabones_hechos": 10459,
     "eslabones_totales": 10475,
-    "horas_hechas": 1351.2716666667043,
-    "horas_restantes": 2.1533333333333333,
-    "fecha_fin_estimada": "Vie 27/11 21:47"
+    "horas_hechas": 1351.398333333371,
+    "horas_restantes": 2.026666666666667,
+    "fecha_fin_estimada": "Vie 27/11 21:48"
   },
   "items": [
     {
@@ -2434,7 +2434,7 @@
       "n_esl": 15,
       "generados": 0,
       "horas": 1.9,
-      "eta_txt": "Termina: Vie 27/11 21:31",
+      "eta_txt": "Termina: Vie 27/11 21:40",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2449,9 +2449,9 @@
       "serie": "",
       "episodio": null,
       "n_esl": 1,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 27/11 21:39",
+      "eta_txt": "Termina: Vie 27/11 21:40",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2468,7 +2468,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Vie 27/11 21:47",
+      "eta_txt": "Termina: Vie 27/11 21:48",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
