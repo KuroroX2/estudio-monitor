@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-28 01:29:10",
+  "timestamp": "2026-11-28 01:36:40",
   "corriendo": {
     "nombre": "WEB_1126_jin_darky_psiquico",
     "hora": "00:08",
-    "eslabon_actual": 10,
+    "eslabon_actual": 11,
     "eslabon_total": 15,
-    "horas_rest": 0.7599999999999999,
+    "horas_rest": 0.6333333333333333,
     "suelto": true,
     "clip_info": {
-      "num_esl": 10,
+      "num_esl": 11,
       "tot_esl": 15,
-      "elapsed": 97,
+      "elapsed": 8,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10469,
+    "eslabones_hechos": 10470,
     "eslabones_totales": 10529,
-    "horas_hechas": 1352.665000000038,
-    "horas_restantes": 7.85,
+    "horas_hechas": 1352.7916666667045,
+    "horas_restantes": 7.723333333333334,
     "fecha_fin_estimada": "Sáb 28/11 09:20"
   },
   "items": [
@@ -2432,7 +2432,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 15,
-      "generados": 9,
+      "generados": 10,
       "horas": 1.9,
       "eta_txt": "Termina: Sáb 28/11 02:14",
       "es_activa": true,
