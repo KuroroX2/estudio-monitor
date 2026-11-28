@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-28 09:28:59",
+  "timestamp": "2026-11-28 09:39:14",
   "corriendo": {
-    "nombre": "WEB_1128_darky_peinados",
-    "hora": "09:18",
+    "nombre": "WEB_1128_guardarropa_prueba6",
+    "hora": "09:37",
     "eslabon_actual": 0,
     "eslabon_total": null,
-    "horas_rest": 0.23273421083333334,
+    "horas_rest": 0.16179447194444443,
     "suelto": false,
     "clip_info": {
       "num_esl": null,
       "tot_esl": null,
-      "elapsed": 60,
+      "elapsed": 35,
       "paso_num": 1,
-      "paso_str": "Generando (ComfyUI aun no reporta el paso)",
-      "pct": 0.15,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1,
       "trozos": null
     }
   },
   "global": {
     "eslabones_hechos": 10516,
     "eslabones_totales": 10551,
-    "horas_hechas": 1358.8683333333724,
-    "horas_restantes": 4.666067544166666,
-    "fecha_fin_estimada": "Sáb 28/11 14:08"
+    "horas_hechas": 1359.2850000000392,
+    "horas_restantes": 4.5951278052777775,
+    "fecha_fin_estimada": "Sáb 28/11 14:14"
   },
   "items": [
     {
@@ -2426,15 +2426,15 @@
       "no_arranca": false
     },
     {
-      "num": 3377,
-      "nombre": "WEB_1128_darky_peinados",
+      "num": 3378,
+      "nombre": "WEB_1128_guardarropa_prueba6",
       "tipo": "Prueba",
       "serie": "",
       "episodio": null,
       "n_esl": 0,
       "generados": 0,
-      "horas": 0.4166666666666667,
-      "eta_txt": "Termina: Sáb 28/11 09:42",
+      "horas": 0.2,
+      "eta_txt": "Termina: Sáb 28/11 09:48",
       "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
@@ -2443,7 +2443,7 @@
       "orden_real": 1
     },
     {
-      "num": 3378,
+      "num": 3379,
       "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_amateur_pov_boobphysics",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2451,7 +2451,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 09:50",
+      "eta_txt": "Termina: Sáb 28/11 09:56",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2460,7 +2460,7 @@
       "orden_real": 2
     },
     {
-      "num": 3379,
+      "num": 3380,
       "nombre": "WEB_1128_hipnosis4_show_hkj_frag_22_25_hkj",
       "tipo": "Puntual",
       "serie": "",
@@ -2468,7 +2468,7 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Sáb 28/11 10:20",
+      "eta_txt": "Termina: Sáb 28/11 10:26",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2477,7 +2477,7 @@
       "orden_real": 3
     },
     {
-      "num": 3380,
+      "num": 3381,
       "nombre": "WEB_1128_despertar_bulto_al_derecho_frag_1_1_bulto_al_derecho",
       "tipo": "Puntual",
       "serie": "",
@@ -2485,7 +2485,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 10:28",
+      "eta_txt": "Termina: Sáb 28/11 10:34",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2494,7 +2494,7 @@
       "orden_real": 4
     },
     {
-      "num": 3381,
+      "num": 3382,
       "nombre": "WEB_1128_servicio_pov_en_la_cama_frag_1_1_en_la_cama",
       "tipo": "Puntual",
       "serie": "",
@@ -2502,7 +2502,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 10:36",
+      "eta_txt": "Termina: Sáb 28/11 10:42",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2511,7 +2511,7 @@
       "orden_real": 5
     },
     {
-      "num": 3382,
+      "num": 3383,
       "nombre": "WEB_1128_pillada_gira_y_cierra_frag_2_3_gira_y_cierra",
       "tipo": "Puntual",
       "serie": "",
@@ -2519,7 +2519,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Sáb 28/11 10:51",
+      "eta_txt": "Termina: Sáb 28/11 10:57",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2528,7 +2528,7 @@
       "orden_real": 6
     },
     {
-      "num": 3383,
+      "num": 3384,
       "nombre": "WEB_1128_rockstar_sin_primer_plano_frag_2_2_sin_primer_plano",
       "tipo": "Pelicula",
       "serie": "",
@@ -2536,7 +2536,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 10:58",
+      "eta_txt": "Termina: Sáb 28/11 11:04",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2545,7 +2545,7 @@
       "orden_real": 7
     },
     {
-      "num": 3384,
+      "num": 3385,
       "nombre": "WEB_1128_secretaria_un_hombre_frag_2_2_un_hombre",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2553,7 +2553,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 11:06",
+      "eta_txt": "Termina: Sáb 28/11 11:12",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2562,7 +2562,7 @@
       "orden_real": 8
     },
     {
-      "num": 3385,
+      "num": 3386,
       "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_mpov",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2570,7 +2570,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 11:14",
+      "eta_txt": "Termina: Sáb 28/11 11:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2579,7 +2579,7 @@
       "orden_real": 9
     },
     {
-      "num": 3386,
+      "num": 3387,
       "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_cowgirl_position",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2587,7 +2587,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 11:21",
+      "eta_txt": "Termina: Sáb 28/11 11:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2596,7 +2596,7 @@
       "orden_real": 10
     },
     {
-      "num": 3387,
+      "num": 3388,
       "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_amateur_pov",
       "tipo": "Miniprueba",
       "serie": "",
@@ -2604,7 +2604,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 11:29",
+      "eta_txt": "Termina: Sáb 28/11 11:35",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2613,7 +2613,7 @@
       "orden_real": 11
     },
     {
-      "num": 3394,
+      "num": 3395,
       "nombre": "WEB_1125_darky_redes3_13_sale_piscina_b",
       "tipo": "Puntual",
       "serie": "",
@@ -2621,7 +2621,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 11:52",
+      "eta_txt": "Termina: Sáb 28/11 11:58",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2630,7 +2630,7 @@
       "orden_real": 12
     },
     {
-      "num": 3395,
+      "num": 3396,
       "nombre": "WEB_1125_darky_redes3_26_lluvia_b",
       "tipo": "Puntual",
       "serie": "",
@@ -2638,7 +2638,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 12:14",
+      "eta_txt": "Termina: Sáb 28/11 12:20",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2647,7 +2647,7 @@
       "orden_real": 13
     },
     {
-      "num": 3396,
+      "num": 3397,
       "nombre": "WEB_1125_darky_redes3_22_bici_b",
       "tipo": "Puntual",
       "serie": "",
@@ -2655,7 +2655,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 12:37",
+      "eta_txt": "Termina: Sáb 28/11 12:43",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2664,7 +2664,7 @@
       "orden_real": 14
     },
     {
-      "num": 3397,
+      "num": 3398,
       "nombre": "WEB_1125_darky_redes3_17_bloqueador_b_c",
       "tipo": "Puntual",
       "serie": "",
@@ -2672,7 +2672,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 13:00",
+      "eta_txt": "Termina: Sáb 28/11 13:06",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2681,7 +2681,7 @@
       "orden_real": 15
     },
     {
-      "num": 3398,
+      "num": 3399,
       "nombre": "WEB_1125_darky_redes3_20_cordones_b_c",
       "tipo": "Puntual",
       "serie": "",
@@ -2689,7 +2689,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 13:23",
+      "eta_txt": "Termina: Sáb 28/11 13:29",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2698,7 +2698,7 @@
       "orden_real": 16
     },
     {
-      "num": 3399,
+      "num": 3400,
       "nombre": "WEB_1125_darky_redes3_21_columpio_b_c",
       "tipo": "Puntual",
       "serie": "",
@@ -2706,7 +2706,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 13:46",
+      "eta_txt": "Termina: Sáb 28/11 13:52",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2715,7 +2715,7 @@
       "orden_real": 17
     },
     {
-      "num": 3400,
+      "num": 3401,
       "nombre": "WEB_1125_darky_redes3_05_playa_corre_b_c",
       "tipo": "Puntual",
       "serie": "",
@@ -2723,7 +2723,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 14:08",
+      "eta_txt": "Termina: Sáb 28/11 14:14",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
