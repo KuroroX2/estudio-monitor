@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-28 09:56:40",
+  "timestamp": "2026-11-28 09:57:54",
   "corriendo": {
-    "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_amateur_pov_boobphysics",
-    "hora": "09:47",
-    "eslabon_actual": 1,
-    "eslabon_total": 1,
-    "horas_rest": 0.0,
+    "nombre": "WEB_1128_guardarropa_extraer_darky",
+    "hora": "09:57",
+    "eslabon_actual": 0,
+    "eslabon_total": null,
+    "horas_rest": 0.15076114333333335,
     "suelto": false,
     "clip_info": {
-      "num_esl": 1,
-      "tot_esl": 1,
-      "elapsed": 20,
-      "paso_num": 6,
-      "paso_str": "Interpolando a 120 fps (CPU, no GPU)",
-      "pct": 1.0,
+      "num_esl": null,
+      "tot_esl": null,
+      "elapsed": 27,
+      "paso_num": 1,
+      "paso_str": "Cargando modelos en VRAM (~40s)",
+      "pct": 0.1,
       "trozos": null
     }
   },
@@ -21,7 +21,7 @@
     "eslabones_hechos": 10517,
     "eslabones_totales": 10576,
     "horas_hechas": 1359.7450000000395,
-    "horas_restantes": 11.023333333333333,
+    "horas_restantes": 11.00742781,
     "fecha_fin_estimada": "Sáb 28/11 20:58"
   },
   "items": [
@@ -2426,23 +2426,6 @@
       "no_arranca": false
     },
     {
-      "num": 3380,
-      "nombre": "WEB_1120_fembot7_frag_53_53_vaquera2_amateur_pov_boobphysics",
-      "tipo": "Miniprueba",
-      "serie": "",
-      "episodio": null,
-      "n_esl": 1,
-      "generados": 1,
-      "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 13:29",
-      "es_activa": true,
-      "es_hecha": false,
-      "es_fallo": false,
-      "es_reintento": null,
-      "no_arranca": false,
-      "orden_real": 7
-    },
-    {
       "num": 3381,
       "nombre": "WEB_1128_mall8_fila2_frag_8_10_primer_plano_boca",
       "tipo": "Miniprueba",
@@ -2457,7 +2440,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 8
+      "orden_real": 7
     },
     {
       "num": 3382,
@@ -2468,13 +2451,13 @@
       "n_esl": 4,
       "generados": 0,
       "horas": 0.5066666666666666,
-      "eta_txt": "Termina: Sáb 28/11 14:22",
+      "eta_txt": "Termina: Sáb 28/11 14:23",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 9
+      "orden_real": 8
     },
     {
       "num": 3383,
@@ -2491,7 +2474,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 10
+      "orden_real": 9
     },
     {
       "num": 3384,
@@ -2508,7 +2491,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 11
+      "orden_real": 10
     },
     {
       "num": 3385,
@@ -2525,7 +2508,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 12
+      "orden_real": 11
     },
     {
       "num": 3386,
@@ -2542,7 +2525,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 13
+      "orden_real": 12
     },
     {
       "num": 3387,
@@ -2554,7 +2537,7 @@
       "generados": 0,
       "horas": 0.16666666666666666,
       "eta_txt": "Termina: Sáb 28/11 10:06",
-      "es_activa": false,
+      "es_activa": true,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
@@ -2661,7 +2644,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 14
+      "orden_real": 13
     },
     {
       "num": 3394,
@@ -2678,7 +2661,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 15
+      "orden_real": 14
     },
     {
       "num": 3395,
@@ -2695,7 +2678,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 16
+      "orden_real": 15
     },
     {
       "num": 3396,
@@ -2712,7 +2695,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 17
+      "orden_real": 16
     },
     {
       "num": 3397,
@@ -2729,7 +2712,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 18
+      "orden_real": 17
     },
     {
       "num": 3398,
@@ -2746,7 +2729,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 19
+      "orden_real": 18
     },
     {
       "num": 3399,
@@ -2763,7 +2746,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 20
+      "orden_real": 19
     },
     {
       "num": 3400,
@@ -2774,13 +2757,13 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 18:10",
+      "eta_txt": "Termina: Sáb 28/11 18:11",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 21
+      "orden_real": 20
     },
     {
       "num": 3401,
@@ -2797,7 +2780,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 22
+      "orden_real": 21
     },
     {
       "num": 3408,
@@ -2814,7 +2797,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 23
+      "orden_real": 22
     },
     {
       "num": 3409,
@@ -2831,7 +2814,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 24
+      "orden_real": 23
     },
     {
       "num": 3410,
@@ -2842,13 +2825,13 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 19:26",
+      "eta_txt": "Termina: Sáb 28/11 19:27",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 25
+      "orden_real": 24
     },
     {
       "num": 3411,
@@ -2865,7 +2848,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 26
+      "orden_real": 25
     },
     {
       "num": 3412,
@@ -2882,7 +2865,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 27
+      "orden_real": 26
     },
     {
       "num": 3413,
@@ -2899,7 +2882,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 28
+      "orden_real": 27
     },
     {
       "num": 3414,
@@ -2916,7 +2899,7 @@
       "es_fallo": false,
       "es_reintento": null,
       "no_arranca": false,
-      "orden_real": 29
+      "orden_real": 28
     }
   ],
   "espera": [],
