@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-28 06:05:41",
+  "timestamp": "2026-11-28 06:13:32",
   "corriendo": {
     "nombre": "WEB_1128_app_puntos4_ella_lee_frag_10_13_ella_lee",
     "hora": "06:05",
-    "eslabon_actual": 1,
+    "eslabon_actual": 2,
     "eslabon_total": 4,
-    "horas_rest": 0.5066666666666666,
+    "horas_rest": 0.37999999999999995,
     "suelto": true,
     "clip_info": {
-      "num_esl": 1,
+      "num_esl": 2,
       "tot_esl": 4,
-      "elapsed": 5,
+      "elapsed": 0,
       "paso_num": 1,
-      "paso_str": "Cargando modelos en VRAM (~40s)",
-      "pct": 0.1,
+      "paso_str": "Esperando hueco de GPU",
+      "pct": 0.05,
       "trozos": null
     }
   },
   "global": {
-    "eslabones_hechos": 10497,
+    "eslabones_hechos": 10498,
     "eslabones_totales": 10529,
-    "horas_hechas": 1356.4616666667055,
-    "horas_restantes": 4.053333333333334,
-    "fecha_fin_estimada": "Sáb 28/11 10:08"
+    "horas_hechas": 1356.5883333333722,
+    "horas_restantes": 3.9266666666666667,
+    "fecha_fin_estimada": "Sáb 28/11 10:09"
   },
   "items": [
     {
@@ -2432,7 +2432,7 @@
       "serie": "",
       "episodio": null,
       "n_esl": 4,
-      "generados": 0,
+      "generados": 1,
       "horas": 0.5066666666666666,
       "eta_txt": "Termina: Sáb 28/11 06:36",
       "es_activa": true,
@@ -2485,7 +2485,7 @@
       "n_esl": 3,
       "generados": 0,
       "horas": 0.37999999999999995,
-      "eta_txt": "Termina: Sáb 28/11 07:36",
+      "eta_txt": "Termina: Sáb 28/11 07:37",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2587,7 +2587,7 @@
       "n_esl": 2,
       "generados": 0,
       "horas": 0.2533333333333333,
-      "eta_txt": "Termina: Sáb 28/11 09:30",
+      "eta_txt": "Termina: Sáb 28/11 09:31",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
@@ -2672,7 +2672,7 @@
       "n_esl": 1,
       "generados": 0,
       "horas": 0.12666666666666665,
-      "eta_txt": "Termina: Sáb 28/11 10:08",
+      "eta_txt": "Termina: Sáb 28/11 10:09",
       "es_activa": false,
       "es_hecha": false,
       "es_fallo": false,
